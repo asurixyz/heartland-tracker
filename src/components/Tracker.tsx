@@ -1,23 +1,28 @@
 "use client";
 
 import { filterEntities, getVerifiedEntities } from "@/lib/data";
-import { YEAR_MAX, YEAR_MIN } from "@/lib/constants";
 import type { Entity, Filters, LiveBundle } from "@/lib/types";
+import {
+  DEFAULT_FILTERS,
+  filtersFromSearch,
+  readSelectedId,
+  searchFromFilters,
+} from "@/lib/url-state";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { DetailDrawer } from "./DetailDrawer";
 import { FeedPanel } from "./FeedPanel";
 import { FiltersPanel } from "./FiltersPanel";
 import { HeartlandMap } from "./HeartlandMap";
 
-const DEFAULT_FILTERS: Filters = {
-  actors: [],
-  categories: [],
-  layers: [],
-  countries: [],
-  query: "",
-  yearFrom: YEAR_MIN,
-  yearTo: YEAR_MAX,
-};
+function initialFilters(): Filters {
+  if (typeof window === "undefined") return DEFAULT_FILTERS;
+  return filtersFromSearch(new URLSearchParams(window.location.search));
+}
+
+function initialSelected(): string | null {
+  if (typeof window === "undefined") return null;
+  return readSelectedId(new URLSearchParams(window.location.search));
+}
 
 export function Tracker() {
   const verified = useMemo(() => getVerifiedEntities(), []);
@@ -26,6 +31,20 @@ export function Tracker() {
   const [refreshing, setRefreshing] = useState(false);
   const [filters, setFilters] = useState<Filters>(DEFAULT_FILTERS);
   const [selectedId, setSelectedId] = useState<string | null>(null);
+  const [hydrated, setHydrated] = useState(false);
+
+  useEffect(() => {
+    setFilters(initialFilters());
+    setSelectedId(initialSelected());
+    setHydrated(true);
+  }, []);
+
+  useEffect(() => {
+    if (!hydrated) return;
+    const next = searchFromFilters(filters, selectedId);
+    const url = `${window.location.pathname}${next}`;
+    window.history.replaceState(null, "", url);
+  }, [filters, selectedId, hydrated]);
 
   const pullLive = useCallback(async () => {
     setRefreshing(true);
@@ -72,7 +91,6 @@ export function Tracker() {
 
   const filtered = useMemo(() => {
     const list = filterEntities(all, filters);
-    // Reported pulse first, then verified ledger by recency
     return [...list].sort((a, b) => {
       if (a.layer !== b.layer) return a.layer === "reported" ? -1 : 1;
       const conf = (b.confidence ?? 0) - (a.confidence ?? 0);
@@ -81,7 +99,8 @@ export function Tracker() {
     });
   }, [all, filters]);
 
-  const selected = filtered.find((e) => e.id === selectedId) ?? all.find((e) => e.id === selectedId) ?? null;
+  const selected =
+    filtered.find((e) => e.id === selectedId) ?? all.find((e) => e.id === selectedId) ?? null;
 
   const counts = useMemo(
     () => ({
@@ -94,15 +113,14 @@ export function Tracker() {
 
   return (
     <div className="shell">
-      <HeartlandMap
-        entities={filtered}
-        selectedId={selectedId}
-        onSelect={setSelectedId}
-      />
+      <HeartlandMap entities={filtered} selectedId={selectedId} onSelect={setSelectedId} />
       <FiltersPanel
         filters={filters}
         onChange={setFilters}
-        onReset={() => setFilters(DEFAULT_FILTERS)}
+        onReset={() => {
+          setFilters(DEFAULT_FILTERS);
+          setSelectedId(null);
+        }}
         counts={counts}
       />
       <FeedPanel
@@ -117,7 +135,7 @@ export function Tracker() {
       <div className="map-legend">
         <span className="dot verified" /> Verified
         <span className="dot reported" /> Reported
-        <span className="hint">Core five lit · neighbors in shadow · Esc closes</span>
+        <span className="hint">Shareable filters in URL · Esc closes</span>
       </div>
     </div>
   );

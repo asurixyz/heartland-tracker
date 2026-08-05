@@ -15,3 +15,9 @@ Autopilot loop notes. Agents: `heartland-improver`, `heartland-data-trust`, `hea
 - **Data:** +18 verified historical entities (TM gas, UZ auto/textile FDI, KZ uranium/rail/port, RU media soft power, EU water/CADAP/Global Gateway, US GE Healthcare KZ).
 - **Live:** host-country = earliest country mention in headline; feed shows reported match %.
 - **Prod check (cycle 1):** live feed now surfaces Russia/China/Türkiye/India–CA stories instead of UNICEF bureau noise.
+
+## 2026-08-06 — Cycle 3 (shareable state)
+
+- Filters + selected entity sync to URL query (`actors`, `cats`, `layers`, `countries`, `q`, `from`, `to`, `id`).
+- Reset clears selection + URL.
+- Stopping autopilot after 3 cycles; re-invoke `heartland-improver` anytime for more.
