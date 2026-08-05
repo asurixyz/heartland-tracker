@@ -1,17 +1,17 @@
 import type { Metadata } from "next";
-import { Fraunces, IBM_Plex_Mono, Source_Sans_3 } from "next/font/google";
+import { IBM_Plex_Mono, Playfair_Display, Spectral } from "next/font/google";
 import "./globals.css";
 
-const display = Fraunces({
+const display = Playfair_Display({
   subsets: ["latin"],
   variable: "--font-display",
-  weight: ["400", "500", "600"],
+  weight: ["500", "600", "700"],
 });
 
-const body = Source_Sans_3({
+const body = Spectral({
   subsets: ["latin"],
   variable: "--font-body",
-  weight: ["400", "500", "600"],
+  weight: ["300", "400", "500", "600"],
 });
 
 const mono = IBM_Plex_Mono({

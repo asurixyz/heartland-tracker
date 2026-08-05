@@ -20,4 +20,8 @@ Autopilot loop notes. Agents: `heartland-improver`, `heartland-data-trust`, `hea
 
 - Filters + selected entity sync to URL query (`actors`, `cats`, `layers`, `countries`, `q`, `from`, `to`, `id`).
 - Reset clears selection + URL.
-- Stopping autopilot after 3 cycles; re-invoke `heartland-improver` anytime for more.
+
+## 2026-08-06 — Cycle 4 (typography + map hardening)
+
+- **Fonts:** Playfair Display (display) + Spectral (body) + IBM Plex Mono (intel metadata) replacing Fraunces/Source Sans 3.
+- **Map:** WebGL init guarded with in-app error panel; own country overlays render below basemap labels; dedicated `.map-canvas` mount node.

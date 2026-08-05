@@ -4,7 +4,7 @@ import { ACTOR_COLOR, MAP_CENTER, MAP_ZOOM } from "@/lib/constants";
 import type { Entity } from "@/lib/types";
 import * as maplibregl from "maplibre-gl";
 import type { GeoJSONSource, Map as MapLibreMap } from "maplibre-gl";
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import "maplibre-gl/dist/maplibre-gl.css";
 
 type Props = {
@@ -42,20 +42,32 @@ export function HeartlandMap({ entities, selectedId, onSelect }: Props) {
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<MapLibreMap | null>(null);
   const selectedRef = useRef(selectedId);
+  const [mapError, setMapError] = useState<string | null>(null);
   selectedRef.current = selectedId;
 
   useEffect(() => {
     if (!containerRef.current || mapRef.current) return;
 
-    const map = new maplibregl.Map({
-      container: containerRef.current,
-      style: "https://tiles.openfreemap.org/styles/dark",
-      center: MAP_CENTER,
-      zoom: MAP_ZOOM,
-      attributionControl: { compact: true },
-    });
+    let map: MapLibreMap;
+    try {
+      map = new maplibregl.Map({
+        container: containerRef.current,
+        style: "https://tiles.openfreemap.org/styles/dark",
+        center: MAP_CENTER,
+        zoom: MAP_ZOOM,
+        attributionControl: { compact: true },
+      });
+    } catch (err) {
+      setMapError(err instanceof Error ? err.message : "Map failed to initialize");
+      return;
+    }
     map.addControl(new maplibregl.NavigationControl({ showCompass: false }), "bottom-right");
     mapRef.current = map;
+
+    map.on("error", (e) => {
+      const msg = (e as { error?: Error }).error?.message;
+      if (msg) console.error("MapLibre:", msg);
+    });
 
     map.on("load", () => {
       map.addSource("countries", {
@@ -63,51 +75,67 @@ export function HeartlandMap({ entities, selectedId, onSelect }: Props) {
         data: "/geo/heartland.geojson",
       });
 
-      map.addLayer({
-        id: "shadow-fill",
-        type: "fill",
-        source: "countries",
-        filter: ["==", ["get", "role"], "shadow"],
-        paint: {
-          "fill-color": "#1a2228",
-          "fill-opacity": 0.35,
-        },
-      });
+      // Locate first symbol layer in the basemap so our fills sit below labels
+      const layers = map.getStyle().layers ?? [];
+      const firstSymbol = layers.find((l) => l.type === "symbol")?.id;
 
-      map.addLayer({
-        id: "core-fill",
-        type: "fill",
-        source: "countries",
-        filter: ["==", ["get", "role"], "core"],
-        paint: {
-          "fill-color": "#243038",
-          "fill-opacity": 0.55,
+      map.addLayer(
+        {
+          id: "shadow-fill",
+          type: "fill",
+          source: "countries",
+          filter: ["==", ["get", "role"], "shadow"],
+          paint: {
+            "fill-color": "#151d23",
+            "fill-opacity": 0.4,
+          },
         },
-      });
+        firstSymbol,
+      );
 
-      map.addLayer({
-        id: "shadow-line",
-        type: "line",
-        source: "countries",
-        filter: ["==", ["get", "role"], "shadow"],
-        paint: {
-          "line-color": "#3a4650",
-          "line-width": 0.6,
-          "line-opacity": 0.5,
+      map.addLayer(
+        {
+          id: "core-fill",
+          type: "fill",
+          source: "countries",
+          filter: ["==", ["get", "role"], "core"],
+          paint: {
+            "fill-color": "#23303a",
+            "fill-opacity": 0.55,
+          },
         },
-      });
+        firstSymbol,
+      );
 
-      map.addLayer({
-        id: "core-line",
-        type: "line",
-        source: "countries",
-        filter: ["==", ["get", "role"], "core"],
-        paint: {
-          "line-color": "#c9a66b",
-          "line-width": 1.2,
-          "line-opacity": 0.85,
+      map.addLayer(
+        {
+          id: "shadow-line",
+          type: "line",
+          source: "countries",
+          filter: ["==", ["get", "role"], "shadow"],
+          paint: {
+            "line-color": "#37424c",
+            "line-width": 0.6,
+            "line-opacity": 0.55,
+          },
         },
-      });
+        firstSymbol,
+      );
+
+      map.addLayer(
+        {
+          id: "core-line",
+          type: "line",
+          source: "countries",
+          filter: ["==", ["get", "role"], "core"],
+          paint: {
+            "line-color": "#c9a66b",
+            "line-width": 1.15,
+            "line-opacity": 0.85,
+          },
+        },
+        firstSymbol,
+      );
 
       map.addLayer({
         id: "core-label",
@@ -125,7 +153,7 @@ export function HeartlandMap({ entities, selectedId, onSelect }: Props) {
           "text-color": "#d8c6a2",
           "text-halo-color": "#0b0f12",
           "text-halo-width": 1.2,
-          "text-opacity": 0.85,
+          "text-opacity": 0.9,
         },
       });
 
@@ -146,8 +174,8 @@ export function HeartlandMap({ entities, selectedId, onSelect }: Props) {
             7,
           ],
           "circle-color": ["get", "color"],
-          "circle-opacity": 0.18,
-          "circle-blur": 0.6,
+          "circle-opacity": 0.16,
+          "circle-blur": 0.7,
         },
       });
 
@@ -233,5 +261,15 @@ export function HeartlandMap({ entities, selectedId, onSelect }: Props) {
     }
   }, [selectedId, entities]);
 
-  return <div ref={containerRef} className="map-root" />;
+  return (
+    <div className="map-root">
+      <div ref={containerRef} className="map-canvas" />
+      {mapError && (
+        <div className="map-error">
+          Map couldn’t initialize{mapError ? `: ${mapError}` : ""}. Verified ledger and feed still
+          work.
+        </div>
+      )}
+    </div>
+  );
 }
