@@ -42,6 +42,9 @@ export function FeedPanel({
               <div className="feed-meta">
                 <span className={`layer-pill ${e.layer}`}>{LAYER_LABEL[e.layer]}</span>
                 <span className="cat">{CATEGORY_LABEL[e.category]}</span>
+                {e.layer === "reported" && (
+                  <span className="conf">{Math.round(e.confidence * 100)}% match</span>
+                )}
               </div>
               <strong>{e.title}</strong>
               <div className="feed-actors">

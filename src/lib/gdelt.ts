@@ -92,10 +92,14 @@ function detectCategory(text: string): Category {
 
 function detectHost(text: string): Entity["host_country"] {
   const t = text.toLowerCase();
+  // Prefer earliest mention in the headline (avoids "UZ imports from TM" → Turkmenistan)
+  let best: { host: Entity["host_country"]; idx: number } | null = null;
   for (const [key, val] of Object.entries(COUNTRY_COORDS)) {
-    if (t.includes(key)) return val.host;
+    const idx = t.indexOf(key);
+    if (idx === -1) continue;
+    if (!best || idx < best.idx) best = { host: val.host, idx };
   }
-  return "Regional";
+  return best?.host ?? "Regional";
 }
 
 function coordsFor(host: Entity["host_country"]): { lat: number; lng: number } {

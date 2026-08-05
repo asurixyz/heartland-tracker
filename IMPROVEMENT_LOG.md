@@ -9,3 +9,9 @@ Autopilot loop notes. Agents: `heartland-improver`, `heartland-data-trust`, `hea
 - **UX:** Esc closes drawer; Reset filters; feed sorts reported pulse first; core-country map labels.
 - **Subagents created:** `.cursor/agents/*` + user `live-site-autopilot`.
 - **Verify after ship:** `https://heartland-tracker.vercel.app/api/live` should show fewer off-topic headlines.
+
+## 2026-08-06 — Cycle 2 (depth + host fix)
+
+- **Data:** +18 verified historical entities (TM gas, UZ auto/textile FDI, KZ uranium/rail/port, RU media soft power, EU water/CADAP/Global Gateway, US GE Healthcare KZ).
+- **Live:** host-country = earliest country mention in headline; feed shows reported match %.
+- **Prod check (cycle 1):** live feed now surfaces Russia/China/Türkiye/India–CA stories instead of UNICEF bureau noise.
