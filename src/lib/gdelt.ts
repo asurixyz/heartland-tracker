@@ -1,14 +1,33 @@
 import type { Actor, Category, Entity, LiveBundle } from "./types";
 
+/** Prefer stories that name a CA state AND a power / geo theme when possible. */
 const CA_QUERY =
-  '(Kazakhstan OR Kyrgyzstan OR Tajikistan OR Turkmenistan OR Uzbekistan OR "Central Asia")';
+  '(Kazakhstan OR Kyrgyzstan OR "Kyrgyz Republic" OR Tajikistan OR Turkmenistan OR Uzbekistan) (China OR Chinese OR Russia OR Russian OR "United States" OR Washington OR EU OR European OR Turkey OR Türkiye OR Iran OR India OR BRI OR CSTO OR SCO OR pipeline OR investment OR military OR base)';
+
+const CORE_COUNTRY_RE =
+  /\b(kazakhstan|kazakh|kyrgyzstan|kyrgyz|tajikistan|tajik|turkmenistan|turkmen|uzbekistan|uzbek)\b/i;
+
+const POWER_RE =
+  /\b(china|chinese|beijing|bri|belt and road|cnpc|huawei|xi jinping|russia|russian|moscow|kremlin|gazprom|csto|rosatom|putin|united states|\bu\.?s\.?\b|washington|pentagon|usaid|centcom|european union|\beu\b|brussels|ebrd|nato|turkey|türkiye|turkiye|india|iran|japan|adb)\b/i;
+
+const GEO_THEME_RE =
+  /\b(invest|investment|loan|fdi|pipeline|gas|oil|uranium|military|base|troops?|drone|arms|exercise|railway|rail|port|corridor|summit|sanctions?|border|remittance|migrant|confucius|embassy|defence|defense|security|nuclear|mine|mining|contract)\b/i;
+
+/** Bureau names / off-topic that only brush “Central Asia”. */
+const NOISE_RE =
+  /\b(ukraine refugee|unicef europe and central asia|europe and central asia region|legatum prosperity|super bowl|premier league|nba |nfl |hollywood|oscar|crypto airdrop|horoscope)\b/i;
 
 const COUNTRY_COORDS: Record<string, { lat: number; lng: number; host: Entity["host_country"] }> = {
   kazakhstan: { lat: 48.0, lng: 67.0, host: "Kazakhstan" },
+  kazakh: { lat: 48.0, lng: 67.0, host: "Kazakhstan" },
   kyrgyzstan: { lat: 41.2, lng: 74.8, host: "Kyrgyzstan" },
+  kyrgyz: { lat: 41.2, lng: 74.8, host: "Kyrgyzstan" },
   tajikistan: { lat: 38.9, lng: 71.0, host: "Tajikistan" },
+  tajik: { lat: 38.9, lng: 71.0, host: "Tajikistan" },
   turkmenistan: { lat: 39.0, lng: 59.5, host: "Turkmenistan" },
+  turkmen: { lat: 39.0, lng: 59.5, host: "Turkmenistan" },
   uzbekistan: { lat: 41.4, lng: 64.6, host: "Uzbekistan" },
+  uzbek: { lat: 41.4, lng: 64.6, host: "Uzbekistan" },
   mongolia: { lat: 46.9, lng: 103.8, host: "Mongolia" },
   afghanistan: { lat: 33.9, lng: 66.0, host: "Afghanistan" },
 };
@@ -21,6 +40,30 @@ type GdeltArticle = {
   language?: string;
   socialimage?: string;
 };
+
+export function isHeartlandRelevant(title: string): boolean {
+  const t = title.trim();
+  if (t.length < 24) return false;
+  if (NOISE_RE.test(t)) return false;
+
+  const hasCore = CORE_COUNTRY_RE.test(t);
+  const hasCentralAsia = /\bcentral asia\b/i.test(t);
+  if (!hasCore && !hasCentralAsia) return false;
+
+  // “Europe and Central Asia” IFRC/UNICEF-style without a named republic → drop
+  if (!hasCore && /\beurope and central asia\b/i.test(t)) return false;
+
+  const hasPower = POWER_RE.test(t);
+  const hasTheme = GEO_THEME_RE.test(t);
+
+  // Named republic + (power or theme) is ideal
+  if (hasCore && (hasPower || hasTheme)) return true;
+  // Regional + power is OK
+  if (hasCentralAsia && hasPower) return true;
+  // Named republic alone still useful for CA pulse (lower confidence later)
+  if (hasCore) return true;
+  return false;
+}
 
 function detectActors(text: string): Actor[] {
   const t = text.toLowerCase();
@@ -37,11 +80,11 @@ function detectActors(text: string): Actor[] {
 
 function detectCategory(text: string): Category {
   const t = text.toLowerCase();
-  if (/\b(base|military|troop|drone|missile|exercise|army|air force|csto|arms)\b/.test(t))
+  if (/\b(base|military|troop|drone|missile|exercise|army|air force|csto|arms|defence|defense)\b/.test(t))
     return "military";
-  if (/\b(pipeline|railway|rail|road|port|gas|oil|uranium|power plant|infra)\b/.test(t))
+  if (/\b(pipeline|railway|rail|road|port|gas|oil|uranium|power plant|infra|corridor|nuclear)\b/.test(t))
     return "energy_infra";
-  if (/\b(invest|loan|fdi|deal|billion|contract|acquisition)\b/.test(t)) return "capital";
+  if (/\b(invest|loan|fdi|deal|billion|contract|acquisition|mine|mining)\b/.test(t)) return "capital";
   if (/\b(migrant|remittance|diaspora|labor)\b/.test(t)) return "people_flows";
   if (/\b(confucius|university|media|culture|soft power|education)\b/.test(t)) return "soft_power";
   return "diplomacy_security";
@@ -60,9 +103,17 @@ function coordsFor(host: Entity["host_country"]): { lat: number; lng: number } {
   return hit ?? { lat: 41.8, lng: 66.5 };
 }
 
+function relevanceConfidence(title: string, actors: Actor[]): number {
+  let c = 0.5;
+  if (CORE_COUNTRY_RE.test(title)) c += 0.1;
+  if (POWER_RE.test(title)) c += 0.12;
+  if (GEO_THEME_RE.test(title)) c += 0.08;
+  if (actors.some((a) => a !== "Other")) c += 0.05;
+  return Math.min(0.82, c);
+}
+
 function parseSeenDate(seendate?: string): string {
   if (!seendate || seendate.length < 8) return new Date().toISOString();
-  // GDELT format: YYYYMMDDHHMMSS
   const y = seendate.slice(0, 4);
   const m = seendate.slice(4, 6);
   const d = seendate.slice(6, 8);
@@ -77,31 +128,33 @@ function hashId(url: string): string {
   return `gdelt-${Math.abs(h)}`;
 }
 
-export function articlesToEntities(articles: GdeltArticle[]): Entity[] {
+export function articlesToEntities(articles: GdeltArticle[], tag = "gdelt"): Entity[] {
   const out: Entity[] = [];
   const seen = new Set<string>();
   for (const a of articles) {
     if (!a.url || !a.title) continue;
     if (seen.has(a.url)) continue;
+    if (!isHeartlandRelevant(a.title)) continue;
     seen.add(a.url);
-    const text = `${a.title}`;
+    const text = a.title;
     const host = detectHost(text);
+    const actors = detectActors(text);
     const { lat, lng } = coordsFor(host);
     const published = parseSeenDate(a.seendate);
     out.push({
-      id: hashId(a.url),
+      id: hashId(a.url).replace("gdelt-", `${tag}-`),
       layer: "reported",
       category: detectCategory(text),
-      actors: detectActors(text),
+      actors,
       host_country: host,
       title: a.title.slice(0, 220),
-      summary: `Reported via GDELT from ${a.domain ?? "news source"}. Open the source for full context — Heartland Tracker does not invent details beyond the headline metadata.`,
+      summary: `Reported via ${tag === "rss" ? "Google News RSS" : "GDELT"} from ${a.domain ?? "news source"}. Headline-only extract — verify details at the source. Not a verified asset.`,
       status: "reported",
       started_at: published.slice(0, 10),
       lat,
       lng,
-      confidence: 0.55,
-      tags: ["gdelt", "live"],
+      confidence: relevanceConfidence(text, actors),
+      tags: [tag, "live", "reported"],
       sources: [
         {
           url: a.url,
@@ -114,10 +167,10 @@ export function articlesToEntities(articles: GdeltArticle[]): Entity[] {
       ],
     });
   }
-  return out;
+  return out.sort((a, b) => b.confidence - a.confidence);
 }
 
-export async function fetchGdeltLive(maxRecords = 50): Promise<LiveBundle> {
+export async function fetchGdeltLive(maxRecords = 75): Promise<LiveBundle> {
   const params = new URLSearchParams({
     query: CA_QUERY,
     mode: "ArtList",
@@ -138,10 +191,9 @@ export async function fetchGdeltLive(maxRecords = 50): Promise<LiveBundle> {
   try {
     json = JSON.parse(text) as { articles?: GdeltArticle[] };
   } catch {
-    // GDELT sometimes returns empty/non-JSON on sparse queries
     json = { articles: [] };
   }
-  const events = articlesToEntities(json.articles ?? []);
+  const events = articlesToEntities(json.articles ?? [], "gdelt");
   return {
     fetched_at: new Date().toISOString(),
     source: "GDELT DOC 2.0",
@@ -149,25 +201,16 @@ export async function fetchGdeltLive(maxRecords = 50): Promise<LiveBundle> {
   };
 }
 
-/** Curated free RSS feeds — parsed lightly without extra deps */
-const RSS_FEEDS = [
-  {
-    id: "rferl-ca",
-    url: "https://www.rferl.org/api/z-$iqq_eot-",
-    // RFE region pages vary; use Google News RSS as reliable free fallback below
-  },
-];
-
 export async function fetchGoogleNewsRss(): Promise<Entity[]> {
   const q = encodeURIComponent(
-    "Central Asia OR Kazakhstan OR Kyrgyzstan OR Tajikistan OR Uzbekistan OR Turkmenistan",
+    "(Kazakhstan OR Kyrgyzstan OR Tajikistan OR Uzbekistan OR Turkmenistan) (China OR Russia OR US OR EU OR Turkey OR investment OR military OR pipeline OR BRI OR CSTO)",
   );
   const url = `https://news.google.com/rss/search?q=${q}&hl=en-US&gl=US&ceid=US:en`;
   try {
     const res = await fetch(url, { next: { revalidate: 900 } });
     if (!res.ok) return [];
     const xml = await res.text();
-    const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].slice(0, 40);
+    const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].slice(0, 50);
     const articles: GdeltArticle[] = items.map((m) => {
       const block = m[1];
       const title = decodeXml(
@@ -188,11 +231,8 @@ export async function fetchGoogleNewsRss(): Promise<Entity[]> {
         domain: "news.google.com",
       };
     });
-    return articlesToEntities(articles).map((e) => ({
+    return articlesToEntities(articles, "rss").map((e) => ({
       ...e,
-      id: e.id.replace("gdelt-", "rss-"),
-      tags: ["rss", "google-news", "live"],
-      summary: `Reported via Google News RSS. Headline-only extract — verify details at the source link.`,
       sources: e.sources.map((s) => ({ ...s, publisher: s.publisher ?? "Google News" })),
     }));
   } catch {
@@ -215,7 +255,7 @@ function toGdeltDate(d: Date): string {
 }
 
 export async function fetchLiveBundle(): Promise<LiveBundle> {
-  const [gdelt, rss] = await Promise.allSettled([fetchGdeltLive(40), fetchGoogleNewsRss()]);
+  const [gdelt, rss] = await Promise.allSettled([fetchGdeltLive(75), fetchGoogleNewsRss()]);
   const events: Entity[] = [];
   const seen = new Set<string>();
   const push = (list: Entity[]) => {
@@ -228,12 +268,10 @@ export async function fetchLiveBundle(): Promise<LiveBundle> {
   };
   if (gdelt.status === "fulfilled") push(gdelt.value.events);
   if (rss.status === "fulfilled") push(rss.value);
+  events.sort((a, b) => b.confidence - a.confidence || (b.started_at ?? "").localeCompare(a.started_at ?? ""));
   return {
     fetched_at: new Date().toISOString(),
-    source: "GDELT + Google News RSS",
+    source: "GDELT + Google News RSS (filtered)",
     events,
   };
 }
-
-// silence unused in case tree-shaking
-void RSS_FEEDS;

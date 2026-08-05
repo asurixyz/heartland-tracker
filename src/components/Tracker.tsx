@@ -1,6 +1,6 @@
 "use client";
 
-import { filterEntities, getVerifiedEntities, sortEntities } from "@/lib/data";
+import { filterEntities, getVerifiedEntities } from "@/lib/data";
 import { YEAR_MAX, YEAR_MIN } from "@/lib/constants";
 import type { Entity, Filters, LiveBundle } from "@/lib/types";
 import { useCallback, useEffect, useMemo, useState } from "react";
@@ -53,6 +53,14 @@ export function Tracker() {
     return () => clearInterval(t);
   }, [pullLive]);
 
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") setSelectedId(null);
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, []);
+
   const all = useMemo(() => {
     const map = new Map<string, Entity>();
     for (const e of verified) map.set(e.id, e);
@@ -62,10 +70,16 @@ export function Tracker() {
     return Array.from(map.values());
   }, [verified, live]);
 
-  const filtered = useMemo(
-    () => sortEntities(filterEntities(all, filters)),
-    [all, filters],
-  );
+  const filtered = useMemo(() => {
+    const list = filterEntities(all, filters);
+    // Reported pulse first, then verified ledger by recency
+    return [...list].sort((a, b) => {
+      if (a.layer !== b.layer) return a.layer === "reported" ? -1 : 1;
+      const conf = (b.confidence ?? 0) - (a.confidence ?? 0);
+      if (conf !== 0) return conf;
+      return (b.started_at ?? "").localeCompare(a.started_at ?? "");
+    });
+  }, [all, filters]);
 
   const selected = filtered.find((e) => e.id === selectedId) ?? all.find((e) => e.id === selectedId) ?? null;
 
@@ -85,7 +99,12 @@ export function Tracker() {
         selectedId={selectedId}
         onSelect={setSelectedId}
       />
-      <FiltersPanel filters={filters} onChange={setFilters} counts={counts} />
+      <FiltersPanel
+        filters={filters}
+        onChange={setFilters}
+        onReset={() => setFilters(DEFAULT_FILTERS)}
+        counts={counts}
+      />
       <FeedPanel
         entities={filtered.slice(0, 80)}
         selectedId={selectedId}
@@ -98,7 +117,7 @@ export function Tracker() {
       <div className="map-legend">
         <span className="dot verified" /> Verified
         <span className="dot reported" /> Reported
-        <span className="hint">Core five lit · neighbors in shadow</span>
+        <span className="hint">Core five lit · neighbors in shadow · Esc closes</span>
       </div>
     </div>
   );

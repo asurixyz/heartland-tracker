@@ -108,6 +108,15 @@ a {
   margin-bottom: 16px;
 }
 
+.brand > div:nth-child(2) {
+  flex: 1;
+  min-width: 0;
+}
+
+.reset-btn {
+  flex-shrink: 0;
+}
+
 .brand-mark {
   width: 42px;
   height: 42px;

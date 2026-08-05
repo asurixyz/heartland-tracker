@@ -16,6 +16,7 @@ import type { Actor, Category, Filters, HostCountry, Layer } from "@/lib/types";
 type Props = {
   filters: Filters;
   onChange: (f: Filters) => void;
+  onReset: () => void;
   counts: { verified: number; reported: number; shown: number };
 };
 
@@ -23,7 +24,7 @@ function toggle<T>(list: T[], value: T): T[] {
   return list.includes(value) ? list.filter((x) => x !== value) : [...list, value];
 }
 
-export function FiltersPanel({ filters, onChange, counts }: Props) {
+export function FiltersPanel({ filters, onChange, onReset, counts }: Props) {
   return (
     <aside className="panel panel-left">
       <header className="brand">
@@ -32,6 +33,9 @@ export function FiltersPanel({ filters, onChange, counts }: Props) {
           <h1>Heartland Tracker</h1>
           <p>Central Asia · power & capital</p>
         </div>
+        <button type="button" className="ghost-btn reset-btn" onClick={onReset}>
+          Reset
+        </button>
       </header>
 
       <div className="stat-row">

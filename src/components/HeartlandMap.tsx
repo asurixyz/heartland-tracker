@@ -109,6 +109,26 @@ export function HeartlandMap({ entities, selectedId, onSelect }: Props) {
         },
       });
 
+      map.addLayer({
+        id: "core-label",
+        type: "symbol",
+        source: "countries",
+        filter: ["==", ["get", "role"], "core"],
+        layout: {
+          "text-field": ["get", "name"],
+          "text-size": 11,
+          "text-transform": "uppercase",
+          "text-letter-spacing": 0.08,
+          "text-allow-overlap": false,
+        },
+        paint: {
+          "text-color": "#d8c6a2",
+          "text-halo-color": "#0b0f12",
+          "text-halo-width": 1.2,
+          "text-opacity": 0.85,
+        },
+      });
+
       map.addSource("entities", {
         type: "geojson",
         data: toGeoJSON([]),
