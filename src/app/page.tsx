@@ -1,5 +1,16 @@
-import { Tracker } from "@/components/Tracker";
+import { Suspense } from "react";
+import { Dashboard } from "@/components/Dashboard";
 
 export default function Home() {
-  return <Tracker />;
+  return (
+    <Suspense
+      fallback={
+        <div className="flex min-h-screen items-center justify-center bg-[var(--paper)] text-[var(--muted)]">
+          Loading atlas…
+        </div>
+      }
+    >
+      <Dashboard />
+    </Suspense>
+  );
 }
