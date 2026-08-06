@@ -1,20 +1,21 @@
 import type { Metadata } from "next";
-import { Fraunces, IBM_Plex_Mono, Space_Grotesk } from "next/font/google";
+import { Instrument_Serif, Inter_Tight, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 
-const display = Fraunces({
+const display = Instrument_Serif({
   variable: "--font-display",
   subsets: ["latin"],
-  weight: ["300", "400", "500"],
+  weight: ["400"],
+  style: ["normal", "italic"],
 });
 
-const body = Space_Grotesk({
+const body = Inter_Tight({
   variable: "--font-body",
   subsets: ["latin"],
   weight: ["300", "400", "500", "600"],
 });
 
-const mono = IBM_Plex_Mono({
+const mono = JetBrains_Mono({
   variable: "--font-mono",
   subsets: ["latin"],
   weight: ["400", "500"],
