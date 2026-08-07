@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-07T11:20:45.237Z",
+  "fetched_at": "2026-08-07T12:05:51.667Z",
   "source": "GDELT + Google News RSS",
   "count": 40,
   "events": [
@@ -9,7 +9,15 @@
       "title": "Central Asia Electricity Demand Surges in Summer Power Reckoning",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qXzJZX3ltWkFDMENTZHNFRjI3czVtYWNuZzB3dUhtMVFHTU5ZeHNtZVR3VmhWa2N0b3lpZkZwT0FsMXJIYXR3eEllc3VoRlU2bmlYVnU0aWxSNFF1NkVKWXNxRThxNDhSdy1ZdndZMG9qdlVaeHB3Wg?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.236Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "COMMENT: Russia's fuel crisis spills into Central Asia as Moscow's backup supply dries up",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV1dETmt1YnotZWh1VXlvQ29zTHpYeVFxWE1IXy11RUFZRmpDbU9mREE3VzFYNXZWZ2JYS01MYVNUSmpVWENYVnlycldlSVdiTS1XSGNscjdXSU52d2tteUlaZ2p1b094TXZWSnVQaWdoS3RDWWlIdXlVbUlGcHUxOWJDbS1jdXduVWpiOGRMd0NyMDl1enBsTXFoWE9lbzZweC1YOHVOeVo2aVpmekZQbC16X2h0RHdRc2hSUFRGRktRTld4WVJqYzM3TV9oNWRQMDRPUg?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -17,7 +25,7 @@
       "title": "Central Asia’s Critical Minerals Rush: Between the US and China",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb1RuTk5FSGFKaUtPaFdZRHQ2emxCVnBmTGtvb2puNzhtbnltUmczdlo2SlZJeEdZWjhraUxISk9oN0RQRFBCdkZ6U0xLbTZubElFVWg5QVdWcUNtTmxSMU1pdTIzYlVvOUtNTzkxM25YNXVYb25RSU4tMDNUQjZ3RTNyUDI2cExIQzVWTk9aZk5sWGNIOVlQak0zeTVhVGZGaHZtbnhId0dGWTgtRGNZcTJWZS0zUQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -25,7 +33,7 @@
       "title": "Indonesia targets central Asia and Africa as new export markets",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPajR6TmdmSEFrMmdpb2FIZGhRYXc4dnNSdU5XWlNQV3hkUGpQaU9lYmMzbWQ4VHl5VTdxeXJVMndyYUJOWU1sV05obHlVczNrYm1hWVpZcWNQZU1YRl9pNXlsVnJwUTdnMVVkbUVlMUxkQzNzNnJfN2tfM01DNTVNYnNNZDNJZkdKTWIxQ3hfbXhWRHVKZGxF?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -33,7 +41,7 @@
       "title": "Kazakhstan, Uzbekistan Join Forces to Pursue New Export Markets in Syria and Iraq",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObEMtMkU4bC1XR2N3bnZsbU1XTUFxc0ROdnJEQWRneWpMT29nZVlXbVhlaWFwYmFPN1Q2Mi1ad3V0eENDeFFiSW8tWXBRTGFGQ1F3WE9IZGNqNFAxbkFGbzdkTjVmYUZEY21EdmNjXzJteFh4NGJNSFo0Y0JzblAzdk5xdWR6d0VFSHdPdDhYbW12ZmFpb0c3cUVTNE1YYzdESnVWMi1qaEtPY0IzREdMRTAzRQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -41,7 +49,7 @@
       "title": "Georgia deepens Central Asia ties in major diplomatic push",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGd3QW82VkJBeGlENXpOV19CTGRQVUZubUF0RnI2R1hhT1Z3NVRXcGcxZ3dRemNnMjRVQUV6Ym1Od01zeEFSNjFxcWl2UnBQVGNoUWI1RW8xcE9GZkdjUkZXMVpoR18wbEVvWC1HY2RLeWJ3YTFIc3UyZy00YmgtRURYVVJCYlRWaU1KSHVlczlaVXR0eDlJRmczaw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -49,7 +57,7 @@
       "title": "China Accelerates Its Economic Push Across Central Asia",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUXVrQnlJNmUzVU4xOWtTbWdmRk9VUEJNLWF5dTR2TGNKOG14Vng4YTViWkhzckZjZmNDUFRYcS1qX29rMHphcTUwYWIzVE5QUFlpNkx2TUgzdHB4by13T2xUNjFNekVZb2ItT1dZeEVib19TdThrWDc0NndQWTI1dEwySFZQektxX0daaWlrUW53OUFpZEh5M2lvaXl1eUEtVFVBcXJR0gGrAUFVX3lxTE0xZjYzTEs5M1FYYWM2WU03aHJRZFppVG4xRjFWRV81aFpoRmxiUUUzQ3R5Tkp3UU1pTVlEbjRpNTdJM0t1bVE4dzZ5emhUQUZRNW5RZUJNSmRhR2ZETS1DcXhPdndwdzJ4bjhGakhMOXJIdFZ4NElPdDR0TnVTNmFjUGY0NXFOV2xXUkszY01xa0dZd3BZV2kyY19CYVkyX2Y5WWdCUUg5cWVjYw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -57,7 +65,7 @@
       "title": "Central Asia Fintech Summit to bring financial leaders to Almaty",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeW5Pa3NCcEdqaEg5c1ZDb1h5eU1tZEhhbWtrblpsaUoyMHdma0pKNHh1TjdQZ05DTjdfVUc1VVYxSmJrSUk4a282b2FOd1ZXQWhzRDNnU3lSUUlpR2RrbmllYnY4dlVNUVpTYmtkSHdzbDN4RUgyTmdQY3Z1OURlQ1paUXBfTVhyVWpxLXJ2dXp5RFozVjlPblVoa1psWHfSAZ8BQVVfeXFMTXk2MnBjZzhpbVNEYnpoRTRya3M3dEFsRmdwNHg3UmFQaFh6dEd4ME11bEhWWVRtdG9kbW1YbVllY05FV2pjNWI0eHpDYTN0ZkN2Tl9VRHo2NjhneGg0Mnl4TnJiRlRfV0dibnV4dDVhU29KVTFoM3E5VVU1OVpHU0l4X1FpOFNBZXJKa1hmM19TOVlWVm1JRG9Xczlub1ZV?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -65,7 +73,7 @@
       "title": "UNICEF Europe and Central Asia Region Humanitarian Situation Report No.34 (Ukraine Refugee Response in Neighboring Countries), January - June 2026",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNTDFHQjhxeUZqc1BfZEJsa1FrbldLYmdxc19INnJQUEtjRmhoUHNQQzV4cmdlem16M1VrV1VtTVRtNnVjTkItbGhpZXVicjBNYXRFUXNhcVd0WXRPU0pReV9CbDZrRi1JUG9qczlTRFhyX0EzR1hmcmxZaDc0T2Z2Q0VtVUNqdGRhSnZFSjlLRURISzVEeTAyN3M2bTI3OXNfX1dMYWRzbmpoMWVxajZZZUxiNHFtSnZYdFhfd0ZqbEpMMjJ5ZlI1bG1JdmJzcVVVMTRKOE9CUl9vTHlxazF4OERFQTlQMUhOTlM5WEppeDF3SUxYUjM2TkI2YmprNXR6Y3NrNg?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -73,7 +81,7 @@
       "title": "Central Asian labor migration to Russia falls precipitously during first half of 2026",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM212MEFYNXJ0RDk4TFVIVlo0ZG45eF9jTU93M0c3c3Z2cXZRejl1UUY1NmprZ3FhT3NjVUJjdjJTUU5TUXRNaS1CcHktY0pGcTlIaWh6dXFwYV9GVDNlRXVYZHZiVDduN0xIQTl2QS1jS3JZQkxBZnpJS1pNd0M4Zi1oSTExM3lXT0swTFRYbkpEMUh6YXpxV0NmR19MMjhsTDd0Vzl3MXA1UEth?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -81,7 +89,7 @@
       "title": "The Restructuring Of China’s Geographic Pathways In Central Asia – Analysis",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObnlRb0ZLcHgxWV9rTTNJeldoMWtNUDE1YWM4NXVHbVdweVZCWm5wZkhDMTJtUi1XUWZpM0dDLU90cVJSWDRod0JvODk5SzlaLWUxSlgyRjNJWjVaaHZIYUtrR2pSSVVLdjRiS2ZlYTFIYWVfVGxRanlSYUd6X0hXX2hfN2JLNmxoZk1ReUlIeHBBMlczUWFUUHZXNE5fN0c1T0RveGdMUFFDaXRLU2NjbWl3?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -89,23 +97,7 @@
       "title": "Workers paying the price: Hidden costs of the transition mineral boom in Eastern Europe and Central Asia - 2026 analysis",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOak5ET0xUTUhtWW1mUEJGQm9YZlhNdU1qQ1ZDRkI3Z0Z6eDBLcW1kNk9xb1JTbDFBOU9XNk5OUWVCUWVNLU0xZEVlUW42bEJnSFc2RHhsS2hEQmRtUlZ4MVE4NGw5ZlM5aUR4bmxtYml4dWJRMGJhaDJGNnpIbHFRQl9pamg1bm9ieDhqVGxQbDdRMnhOX2dvQjUzajhLMHJjUkhuUVQ0T19aREp3RWVDVWluZ0hKdUlkZWU3U0oxSkZYSW1rWENwUXQzLXZFYmZQOXBTMXQwQkJ5Q0x0NjFTYVE0YU9kcjE1c3lhNnJmdWdpb3RvblpGbmRsUWRJMklpRmlV?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Kyrgyzstan’s Dordoi Bazaar, a world made from shipping containers",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVllydWtWbUdHZGw4LTNybUVnZHV5eHVTQTFiRkFfSm94RERjOVN2UzAyQjRsejRRbENCV1VZMFJrWVJ2YkFWdTNlalU5cWZGcEFxSE84UDNXY0FaRkZ4b055NzVkakZGV1pwa1Z3ZGJSa2dNTzYyUW1IX3BPSmhwMkRZRUtsSE16dWUyaWxyMzcwRnBYSFg3LS1n?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "In the middle of Central Asia sits a desert full of shipwrecks, hundreds of miles from any coastline — rusting fishing boats stranded on cracked, dry seabed where one of the world's largest lakes used to be, before Soviet planners diverted the rivers that fed it",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQdDh4RzNjMWhfS0VtbzNwVFh4V1BvTzZpR2FrSWhXQ1hwUWhkbzZnd2kwYk80ZVhERE0yejV4OWZHaXBjZkNSMzJSaE9GR0FqeU5rVjR3ZnZtWXk2YUdJbU1jZVgwQzFVZVhhVzdGUEdia0dMV1UtRVV6THI1TW1tWkxjc195Njd0Z1ZjazB6VFZyWi1WSWxIc3J4b1Y3QkdQZ3p2Q1RIam1CRVc5RVlXNFIyM3RXMjc5dERrbHJram05NzlMUElFQkdCMEZCRDF2ZGFSWkJaX2EzbThTOUlld0x3STB6aGVIUFlKM0ZQbXpTMGhRRjQ3OHhLMUxaUmxHNmVLcWVsenhoTmlsOVFKVlE0SzJ2Z2pCeUM3TzZlNGdwQkhVbWtPUkcxaWdud0kwa2ZlbEJhOGo?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -113,23 +105,15 @@
       "title": "How the Russia–Ukraine War Is Reshaping Central Asia’s Geopolitical Balance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNczR1TXRRMlZtZEU2SnNpQkJpYzc1bWN6ZlFlcm9wZWIzNWd2Rm9mU01EczhaZ3hGZUZmTWRseE02MTFjYXlmRUFOZFJOeUp0TzEwNmhGNHRmTjk5QTNKa1ZKVVEtNXZYVWRjVEc3UjJGOVZnaTl2QzdSWUo0OGZrMHp5MWU2cV9WODNKY2VXc3UwUEtvaDlIZjhidw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Kazakhstan Leads Central Asia in 2026 Legatum Prosperity Index",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUEtM3dWVlVYTWdnV1h6UVBGYUxlWlBNNTlPeXRWcWpkOXlQS2hIYlY3dXVBNm5NVjE5MUhXSm5iMU5GcHlYWXJYekl0ZlMzYkRzcGc2RUVtNldrRW1PUjA3NzFaYllNWlI1dGxjOHlVRHltcXBxUGRCdFN6OTVNOUxxQWhqLXgxRFBkYU9CZzdMVVJ3YmtWbThBSQ?oc=5",
+      "title": "Kazakhstan’s Services Exports Near $13 Billion as Digital Sector Gains Momentum",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORklDU3dyZzVnbkUwcF9YS1Z6VlJCNkRPVHJjNFFFZXduVDBHR2U2dldqdjI5TEp0VWxjSU1YTlFpdDkyY1RPbDFKQ2NGSEZkQk9tS19fU2s2cEZ4MmhTQlFNaE10T3Z3aVp3ZkN0My1aNnNQaUxWVFQ4c25zaURvUEVwSjlsR09lN1Z4MG1MdkphRmdMQzNodzc2WXFSZTI1TlNzV2lSYlB2WWZFZVdR?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "New Agreements Advance Central Asia's Middle Corridor Ambitions",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX3FXbFB2V0NTb1FpQzRXVmdwUWtIaU9tVExZNW4wbWtQY3EyWjRQX1FlZkdSNUN1MWJIVTUtZEJOWXFnOHBKUHQ4dzhGcnJibDl0Q2xMd3RCQ2dPQ2YzQ0YwLXhaMEViSkdjOFdxdGJfUFNIcDkyWGZTNW1FTmROaVdtdVZzMlNUNE96QW5tYXlQR3cyZGJKckZoSlMxRXVEdVFnYWN3eklkbkV1Z0JF0gG0AUFVX3lxTE42Y05rWW4tSFA4M2htc1lSdTFYcmQ5N2I5THhTel9SNkRGdlJFMUFMdkxEbmFxb3lCSWpFRFd2a0x6ekZTR1VPVGlzRld5TWM2bkJnR3FuMXFHMmVLMW8zejVJYnhCeVpicjJrVTVZQU9XYjN5Q19ySmQ2Z21EQVRrTWtGU3VTVzY0V1RPcTRRbVVxOWtPQV90el9YaDJrMzZPdVBLWDA5aWZtR0k4b0tJbWFxMA?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -137,7 +121,23 @@
       "title": "Kazakhstan Tungsten Project Targets 2028 Production Amid Questions Over Ownership",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wT3hXSEdzNGpHVng3aVVsNnhPTTRTLWIyNFU3XzZwYUJOWGJGNHBZd0hTeUlBYmtoNVNaaVJuVk5qUU9hcmkzVzhLU2lpVGZldHFmMjNOX0JTOU8wTGFva0k5WWN2MzdjS3FGTWV1MFZmREtkTzFGU0xFNlM?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Kazakhstan Leads Central Asia in 2026 Legatum Prosperity Index",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUEtM3dWVlVYTWdnV1h6UVBGYUxlWlBNNTlPeXRWcWpkOXlQS2hIYlY3dXVBNm5NVjE5MUhXSm5iMU5GcHlYWXJYekl0ZlMzYkRzcGc2RUVtNldrRW1PUjA3NzFaYllNWlI1dGxjOHlVRHltcXBxUGRCdFN6OTVNOUxxQWhqLXgxRFBkYU9CZzdMVVJ3YmtWbThBSQ?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-07T12:05:51.667Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Aral–Caspian Highway Project Advances Kazakhstan’s Bid for Eurasian Logistics Leadership",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdWhzSE1QaXBLOWZXalRzcGdvYTdQOExCVjRZSjZoR0R6WW5CSjVxMU5palg2NW5tVy13Z2R5ZnBwVjBrTlB0bV9PYWJYekQ0M3ItYmFNcXhac2QyMTBWdG9wV29jeU5nckNfYUtQdWNRWXhhVTdBSnpySnpDUnp6OFBYV0xKTXFMTG1paVBGRjVhQ2N3LWNPbnJ2MHBxTTg3VEpQazNwOUVoV2NL?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -145,15 +145,7 @@
       "title": "Bride Kidnapping in Central Asia: Why the Practice Persists Despite Tougher Laws",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzB1UFVYZ0xnenZZTEpTYkJhZ1FZY1dwMHctR1RtelFUblRoRnJUelJUeF9ZU05HS2VhUWdTa1A3dnR3WHhNZ3RES2hOOXg1UzhaOGJieEZBaVg5YkxBbmZXRG5ldjdoYXIwc3ZUdVRBaUhHa1VPNkJtWGFIaG5lYjQwSEN0aXpiVy1DZ1FhZTdPT0cxUi1OTjRlbFU1aHpJSFE?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Dombra Dispute and Niqab Bans Fuel Religious Debate in Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSVEdTQmZ1UzAtVkNJYmpBWUhqNXRxdWR4RUV1dnJxRjZFbWNVWVJaUXp4Ti1iU1h6Mzdfa1d3cEdTYzAwR2xZX0J0VWZ4ZDNtSUU3Mi1HYjZwX1BNTXNlWXk5YXRLNEUwNkRnUno1QWZqa2dC?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -161,23 +153,39 @@
       "title": "Kyrgyzstan’s Bilateral Development Funds Back Industry and Energy Projects",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11ZHhTcGc3TllvSUFtVklQN0FpcUFJNWFSY3JRZDdzanNtVDg3blQ0dVNYV29CbGozQjR0Z0hGQi10Wjlidms4WlVfQ2Q5cmE3OVVMOS10bER1b1dE?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "An Emerging Strategic Axis Between Georgia and Turkmenistan",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY2IxZmNlTXU0Y0hzMllvLUN1Z2NXNFl4ejZyZ1JITFdfbUMzajZvaUc4dkV3VlVsbkJnckptaG5lYTNqYmM3X3E2dWRWbDdHYmdHY1BPcURzbXM5M01sUHRHMkhSMGw3UGZZZXcwUFpYck1TOFJndmd5X0tVRXpxQnVRYlMzVTRQRFRiYWNyN3A4dTNZcXpxSw?oc=5",
+      "title": "Dombra Dispute and Niqab Bans Fuel Religious Debate in Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSVEdTQmZ1UzAtVkNJYmpBWUhqNXRxdWR4RUV1dnJxRjZFbWNVWVJaUXp4Ti1iU1h6Mzdfa1d3cEdTYzAwR2xZX0J0VWZ4ZDNtSUU3Mi1HYjZwX1BNTXNlWXk5YXRLNEUwNkRnUno1QWZqa2dC?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Kyrgyzstan introduces mandatory permits for climbing Victory Peak - Азия-Плюс",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYTJDS1ZiSVFfNUl5OExtbUVjZ1U5eEllLXdrNGpTbzhjMWU4TUdCcnpJWVJGZDJNNHFLeXZVc0V6T2pGNVJVWUhoNWsxbG5PeHBDU2FZWDBjeWFYaGxvSU5kM1llMWFMSGQxQVF5UExpME5UdGpOUGh5cHd0dF9tWEMxQjdjamp6cW1PSEg1aGdBZjQ5VFBOSkhucjB2bG9ZS2xLXw?oc=5",
+      "title": "New Agreements Advance Central Asia's Middle Corridor Ambitions",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX3FXbFB2V0NTb1FpQzRXVmdwUWtIaU9tVExZNW4wbWtQY3EyWjRQX1FlZkdSNUN1MWJIVTUtZEJOWXFnOHBKUHQ4dzhGcnJibDl0Q2xMd3RCQ2dPQ2YzQ0YwLXhaMEViSkdjOFdxdGJfUFNIcDkyWGZTNW1FTmROaVdtdVZzMlNUNE96QW5tYXlQR3cyZGJKckZoSlMxRXVEdVFnYWN3eklkbkV1Z0JF0gG0AUFVX3lxTE42Y05rWW4tSFA4M2htc1lSdTFYcmQ5N2I5THhTel9SNkRGdlJFMUFMdkxEbmFxb3lCSWpFRFd2a0x6ekZTR1VPVGlzRld5TWM2bkJnR3FuMXFHMmVLMW8zejVJYnhCeVpicjJrVTVZQU9XYjN5Q19ySmQ2Z21EQVRrTWtGU3VTVzY0V1RPcTRRbVVxOWtPQV90el9YaDJrMzZPdVBLWDA5aWZtR0k4b0tJbWFxMA?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "In the middle of Central Asia sits a desert full of shipwrecks, hundreds of miles from any coastline — rusting fishing boats stranded on cracked, dry seabed where one of the world's largest lakes used to be, before Soviet planners diverted the rivers that fed it",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQdDh4RzNjMWhfS0VtbzNwVFh4V1BvTzZpR2FrSWhXQ1hwUWhkbzZnd2kwYk80ZVhERE0yejV4OWZHaXBjZkNSMzJSaE9GR0FqeU5rVjR3ZnZtWXk2YUdJbU1jZVgwQzFVZVhhVzdGUEdia0dMV1UtRVV6THI1TW1tWkxjc195Njd0Z1ZjazB6VFZyWi1WSWxIc3J4b1Y3QkdQZ3p2Q1RIam1CRVc5RVlXNFIyM3RXMjc5dERrbHJram05NzlMUElFQkdCMEZCRDF2ZGFSWkJaX2EzbThTOUlld0x3STB6aGVIUFlKM0ZQbXpTMGhRRjQ3OHhLMUxaUmxHNmVLcWVsenhoTmlsOVFKVlE0SzJ2Z2pCeUM3TzZlNGdwQkhVbWtPUkcxaWdud0kwa2ZlbEJhOGo?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-07T12:05:51.667Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Kyrgyzstan’s Dordoi Bazaar, a world made from shipping containers",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVllydWtWbUdHZGw4LTNybUVnZHV5eHVTQTFiRkFfSm94RERjOVN2UzAyQjRsejRRbENCV1VZMFJrWVJ2YkFWdTNlalU5cWZGcEFxSE84UDNXY0FaRkZ4b055NzVkakZGV1pwa1Z3ZGJSa2dNTzYyUW1IX3BPSmhwMkRZRUtsSE16dWUyaWxyMzcwRnBYSFg3LS1n?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -185,7 +193,23 @@
       "title": "Turkmenistan’s Neutrality: Diplomatic Space, Economic Limits",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYkpPV0FjLU9iQ1VjR2tYUkhUZldMM1NWSEplRkliYm5RWVUyTUNXaTZfVDBGX3BybnlTLXZIaE82QjYzTXQzb21XWmVhNlZMZzFOVTJkeFJBTzg4cER4bVBwYnptU0hRTW1xcnlLT2xzc0w5eURWRkJHaFdjeU9FZE1vZjk?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Kyrgyzstan introduces mandatory permits for climbing Victory Peak - Азия-Плюс",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYTJDS1ZiSVFfNUl5OExtbUVjZ1U5eEllLXdrNGpTbzhjMWU4TUdCcnpJWVJGZDJNNHFLeXZVc0V6T2pGNVJVWUhoNWsxbG5PeHBDU2FZWDBjeWFYaGxvSU5kM1llMWFMSGQxQVF5UExpME5UdGpOUGh5cHd0dF9tWEMxQjdjamp6cW1PSEg1aGdBZjQ5VFBOSkhucjB2bG9ZS2xLXw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-07T12:05:51.667Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "An Emerging Strategic Axis Between Georgia and Turkmenistan",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY2IxZmNlTXU0Y0hzMllvLUN1Z2NXNFl4ejZyZ1JITFdfbUMzajZvaUc4dkV3VlVsbkJnckptaG5lYTNqYmM3X3E2dWRWbDdHYmdHY1BPcURzbXM5M01sUHRHMkhSMGw3UGZZZXcwUFpYck1TOFJndmd5X0tVRXpxQnVRYlMzVTRQRFRiYWNyN3A4dTNZcXpxSw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -193,15 +217,7 @@
       "title": "Russian drone factory boss badly injured in car blast that killed driver",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWmRSdXRTckJJX2E0UE4wS0l1RHI4UXZKeGN1Z2dpQnNUOVVvSDJQT2RzanZ5Y2hVSndKU0xwekh2NDhta25IWnh6TW45bnVFa0p5Z08wd3FBN3BVU09yZUhna29KdF9YWDZCZGYxQ0tPVUJaZzZhaE9qV1VlVWVMNC1tdXBtdkxXbDB3Q1pnRW5CbEVKdklldXRVTEJXNUZuMVFtamZGdVRVM2NIUmhrWjZrR2ZSMzV6R1BHTWpueTdJVTlJMElKdGFMNNIBywFBVV95cUxNSGhSSmFOaHZUNnM3NVlXSGdER0ViMVdHc1VNN0dDQ1FYbnJDb1NUV0tlWFRmOGJqN2N1YWZFcjk3NnFkQnVmY0YwSFdHNGxmS3NqTjVZOEpkd3FWZG5KVm04eGRuMW9sVGFqYmc2RzNrRHRmUmJ2bXZvU1lkVkk0aHdqYnREYmxUaUJ4N3dGVkxOXzVpVVIzMjlvS2ZNcGRia0w3YjZrWE1XUi1xWGdHeUVDMWNvZnB0bDhodVRuOU81NmdTN29vQ2o3OA?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Russia Migration Rules Tighten as Central Asian Work Entries Fall",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oekpTNzNIa2dxWkdDanJzdG1qUlNvMWdwWmtTU0VZWUFuQ1g0Sko1NVAxZ0I3SGhMR0RsaVpyMjd0V3ZULW5LRjRCUVhCZW9lQVRpdGNaeE0xS0ZsNlRyYlVlaW5qOHJnTi1pem5XWDM2VVVacEE?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -209,7 +225,7 @@
       "title": "Reordering Central Asia: China’s Emerging Economic Hierarchy",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHE4dHdfZXAyX0t6em5HMXU0T0IxWFI5OFFBQXc1SDhTa0J2dVdSZXZtem9ibExYTHotR0Vyb2hFNXhQdUJMUnJUX0F0aDN5QktFU3Q1NVdFd1BQdTl3N1ppWVhTUHhIU0U4c1RPN3gzenlzbnF3eng4WW9PbTlrR2UxYmliZFJnVVVZRkQtc2d0RnpYYU9IR0p3amY?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -217,7 +233,15 @@
       "title": "Li Auto launches all-new L9 in Uzbekistan, deepening Central Asia push",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwMjRaS01hTlUwbkFWZVNycWplcE1yUmlTN0VITkt3NzltUWJMWUpsWHRWYkt4MkJIdFQ1eW4yS3B6RGUwbHF4ZWFqaU1kOFpDWmtnbW5CYXR3a0w2ZEItaU1ycVlmYnVoNG1hVjhzak9fMFBRTXc?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Russia Migration Rules Tighten as Central Asian Work Entries Fall",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oekpTNzNIa2dxWkdDanJzdG1qUlNvMWdwWmtTU0VZWUFuQ1g0Sko1NVAxZ0I3SGhMR0RsaVpyMjd0V3ZULW5LRjRCUVhCZW9lQVRpdGNaeE0xS0ZsNlRyYlVlaW5qOHJnTi1pem5XWDM2VVVacEE?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -225,15 +249,7 @@
       "title": "Central Asia Metals Publishes Updated Resource Estimates for Kounrad and Sasa",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQay1fQnRZV2s4N2tCd2RiazV3amhLZUcwZ2p6c1MwakllT1F2b21RTFg5aUZvdkV3aUVsOUNqem5mWmVhcUFkZ2c2aXB4NEVTN0FLTGx6WUNZZTF6WV9ISzZLVUdEOFN1QmlUWkVpa2syWGprbG9xSDU4V2FVd3ZWR3d2TUlnTEQwYzlRVjNUbw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Tajikistan and Central Asian countries review water limits during irrigation season - Азия-Плюс",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcVA1emE3Y2MyMEpTNjNocy1DSUpqODd0X2ptWnBYZUNfdDZiUl9nZU5uSzFnVkRWdm5xSU9heGZoU1ZQTGxydVVZQm1nS0VPR1pGN3c2d0tiTE9neEdwWURfblZmQ1pWNmRoWG85MTFmd2w2WXBDSEtzYTJNd2JxUGQ2bkhSaG5rM1hlakZkdnNELU9uT1JVQWsxNmx6a3l5NG1xOC1Qd2ZPRWpTNlNJRlptOXNUb3FYT2Q2aVA5MXhHcjJV?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -241,7 +257,15 @@
       "title": "Central Asia reshapes fuel strategy as Russian supply pressures grow",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZl9qem9pVXBSY2pNWFhzbzJ6M19OeUJ5UVllMFhkOHUtQ1VQcThiQ2lkSEtCVmJoeElTc0RXdUlsNDFyWjdHM1FaMnJCTkxWZzhwV1NuS2VESlVPTTlfZWo1Z3oxdGN5Z0RxNmJKV0prdnppRjVNUzRuLWFhdnJKM1A5eEdlMDRXM1JNWDFwbi0wUVl0WjdDUENpTDRpMTZvMGc?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Tajikistan and Central Asian countries review water limits during irrigation season - Азия-Плюс",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcVA1emE3Y2MyMEpTNjNocy1DSUpqODd0X2ptWnBYZUNfdDZiUl9nZU5uSzFnVkRWdm5xSU9heGZoU1ZQTGxydVVZQm1nS0VPR1pGN3c2d0tiTE9neEdwWURfblZmQ1pWNmRoWG85MTFmd2w2WXBDSEtzYTJNd2JxUGQ2bkhSaG5rM1hlakZkdnNELU9uT1JVQWsxNmx6a3l5NG1xOC1Qd2ZPRWpTNlNJRlptOXNUb3FYT2Q2aVA5MXhHcjJV?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -249,15 +273,7 @@
       "title": "US diplomat S. Paul Kapur begins India, Central Asia tour",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOakZGRmZxOFNtVFlKcWhMbFZzMHN2cmJLTnAxOWdleUpOakhYTVU4MU5Ub3hheEpGNXYyWEYta2tUUHU3R3RhV0hfRGFoWk8yMmJGMXFfcGxMVklnQmlxNnlLYnhROGRlUmJrOUhXTjFfUmFSRzkwQVBNRGhLbHZSWFhwX044UjZyZ01CNjJxQ01QZUxxdWFKaFVLcWdpYmFuOW9ncWZDVkU4MmpwYzVWYnJSYS1iSDQwbUhJV0xMdGNJUk56OUpSWi1STWhhdEJEdVhKUGFnNktaM09wRHpfSnFuUkY5Y05vVlllcWh6bDd6VHpENG5aMHJTUmVCSGZmWV9V?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Gallery of Soviet Modernism in Central Asia: The Dilemma of Recent Heritage - 2",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNQ080dVdVWk5tbkotc05ZeGdSUndGVFFBd1BJSERmTzZYODJjRTVBQlJSeWVGdC00Nmp0cXFUWllwR25NM0dnQ19iYi1yTjNGd29WQTNxTVd6ODhpOFpXSlg2M1BsVFV6cy1jdWFTOVYwSlI5bmtlLTBLZmhmT2U5SkpvNFZZOTJadFhSeG1fWlVJLUNCVnBkZWpld2w1NzI0dVlxaVo2YkdrdU05M244TzdPUk9kaGlzVmVxSFpfbjNQV2FYclRWRDNZTUoxTENTYjVhakhnelZwNUx6ZnJ0Z3hJdFBQTlk2MW1CaS13dlU0ZHF2MURKaVVLSHpKRUpyUWgzTU9WMWh4M3ptTnhGWm43UWRWaThuSEtxZg?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -265,7 +281,15 @@
       "title": "Russia is losing its appeal to Central Asian migrants, OSW report says - Азия-Плюс",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3RWbS1Cal9XN0R6b1J3TVFwc1Y2am80TWNxZEZGNWg3a3RFZEE4Y1Q4VW5YZEhKT2tOMmdXRjZxc0dsTkJySG1CMTBTakpYQzBMZFJNZ0p1Y0xlWnZaRENhUkV4N1l2V1RDclM0ZDRsU2JJWHg1QmdRdkROaDBXZWtDYlRfeXc5YjZKbFBYc0dDWWgxRnBYNXgtRFMzdXpyejNJdmlqcm9ndw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Gallery of Soviet Modernism in Central Asia: The Dilemma of Recent Heritage - 2",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNQ080dVdVWk5tbkotc05ZeGdSUndGVFFBd1BJSERmTzZYODJjRTVBQlJSeWVGdC00Nmp0cXFUWllwR25NM0dnQ19iYi1yTjNGd29WQTNxTVd6ODhpOFpXSlg2M1BsVFV6cy1jdWFTOVYwSlI5bmtlLTBLZmhmT2U5SkpvNFZZOTJadFhSeG1fWlVJLUNCVnBkZWpld2w1NzI0dVlxaVo2YkdrdU05M244TzdPUk9kaGlzVmVxSFpfbjNQV2FYclRWRDNZTUoxTENTYjVhakhnelZwNUx6ZnJ0Z3hJdFBQTlk2MW1CaS13dlU0ZHF2MURKaVVLSHpKRUpyUWgzTU9WMWh4M3ptTnhGWm43UWRWaThuSEtxZg?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -273,7 +297,7 @@
       "title": "Gallery of Soviet Modernism in Central Asia: The Dilemma of Recent Heritage - 13",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPNHRPS2kzakMxeUROelN2UjIzVHdGRkR2VmhJSVVDX21PcVU0OEg4WVFlaEZ5WHNORnJkWDVsay04ckdlSjVGcjdFMGZNbW9KaWZYclBsWkNVMDJ5OElnd21FTDRKN3ZoWFpfOWtTMDdHdHo1dG1UVUdkOVNicVhfUzlmR3BHd2lJOHlIY1dTZWxfMmpYYVlGRW1RR0E4V21XYnh1QUtSVGJTS1Z0bDU0NWowaldraUtvODhtTUhTNVM1bnZ1QUZ4ZjVUUTIzamkxeVFzbjk2dEg2R2NVTVlNcDJTR212U0plcU9rTlpXVllWdkd0TmFlRkJrdndFTGpnbGxfSUJCZEZ6SFM1UnVyWVVUOUl0c0VGcHZQRA?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -281,7 +305,7 @@
       "title": "Moment first rare tiger in 70 years released in Kazakhstan",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Pdzh1Zy00c0VGMVhMVTRGa281eEZ3dHZkMWtqd2pRblMzeWQ3VXYwMWxxcHdhajhiZ2UxT093b3ZxZ3pFNEpWQjZCeWpxejZFQWlpZV9ZYw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -289,7 +313,7 @@
       "title": "IDFA Releases New Project Diversify Report Highlighting Export Opportunities in Central Asia",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFhFdHhQN285Y0FEa3l6OURHOHpBMzJFZWQydWU3MjRZeWc1TTRVMzhFbTREWEVXNk1OWkZJUENOVmY2SFVmMWhkWVdFdjhSVTZvMW1Xd1RjNm1QbHZGemQ3aURQNHhBdmVWYkF5RzdiM0hNbGk5M3ZUbFI0bEVEMmNybzlXdlZRaDhRSDR6YjAySnVibFN3S3ZvZFJQR1lwQy1mZ2cyenRSMk9LcXpiWDZxSXBXckM1LUE?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -297,31 +321,7 @@
       "title": "Stopping the Flow: How Uzbekistan is Strengthening the Fight Against Illicit Firearms?",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQjZVd1RvU0ZxS3B0ZFcxeGpBNTVVQllQaFJXSm5Xd0lvc0lwcU5JSC1MUDVOaUYxTzNqbUQycmpmLWNTVndSZ1dsTUx0eTVDd2tHRk9yaGhaeXg2QXRzRGNVbHhSY2tieDFTVFZ6YTc0WVNTMHpCb01hUGE5VzI1SnJqRnNCMU5EcGFfdXhCMGNjSzRJQUxkcGM1d3B4RXZIeVdvNzZ1M3ZxQ0tEc283QzFxUXZveU82OTlfZS1XbTVvcFdrQnloNEtn?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Extreme precipitation in Central Asia connected to drought in mainland Southeast Asia",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaC13NjlRUjJPcjZibnEtTUtBYjRieHpPQ3ZHX2d3Q1VSMUFKcHY1RHhfU3o4TndHNkx5SVVKNmVGWWhHOVF0WEJ3MXB6ZWVfV3BNcUtMZ0ctcXhpazlJWG00clpScDZYZkR1dWFlQjMzaFlCWkNNNlRHaWZ6c1ZyMjFxUQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Multiple Wars Are Ruining Central Asia’s Efforts to Diversify Its Trade Routes",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSGZETVRnR1ZMSFVJbUJ0eWFfbkpua3h2b05Qc2V1OWM5aTZ3TFJYM2w4WVF6c1JCV0phNExhdDIzb3AwTWJsVDRkOVBDa3NXaThVbEo4TDNycG4yckFCZGVEMDZwSS0zQjNadWJVYU5XbG01dkMyeXJ4MU1iRFdZcXRzaFZDWFpKbFUxb3FvX1c?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "South and Central Asia Subcommittee Chairman Huizenga Delivers Opening Remarks at Joint Subcommittee Hearing on Aligning Commercial Diplomacy",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPajVkeW5wNlRTbU1XMVp3RWItdTZoOUo1QkdsX1lXM2VFanVPaDlLSjRhZWYzR2xCeThGTUROX2tsNTJzbC1aVG93MzFQam5JeG1qTy1ic2ZvMjNZSWdMaTBkcnNmUzZoU0FZVUQ4UndCOHFaa291dVgyemhpdXJpRjVIamVaRFZPUHA0UkxmZlBya2tUNlFrSFNfSHRXMXdSOVVsWWlha0JaT05PYXpmLU1HYVBhaUVYbFdlYW1WanA4MHVwTXdpNmZKY2dvYm1RWUgwbm5pLWNyY2lyNGlleEd4bk9JY1dCVVY1WGN3aUlFUXVFcmhBMHpUNjJhR0NPYXR0OE8xcjE1blZHbklkTUk4Mmo2WGpEdFBGSVZB?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-07T11:20:45.237Z"
+      "pulled_at": "2026-08-07T12:05:51.667Z"
     }
   ]
 }
