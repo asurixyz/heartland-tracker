@@ -1,15 +1,335 @@
 {
-  "fetched_at": "2026-08-10T19:28:26.151Z",
+  "fetched_at": "2026-08-10T20:08:38.942Z",
   "source": "GDELT + Google News RSS",
-  "count": 40,
+  "count": 80,
   "events": [
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Что Лукашенко обсуждал с лидером КПРФ Зюгановым в Минске",
+      "url": "https://www.sb.by/articles/chuvstvovat-puls-vremeni.html",
+      "domain": "sb.by",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13 , officials say",
+      "url": "https://www.dorsetecho.co.uk/news/national/26451935.ukrainian-drone-attack-oil-hub-deep-inside-russia-kills-13-officials-say/",
+      "domain": "dorsetecho.co.uk",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13 , officials say",
+      "url": "https://www.london-now.co.uk/news/national/26451935.ukrainian-drone-attack-oil-hub-deep-inside-russia-kills-13-officials-say/",
+      "domain": "london-now.co.uk",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3d3dy5i",
+      "layer": "reported",
+      "title": "International Olympiad in Informatics kicks off in Uzbekistan for first time",
+      "url": "http://www.bignewsnetwork.com/news/279231402/international-olympiad-in-informatics-kicks-off-in-uzbekistan-for-first-time",
+      "domain": "bignewsnetwork.com",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "بين قبول حماس ورفض إسرائيل ما مصير خطة ترامب الجديدة في غزة ؟ ",
+      "url": "https://www.omandaily.om/article/1208357",
+      "domain": "omandaily.om",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly90aGVk",
+      "layer": "reported",
+      "title": "Safeguarding Storage : Wildberrie Move to Kazakhstan – The Diplomat",
+      "url": "https://thediplomat.com/2026/08/safeguarding-storage-wildberries-move-to-kazakhstan/",
+      "domain": "thediplomat.com",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9kYWls",
+      "layer": "reported",
+      "title": "В Австрії викрили схему обходу санкцій для постачання обладнання російському ВПК",
+      "url": "https://daily.com.ua/partners-news/v-avstrii-vykryly-shemu-obhodu-sankcii-dlya-postachannya-obladnannya-rosiiskomu-vpk/",
+      "domain": "daily.com.ua",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13 , officials say",
+      "url": "https://www.eveshamjournal.co.uk/news/national/26451935.ukrainian-drone-attack-oil-hub-deep-inside-russia-kills-13-officials-say/",
+      "domain": "eveshamjournal.co.uk",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly90aGVk",
+      "layer": "reported",
+      "title": "Austria Says No to the Tajik Government",
+      "url": "https://thediplomat.com/2026/08/austria-says-no-to-the-tajik-government/",
+      "domain": "thediplomat.com",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13 , officials say",
+      "url": "https://www.basingstokegazette.co.uk/news/national/26451935.ukrainian-drone-attack-oil-hub-deep-inside-russia-kills-13-officials-say/",
+      "domain": "basingstokegazette.co.uk",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9uYXRs",
+      "layer": "reported",
+      "title": "49th Meeting of the Codex Alimentarius Commission",
+      "url": "https://natlawreview.com/article/codex-alimentarius-main-outcome-49th-meeting-codex-alimentarius-commission-cac49",
+      "domain": "natlawreview.com",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly92ei5y",
+      "layer": "reported",
+      "title": "Захарова : При ударе ВСУ по Нижнекамску погибли восемь граждан Узбекистана :: Новости дня / ВЗГЛЯД",
+      "url": "https://vz.ru/news/2026/8/10/1441708.html",
+      "domain": "vz.ru",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13 , officials say",
+      "url": "https://www.northwichguardian.co.uk/news/national/26451935.ukrainian-drone-attack-oil-hub-deep-inside-russia-kills-13-officials-say/",
+      "domain": "northwichguardian.co.uk",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9sYi51",
+      "layer": "reported",
+      "title": "Австрія : викрили мережу постачання обладнання для оборонпрому РФ",
+      "url": "https://lb.ua/world/2026/08/10/758068_vidni_vikrili_mizhnarodnu.html",
+      "domain": "lb.ua",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13 , officials say",
+      "url": "https://www.swindonadvertiser.co.uk/news/national/26451935.ukrainian-drone-attack-oil-hub-deep-inside-russia-kills-13-officials-say/",
+      "domain": "swindonadvertiser.co.uk",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "В хостеле в момент попадания дрона находились около 100 человек",
+      "url": "https://www.tatar-inform.ru/news/v-xostele-v-moment-popadaniya-drona-naxodilis-okolo-100-celovek-6037067",
+      "domain": "tatar-inform.ru",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Австрійська компанія постачала Росії деталі для ракетних двигунів в обхід санкцій DSnews . ua",
+      "url": "https://www.dsnews.ua/ukr/world/avstriyskaya-kompaniya-postavlyala-rossii-detali-dlya-raketnyh-dvigateley-v-obhod-sankciy-10082026-465210",
+      "domain": "dsnews.ua",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "World : Ukraine drone strike on Russian oil - refining city kil",
+      "url": "https://www.newvision.co.ug/category/world/ukraine-drone-strike-on-russian-oil-refining-NV_238542_082026",
+      "domain": "newvision.co.ug",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13 , officials say",
+      "url": "https://www.thenorthernecho.co.uk/news/national/26451935.ukrainian-drone-attack-oil-hub-deep-inside-russia-kills-13-officials-say/",
+      "domain": "thenorthernecho.co.uk",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13 , officials say",
+      "url": "https://www.rhyljournal.co.uk/news/national/26451935.ukrainian-drone-attack-oil-hub-deep-inside-russia-kills-13-officials-say/",
+      "domain": "rhyljournal.co.uk",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9wYXJh",
+      "layer": "reported",
+      "title": "Τα 25 νέα Μνημεία Παγκόσμιας Κληρονομιάς της UNESCO",
+      "url": "https://parathyro.politis.com.cy/features/istoria/1025192/ta-25-nea-mnimia-paghkosmias-klironomias-tis-unesco",
+      "domain": "parathyro.politis.com.cy",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13 , officials say",
+      "url": "https://www.denbighshirefreepress.co.uk/news/national/26451935.ukrainian-drone-attack-oil-hub-deep-inside-russia-kills-13-officials-say/",
+      "domain": "denbighshirefreepress.co.uk",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9ydS5h",
+      "layer": "reported",
+      "title": "США , Армения и Азербайджан опубликовали совместное заявление по случаю первой годовщины Саммита мира в Белом доме",
+      "url": "https://ru.apa.az/vneshnyaya-politika/ssa-armeniya-i-azerbaidzan-opublikovali-sovmestnoe-zayavlenie-po-slucayu-pervoi-godovshhiny-sammita-mira-v-belom-dome-666405",
+      "domain": "ru.apa.az",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "МИД России призвал мировое сообщество осудить удар по Нижнекамску",
+      "url": "https://www.interfax.ru/russia/1108552",
+      "domain": "interfax.ru",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9haWYu",
+      "layer": "reported",
+      "title": "Захарова : девять иностранцев погибли при атаке БПЛА на Нижнекамск",
+      "url": "https://aif.ru/incidents/zaharova-devyat-inostrancev-pogibli-pri-atake-bpla-na-nizhnekamsk",
+      "domain": "aif.ru",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3d3dy5h",
+      "layer": "reported",
+      "title": "How one engineer is witnessing a road revolution in Kyrgyzstan",
+      "url": "http://www.afghanistannews.net/news/279229542/how-one-engineer-is-witnessing-a-road-revolution-in-kyrgyzstan",
+      "domain": "afghanistannews.net",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Что произошло за день : понедельник , 10 августа",
+      "url": "https://www.interfax.ru/russia/1108537",
+      "domain": "interfax.ru",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "2026中国 - 中亚国家摔跤精英赛西安收官 中国队共获12金 - 华侨网",
+      "url": "https://www.chinesepress.com/2026/193100.html",
+      "domain": "chinesepress.com",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13 , officials say",
+      "url": "https://www.milfordmercury.co.uk/news/national/26451935.ukrainian-drone-attack-oil-hub-deep-inside-russia-kills-13-officials-say/",
+      "domain": "milfordmercury.co.uk",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13 , officials say",
+      "url": "https://www.ledburyreporter.co.uk/news/national/26451935.ukrainian-drone-attack-oil-hub-deep-inside-russia-kills-13-officials-say/",
+      "domain": "ledburyreporter.co.uk",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9nYXpl",
+      "layer": "reported",
+      "title": "Без наушников на дороге : УПСМ обратилось к пользователям самокатов » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+      "url": "https://gazeta.kg/exclusive/212884-bez-naushnikov-na-doroge-upsm-obratilos-k-polzovateljam-samokatov.html",
+      "domain": "gazeta.kg",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9jcnVk",
+      "layer": "reported",
+      "title": "Open Letter to Oil Companies Operating in Kokzhide",
+      "url": "https://crudeaccountability.org/open-letter-to-oil-companies-operating-in-kokzhide/",
+      "domain": "crudeaccountability.org",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9zdGFu",
+      "layer": "reported",
+      "title": "Лозунг Садыра Жапарова - СПЛОЧЁННОСТЬ",
+      "url": "https://stanradar.com/news/full/60397-lozung-sadyra-zhaparova-splochennost.html",
+      "domain": "stanradar.com",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9yZy5y",
+      "layer": "reported",
+      "title": "Стала известна реакция Узбекистана на гибель граждан от удара ВСУ в Нижнекамске",
+      "url": "https://rg.ru/2026/08/10/stala-izvestna-reakciia-uzbekistana-na-gibel-grazhdan-ot-udara-vsu-v-nizhnekamske.html",
+      "domain": "rg.ru",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3d3dy5i",
+      "layer": "reported",
+      "title": "Students of Chandigarh University Bags Gold and Silver Medals at Glasgow Commonwealth Games 2026",
+      "url": "http://www.bignewsnetwork.com/news/279230110/students-of-chandigarh-university-bags-gold-and-silver-medals-at-glasgow-commonwealth-games-2026",
+      "domain": "bignewsnetwork.com",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3d3dy5i",
+      "layer": "reported",
+      "title": "Students of Chandigarh University Bags Gold and Silver Medals at Glasgow Commonwealth Games 2026",
+      "url": "http://www.bangladeshsun.com/news/279230110/students-of-chandigarh-university-bags-gold-and-silver-medals-at-glasgow-commonwealth-games-2026",
+      "domain": "bangladeshsun.com",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Ukrainian drone attack on oil hub deep in Russia kills 13 : officials",
+      "url": "https://www.orlandosentinel.com/2026/08/10/ukrainian-drone-attack-russian-oil-hub/",
+      "domain": "orlandosentinel.com",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13 , officials say",
+      "url": "https://www.halesowennews.co.uk/news/national/26451935.ukrainian-drone-attack-oil-hub-deep-inside-russia-kills-13-officials-say/",
+      "domain": "halesowennews.co.uk",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13 , officials say",
+      "url": "https://www.butlereagle.com/20260810/ukrainian-drone-attack-on-an-oil-hub-deep-inside-russia-kills-13-officials-say/",
+      "domain": "butlereagle.com",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3d3dy5j",
+      "layer": "reported",
+      "title": "Kazakhstan reroutes oil exports after Ukrainian strikes",
+      "url": "http://www.centralasiatimes.com/news/279229283/kazakhstan-reroutes-oil-exports-after-ukrainian-strikes",
+      "domain": "centralasiatimes.com",
+      "pulled_at": "2026-08-10T20:08:38.941Z"
+    },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
       "title": "EH216-S Completes Central Asia’s First Pilotless Human-Carrying eVTOL Flight in the Heart of Kazakhstan’s Capital",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwdWlJaEd4UXV4dkFUQk53d2ttbTJMazNDTzdvdlp1QTVwMlBvRnZSd3B5b3RvMFRFTmhNRF84ZjJuR28wb0JmUEloQnY?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.941Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -17,7 +337,7 @@
       "title": "Ukraine's Drone War Is Breaking Russia's Fuel Grip on Central Asia",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXhmNkpORUl5WjRJMGRUUEhaR1FSMkhwTDFPT3FlUlRDbXpoQ1VGOFRnTmpjYy1ZenpNcEJWZnA5Rm1QRUNleEYydWJtclZ3MFY4TmtYcmt1RUhYeGRkSFB6TW1vdHdQVUI4VGNaZmtXY2JIMnZTT2UtWTduS21LeHlZb1VzN0h4R3NzSm5FYXJzdUlyVVBVZnVfYTRMRE9wSmlwamplTWpKXzNlNnpxZHh30gG3AUFVX3lxTE1uRk9IZm5vNFc5d2xucEl4dWVmVmFnY2FzY0YtemQwQ0xOcHZueVJObXdyck9XVFUyLTJUd2RpX0cxT0tSaUVqd3VGaXFCY1F4R2R3RmYxMmotMnF0OHV6UURLdFBsX1lkUkxQUFZ5RU9fVWFBTkc1U3FUU1hDRERGUFZBdC0zckdtYndHc1Q3eE1wcjVBdVB0Ri1iT2ZxSFZObTJjZ3ZYU1d4M2FfZTd1NU1TdXpMSQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.941Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -25,7 +345,7 @@
       "title": "EHang Completes Central Asia’s First Pilotless Human-Carrying eVTOL Flight in Kazakhstan",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVEM2Z194QmZrQkRmMi1MaUhWcFFpeFVtU0U1ejhYOTh0OUFVZEpQTk5oWHF0TDdTTk1YNjE4U1JpZDJtRzZtbVp0VU1FYmFENHU5Q21Sd1U0Wlc1dEh6SmtoOE9odkJrOFdhbVFtbWg5bVdycWxCLVNVWUpfektaaDE2S3M1by1LWkp6eUJyb1ZKd2k2QTE5M1ctZXZHZkFnRmp6dmZUMGs5bjNSUHY2UDY2TGhJZi15aWRvMjc5LWc5WldVQUxmdw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.941Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -33,7 +353,7 @@
       "title": "Pockets of Hope: Biosphere Reserves in South and Central Asia",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWWNva2h3RWpVZGRpRDJQaHYwUlczeDN4aFpXWjBONm1HM0l1TWlESVNQbUdjUmRfVFd5NjVfbk9vMC1nNGRiZDJuVlJqODI1M2x1SGh4SURSa0hidTdhdmNmWjVlZnp5SEgySmxnVUdsVmdwN2x5a2ZrZlg4LTkzc1dpQWRSTDY2Z0VmNmdlT0RsMHM?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.941Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -41,7 +361,7 @@
       "title": "Kazakhstan’s Transport Minister Takes Pilotless EHang eVTOL Flight",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUTZ6VlJXRWtIcjZYc0M4WUx6RUdDNGJ4T3UyWDNJT0lVaWtkeGhTNHJIcHVvaHQwbEZYeTViMWNsZGZRckVkeHd2aHRoT3I2VDJrOGdmZno5WE4wMTZJcjQzQjhoVTBLTmo2cVdqQVBkTHlvRnRBYVRqdXY1RGNxN1NJTkoxZE5ZUlVNWXcxM0p5TGdGRDVwZTVxVUo1SkhVdVRDSjJZVGQyVHZZNXA3ZlZtRnA3SHU4QXc?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.941Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -49,7 +369,7 @@
       "title": "‘Cyprus Has Consistently Demonstrated That It Is a Reliable, Predictable, and Trusted Partner’",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaXM5UTdRS0Q2SUxGVm9nSnlMZmFEaVg0M2dJNldDVm1MQ0EyR3V3aXlDYWloM0Z4eEUzZzc1RWdlcUFRdEJsTkkzemFZOWRxdXNRa0RWY01RZ1l2bm9mNUgxVHgwYi0zRW1QaG9YSm5ESVh0N0locG5SUVNWci0tZE1Ea05MSkdZTGFtdkhMU2l0dHNYMFpBWUVWZWhwdWRpVTBtTnVSSGEyOXN0SVZ5RlJvOVJoLTNxaUwydFZ5OS1tbS1XQUE?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.941Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -57,7 +377,7 @@
       "title": "CCOLA: Strong revenue and profit growth driven by Central Asia and robust risk management",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbmIxUlQyLXlHbDJDa2psb2RpS3Bjb3F0UXRFdGJzOVZXYzY5WnNOSzVmenRCdTVuWnYxM1RNZ2VxNlJvNUU3WVBidlE0X2hDb1hRdy00ekh5VVJBLUtsMmZ0NkhwcDFEbGRjd2k3YUdtWko2U21SQlJJMWtneGZHMXlidkRpdXd4MDU0cnd5REhXR0M2UVR3WHRDb0xZUWJ4VVFKUnlGQ2tldjdvRUtUTkFaUGNyanhQRktxMExDSkk2cjUxd0pjRzh1a2dPRVZDWjcxMjhPN1JMTHdTR0w0NXFWMGp3UXQ4QXZHWDNVTk91c0diMW1oUmUycW9pQkNf?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.941Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -65,7 +385,7 @@
       "title": "Central Asian States Plan Automated Water Monitoring on the Syr Darya",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcVAteVhLS2lEUVNqNFU1RkptMkNTSk5wYlR1bFlvWDBYWVkzcFZVcXNDSGU5bDdhVUxCeWMzelBPUGZnME1OMW5LR3pyMkxHMGhwNy10bGMwandMQ1B1Si13SWs5Ui1MM05DaTRfY29SM2k5b2U0aGxnblZ6UndEUnVuanppM2ZFdVI4R1V2c1ZYQ3ZQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.941Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -73,7 +393,7 @@
       "title": "EHang completes Central Asia's first human-carrying eVTOL flight (EH:NASDAQ)",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbVpMQkthVHhWZHlKaHoweGZMVmJyZElVWUdMVGtfLUt4REluUEE1X1NOUFZyZkRHNWJjZVF2dEhVaWtkZTV1d1l4bE90ckpCdnBWSG95czFKLTNwWVNBS1dJY1hEZVROV0ZPSDJ2VmVPR1pxaVFOc21Gei0zVHh0VTY4ejAtejc2c0hDRkJNT3E4anhmLVdYXzFWNzlRSy03RXFB?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.941Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -81,7 +401,7 @@
       "title": "China's Buheeerdun wins men's FS 125kg gold at China-Central Asia Elite Wrestling tournament",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CaEVlbHNRQmtIaTZ1cENGb3ZxcW4yU0ZLektVVi1HaW5PWXFEQXNOYUpNcWtMdC1kd1FDSkRmeHB1TXFvVUR3UXVYX0hvUEdWMXRtZWs1TTNSVzRRcUVJdEZMVGw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.941Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -89,15 +409,15 @@
       "title": "13 die in Russia during attack by Ukraine 900 km from Moscow: officials",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZlI0MG1jQllzVFJSVEZQdDF2ZVpBTXlOenh4cEIzRTNYTG1kZldZV1VQNE13MVkzTHpyM05uaGZxdFdHQ3M1WGg0ZkdYYmowMVdreUZJWkJXZm40NzViUnpLVmRJTV9ndjhLR2N6UUlVbUgyNUJ0NFRhMTZTZnd4MnJ6THNObVltTHhYRXkxV3g4QTI1MlRqRl8zM212VVFJZW5oaGRWV2NoV2NkRG1CWTdjVHByYzNhSzJISDF6ZVJLXzdvMkZQX29rZW9KZ0NBTExRdElGQW7SAdgBQVVfeXFMTktLYVBHcUtLYUpEWjNjcXdRUFI4UG8yOXY1LW9JV0h6a2Fzd3QtWEVZek1TM09IRFNIZS1rQU5TSjU4Rm54ZEx6WVVleWgyUG1GSUQyaFp3b1hHMkEtWko5NDVyYmhjbUEyT0hkZkV5S1ZEb0F0TnFwSzQ3ajdtczBUVXgtOXhLd1NsSk12cmtrZUo5TzM3bTRtNWF2aDBJM09VYWU5bmx2VG81ZU4yX1FqUmtfLU1IcVg1a09ybTZuMktkQm9YTGw3TklQRV96REowUFhtaVFy?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Qosh-Tepa Canal: new water source or growing threat to Central Asia?",
+      "title": "Qosh-Tepa Canal: new water source or growing threat to Central Asia? - Азия-Плюс",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNamFQX0hkcFFSNWF0am9YekpjbjNYdmVpNjA5eEZtVUFlU0M4aEZyNFZENE1lZ1NxMk43bGE1NkZtUmpsOENqcGpRZTRaTzROQXUwOGs0dG5sUlNXc1lFNlRDOVA5SkRHcUdSTUlrZHFlYldDMWxFTjdOMkhiLVJfMVJseWJaUUFmTjkzYmZGR2M?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -105,7 +425,7 @@
       "title": "Kyrgyzstan faces fuel pressure as Russian supplies decline",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHA0OXlxNWdHOVo4dGdWdjV4WnRDVFQxdjJKbE5hWUpvNlZ1ZVY0ZUFLNmFFMkdpX05qYXhJbzBoaGNPVzhWdzd0S0xWWUxQRlBlcG8ySnliakJtU1A1MnNVMHotcmVTbkYzbm8wMDRYZVYyV1JNdV9iWFdFTzdhcmpPcG03OTI4TUxGeTBMOHExWXlHT3Ixamk5NmxtRGljekhLd3Z1NUVhdw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -113,7 +433,7 @@
       "title": "EHang completes Central Asia's first pilotless human-carrying eVTOL flight in Kazakhstan",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPalF4R1pzNTBFZnJ4aGpCRTdzY19TOWoyT2hic1RFTS1aR2pXVU12RnBqU3NVeU83dVQxcUFUV1hMeHlZdUxObjh6eUo5RV9MR0FYeE4zSjdEc0xVMFluZVBLc05Uc0s5aFZSYjJBaWpqaEVnYkNfYVN5NUpyMElRb0hTR3NITm5ZQTJaZW1HdkE1SUpxX0puZllwZVlRME9WQ1FfVQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -121,15 +441,7 @@
       "title": "Global stars, cosplay and creativity at Comic Con Astana 2026",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaFp2Z1dVOVBpOXQ1a2h4VWVhVncxeENTVTN0QjgtanY4MHBXVW5iREU4LXhFOE9CdnNqekJtM0tacHNXNHJ0MWhRZVdlY2lBc0Z3MUxldkg1NURTaHlfTDktM3ZwZ0N0by13Q1BqZ3Byd0NWUHhqR1pEc29WbzFKeVRySVdpLVI1T19CQUNSeWdGcGxhY1AtdnRlOEV2eTQ0N2NCVlp1X2gwcnNRZFV0STFSd0s5VTQ3MEc5MWItSGVTUQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Kyrgyzstan and U.S. Address Sanctions and Visa Bond Requirements",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTRVRHRtTUo2OC1ibkdjZFdJd1dSMWt3d0JNbUMzbV93czhBMGZjNWRNR09tSEt2c0JMYW1FV3V5SmNIaDZJZmptZTlncG4tc1UwYzFRSXpKZkdPUlJJTllKaUNCYXFYUWJmVEtkXzZuSGxOX0dpOHlYcWNyeXJyOTZRb3h2Rklvdl9YVUV4T2NsUHFiUkd5ZnRBMUd3MDg?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -137,7 +449,15 @@
       "title": "Uzbekistan’s $5 Billion Sea Breeze Resort Awaits Environmental Review",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vb0hxLWZWOHZWN0tVR3ZpczNKblY5M0ZHbXoxVEZBYk5janB4enZfcWxrZ3JvU0dZVXhQejJua0pPOFQzZFdCR2NhRFAxV2J6dlZoZnZjak1obXBYX3pycUcwRGdVa1NmVmlDcUc1Y0M?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Uzbekistan secures preferential tariffs for cargo through Kazakhstan’s Kuryk port",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEYxNlhHRnBONFhvbWNQNU5fUGl2aWFfNTRfTHRrOHNnUjJiWk5YZERQa0Q4bUVwdm9fbTA3WEUyeDBIdE5Fc3ZubkxFVU1zdjA5YmdQZzRyWFN3U0l3TmJ2N05acEd5a0RzYng0Yjg1NGhDTG9GWDczXzd0WHhxTk9PQW9wUGtfbHZBenM2ZDBVeGhtQVd1SkNTdFV2NVpX?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -145,7 +465,7 @@
       "title": "Abai Day in Kazakhstan: The Enduring Legacy of a National Poet",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMU3RIcmRfN1BLRW5seTR2Sm1icG8zM3hJVVlhSnRTT0hFUUlRancybmZUeGdNOEkyMWZsMzlXM3BKNlkzay1mQ1ltZlZmU016czFOWlp3?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -153,15 +473,15 @@
       "title": "Kazakh Environmental Group Proposes Trials of Chinese Land-Restoration Technologies",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWp0cmgxUFkxZXAyemVuOVJFdnNVQUVQMXF3UF9tRU0yMjk0ZkpZM0d2V2dhYTBjY3RFNkNMTXlIeFA5ZnZGazVHa1BYNTFEZkFvSUdCbVBqSElCeUlMVXFJOEFKdUxIV1FXNnBUcy1yZnFza2xfcUphMGdrclFyY2VtQW9jWFV0eW9rekJyWENtZ3pFN1c1ZlpiOGxZeUd6azBKZFlGbw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Kazakh Uranium for Asia: Japan Returns for Fuel, South Korea Expands Cooperation",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaVhjMjJBaGotREpnaWJjaV9TSXRCaXh3OHJ0WElDZmZZNXVhaVJWNGhoanVOUXF1dEJ4UHNENEVKSmloT1hwdUxjVVllRjlRVTZGcXZzWnRWeklKaGNQcTB2MlVNZjdzSi02ZEZZWkx1NWRNQmtvR1lFUE53MlRNcC05b2lfVUhqUVFfQmNmVkd4bjJQWVlrejI1MHBDbHhK?oc=5",
+      "title": "Kyrgyzstan and U.S. Address Sanctions and Visa Bond Requirements",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTRVRHRtTUo2OC1ibkdjZFdJd1dSMWt3d0JNbUMzbV93czhBMGZjNWRNR09tSEt2c0JMYW1FV3V5SmNIaDZJZmptZTlncG4tc1UwYzFRSXpKZkdPUlJJTllKaUNCYXFYUWJmVEtkXzZuSGxOX0dpOHlYcWNyeXJyOTZRb3h2Rklvdl9YVUV4T2NsUHFiUkd5ZnRBMUd3MDg?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -169,7 +489,15 @@
       "title": "UNICEF Europe and Central Asia Region Humanitarian Situation Report No.34 (Ukraine Refugee Response in Neighboring Countries), January - June 2026",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNTDFHQjhxeUZqc1BfZEJsa1FrbldLYmdxc19INnJQUEtjRmhoUHNQQzV4cmdlem16M1VrV1VtTVRtNnVjTkItbGhpZXVicjBNYXRFUXNhcVd0WXRPU0pReV9CbDZrRi1JUG9qczlTRFhyX0EzR1hmcmxZaDc0T2Z2Q0VtVUNqdGRhSnZFSjlLRURISzVEeTAyN3M2bTI3OXNfX1dMYWRzbmpoMWVxajZZZUxiNHFtSnZYdFhfd0ZqbEpMMjJ5ZlI1bG1JdmJzcVVVMTRKOE9CUl9vTHlxazF4OERFQTlQMUhOTlM5WEppeDF3SUxYUjM2TkI2YmprNXR6Y3NrNg?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Kazakh Uranium for Asia: Japan Returns for Fuel, South Korea Expands Cooperation",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaVhjMjJBaGotREpnaWJjaV9TSXRCaXh3OHJ0WElDZmZZNXVhaVJWNGhoanVOUXF1dEJ4UHNENEVKSmloT1hwdUxjVVllRjlRVTZGcXZzWnRWeklKaGNQcTB2MlVNZjdzSi02ZEZZWkx1NWRNQmtvR1lFUE53MlRNcC05b2lfVUhqUVFfQmNmVkd4bjJQWVlrejI1MHBDbHhK?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -177,7 +505,7 @@
       "title": "Black Sea Risks Elevate Azerbaijan and Turkey in Kazakhstan’s Export Strategy",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTzFmdzdvdGJfdTFzTEVaQVdYMC13VGJEZlpxNERTQ1pYZEtJMHJzTEM2OWVYUHFFNHZvQ1NSeE1fQ0F0NTVzQ1g2cU9BM29KYmVMTHFaaEVyR3JDbWhLakVHN0FHelRSdWNQd3FSb1NIQW4tMzJYU2NtTmQxSHgxSDRTZzF4Y29VWERwY3RTT08zdFJ1MFBadWxKbmFxZw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -185,7 +513,7 @@
       "title": "Korea's energy opportunity in Central Asia",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSzJxR1FtU2JJLXJkQ2NtSUZLVm5MZEsxa2JuakhkcVowanlkQTl2OXFTVURaMWhOdU51aktldjNRM3pCaDFadXRSdlYzQnpOVXVUSW1yOU5kV0dGeE4wZU1QRnZyaFEtd2JJQWFPT1hYcTVDVXhZWkVzYTNLYldVd3pTV25rVndUMlVCRnNVZErSAZYBQVVfeXFMUEtWcEJMR055RFNNc1hoZHIzN3ItcVBWckVyZ0JoTGw5b1FfUkMwZmdIbnJ1NkN6cWs1Tk1xeXpIaUFqd1JFYnppTW9pcDU2T0R1TkcyeGRRaGxhT0NTOXJRUzduSF8yTTdmZWxNUmN2bm5FUkZTUE9mV2lPWGlYZjFCMjZ5UlU3WTZQU3laY3otbkJsekhR?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -193,7 +521,7 @@
       "title": "Russian attacks kill 4 in Ukraine, including 3-year-old boy",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRGdnWU1oSWl5TFhaTU90T3VPWnNUYjFpRndVVkg5bWVqMlpJMHYwakVQTlc4dnE5U2RHcGNXQVZycGxuZTFfb2I0akJpWFVXdTBTQ2tJX1hEM0c2OVVuV0RFMlR0aTFRVWpHQmlnZGZWbjd5Y0FyN3VVcXdKZDhhUnlBbHpZdnJsOS1qVDhza08zQ0NUWG8yVE12TGJTNUU3UGQ4TTRkbXROdEc3bFI2ZVAzQ2x2TmlsQUlrVExEbmdSZ251bE9oMUZoSnFQd2ZCZHhwOTdn0gHWAUFVX3lxTE1hQkt2b0hZYjh1SWxCRFVXcWhudEZLTTJiTVVoOG0zaG16TV84R0pKWWcxNVo4VFRLVF9hemxmVzZEd1FSakYtenpLMzQ4enM4cllGVXdBZElVcUxodEF0ZzJ2SU1oTFBUZHhHdDVNV2oteG4zYVh4UEl1WnRoU0pZV09zTVVodUpON0pENzVQZDYxcjRMa0NrLTVvWDRPN0dXNkM5SlJRQzRCeW56WVJfMU1tY3J2UFlucUNKQmVNam9Ka05UX2lkZTNvZkwxcXhtdzFJeWc?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -201,7 +529,7 @@
       "title": "Heavy rain and temperatures up to +44°C forecast across Kazakhstan",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOTlKRjNyZjJ1Vk1UNk11aWtsMUIxQ2lMY2JQdEk0M2ZqX2dCWlJVYjBPNjVhLXBXbTdMYmZxTE01Y1ZVSTVQRVh6S0hsTXpjSVpyQWNTSVZnb2lRTlNqbTY5eWV5TEl2d1c3U2VOd1RUcEZ1QVdabkZwamxFbVF4TlVlcDRvTlYxXzdPYkxvTGZwcUlqZkhZRzNKUXY1QmvSAZ8BQVVfeXFMTVdRWUd3UkpKVmFFTFJrOFJjUm01ZFJXM1o2THJ2V2tUVFZNWWFVazFOdExLRC1nelhxUlB2SjhmUkFiTk9pLURUbFRpNHItSFpTREZ3ZTRLSmRMMHUycGZQOHRBMUk5a1h5aEFYWkx2dFNfcEs2NjZFYlVuQ2xITE5sMlhDa05LbVNuQTZSTjU0SUtSN1Ntc2sxM1ZGLU93?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -209,7 +537,7 @@
       "title": "China’s Electric Mobility Strategy In South Asia: Opportunities, Dependence And Challenges For India - Analysis",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSzFCbk50Y0VTTm01Wm43UEZuQTV6Z0hLUGJmQkZwTHV4dXR3bXNLQmgxc3ladC1zd2JaQ2FzU2VaalZZOTdwUU5QaEptOVlLUi1OYlYxRTk4VEc5bkF1NkdQS0ZkbVZRVDhRdk1XVEQ4UlRnc3U2RVBDMXdWenpMMm0wc3VyUGVucDlGNlRfUWV3bi1xT29IdVFITGUxeWlYVno1azFtWkE5MGNsTWtwOVk3T0EtdU1DS2tBcmFwS09xZVNTZndGLWRtUUgtRmFzSnBkbEp6amM2aklPNEpV?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -217,7 +545,7 @@
       "title": "MegaFon Tajikistan Upgrades 4G Network, Expands Fiber Infrastructure",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV01adXhRcEpCdXhGWWNQd3FzRGQyMEVpYndmdFpUUnBFVVJiN1YtbnlHZmo2VnlwVDVwdTNMSktCSERkaWxJX2dUMGdvQnhSNERhLTV2dS0yQ095d1FUSDFreDNGNGlzelI4U09HWTRhUlBXYkNiUXlVSGNSM2dKS2Z3UDd4V3dpWmR5SFZvYnFweE0xeDJqdFgySWtRZzhpQ2M5N21LTlNfN1hvQUVMSWtNOHFNaThJZGlKVHJVVTJFeFBJ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -225,7 +553,7 @@
       "title": "Stopping the Flow: How Uzbekistan is Strengthening the Fight Against Illicit Firearms?",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQjZVd1RvU0ZxS3B0ZFcxeGpBNTVVQllQaFJXSm5Xd0lvc0lwcU5JSC1MUDVOaUYxTzNqbUQycmpmLWNTVndSZ1dsTUx0eTVDd2tHRk9yaGhaeXg2QXRzRGNVbHhSY2tieDFTVFZ6YTc0WVNTMHpCb01hUGE5VzI1SnJqRnNCMU5EcGFfdXhCMGNjSzRJQUxkcGM1d3B4RXZIeVdvNzZ1M3ZxQ0tEc283QzFxUXZveU82OTlfZS1XbTVvcFdrQnloNEtn?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -233,7 +561,7 @@
       "title": "Extreme precipitation in Central Asia connected to drought in mainland Southeast Asia",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaC13NjlRUjJPcjZibnEtTUtBYjRieHpPQ3ZHX2d3Q1VSMUFKcHY1RHhfU3o4TndHNkx5SVVKNmVGWWhHOVF0WEJ3MXB6ZWVfV3BNcUtMZ0ctcXhpazlJWG00clpScDZYZkR1dWFlQjMzaFlCWkNNNlRHaWZ6c1ZyMjFxUQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -241,7 +569,7 @@
       "title": "Tokyo’s runway into Central Asia",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWJWQ3RLNVlWeHdfYUstOEhSRV93LTU3MnZpU3BTWFloTFpQX3JtSm9valVESi1XVjEySUdYb21MZ0Q0dC1MeTQ2MEs3RzNfUmhNQi1WUHl4TVUzejE5Mjc0RnE1VjVMUS0xcmhJRFo0ZjJETFdiLWE5NVpab0VBeGxQSXE?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -249,7 +577,7 @@
       "title": "Kazakhstan’s shift toward Azerbaijan could reshape Caspian oil transit map [ANALYSIS]",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40aEw4bU9wYldWdGEwZDF6UjFMb1RuaVR1Nnh0YVdrb25femVEc0VXX25LZS1vMkFUWEhWRjB4REpBejZiYm0yNmZqZThsSmVaNXNXX0NVWQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -257,7 +585,7 @@
       "title": "Soviet Modernism in Central Asia: The Dilemma of Recent Heritage",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOVM2ckxpYUJGclpuanZJZFB6SlBPaUdLWUFPQVdmVWk0cTB2anU2R3VQZmh0eWE3TWFhUmQwSWVfeDQ3aVhzMElsamRmWU5DbUdEYl80LURibGxlQ2xYbXR3d1c4ckdwNFYtRVdNeTlTc1ZmcGpJc1VRMG9YT29GZGI4Njd4Uk1Qc0IyZmVJbHZYTE5nVS1heC1Ib0o3Zw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -265,7 +593,7 @@
       "title": "Li Auto launches all-new L9 in Uzbekistan, deepening Central Asia push",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwMjRaS01hTlUwbkFWZVNycWplcE1yUmlTN0VITkt3NzltUWJMWUpsWHRWYkt4MkJIdFQ1eW4yS3B6RGUwbHF4ZWFqaU1kOFpDWmtnbW5CYXR3a0w2ZEItaU1ycVlmYnVoNG1hVjhzak9fMFBRTXc?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -273,7 +601,7 @@
       "title": "Hyundai Motor Provides Official Protocol Vehicles For the First Korea–Central Asia Summit 2026",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhY0xydjNwNlJSTllrbXM0VXZNZDg5ZzFtTGdzaEd3RVZMbFhjN0YwUUlEaDl5LXpCTm15ZGZDYXpoMC1tV0VlTjk0U1ZXODRFVjBzdG5SUmVacC1DclVnX2w5NzV5U1F5eExqWlZzRXY?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -281,7 +609,7 @@
       "title": "Panda Power: Kazakhstan Leads Central Asia Amid Surge To China's Debt Market",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSHJJMk5WelNnTWFCaFhva2NpT045NTJ2Z3llNWdMMUc5ekU5V29ZTmxTNjc1bTNCZzRwRWdBZnVyVjdrVktHbjhYMUpzNEFVMTN3bGpodlNGVjZXZk9TSlROeEppY3UzV1c4YjFTMEdNOFBvcmlzbVBfQkhZUmN2d3NIeWstaHdMU0V2c043VF9uMUtC0gGXAUFVX3lxTFBMTDE5UjEyS0I5aVVKU0psN3JSWktLc0g1Ym15MGRmTnVUNVdjVHBfZnpHU0VwS2R4cEZadExldS1pNkNMblFSNjRpU2Rxc2ZheTRsdzgwU05vSXctMzhlZVZUN1pYX2FEUjZ4ejJLZk81bVlKTUZ5WnZZbGpVampZb3hkQjhSWmhrYW1WaTJUNnl5RUd0X3c?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -289,7 +617,7 @@
       "title": "Reordering Central Asia: China’s Emerging Economic Hierarchy",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHE4dHdfZXAyX0t6em5HMXU0T0IxWFI5OFFBQXc1SDhTa0J2dVdSZXZtem9ibExYTHotR0Vyb2hFNXhQdUJMUnJUX0F0aDN5QktFU3Q1NVdFd1BQdTl3N1ppWVhTUHhIU0U4c1RPN3gzenlzbnF3eng4WW9PbTlrR2UxYmliZFJnVVVZRkQtc2d0RnpYYU9IR0p3amY?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -297,7 +625,7 @@
       "title": "South and Central Asia Subcommittee Chairman Huizenga Delivers Opening Remarks at Joint Subcommittee Hearing on Aligning Commercial Diplomacy",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPajVkeW5wNlRTbU1XMVp3RWItdTZoOUo1QkdsX1lXM2VFanVPaDlLSjRhZWYzR2xCeThGTUROX2tsNTJzbC1aVG93MzFQam5JeG1qTy1ic2ZvMjNZSWdMaTBkcnNmUzZoU0FZVUQ4UndCOHFaa291dVgyemhpdXJpRjVIamVaRFZPUHA0UkxmZlBya2tUNlFrSFNfSHRXMXdSOVVsWWlha0JaT05PYXpmLU1HYVBhaUVYbFdlYW1WanA4MHVwTXdpNmZKY2dvYm1RWUgwbm5pLWNyY2lyNGlleEd4bk9JY1dCVVY1WGN3aUlFUXVFcmhBMHpUNjJhR0NPYXR0OE8xcjE1blZHbklkTUk4Mmo2WGpEdFBGSVZB?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -305,7 +633,7 @@
       "title": "Etihad Airways celebrates inaugural flight to Tashkent",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeVp1Q3U5RExaM1NRdTR2Sm44VnNYNmNuLXZlcnh0WkZaWFMzdEg2TjJLOW5QeEZJaU95WEhiXzdEQWxSUFpLN0NrUjdFWVpfX3lsZDdkcjc1NXp1UnpxOENIeURHNl91S040SmY5bXJhSUVEMTJhbW9fc2NXOTlYZ25Xb3lUOXpsX2xaNE1vWmlad0hBN1IxeVRhT2lVTWtP?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -313,15 +641,7 @@
       "title": "Kyrgyz foreign minister receives U.S. assistant secretary of state",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tRDZncnQtVmNGdjVjVW1Ldm1Fcm9NaHdsMDZpbThpSkdXa1F1Z0I2UHhvbTB6NEUzemdMa0NMSjhrMXlGYlA0UXYyT085a3ho?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Gallery of Soviet Modernism in Central Asia: The Dilemma of Recent Heritage - 2",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNQ080dVdVWk5tbkotc05ZeGdSUndGVFFBd1BJSERmTzZYODJjRTVBQlJSeWVGdC00Nmp0cXFUWllwR25NM0dnQ19iYi1yTjNGd29WQTNxTVd6ODhpOFpXSlg2M1BsVFV6cy1jdWFTOVYwSlI5bmtlLTBLZmhmT2U5SkpvNFZZOTJadFhSeG1fWlVJLUNCVnBkZWpld2w1NzI0dVlxaVo2YkdrdU05M244TzdPUk9kaGlzVmVxSFpfbjNQV2FYclRWRDNZTUoxTENTYjVhakhnelZwNUx6ZnJ0Z3hJdFBQTlk2MW1CaS13dlU0ZHF2MURKaVVLSHpKRUpyUWgzTU9WMWh4M3ptTnhGWm43UWRWaThuSEtxZg?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-10T19:28:26.151Z"
+      "pulled_at": "2026-08-10T20:08:38.942Z"
     }
   ]
 }
