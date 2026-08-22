@@ -1,23 +1,335 @@
 {
-  "fetched_at": "2026-08-22T07:08:00.052Z",
+  "fetched_at": "2026-08-22T07:52:03.136Z",
   "source": "GDELT + Google News RSS",
-  "count": 40,
+  "count": 80,
   "events": [
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "从  三北  到世界 ： 我国防沙治沙的实践与担当 - 聚焦",
+      "url": "https://www.fjsen.com/2026-08/22/content_32239748.htm",
+      "domain": "fjsen.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Ρωσία : Στόχος των ουκρανών η πλουσιότερη γυναίκα της χώρας",
+      "url": "https://www.philenews.com/kosmos/article/1761731/stochos-ton-oukranikon-drone-i-plousioteri-gineka-tis-rosias-pia-ine-i-daskala-pou-echtise-ti-rosiki-amazon-ke-eftiaxe-periousia-81-dis/",
+      "domain": "philenews.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly96aGFz",
+      "layer": "reported",
+      "title": "Фатима Супығалиева Қазақстан тарихындағы алғашқы жасөспірімдер арасындағы әлем чемпионы атанды",
+      "url": "https://zhasalash.kz/news/-97bd18/",
+      "domain": "zhasalash.kz",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9ibG9n",
+      "layer": "reported",
+      "title": "东南亚退场 ， 中亚崛起 ？ 哈萨克斯坦 、 吉尔吉斯斯坦代孕 - 阿儿法助孕中心",
+      "url": "https://blog.udn.com:443/228da0e2/192235703",
+      "domain": "blog.udn.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "高雄時雨量飆破80毫米 「 超載 」 5大淹水熱區退水現況直擊 - 生活",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5548576",
+      "domain": "news.ltn.com.tw",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Moravskoslezské novinky - Domácí - Ropná propast ve Střední Asii . Kazachstán uniká svým sousedům",
+      "url": "https://www.moravskoslezskenovinky.cz/zpravy/byznys/ropna-propast-ve-stredni-asii-kazachstan-unika-svym-sousedum/",
+      "domain": "moravskoslezskenovinky.cz",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Минимальный размер оплаты труда в разных странах мира в 2026 году",
+      "url": "https://www.securitylab.ru/blog/personal/Anovikova/361966.php",
+      "domain": "securitylab.ru",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL2ludGVy",
+      "layer": "reported",
+      "title": "У Казахстані головну редакторку Orda . kz Гульнару Бажкенову засудили до восьми років ув  язнення",
+      "url": "http://internetua.com/u-kazahstani-golovnu-redaktorku-orda-kz-gulnaru-bajkenovu-zasudili-do-vosmi-rokiv-uv-yaznennya",
+      "domain": "internetua.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Александр Левченко : Западный вектор в политике Узбекистана Блоги",
+      "url": "https://www.obozrevatel.com/politics-news/zapadnyij-vektor-v-politike-uzbekistana.htm",
+      "domain": "obozrevatel.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Boeing fatal disasters from mid - air disintegration to  deadliest crash in history  ",
+      "url": "https://www.aol.co.uk/articles/boeings-fatal-disasters-mid-air-060319000.html",
+      "domain": "aol.co.uk",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Bordighera Alta diventa un museo a cielo aperto : nasce  Agorà Giovani    - Sanremonews . it",
+      "url": "https://www.sanremonews.it/2026/08/22/leggi-notizia/argomenti/politica-1/articolo/bordighera-alta-diventa-un-museo-a-cielo-aperto-nasce-agora-giovani.html",
+      "domain": "sanremonews.it",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly96aGFz",
+      "layer": "reported",
+      "title": "Демалыс күндеріне арналған ауа райы болжамы",
+      "url": "https://zhasalash.kz/news/demalis-kunderne-arnalgan-aua-rayi-bolzhami-2a6404/",
+      "domain": "zhasalash.kz",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Kazakhstan Shardara HPP announces bond repurchase and coupon payment",
+      "url": "https://www.trend.az/casia/kazakhstan/4217071.html",
+      "domain": "trend.az",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9nYXpl",
+      "layer": "reported",
+      "title": "Напоминаем . Сегодня в Бишкеке ограничат движение из - за репетиции открытия ВИК » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+      "url": "https://gazeta.kg/exclusive/215107-napominaem-segodnja-v-bishkeke-ogranichat-dvizhenie-iz-za-repeticii-otkrytija-vik.html",
+      "domain": "gazeta.kg",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Una realidad en movimiento",
+      "url": "https://www.levante-emv.com/opinion/2026/08/22/realidad-movimiento-133541889.html",
+      "domain": "levante-emv.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Magali Lafourcade :  Nous sommes déj dans un moment de bascule vers autre chose que lEtat de droit ",
+      "url": "https://www.alternatives-economiques.fr/magali-lafourcade-nous-sommes-deja-dans-un-moment-de-bascule-vers-autre-chose-que-l-etat-de-droit",
+      "domain": "alternatives-economiques.fr",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Олександр Левченко : Західний вектор в політиці Узбекистану Блоги",
+      "url": "https://www.obozrevatel.com/ukr/politics-news/zahidnij-vektor-v-polititsi-uzbekistanu.htm",
+      "domain": "obozrevatel.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3VrdXJp",
+      "layer": "reported",
+      "title": "П О В І Д О М Л Е Н Н Я",
+      "url": "http://ukurier.gov.ua/uk/news/pro-prodovzhennya-stroku_2/",
+      "domain": "ukurier.gov.ua",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL2VuLnBl",
+      "layer": "reported",
+      "title": "China Focus : China embraces summer inbound travel craze with niche draws , fresh moves",
+      "url": "http://en.people.cn/n3/2026/0822/c90000-20491239.html",
+      "domain": "en.people.cn",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9iYWlq",
+      "layer": "reported",
+      "title": " 「 AI驱动 · 智构未来 」 AI在中大型企业落地应用创新论坛在沪圆满落幕",
+      "url": "https://baijiahao.baidu.com/s?id=1874198139628155032",
+      "domain": "baijiahao.baidu.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly91ZG4u",
+      "layer": "reported",
+      "title": "MLB ／ 首返芬威球場掌聲與噓聲交錯 ！ 狄佛斯霸氣開轟 「 招呼 」 前東家 | MLB | 運動",
+      "url": "https://udn.com/news/story/6999/9707518",
+      "domain": "udn.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9ibG9n",
+      "layer": "reported",
+      "title": "东南亚代孕为什么价格这么低 ？ - 双峰塔医疗中心",
+      "url": "https://blog.udn.com:443/f7461c4a/192235539",
+      "domain": "blog.udn.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Acum 169 de ani , România avea prima rafinărie din lume , era prima țară producătoare de țiței , iar Bucureștiul era primul oraș iluminat cu petrol lampant . Când s - a introdus curentul în Capitală",
+      "url": "https://www.mediafax.ro/economic/acum-169-de-ani-romania-avea-prima-rafinarie-din-lume-era-prima-tara-producatoare-de-titei-iar-bucurestiul-era-primul-oras-iluminat-cu-petrol-lampant-cand-s-a-introdus-curentul-in-capitala-23794175",
+      "domain": "mediafax.ro",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly90aGVh",
+      "layer": "reported",
+      "title": "AJA Newsbites – August 22 , 2026",
+      "url": "https://theasian.asia/archives/205007",
+      "domain": "theasian.asia",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Суверенный кредитный рейтинг Казахстана повысился",
+      "url": "https://www.caravan.kz/news/suverennyj-kreditnyj-rejting-kazahstana-povysilsja/",
+      "domain": "caravan.kz",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9ibG9n",
+      "layer": "reported",
+      "title": "不止是便宜 ！ 格鲁吉亚代孕凭什么成为全球热门选择 ？ - 格鲁吉亚骄子国际",
+      "url": "https://blog.udn.com:443/bd584314/192235425",
+      "domain": "blog.udn.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9maW5h",
+      "layer": "reported",
+      "title": "今年以来发行规模超2000亿元 熊猫债券市场实现量质双突破 _ 央广网",
+      "url": "https://finance.cnr.cn/gundong/20260822/t20260822_527786517.shtml",
+      "domain": "finance.cnr.cn",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Chinas militärischer Vormarsch in Zentralasien setzt Russland unter Druck",
+      "url": "https://www.berliner-zeitung.de:443/article/chinas-militaerischer-vormarsch-in-zentralasien-setzt-russland-unter-druck-10314856",
+      "domain": "berliner-zeitung.de",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9ibG9n",
+      "layer": "reported",
+      "title": "东北试管婴儿机构TOP5 ？ - 国际生殖中心",
+      "url": "https://blog.udn.com:443/deb7fca1/192235430",
+      "domain": "blog.udn.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9nZS5n",
+      "layer": "reported",
+      "title": "Cristiano Ronaldo pode chegar ao milésimo em 2026 ? Veja do que o craque precisa",
+      "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/08/22/cristiano-ronaldo-pode-chegar-ao-milesimo-em-2026-veja-o-que-o-craque-precisa.ghtml",
+      "domain": "ge.globo.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9uLnlh",
+      "layer": "reported",
+      "title": "從東協圍堵台灣+1 共軍剛跟印尼在台灣東部操演 王毅就要雅加達支持 「 統一大業 」 ",
+      "url": "https://n.yam.com/Article/20260822457083",
+      "domain": "n.yam.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9ibG9n",
+      "layer": "reported",
+      "title": "不想让亲戚知道我代孕了 ， 哈萨克斯坦如何帮我悄悄完成全程 ？ - 国际生殖中心",
+      "url": "https://blog.udn.com:443/deb7fca1/192235378",
+      "domain": "blog.udn.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Overnight News Digest : Friday night elsewhere",
+      "url": "https://www.dailykos.com/stories/2026/8/21/800087838/community/overnight-news-digest-friday-night-elsewhere-9/",
+      "domain": "dailykos.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9ibG9n",
+      "layer": "reported",
+      "title": "不想跑太远吉尔吉斯是否是最佳代孕选择 ？ - 格鲁吉亚骄子国际",
+      "url": "https://blog.udn.com:443/bd584314/192235376",
+      "domain": "blog.udn.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9hemVy",
+      "layer": "reported",
+      "title": "Azərbaycan - Özbəkistan münasibətləri ortaq tarixə və strateji tərəfdaşlığa əsaslanır",
+      "url": "https://azerbaijan-news.az/az/posts/detail/azerbaycan-ozbekistan-munasibetleri-ortaq-tarixe-ve-strateji-terefdasliga-esaslanir-1787346602/399591",
+      "domain": "azerbaijan-news.az",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9ibG9n",
+      "layer": "reported",
+      "title": "不同身份如何合法代孕 ？ 高龄 、 单身 、 同性的门槛与难点拆解 - 阿里特拉维达生殖",
+      "url": "https://blog.udn.com:443/fb76ac98/192235372",
+      "domain": "blog.udn.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9ibG9n",
+      "layer": "reported",
+      "title": "不想十月怀胎 ？ 吉尔吉斯代孕让你免除怀孕的艰辛 - 阿儿法助孕中心",
+      "url": "https://blog.udn.com:443/228da0e2/192235380",
+      "domain": "blog.udn.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Leone una città blindata In strada 500 divise | Sforzo straordinario Useremo il metal detector",
+      "url": "https://www.zazoom.it/2026-08-22/leone-una-citta-blindata-in-strada-500-divise-sforzo-straordinario-useremo-il-metal-detector/19592928/",
+      "domain": "zazoom.it",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "高雄暴雨淹成漂漂河 ！ 市民湧陳其邁FB 刷 「 咕嚕咕嚕 」 求停班 | ETtoday生活新聞",
+      "url": "https://www.ettoday.net/news/20260822/3223752.htm",
+      "domain": "ettoday.net",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "英伟达加速布局AI基建上游 ， 拟投数亿美元锁定电力资源 ， 筑牢算力护城河 - 人工智能 - ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-08/1514495.html",
+      "domain": "itbear.com.cn",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
       "title": "China Challenges Russia’s Arms Dominance in Central Asia",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYzVha1h5eDVZRHpiNnRyRzRNV2xFRzJWYUVKTU1najhIT1VXQ000NzlNZDBaeERDcm8xcjNZLVVMRUJHd2F0T2s5QmJ4ZENoSEpjN1pPQlZYbjJqRVBxdDR4SVQ0VTBFM0VwNkU4ZURpWFFDODZPT1B6T2xGbGFKOTBtUVhabElVZ2g3Mi03SkcyWmgtZTM0MDR5MA?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Is China Replacing Russia as Central Asia’s Arms Supplier?",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTZ4MVhjY1NnVk5ySXFFY1V1Mmt2bzNONjBPaU16MVoxcC10Z3ZzMExFX1FOU29ndTZsRThVS0U3UEJEYVdVNnh5cy1zQXJMTnJJWmZkQVJ6OHphNUZndE9Kc3plQk1kU0xReGlJU3lCd2MzUkF2WmFlcHpUUlJYWE8ta0dFdWJ2OHRKNGRIa0loOVFnNWc5SklRdk1ORWMxWTg2MzNkZTlzanRiUDJJ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -25,15 +337,15 @@
       "title": "China’s ‘SilkParasite’ espionage operation targeting Central Asia with AI-assisted malware",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNWmc4QnhnTXpnNG8yVkNrUGxaQzhQWkppcFRrMERGZmFpdml1bUJaanlMY2dYOUhRV3dqSHBkelFLM3prOFZITGxQQldOUU5yTElKd0FSNGt3TmplZ0poMWV1WUpXc3d6ZXc?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Central Asia and Caucasus companies adopt AI at twice the global rate",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWnZ5SEdHbHFBM2FwTUprblBBazVYZHNpSjg3S0FqejdkajlybGFUenFnS09kV2QxZmlma3ZLMV9jVXRQXzBTNzIybW1qdlVmaGxFcWhnQkc5MHRzc2xfdWY2NWxpRkRxRmFJZjdUem1WSnBsLUp0OVlPbnA1c1I2SVBGZk1wNW9GZU9tdURja3E3LVNLRXUwMHF6OU1MWm56Q1pCSWt4ZmJEMDliZ013?oc=5",
+      "title": "Is China Replacing Russia as Central Asia’s Arms Supplier?",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTZ4MVhjY1NnVk5ySXFFY1V1Mmt2bzNONjBPaU16MVoxcC10Z3ZzMExFX1FOU29ndTZsRThVS0U3UEJEYVdVNnh5cy1zQXJMTnJJWmZkQVJ6OHphNUZndE9Kc3plQk1kU0xReGlJU3lCd2MzUkF2WmFlcHpUUlJYWE8ta0dFdWJ2OHRKNGRIa0loOVFnNWc5SklRdk1ORWMxWTg2MzNkZTlzanRiUDJJ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -41,7 +353,15 @@
       "title": "Bitdefender traces SilkParasite cyberespionage campaign across Central Asia to seven RAT families, China-nexus tooling",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdkNLVmxzRDRER0lfVFRNb0F2RDVsVUVxVWlLd3B6SFRhUk9jZVZfZ3dySGdrWUVmR2oycTNKS20wTks3TmNQUGhJYjJNU2FaMGdJOEt3TERVTW53SHQwS2ZmMWg4OTNPeHBWekFQRWxFckE3MTU4OGw5eUZsdXVpZEx1TnJ3TEM2SjJwM0VZYjd2d3BhdkZISHBSdGh0V0RhVXRDQ01kRzdnYzI4Qk9FMnY1UlAyMVRnOXdWVDhYMlZqOXdpTGFjcUNzNm1nSFVWQVYzMWg2UVNCVWNIWlN6RjhGZU83N1lzTFNZWA?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Central Asia and Caucasus companies adopt AI at twice the global rate",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWnZ5SEdHbHFBM2FwTUprblBBazVYZHNpSjg3S0FqejdkajlybGFUenFnS09kV2QxZmlma3ZLMV9jVXRQXzBTNzIybW1qdlVmaGxFcWhnQkc5MHRzc2xfdWY2NWxpRkRxRmFJZjdUem1WSnBsLUp0OVlPbnA1c1I2SVBGZk1wNW9GZU9tdURja3E3LVNLRXUwMHF6OU1MWm56Q1pCSWt4ZmJEMDliZ013?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -49,7 +369,7 @@
       "title": "Trump’s New Threat Against Iran Collides With Central Asia’s Economic Interests",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd2sydGVMMHRmRG5NMDJaeXhNZ2p1cDhaRHR0M2VQemhlZmVyR19XRmtWZ2R5bXdmZGhIcTVSVE9zSXpMTGZJVTlNcHAyNmVBZVo0Z2JyMkc4TmRsVnY0SUctX05tZGJDcmRKNzQ2OVRGejIwVVNOenRMc3hTdWdmanRIRWxCeWI2eGlOaE1ETkhEbTB3NVNEOWdrTmViWUk?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -57,15 +377,7 @@
       "title": "Central Asia’s Power Needs Are an Opportunity for Washington",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGF5a0FLV3YzRTZTcUltekhFNV9Fc2dhREx2NU5zaHhsZll4Nmdva1lIMVJJMTE4enMzWkVPdjF4dGZJaXpBZEM0NnU4azI3QjROX29FRWw3aUkxUm82WkI5QzJCVjV2anl6WkhjaS1qQk1Td1JRb3RRb18wUzU0Q0QyLU1ZeW1CNjhEZlE3OThTVGN5NUZFc0ZkMk10cnpZRlE?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Russian drone strikes on Ukraine shopping centre kill 16",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb0NlYllzZy12LUJuTm90YmtJTmU4VDdRMENpVWxJOXRucF9ua3EtVWQxNTV2UmduYzFXX2EzMFJZTC1PeHlfZGhjZHcySTR4V0VlNklkMWo4c296TnJVUTRhUUtDT0poNFFqS2J0WWppQXNudWxqVjJ4ZlpZUWFadmxSZVRJQngxMUFjVFVYX1RETXFfMWpta1ZHMXdtOVp6czhIdkZpM29fYzFTU1hBaksyV1kyQlVaQWdPU2YwOVVVWHJGeDQ3SG0zV2LSAcwBQVVfeXFMTzNIdzRRZ3JlS3V1SWdnemlHczVKOWRtQlVNZlRqM1E2NWNCY0ZQZm5KOEZFbzk0dDFQUmJIQmIyZ2QwdUhKUl9oQjhxRE1BQ3c3RnJhUmktWVVxOU1sS0dhRDZUalBuNXNxc1ZOdk5EbDZUV3d1emhDeGROWjVQeVRGbWdSb0RHUGdXa0NGXy1vc2M2UkJPdkJVamtTbVBNSXRjbVhPNGdkd3pFLU5nYmliM2FaalZFUGN5d2xYVG5NRWZZdGUtUjBFcjBp?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -73,7 +385,15 @@
       "title": "EU-Supported Summer Camp in Tajikistan Brings Together Young Environmental Leaders from Central Asia for a Greener Future",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRGR2TU5HOUxROG5HYVlyWkUtSVFnbzMyYnpZalY0QkNhejRYdzVlczd1TmN3WEJRVXgwTG5fR2plU1U4QzNldFNCMzVLOEs2Z0VST3BLRWp5bUQxZzNjUG45ckI2bkoybTFEMm1IcjJidXhNNHN0NUstVnUtNFVRaW05Q3ZlY3NOdFlFSVZVTjVWLUJVTHZLY1I2YklDM3dWVC1kcDQzRXFySWRBMW1WUDhBcEt2ak1UNGJLV0lTSENjY1lLYW9OUkhDRERxbzJEdXVhUDRUS1RfU2pBOUJiZFRZMC16V0NE?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Russian drone strikes on Ukraine shopping centre kill 16",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb0NlYllzZy12LUJuTm90YmtJTmU4VDdRMENpVWxJOXRucF9ua3EtVWQxNTV2UmduYzFXX2EzMFJZTC1PeHlfZGhjZHcySTR4V0VlNklkMWo4c296TnJVUTRhUUtDT0poNFFqS2J0WWppQXNudWxqVjJ4ZlpZUWFadmxSZVRJQngxMUFjVFVYX1RETXFfMWpta1ZHMXdtOVp6czhIdkZpM29fYzFTU1hBaksyV1kyQlVaQWdPU2YwOVVVWHJGeDQ3SG0zV2LSAcwBQVVfeXFMTzNIdzRRZ3JlS3V1SWdnemlHczVKOWRtQlVNZlRqM1E2NWNCY0ZQZm5KOEZFbzk0dDFQUmJIQmIyZ2QwdUhKUl9oQjhxRE1BQ3c3RnJhUmktWVVxOU1sS0dhRDZUalBuNXNxc1ZOdk5EbDZUV3d1emhDeGROWjVQeVRGbWdSb0RHUGdXa0NGXy1vc2M2UkJPdkJVamtTbVBNSXRjbVhPNGdkd3pFLU5nYmliM2FaalZFUGN5d2xYVG5NRWZZdGUtUjBFcjBp?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -81,7 +401,15 @@
       "title": "Russia reports berry and watermelon imports from Central Asia",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSFFxZXlnLUdyQ3FHQVlEYUxSaFQ0ZjdyVnR5elNfRXhIdnBnTjZsSGtvLXBkYTl5Y2d5c3pIZVhQYThnZnJBX1BLWi1XSklUSmV4cVRoS080cVVvV1RtOU9qVkx4UGxIcjNNMU5xekg0V3RQRUlZWnZ5SE5xdnBJN214NXRHYW5uZ2xyQXNyb1FUS0hDRVdVV3BnRWo0Rk44ckJtWGZPLXNwVFhEaDhN?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Foreign live-streamers fuel cross-border e-commerce business boom in Horgos, China's Xinjiang",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZUVQT2p0RC15Y0pCWjQ4TEdUNTJXcUFNYXA2bTNCbmJ6SnRxSDlwZzVNTDZBbUZKc2xCbmtuajJmNTN5WmIyRGQ5R1ZwQ29BbkpqSnBXZWVJY2o4UGZiV3hWbTA1SFRDd2loSTZmY1cxd0k1VzVpd1V5cWxTeU9heW9kdmVyNU9E?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -89,7 +417,7 @@
       "title": "Kazakhstan Updates Foreign Policy Concept for 2020-2030",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPakp2ZUh1RU5pUmRGZ3lZdVN5RjR3MVpBNEkwbG9Yeng1ZGxwdkVIZXBSQ01pemdGUVBFMk9MLTJWa2kxcnZ1Y2VpU2E3Q3lNV0RoRDE5blhsejZyclI3NXQ0ODJTSzhsSTNYVHVTVUZieXpRS094ZDJUUGVYb3lGdHR0T1B1blJVUkJpeVBTWlFscW1HbTZsZTNEYmZ1NWlFa3JQNTFDQ3E?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -97,15 +425,7 @@
       "title": "Central Asia’s billion-dollar energy trade project fails",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkx1WGdZS01xZmxLc1RnN2NrLWpZZzdVM1l0RFJxa05yQ1dwYmlCeWx3V2VJREM4QjQ2NkszOGZrVlh0TzNVeElMNHhjVlBpV1FjYmdYbVNCR0JCam1iVnFqVzBTXzNKOTRtNEtDS0ZidjM4VmgtZ0pZRkVxUDQ3anI0YVhPcExFX3BSUUhQMHVDY3c4a3hBRTJFbHp4bjM2?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "News Digest: Foreign Media on Kazakhstan’s Reforms, Investment and Regional Role",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa1pTQUIwa1RYeEtxWnFNSmdpdTJra3EtM19tMFl3bUpZOGlrYnQybG52MVNvcUZnekZfczhXek9POVZkNmRWc2xHcVg3cGpyMk9wSlVEbTBpZE9Dd0FCWTlJZW1YbEdJRzB1TExvZWRPNTRTbW5XdWx5VFBFcjBodHNDR2hvaTRxVTZWaU4wREcyUFAzdmE2RTFmRUJDU3V4Y0twQ1lMM3g3V1QxVDFJ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -113,7 +433,7 @@
       "title": "REG - Central Asia Metals Barclays PLC - TR-1: Notification of major holdings",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQamdzSDgxTFVQbUpjajZPVUhwOGVqRXMzbHlGVkdSVVBRWjZ3UWR3bGppdmpNMndvMFU4X2d3WEJyQkpHRHlObzYwLURLR21QTmNWNUdyQk1wLXZfR01HV2FHeXF3LW1MN2hwMGx4Q3J5UkhBWjVieExjMW1IVFVCaWVQckpWQ0hqX09Qem9ZUlVqSWlQb3RNYlJXTEZKeXZxa0RNcno1elJQd0ZoNUFsTS02UHhwTjkwRldBRG1IX3ZvbUFPT2liX2RhZHV4NU5zWDdyaXF1TkxLYlVWT29IYUp3?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -121,7 +441,7 @@
       "title": "Ilham Aliyev speaks about relations between Azerbaijan and Uzbekistan, and says the good personal relations with Uzbek president Mirziyoyev are crucial",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TQks1NVlMeEVQTHFXZHU2bHlYaGFOUjFqQUJ4TlVhb1JZQ1VMSlFacEF0UVJnR1lhZFpCLVdONkFSRDdJbDUxdGJhQ0t2UQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -129,7 +449,7 @@
       "title": "Kazakhstan’s Role in Pax Silica After WAICO",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80Y2RPYkRNSUZ3MEtzR1F4TW9paUR0UXhnRGc4cDVmV1VnY0RfQWRSR2YySXNEbkptakJQcGxhcmJ2Y1NmRzFpQ1p4N2xhcXVxbUtBcnpvUmRsNVg5bDI0N1UtZFhvbGZmd0FldHBCc2g?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -137,15 +457,7 @@
       "title": "Central Asia Blackout Traced to Key Hydropower Plant",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeVRqUThmT2NiRXBRLWJRVGkzLXpYZGhpNUhXTEtUM0F5MkZqUGhTelRmSE9wWnRLc1ljQUV1a00yM2tSN21VNzFLb2E1cXRkd3FNcEhManB3SklWNUVpYzFWRnYwTXZyQWZMVGo1Z1BGeEdPS3FIbW84czVsQmJVVEx1SHZLeHJ3cjVWOE1YamRxUWRNalZiX05BOWo4Unk3T2fSAacBQVVfeXFMUFZiSmtWeUxLdnJiYkkxXzZFang3UEZ3dVRhQUpHajJhblUxTWZmc2FMOUl5VlRCdXZzOVhrWXZ4TmhRUkJ2TUx5OFpkRVFTcWktTlB1U2RzckFMVnhXd2RCOE1acGlmdzhIaWd6YWItbkxqdlZBYkFhQmpqZTFRNFpxbjRXNjUyTF80Q29pVHVMT1JwUk1CVmRESkFQSG1YblFmVWFGdjg?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "SilkParasite Cyberespionage Campaign Targets Central Asian Governments",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nQ1diOTRzX2NOVzBXbGk3Rlh4ZzltMDE3NEk0RGxlSkZTSWNrRWNnUXJzcEp4RUpXTFFFZU13UnZPQ1VPNHNnZkdQU3FzR1N6dmJLMVBHSHNpV0Q3OEduMEMwQWtaS1lDVTBHUmFFelIyOEZFajRISTh3ZFpYUUU?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -153,7 +465,23 @@
       "title": "Kazakhstan Updates Its Foreign Policy Concept in a More Difficult Era",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUnd1UFFyWXdpMFFXY2V5WGZsNWl3MFZTS2RKRWowaElxTE1IWnJYLW1GYzFRNGV4QWRaRUk4aGhEQXFGWEx1LWh4aE5jWkZ5czZZa1RwQ2lFWnNFd0pmV3ZDSF96WmhLVjBsMHhIdTBXOU9MYkd3QUVkbF9oYmswOG90Q29rcFpoSlJfU2pXSTZLdjlT?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "SilkParasite Cyberespionage Campaign Targets Central Asian Governments",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nQ1diOTRzX2NOVzBXbGk3Rlh4ZzltMDE3NEk0RGxlSkZTSWNrRWNnUXJzcEp4RUpXTFFFZU13UnZPQ1VPNHNnZkdQU3FzR1N6dmJLMVBHSHNpV0Q3OEduMEMwQWtaS1lDVTBHUmFFelIyOEZFajRISTh3ZFpYUUU?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "News Digest: Foreign Media on Kazakhstan’s Reforms, Investment and Regional Role",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa1pTQUIwa1RYeEtxWnFNSmdpdTJra3EtM19tMFl3bUpZOGlrYnQybG52MVNvcUZnekZfczhXek9POVZkNmRWc2xHcVg3cGpyMk9wSlVEbTBpZE9Dd0FCWTlJZW1YbEdJRzB1TExvZWRPNTRTbW5XdWx5VFBFcjBodHNDR2hvaTRxVTZWaU4wREcyUFAzdmE2RTFmRUJDU3V4Y0twQ1lMM3g3V1QxVDFJ?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -161,7 +489,7 @@
       "title": "America's Next Strategic Partner Is Hiding in Plain Sight",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORFRsVnFfaG5tVV9qdEJTeFZOSjcwTVlhSFVUZ3NEMDB5dmEtQ3VGQnRGZE1UZFR3QjRWTmhPTHYwLWhmWm1tRHNDb1kzdjAtaWMwcDlHaVNaczNlenRXYmY0Mk1yNXB0UThxbkthczdFSVJheFkzVTRhbUpMdGRkdS1McWpRYnlDZDZNTVVSUDVWeTdEVnRrX3B6Skp4NE9m0gGmAUFVX3lxTFBkblcxZ05SM19XVWQ3Y1hFb1R3UEFSa3YzZElIOTZXSnB3el9qZlFueURjTmFPQ25OcFZKSFEtQUhhZ2dpVTdrRVlrcWNZWDQ0dUhsc2FjRFBNdUhfTkp5a3JaX2E1YWNPU0tnaWtyeGEwZUdTbmo4QjRRNFlCTHJjbW0xMVg3bFFzbWc2REZralBsYTNSaUhLdXlhZTZadHJ1Yi1QSnc?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -169,7 +497,7 @@
       "title": "Uzbekistan Hosts 38th International Olympiad in Informatics, Cementing Role as Central Asia’s Leading IT Hub",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPNXFFUTRlclNXWDdxTDlER3daRTQtX2QzVWVuZ1ZkcExhYVY2Yi05dXJyWmxhRVlQLVBDazlhR0RqSWhFRmlORWxaRkZwbWwzdWU4bWN4UkdJZ3NXXzZPUXNBU0hxV1VsYXBjR0FrOHpiVHEwQ1NqX2lVNmF3bk5VdVpYY2hzNW1XNkYtejBHVDJaU3d5bUJ5VmNuSDFENUFVM2l4bC1EVE04OFJhMjBDajcwYVg1b09hN3pqaFJwaTN1TnZ3TndFa2RtajVDNTVTM2d2cW5zTWdwYjJ1Sl9pWDctVVVCTUpzN19HOXJKcklrYkg4NUNGRm9zZ3RvSWRIT2RJNFVyXzZuMU5kX1JCQzVMUnhuaUJlbkZDWnp3M09NNVk0em1mWTB2QUd0UQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -177,7 +505,7 @@
       "title": "Kazakhstan’s First Kurultai Election Draws Broad Observation",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWHF2RXhLX1Jocm45dmYwMHBZWHFETzM5YzFRcV9BMnVQZVI0R0lLd2VnSFpVUmRjaHBJRS1hek96eVFUak1BUXJiNlVscTdGYVV0Z3RsNldmU1d2OGpkQ2x3cHV3aG9CX0JjbGd6dGF0Z3MxOEgtZC1OVGItWEhPSV9lclZ6eDQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -185,7 +513,7 @@
       "title": "BANK CENTRAL ASIA UNSP ADR EA REPR 25 ORD SHS To Go Ex-Dividend On September 1st, 2026 With 0.03519 USD Dividend Per Share",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZlF1QW1jRjZMbE9QenZMVzlRb1Iyc1NRZFRvNkRuMmhCRGhDNWh2R2xlYS1NZU1jU0Z1dU9iVlB0UE95djFiQjFWMXl3WjczVFVtZnFkSFlJTTdtMEJ4ZERNV0hPU0J2c3JWa29kWVFqYlRDaGtQVnc4UVZwa0lqV3B0SEpXZXViTnZwdHhETQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -193,7 +521,7 @@
       "title": "Azerbaijan, Uzbekistan 'natural partners' on key East-West routes: Aliyev",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjFZLXY3YW1HVE5YMjRZUURYVVpRUTlvSUxESHhMMVN2SksxYklDUmhhQ2JTRXNkM2dTRU90bWtaZ3l3ZWh2QzE4SXBEVDZwamNYOVNhVHJEUnpKZEkxZHp0VXp6NDJmdXduZzlOR0tycjViQUlnTU56cUo0d0lwemdTYnVhTDRFT1ZqTGoxanJjcU4tWFdaZWNqZVM5RjhFa1pZOHprbTFPZ0w3Ukpz?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -201,7 +529,7 @@
       "title": "Ukraine’s refinery strikes push Russia’s fuel crisis into Central Asia",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNW1oTEZxWmh5LTUySC16NTZ2ZGtweUh6eEU2VmpJV0NaTDIwczRrdjh6OWY1eU9xU1o3Wm5kbXhTbmFTVXY1SlNKMWVGdHZTUzVJSngyYmhtQnRScmJST0hqdm52YWxFMGNzc0g2QTE3ZEpCM21ZWEVJaU5lS1Q0Q0FGOVJpSmlNVXBDUzFqcHQxT3VD?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -209,15 +537,7 @@
       "title": "Opinion: Kazakhstan Energy Expansion May Not Guarantee a Lasting Surplus",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kMDZaM1RIVWN4Wms4Zk43bjF3TkkybUIxMUhaQXBET1BydnFFVXlPRzRDSExxSjZNc2s5c0g0VmxYaGt0S085SkJzdlpIMGN3Z3RuS3drUnJUMDhVRHJNc3lqUl9yZmFMaHJFWjB3?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Central Asia Import and Export Expo and 2026 Jiangsu Import and Export Commodities Exhibition (Almaty) Opens",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRENwd1owMl9yX2VlUXRrdmVteDhULXRLWk84M0xtQjgtUW9iWHNOMnVYZElQRll5RUV1emMwaUYyUEstSkZlaHc3UGVzcjM3ZHZweWJhYWx3RFRxWUQwZXlvT3ZPSW5pMVA3RU1xWmFIV0RMeWUxS3J2WDJjQ0ZJWlQxdWlidEZTeEFkdGFCeUlxb25WSktjQ2tVenRTOVFzMElxblZ1UWtuRW5Rb2Exemo1ZTBuV3NxcEMxZ2lmNWNzbVIxNVhvODZ0d3Q0N3VjNDh1ODVjY0dlRjJkUVd0Vk9zX3pWUW52Xzl6eXNqWlRuUENBS0E?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -225,7 +545,15 @@
       "title": "Ancient Royal Seal Discovered in Tajikistan",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sWWJGQUp3Uk9sN2dMSmJ2MTU4Q0M5T1d0T05BdWd2SDdVeExueXdDWm5TN3pkdkVaZTZzSkZZY2YtakI2SnNXV002RTBKY055Z2JXRkw0aktZVVl3WEhBMTVITHFHdnE0TUNnMzREcVR4UQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Central Asia Import and Export Expo and 2026 Jiangsu Import and Export Commodities Exhibition (Almaty) Opens",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRENwd1owMl9yX2VlUXRrdmVteDhULXRLWk84M0xtQjgtUW9iWHNOMnVYZElQRll5RUV1emMwaUYyUEstSkZlaHc3UGVzcjM3ZHZweWJhYWx3RFRxWUQwZXlvT3ZPSW5pMVA3RU1xWmFIV0RMeWUxS3J2WDJjQ0ZJWlQxdWlidEZTeEFkdGFCeUlxb25WSktjQ2tVenRTOVFzMElxblZ1UWtuRW5Rb2Exemo1ZTBuV3NxcEMxZ2lmNWNzbVIxNVhvODZ0d3Q0N3VjNDh1ODVjY0dlRjJkUVd0Vk9zX3pWUW52Xzl6eXNqWlRuUENBS0E?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -233,15 +561,7 @@
       "title": "Kazakhstan Caught in the Middle of the U.S.-China AI Rivalry",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVno5VTcxZk55blFQMmhxcDVEOHY5aG96RjRsYjNxWUtnamFwaTdKQlBIbi1mLXRZaTdWQ1Z1eE13Y3FmY01zdXRQV3NxYmpBTllwcE5LelZJNEl6TGZvSnJOQUxnbVlwY2dtdUNuUHhmWk9XWWFLRHBnSnR6WnNlYzF0MWcwampFcm11bVFITkgxRk1aQUh0Q1JPbWRRWElwSnRNQ3BSU0c1Z9IBrwFBVV95cUxNVTNVY1ZLV3BrTUtfblE3QlE0TWEtYTVvMm4ycGJGZE96cThRSXdWNENRT1Z0WTY3elQyMjBybWE5Mm00OG9hd3dSYnZ0SXBxc1Y4UkZxYzJaX2hUZzN2aHo5MGRtTVZrc2g0QjlQYy1HWEg0dURscHJVcTh0dzNJODAyTzZIamlZNjl4VW40U1ZLYkdpOVllTTNKNGIyTTZ3MEVBZlppVW9IYnVKUDlB?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "How a Ballerina from Kazakhstan Built a Career in German Ballet",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Eak5xU0M2dWtRcWV6SG54RGdUakhVdnF0YXoyS25tSkctTmJsMk84UkpjSkc1U1lYdWFwNkJzWDk0Z2pjOFV3SmdieGY5SENGSmhxd1YzbG4yak5uUnl1NTBnbUFvSno4Y3JjOEczUlpYUkl6?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -249,7 +569,15 @@
       "title": "Taliban Turns To Iran & Central Asia As Western Engagement Declines",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0M3FEbWgyZkFhMERXeGlEb2tqTW9Kb3dCWnM5OWJjdVJzQTRjM2xlSzlnR1Jfa05zZlpTSmEyWnFMYkkxendVS2tRTDZlSE0?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "How a Ballerina from Kazakhstan Built a Career in German Ballet",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Eak5xU0M2dWtRcWV6SG54RGdUakhVdnF0YXoyS25tSkctTmJsMk84UkpjSkc1U1lYdWFwNkJzWDk0Z2pjOFV3SmdieGY5SENGSmhxd1YzbG4yak5uUnl1NTBnbUFvSno4Y3JjOEczUlpYUkl6?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -257,7 +585,7 @@
       "title": "New Agreements Advance Central Asia's Middle Corridor Ambitions",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX3FXbFB2V0NTb1FpQzRXVmdwUWtIaU9tVExZNW4wbWtQY3EyWjRQX1FlZkdSNUN1MWJIVTUtZEJOWXFnOHBKUHQ4dzhGcnJibDl0Q2xMd3RCQ2dPQ2YzQ0YwLXhaMEViSkdjOFdxdGJfUFNIcDkyWGZTNW1FTmROaVdtdVZzMlNUNE96QW5tYXlQR3cyZGJKckZoSlMxRXVEdVFnYWN3eklkbkV1Z0JF0gG0AUFVX3lxTE42Y05rWW4tSFA4M2htc1lSdTFYcmQ5N2I5THhTel9SNkRGdlJFMUFMdkxEbmFxb3lCSWpFRFd2a0x6ekZTR1VPVGlzRld5TWM2bkJnR3FuMXFHMmVLMW8zejVJYnhCeVpicjJrVTVZQU9XYjN5Q19ySmQ2Z21EQVRrTWtGU3VTVzY0V1RPcTRRbVVxOWtPQV90el9YaDJrMzZPdVBLWDA5aWZtR0k4b0tJbWFxMA?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -265,15 +593,7 @@
       "title": "Oil-Rich Kazakhstan Set For Elections as Tokayev Bolsters Power",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOal9UaTh4Mnh3MUhjWWtKU1MwbldoYzBrQnVPclJtdlQxRlFua1IwNXVWQzFBaVdzcWFPb0kwZjE3Y1k5dUJoWjd2WWRHLVR5b3dSX2hQUkNOSG90NjhJM0thNEVfalhYaFlfQTRuaDdIejk4Y05iUzBIeWtXNTY2RUI2N2s2cjdBU0t4UVZveTlaV2lISVhpRFZXa0tvajdqNjVGN3JFbXdiWnQxY0pWXzJsSFk?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Cathay Pacific Sets January 2027 Start for Hong Kong–Almaty Route",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUG90WHRDSlNpeHhrRUk0U0xWWHBWV1lRTUJsY1l3eUMzS0Fsd1k5NmZsXzN3eEJUb0ZHM1JaZV9XVThQS093bEx4U0VDd2p5T1dWWHMzSEtfTXg4VXB3MElEOVAzNGdENGI0YVhFNVJldGE3cXR3SnMydEgwcEk0bE5ZTGs5NGM?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -281,15 +601,15 @@
       "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTE1FeU9FRnBOTlRzaUM4SmRhazQwMjlVSVpHU3JEYkhwbVJKdFNPanZHOXl0UVdkYjlLUlpUaGFMZlg3WllpZ1hERG5jaDdpdW9wMmNBdTgtd0VZOGxKUWV1ZUlzTWtsLWNBNEY0UnRXcUw4ai1OMUJpZmd5VWNjVGJxU0s?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Aliyev hails ‘unprecedented’ growth in Azerbaijan-Uzbekistan ties",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSHFzLTI4LXhaTjBodUpQTU1wbnBjUVdSNWVQcTk2b0ZTN2tFaEZreUR4T0kyZ2I0c3RYWDJad0JuenBwV3pYSkVnOWdRUnpMR3NJVUFUMklweVgzVDdnblRGMXdjUjlGT1NVRG5KanBoWlU1MFlRUHpaZDBMRTFuYUN3al9PcVFldkZfS0lsMEl2NVFlVnktd08zNjQzVmROSXUtWVdXM19oZw?oc=5",
+      "title": "Cathay Pacific Sets January 2027 Start for Hong Kong–Almaty Route",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUG90WHRDSlNpeHhrRUk0U0xWWHBWV1lRTUJsY1l3eUMzS0Fsd1k5NmZsXzN3eEJUb0ZHM1JaZV9XVThQS093bEx4U0VDd2p5T1dWWHMzSEtfTXg4VXB3MElEOVAzNGdENGI0YVhFNVJldGE3cXR3SnMydEgwcEk0bE5ZTGs5NGM?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -297,7 +617,7 @@
       "title": "Russia tests missiles near Japanese-claimed islands after Putin’s visit",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcnFpSFZobndDSXdWOUhTbkI3Um9aQ1k5bnNuNnJ5ZlVkdmlOQldPVVdtejA3empPX01UQU5JbDdXYjhVeDdaYmlNckJpcFBLTkhLdmhoSTd1NDRWdy1HT0ZtUTVpN2tWMXF4ek1kSnhORW90UlB6Z210eHZfdWs1QmJFVDJLc1REQlU0dFlHUGRDSW5fTjEtNFBMWGV4eHpzQXlLaTJzX3gxWVZCeUNvSFZpQ0lQVnFqX2hvbHBHTlJnQUxZTzJjdXBCU2h6d2kweERrbNIB1AFBVV95cUxPay1HbVQzZVpSaEtEUlE2LWFaa3dzaWVnMzM4VDdYYzlHODU5XzR4R3hfX25yc2lBWF9xQnQydHJzZ3cxbi1ZT1FBZVBtdFBZVEN1czVva1BvQUV1VmtFdlBwdkhrUmluelBNZlA0YzAyaU50eDJLLU5BQ1ZwS3BzZFRwRlA3OVA0d20yT1FyRURnSk9rRGJaMVJBbDNMVm1MczZGVmY5cmlmQUJwazktOXZtNWZrdENGT2tNcllQZzI2eFJ4ZWR0TURkY0lxVWdYd3F6Vw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -305,7 +625,15 @@
       "title": "Why PM Modi’s Upcoming Visit to Central Asia is Significant?",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTVEwbXM3c0E4M1JzV0ZOZ2hhaEtRdHpybTlkUlViRWtOZDRlQmNuS2ZyNlVCXzJpUWN0alNJMTlFdjFJSzNtMGRQTjc4dG5faFVILUE0dEhOUGVMbGNMNzJjUnh3M09sN0s2THpCeDdhLWlpLTE0ejZjMUhDVG9OZzZjMFQ4WG9kb1otdm1vYmRjVGoyOGdQdkRBXzVuMnY3eXA4TzBCeEpJRkU?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Aliyev hails ‘unprecedented’ growth in Azerbaijan-Uzbekistan ties",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSHFzLTI4LXhaTjBodUpQTU1wbnBjUVdSNWVQcTk2b0ZTN2tFaEZreUR4T0kyZ2I0c3RYWDJad0JuenBwV3pYSkVnOWdRUnpMR3NJVUFUMklweVgzVDdnblRGMXdjUjlGT1NVRG5KanBoWlU1MFlRUHpaZDBMRTFuYUN3al9PcVFldkZfS0lsMEl2NVFlVnktd08zNjQzVmROSXUtWVdXM19oZw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -313,15 +641,7 @@
       "title": "Korea is about to meet a Central Asia it thinks it knows",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbk5PaEozUEZrX2ZDU1ZpTnlQWTRUQ3FoY19hSWowSktFTGdQRHhzWGFqTTFBRzE3MkIyd2ctOVZKVVdJNTJtaFdUWjl5WDNkNFBobnpKajRLMl82bFNHTklwc3FhZlU1SzJIQnB0ZmZ6QUZFb2NyUTFRS252UjRFUzRNSklpUnZUcUlZUER1WFA3OTZaX1UyeHpfMUc3VEhLTWRBX9IBqgFBVV95cUxPdmplWHdFREM4STBVTGJRR2JPUUZ6RVpSU0RoYk9DMmZUbC02aWpYOUU2dEFTYTM1OXh4TXpMTkluTmZrdHlUek1RVTBsdzh0cG9JbmtuUFdGTVNiTDNjVzdSSTk4UkYtbDQxV05oNy1uWXJ6XzY4OVVlRUNZTjItdkVQbVlEVDdxaHU1S3FiVEdxRmRIcDJSZkh5MGk3OV8zTWI5VGJDeWRZQQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "SilkParasite: Tracking a China-Nexus APT Across Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUFQwLUpFMUJLdExiazdXY1NRc1RzV2VUQnFieV9mVDlQOXVKeGhEZXplbFJWeUlhS3pBNjcxek5yWERsbkRsRDMtT0EyUTRDRXV2RVhJak51TEp0QUtlLTB6SC1VOWhwN0dSLVVPbWdFN1YxbmFiWDQ5R05aLUU4aEZGT1VCOVV2d0FEcm9GaVVnVVNJZ2o0TEZJQkU2QlU?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-22T07:08:00.051Z"
+      "pulled_at": "2026-08-22T07:52:03.136Z"
     }
   ]
 }
