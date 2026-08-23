@@ -1,15 +1,335 @@
 {
-  "fetched_at": "2026-08-23T14:14:23.544Z",
+  "fetched_at": "2026-08-23T14:46:55.727Z",
   "source": "GDELT + Google News RSS",
-  "count": 40,
+  "count": 80,
   "events": [
+    {
+      "id": "gdelt-aHR0cHM6Ly9hcm10",
+      "layer": "reported",
+      "title": "Ղազախստանում մեկնարկել են խորհրդարանական ընտրությունները",
+      "url": "https://armtimes.com/hy/article/342404",
+      "domain": "armtimes.com",
+      "pulled_at": "2026-08-23T14:46:55.726Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9iYWlq",
+      "layer": "reported",
+      "title": "从  人工巡检  到  智慧管控  西气东输二线三线首站输气突破6000亿立方米",
+      "url": "https://baijiahao.baidu.com/s?id=1874289561035898827",
+      "domain": "baijiahao.baidu.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9udXou",
+      "layer": "reported",
+      "title": "Ильхам Алиев прибыл в Узбекистан : в « Куксарое » прошла торжественная встреча - Новости Узбекистана сегодня : nuz . uz",
+      "url": "https://nuz.uz/2026/08/23/ilham-aliev-pribyl-v-uzbekistan-v-kuksaroe-proshla-torzhestvennaya-vstrecha/",
+      "domain": "nuz.uz",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9hc3Rh",
+      "layer": "reported",
+      "title": "Нуру Гулиев : Қазақстанда Құрылтай сайлауында дауыс беру жоғары деңгейде ұйымдастырылған",
+      "url": "https://astanatv.kz/kz/news/176084/",
+      "domain": "astanatv.kz",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9ydS5h",
+      "layer": "reported",
+      "title": "Президент Азербайджана поблагодарил Президента Узбекистана за помощь в восстановлении Карабаха",
+      "url": "https://ru.apa.az/oficialniye-novosti/prezident-azerbaidzana-poblagodaril-prezidenta-uzbekistana-za-pomoshh-v-vosstanovlenii-karabaxa-668291",
+      "domain": "ru.apa.az",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9ydS5h",
+      "layer": "reported",
+      "title": "Президент Ильхам Алиев : Проект Зангезурского коридора активно реализуется на территории Азербайджана",
+      "url": "https://ru.apa.az/oficialniye-novosti/prezident-ilxam-aliev-proekt-zangezurskogo-koridora-aktivno-realizuetsya-na-territorii-azerbaidzana-668296",
+      "domain": "ru.apa.az",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9hc3Rh",
+      "layer": "reported",
+      "title": "Сағат 16 : 00 - де сайлаушылардың 65 , 37 %- ы дауыс берді",
+      "url": "https://astanatv.kz/kz/news/176072/",
+      "domain": "astanatv.kz",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9udXou",
+      "layer": "reported",
+      "title": "Узбекистан и Азербайджан готовят Договор о вечной дружбе : торговлю хотят довести до $1 млрд",
+      "url": "https://nuz.uz/2026/08/23/uzbekistan-i-azerbajdzhan-gotovyat-dogovor-o-vechnoj-druzhbe-torgovlyu-hotyat-dovesti-do-1-mlrd/",
+      "domain": "nuz.uz",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9ydS5h",
+      "layer": "reported",
+      "title": "Президент Ильхам Алиев : Азербайджан ответственно и с большим энтузиазмом подходит к сотрудничеству со странами Центральной Азии",
+      "url": "https://ru.apa.az/oficialniye-novosti/prezident-ilxam-aliev-azerbaidzan-otvetstvenno-i-s-bolsim-entuziazmom-podxodit-k-sotrudnicestvu-so-stranami-centralnoi-azii-668292",
+      "domain": "ru.apa.az",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Kazakhstan election : voter turnout tops 53 % by midday",
+      "url": "https://www.azernews.az/region/262743.html",
+      "domain": "azernews.az",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Ukraine - Krieg : Russische Drohne kracht in Passagierzug nach Odessa",
+      "url": "https://www.stuttgarter-zeitung.de/politik/ukraine-krieg-russische-drohne-kracht-in-passagierzug-nach-odessa-79406205.html",
+      "domain": "stuttgarter-zeitung.de",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9ydS5h",
+      "layer": "reported",
+      "title": "Президент Азербайджана : Азербайджан и Узбекистан всегда поддерживают друг друга в международных организациях",
+      "url": "https://ru.apa.az/oficialniye-novosti/prezident-azerbaidzana-azerbaidzan-i-uzbekistan-vsegda-podderzivayut-drug-druga-v-mezdunarodnyx-organizaciyax-668284",
+      "domain": "ru.apa.az",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9ydS5h",
+      "layer": "reported",
+      "title": "Президент Узбекистана : Мы фактически формируем новую геоэкономическую реальность",
+      "url": "https://ru.apa.az/oficialniye-novosti/prezident-uzbekistana-my-fakticeski-formiruem-novuyu-geoekonomiceskuyu-realnost-668293",
+      "domain": "ru.apa.az",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Szlovákiai középiskolások remekeltek a mesterséges intelligencia olimpiákon",
+      "url": "https://www.bumm.sk/2026/08/23/szlovakiai-kozepiskolasok-remekeltek-a-mesterseges-intelligencia-olimpiakon",
+      "domain": "bumm.sk",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Mit fast 600 Passagieren : Russische Drohne kracht in Zug",
+      "url": "https://www.express.de:443/politik-und-wirtschaft/mit-fast-600-passagieren-russische-drohne-kracht-in-zug-1355903",
+      "domain": "express.de",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Kazakhstan votes in parliamentary election",
+      "url": "https://www.wsbradio.com/news/kazakhstan-votes/5BQW42UVZY7MPPWJFLPO2GPMSU/",
+      "domain": "wsbradio.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9ydS5h",
+      "layer": "reported",
+      "title": "Президент Узбекистана : Мы заинтересованы в создании отдельного узбекско - азербайджанского коридора на Каспии с единым оператором",
+      "url": "https://ru.apa.az/oficialniye-novosti/prezident-uzbekistana-my-zainteresovany-v-sozdanii-otdelnogo-uzbeksko-azerbaidzanskogo-koridora-na-kaspii-s-edinym-operatorom-668287",
+      "domain": "ru.apa.az",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Явка на выборы в однопалатный парламент в Казахстане к 18 : 00 составила 72 , 15 % ",
+      "url": "https://www.interfax.ru/world/1110807",
+      "domain": "interfax.ru",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Kazakistanda tarihi gün ! Tek meclisli kurultay için ilk seçim",
+      "url": "https://www.radikal.com.tr/dunya/kazakistanda-tarihi-gun-tek-meclisli-kurultay-icin-ilk-secim-36202/",
+      "domain": "radikal.com.tr",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Токаев призвал казахстанцев отказаться от объятий в пользу традиционного этикета",
+      "url": "https://www.kommersant.ru/doc/8906488",
+      "domain": "kommersant.ru",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9reWl2",
+      "layer": "reported",
+      "title": "Представители Всемирного банка посетили Киевщину",
+      "url": "https://kyiv.comments.ua/news/society/developments/13656-predstaviteli-vsemirnogo-banka-voochiyu-uvideli-obestochennuyu-buchu-posle-raketnoy-ataki.html",
+      "domain": "kyiv.comments.ua",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9udXou",
+      "layer": "reported",
+      "title": "Электричество выработали а тепло не пропало : как работает когенерация - Новости Узбекистана сегодня : nuz . uz",
+      "url": "https://nuz.uz/2026/08/23/elektrichestvo-vyrabotali-a-teplo-ne-propalo-kak-rabotaet-kogeneracziya/",
+      "domain": "nuz.uz",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Cambia la IA las reglas de la programación",
+      "url": "https://www.nvinoticias.com/trending/cambia-la-ia-las-reglas-de-la-programacion/192332",
+      "domain": "nvinoticias.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9nb3Jv",
+      "layer": "reported",
+      "title": "Вы не водитель ли трамвая ? У вас одна из рельс кривая ! ",
+      "url": "https://gorod48.ru/news/1987394/",
+      "domain": "gorod48.ru",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9ydS5h",
+      "layer": "reported",
+      "title": "Глава государства : Опыт , накопленный Узбекистаном в автомобильной промышленности , сегодня перенимает и Азербайджан",
+      "url": "https://ru.apa.az/oficialniye-novosti/glava-gosudarstva-opyt-nakoplennyi-uzbekistanom-v-avtomobilnoi-promyslennosti-segodnya-perenimaet-i-azerbaidzan-668288",
+      "domain": "ru.apa.az",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9ydS5h",
+      "layer": "reported",
+      "title": "Шавкат Мирзиёев назвал встречу в Вашингтоне и Совместную декларацию блестящей победой Президента Ильхама Алиева",
+      "url": "https://ru.apa.az/oficialniye-novosti/savkat-mirziyoev-nazval-vstrecu-v-vasingtone-i-sovmestnuyu-deklaraciyu-blestyashhei-pobedoi-prezidenta-ilxama-alieva-668285",
+      "domain": "ru.apa.az",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Çin Destekli Rüzgar Enerjisi Projesi Özbekistanda Tamamlandı",
+      "url": "https://www.haberler.com/guncel/ozbekistan-da-cin-destekli-ruzgar-enerjisi-projesi-20169432-haberi/",
+      "domain": "haberler.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9jZW50",
+      "layer": "reported",
+      "title": "CentralAsia : Назарбаев проголосовал на выборах депутатов Курултая на дому",
+      "url": "https://centralasia.media/news:2521529",
+      "domain": "centralasia.media",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "مشاركة منتخب قطر للسيدات 3×3 في سلة « Nations League » ",
+      "url": "https://www.raya.com/2026/08/23/%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D9%82%D8%B7%D8%B1-%D9%84%D9%84%D8%B3%D9%8A%D8%AF%D8%A7%D8%AA-33-%D9%81%D9%8A-%D8%B3%D9%84%D8%A9-nations-league",
+      "domain": "raya.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9rbmV3",
+      "layer": "reported",
+      "title": "Вице - президентом Казахстана станет « известный человек », заявил Токаев",
+      "url": "https://knews.kg/2026/08/23/vitse-prezidentom-kazahstana-stanet-izvestnyj-chelovek-zayavil-tokaev/",
+      "domain": "knews.kg",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9hemgu",
+      "layer": "reported",
+      "title": "На одну ступень выше поднялся Казахстан в кредитном рейтинге авторитетного международного агентства",
+      "url": "https://azh.kz/ru/news/view/131390",
+      "domain": "azh.kz",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9hemgu",
+      "layer": "reported",
+      "title": "Мурат Отешов : « Каждый выбор это путь в будущее » новости на сайте Ак Жайык",
+      "url": "https://azh.kz/ru/news/view/131396",
+      "domain": "azh.kz",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9iYWlq",
+      "layer": "reported",
+      "title": "数智融合 ， 为全国电商发展探出新路子",
+      "url": "https://baijiahao.baidu.com/s?id=1874318282983632130",
+      "domain": "baijiahao.baidu.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Senior Minister Lee Hsien Loong to visit Central Asia",
+      "url": "https://www.straitstimes.com/asia/sm-lee-to-visit-central-asia-from-aug-24-to-31",
+      "domain": "straitstimes.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3d3dy5o",
+      "layer": "reported",
+      "title": "海南东方 ： 健全聚才机制 为人才搭建干事创业广阔舞台 - 新华网",
+      "url": "http://www.hq.xinhuanet.com/20260823/f52c6a8c1214442da9752bad26a23852/c.html",
+      "domain": "hq.xinhuanet.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "被低估的英伟达  新叙事 ： 自研开源模型  与  供应链锁定  ",
+      "url": "https://www.163.com/dy/article/L51VI6IF05198NMR.html",
+      "domain": "163.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "TÜRKPA : Kazakistan meclisinin  Kurultay  olarak adlandırılması Türk dünyası açısından önemli",
+      "url": "https://www.haber1.com/guncel/turkpa-kazakistan-meclisinin-kurultay-olarak-adlandirilmasi-turk-dunyasi-acisindan-onemli/",
+      "domain": "haber1.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Oyunu kullandı ve mesajını verdi : Yeniden Cumhurbaşkanı seçilme hakkım var",
+      "url": "https://www.yeniakit.com.tr/haber/oyunu-kullandi-ve-mesajini-verdi-yeniden-cumhurbaskani-secilme-hakkim-var-2018984.html",
+      "domain": "yeniakit.com.tr",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9iaXou",
+      "layer": "reported",
+      "title": "국립경국대 , 2025학년도 후기 학위수여식 개최",
+      "url": "https://biz.heraldcorp.com/article/10849245",
+      "domain": "biz.heraldcorp.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "澤倫斯基 ： 俄羅斯擬再徵召30萬兵力 | 國際",
+      "url": "https://www.cna.com.tw:443/news/aopl/202608230181.aspx",
+      "domain": "cna.com.tw",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
       "title": "Announcements: CfP WCS 2026 – Rights in the AI Race; CfP Central Asia Yearbook on International Law",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMmpXQzJIdFhsSmRGazlFSnlNeE1YSFdzOUVqZnp0VUhLRTFXd0xadHVkNkZhN1RKR2Frajhva0ZUcmtsVl8ySVlLLTVSa3AwZ2FaY1d6aV9FVzFKN3BJUEh2d3dSdjltaS1QQ1Q3dTFqZjRzLXFNdW5RUjVaUWJFclQ5dklraG5UWEtPa2xsdjRfRDI2UkFUUDBjckFOUHhvTENYcG9NYnBNNzBpekIwUFpjY01JNlBoYVFlbWJn?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -17,7 +337,7 @@
       "title": "Kazakhstan at a Crossroads: How the Kurultai Elections Are Shaping Central Asia’s New Political Landscape",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWXZycEEwOFZQMWdNNGxpY1NQaHBRVVZUNlRRbU04NDdjLVdOaTlUUXE2UDBkWnFFT2NKV2JjQ1owcjk0QjlWNDkwMVo4ZWFSV05ueXVTaEpCZWZOdXV3d2JOUUNYLUZDQVRDZTQ1TVQ2cHNrU3dvTENCWXNvZWlhdURWQmxjc2RUY2dNUDZ1d1d6SHplVVFzREdWQnpyR1oxaEdXWXRqelc2VF8yMno1cGotQ2NDUXpQTThmcmR6QmxycGRrUHp2eFRKTVZDTFJoNDNCSUlNMHJWcVB6NV9ONQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -25,7 +345,7 @@
       "title": "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZG94bUx5d210QlZjQWdKUUF6LVNKZzhkbGRMTVRlYzNQMmF3aGtXV1RHemw0eEZWR0dCLXdWbGN0dmUwbXpZRndiRmhINE5Hc19LR01OTFV0RDZUWUNtTzBKU250dWs3Ml9WQ3B3VGhvdjltZ01jZmYxWEZBY3dnXzE3bzlPdEYtNU5zdE42UUZCM2hpMGh3TkxZdktjSEJ1ZGJ4ZV9Lb1k1OF9RaDU4d0tVel9nbGs?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -33,7 +353,7 @@
       "title": "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power",
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQUElTVS1sT2FJOE8zRmdCOEVTMHZCUUIzeFFqSDE4em44ejVDVlloZGxKX1V6Tk40ZEFOajNCdmlRRTlpcjJ6Z2R6Nnd2R0pKUWEyNnR2TTJ0NkxYaHhIcnhDdnpuUXJpaFhZa1NCVkZGdEdBSGR6RWF1RTVMZFNJaG1KSVNEN2s5amFvY0NTcTVJVEwwdTA5Zk9VRkxnNFZNR0pqRFpQc1RBc1Z4eVVGT3F3VExmX2x1YVdZbmxrLTB4VlFEMXFhNWdhd29GMTVpN0ppdEdpQWppYVZRc1daakcwMjlZU09RbUNHcnpRTmVhdHR6SWVadTVkdUZnVE95UEZPbFg5SXlUM2ttUWs0ZTdrQVhpb3NQb19DbmxURkQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -41,7 +361,7 @@
       "title": "SM Lee to visit Central Asia from Aug 24 to 31",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvVFAwV2h1RXZ0RlB3QWhWLWNOMzExZFVXRHZZaEx2UzlMVzJBb2ljQk1TMl8xVkZMbmZoNV9UWGtRWDhjVXdLdVFZeUhPeko1SlF3aTZxTkVPYjNNWXc3OW5UMURLZjMyT0hEdFNkOHRRcnpn?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -49,7 +369,7 @@
       "title": "Kazakhstan parliamentary elections begin: What’s at stake?",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSjFRQnphbWJyeldXSUNrRDFFRnhfYmZWaGtUWWQwcDlqREpEWFV0azJtejk0WnpDb2dyclg1UlNhMVlHY3BseTVnQ0NleGJSOE1FUHhYQzFybkVvVXljVkZrOXRlSDZSZUlmMUIyMG9yQ2RaTW1uRmR4RmZLa1VhQkZxcEhSS2MzTFB4MHVUa0RyX2FjUmZVWnNMSzbSAaIBQVVfeXFMUHowVmFIWi1ZV0RNVkZ4VlVqaWdQa3cwdnIySFYyMGZyYlhGa2ZGWGZkOTBJbDZvczZoMGVTNWNaYTVTUXZwVnBBWi1tdzhmT2Q2OFNoXzRFajEzOEdQbzBFakFIT1ZxVGI5eXNoYVpuUjhTTWdSaTlCSHBxbGZ0c3E0Zk9aMFJYYW1sVm5pMFcxdzFFUzFRX2hvX0o4TlJ0MUl3?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -57,7 +377,7 @@
       "title": "Kazakhstan parliamentary vote to cement president's power",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVXdsejA4Tkg0SV94X003dTBWaW1UaGtaTWJHWmFmLU5Db01lcmw1emlSSU14OHJ0WTE0NWlsaG0xQnFtcV91b1BGajNTczVyZGRjNEVVNVI0ck5kNjZzLXk5emRmblo0N2U5aHhSYm85QVhKUGdGV0JQRjlNLTZKOXdQaEJhUUdqQWVUSXhiV0tleVnSAZMBQVVfeXFMUERtZ3QxNXRVWnZzR2RNVzVOQTNhMDNseUJ4VWJqdjZZNlNWZTVhM21DazcxYTBqeGFzMUVEazZnWXZkaGRUQWQ3a0JaeDMwWlduQVZoZUs4Q2NZSVFsTEhLdnRTeHV5MEtQejUyV3BLUUQyTGxwUF9xSC1YdE14ZndTV2dJbXp1OVVITWtnT1A5RGQ4?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -65,7 +385,7 @@
       "title": "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power - morning-times.com",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPRVBsejhnM2pFejQ5TVNUYmgtRFNlb25XWndIS20tLXZEYktmbW5NNC1tZHdCMkhpcHBmRDFzYy1CY0hhR1BlZlJWeDMtTDNwVFlJZDJBQUJiWWN6cUxrUVEzb3Z5VjMtWV92VmtrejBQaFE2dl9QTGozWURuWGxfOUJCTWRoN3VYeGpvSnFJNGZPSGRuMFFJdGpHVzhiMzkwWjlxYTEySEN2WlZTc1RYVng1bURRbmdsb1RSbFN3UUhQa1JQa29RUnRrTzc3bm94cXB3ckVQRmNQbEpaYmlwQmZWZVkxeGE5RmlqbTdKTGMzNWVWcWZqNlZfeUZUc3Nkdmp1QUNWbWhKSlJkSlBZWDJnNA?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -73,7 +393,7 @@
       "title": "Why the US Should Pay Attention to Kazakhstan’s Elections",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGh2VVdHdFkxSnRlUDF4V0xMM21NS09vMmhFT1Q0LU5JUXg3TVRiM0ZaWWRHY0lFOGNTcUFJc21zUVhTQmhwQ1M4bDJNZXp5NkFoTGppUUM5TlVIX1hWX3NwUWUxOHp4dmhQUjctODVHWWR0WHVyYjIxSEpoSGcxSjJKUmVNUkQtcFJZUkF5NldHYjFfZy04TVA1Vy1fdmtzeld5clRJWHRod0hpcjVB?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -81,7 +401,7 @@
       "title": "China Challenges Russia's Arms Dominance in Central Asia",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU0MxVTdJdlZZSGQyXzRCNnBxanZlT3ZtTjZQQmdaSTFhcms2LXl5elFFN2wzbEc0c0R4VUlfd3FBVE40bnBySWlTZGxVX1Z0QktvaDVPY0p0WXUtcFdnY05HQ1hIVFhfVlJvR1JNdjZLVnZ4QmZpMFhldGhWQXRqUUx4bm5qWkJ4WVgwcks3Q2FhUTdndnRJc2w5WkNlTjl2VlV0dk5B0gGrAUFVX3lxTE8tWE9DREViQzZqVklzNkhUU2NhbG9wQWVzNGx6aFMtWDFjWmxoSXZDWm5Ya2ktNnp0dVZqQm51bFBUaWZMUUZGTzZmaWdSaG5GV3hfa0FWa1FYcUxXM08tVG8tVnlWWnRkQnZ1bVlsWEtSX19Wcmk2VUtfN0QwVmMtVmZuMl9IXzBLR2E2enptWkZUb3RvXzhGNlhDYlVLT3RaVVVtaDhLbV9qVQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -89,15 +409,7 @@
       "title": "EU-Supported Summer Camp in Tajikistan Brings Together Young Environmental Leaders from Central Asia for a Greener Future",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRGR2TU5HOUxROG5HYVlyWkUtSVFnbzMyYnpZalY0QkNhejRYdzVlczd1TmN3WEJRVXgwTG5fR2plU1U4QzNldFNCMzVLOEs2Z0VST3BLRWp5bUQxZzNjUG45ckI2bkoybTFEMm1IcjJidXhNNHN0NUstVnUtNFVRaW05Q3ZlY3NOdFlFSVZVTjVWLUJVTHZLY1I2YklDM3dWVC1kcDQzRXFySWRBMW1WUDhBcEt2ak1UNGJLV0lTSENjY1lLYW9OUkhDRERxbzJEdXVhUDRUS1RfU2pBOUJiZFRZMC16V0NE?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "WATCH: Iran’s ‘golden generation’ could reshape Middle East, analyst says",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WbnZGcU5vVGJZOVJtVkllMDhHWUVESmt4d1JieU90Q1FEZEh5TVYzMEZtZWJ2WjV0NXVZWUlBbDMwMUhwUWFHUkVONjBvQlhBTFJISEJtNGxzTFpTX1A2amJMSk5ad3hWS2c?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -105,7 +417,7 @@
       "title": "Kazakhstan's Elections Set To Cement Tokayev's Grip As EU Prioritizes Trade Over Democracy",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbDJ4bkVGYkEwUEdtLUR6b1VVVjkzeXJ3NDdZYXNrblA2NXJ0cVBlclVmLTBEeXRNTTctWHFvTXBpWG4zYWJmUkRjbEhqTWxPdGR6a2tGTlBxZ0V6MjZLY0V0Rk5abGk1OXdtdm12RE1XNlVaaHZ1anhGaUcyT0FlVzMzUnJOelNqYm1MWTNHY1U4WGNVUWRBcnVYQTJzN01zUGVzSXJMSWFZTUtwOFdqQ3dPaHd2eEJKb3VkLUF2UFZxV3pHckdTLWdCdUJRakFSckc4?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -113,7 +425,7 @@
       "title": "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power - The Tribune-Democrat",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNNHhFaGxyUWVlaEt4MERUYUUwQ2NwU2dBQmJmVnZkdFJ2cTVjY0ppQmZ0S3M4NjVnVk9OUzFQNXFsM0FqYi1FTXV4ZXVhOTlvR2FFRTRQVGVJQ0UxWnNlajBHVjJVYTZVUEM5R2UweG1QaDF2Sk8xd3RyYVgtSWVfd3dVcUZBRzAybF9zeXNZZHN4aXd4LWRyN2pCR1V1T01WeE1sN1pHeGs4QWdic2JiNXBGOV9XQ21Gc0c2VlZjUnMtREQ4N2kxOG9EaXdFYVlEcEdkcmZlaThxNU5PM0lCcF95aHBjbW53dS1oeUZPcEZ0dzJyWVZvOFNBNEo5VExMVWs5ODU2RUVBWFJnMUJ4RmtB?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -121,31 +433,7 @@
       "title": "President Aliyev To Visit Uzbekistan For Third Supreme Interstate Council Meeting – OpEd",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdzVQU0lfSmFsYWJmemFOTWtFRGVFdEVqaW5yd0ZTRE9qYXVNdnJLcVRGLTJ5TzNHdEtuMWpRRWlZLXd3WlBVSDZWUEVLUWdaamFIcnRvTmxnczlhM2w4cnJOU3h3ODVxOVdUa3FtXzZvWnc1WjIwWTBjMC04c2Q1NnJOTUpoX3hmU3dpYUxYMnRwaVVKX1Q0WEg1bTBmZEpsRUdIVFBfSlZtOVYtckkxbFRkNkkwcmIxWmVWSDIwSl9qT3cz?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Azerbaijan and Uzbekistan: Turning political trust into regional power",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN3NPOVdSVGVNNEVJMTlrYnhhLU13cTRHanJEdWRfaWEtOFd4X1BCZFI0UExfNF9NdXVnc3VpVlBqMmZHc19WWTYxcEw2LWJCaFhaR1BPbm1aYWtFX3QybmxoOXA3Ynh4NU52WmNiMG9JcjdPVjZHY19DbnNCaEI5Q21yNEdWOFBLR0JIX3Nqa3Z1NVhw?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Is China Replacing Russia as Central Asia’s Arms Supplier?",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTZ4MVhjY1NnVk5ySXFFY1V1Mmt2bzNONjBPaU16MVoxcC10Z3ZzMExFX1FOU29ndTZsRThVS0U3UEJEYVdVNnh5cy1zQXJMTnJJWmZkQVJ6OHphNUZndE9Kc3plQk1kU0xReGlJU3lCd2MzUkF2WmFlcHpUUlJYWE8ta0dFdWJ2OHRKNGRIa0loOVFnNWc5SklRdk1ORWMxWTg2MzNkZTlzanRiUDJJ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Kazakhstan's future after the elections: Russia, EU or China",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGstWmc2SnJpUk9pSjlGQ200Ump3WmVHdVQyR3phRkM1T3Z2TzVoVDFmeWVIYjFVYjBqVVJUeDBSUzdqTDFheE52M19sRXp1Y1hFZlhQZE5lNklnY0JOdlRUdFBDM3gxY3R6VFVxTHlPaXI5akE0SzJEYzMzbGlTSkFZUlgzVGlDNndkQ1RCazR0RDRZ0gGUAUFVX3lxTE03a2FxYkZFRmxRU2V1NVBpSE5XWlVCOFpLU0lBTE04MVRSZHYxOHVhaTJ2RlJKY2VRMk81ZEFuSUF3elFsVzU2VVEyVGJrNUV6c3B5ZXJVdklzWjdleWRhY0RYcVIwZ2h2UlJEVWt3TEVJUnRZbUpuSGNuWW9yYmdXWGY3YW1LTUdfZDNqUHJ1U0FVa2M?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -153,7 +441,31 @@
       "title": "EH216-S Completes Central Asia’s First Pilotless Human-Carrying eVTOL Flight in the Heart of Kazakhstan’s Capital",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwdWlJaEd4UXV4dkFUQk53d2ttbTJMazNDTzdvdlp1QTVwMlBvRnZSd3B5b3RvMFRFTmhNRF84ZjJuR28wb0JmUEloQnY?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Azerbaijan and Uzbekistan: Turning political trust into regional power",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN3NPOVdSVGVNNEVJMTlrYnhhLU13cTRHanJEdWRfaWEtOFd4X1BCZFI0UExfNF9NdXVnc3VpVlBqMmZHc19WWTYxcEw2LWJCaFhaR1BPbm1aYWtFX3QybmxoOXA3Ynh4NU52WmNiMG9JcjdPVjZHY19DbnNCaEI5Q21yNEdWOFBLR0JIX3Nqa3Z1NVhw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Is China Replacing Russia as Central Asia’s Arms Supplier?",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTZ4MVhjY1NnVk5ySXFFY1V1Mmt2bzNONjBPaU16MVoxcC10Z3ZzMExFX1FOU29ndTZsRThVS0U3UEJEYVdVNnh5cy1zQXJMTnJJWmZkQVJ6OHphNUZndE9Kc3plQk1kU0xReGlJU3lCd2MzUkF2WmFlcHpUUlJYWE8ta0dFdWJ2OHRKNGRIa0loOVFnNWc5SklRdk1ORWMxWTg2MzNkZTlzanRiUDJJ?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Kazakhstan's future after the elections: Russia, EU or China",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGstWmc2SnJpUk9pSjlGQ200Ump3WmVHdVQyR3phRkM1T3Z2TzVoVDFmeWVIYjFVYjBqVVJUeDBSUzdqTDFheE52M19sRXp1Y1hFZlhQZE5lNklnY0JOdlRUdFBDM3gxY3R6VFVxTHlPaXI5akE0SzJEYzMzbGlTSkFZUlgzVGlDNndkQ1RCazR0RDRZ0gGUAUFVX3lxTE03a2FxYkZFRmxRU2V1NVBpSE5XWlVCOFpLU0lBTE04MVRSZHYxOHVhaTJ2RlJKY2VRMk81ZEFuSUF3elFsVzU2VVEyVGJrNUV6c3B5ZXJVdklzWjdleWRhY0RYcVIwZ2h2UlJEVWt3TEVJUnRZbUpuSGNuWW9yYmdXWGY3YW1LTUdfZDNqUHJ1U0FVa2M?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -161,55 +473,7 @@
       "title": "Barclays (LSE: BARC) Raises Stake In Central Asia Metals To 5.57% Through Shares And Financial Instruments",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSk5lWFd3TjYwRWs0UnhYUFNWc3VwdnlJbVJyTHNhQi1PSnFDVllsTlNZaDdjdlFTbDduYkJjSG81aDVqV3FGV1dOZnVSa0gzYzRCYzBiNndMWmUwVXJSTUstS1YtSTNDZm52eFBWbEZNY3ZpWjhpWHRkQ0pqb2otX3F3NTJTX0U4WWU4UGhpNldCZzc1Vk5WR096SWU1cXVsVkxoX1p5cTNPRkxfTk5MUDVmcWdkQ3ZjeEQ4YWl3SG04ZjdDQkhhQVA2RHNVelJiLTdFY3h5dTdhTURPLUhScnBwOC1pZw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "FOR THE FIRST TIME IN CENTRAL ASIA, KYRGYZSTAN IS IMPLEMENTING NEW METHODS TO REDUCE THE RISK OF LANDSLIDES",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16MDAxWWdrWmpqWDU4Y2FZQmMtWmItY1l0QlFDLWprdGVWTlViTnRhbm55NlVfNmoyenRWVkRxZXJQY3BYUG9vX0FSQjdqY2tWck5SNUhFZXQweVNq?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "New Agreements Advance Central Asia's Middle Corridor Ambitions",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX3FXbFB2V0NTb1FpQzRXVmdwUWtIaU9tVExZNW4wbWtQY3EyWjRQX1FlZkdSNUN1MWJIVTUtZEJOWXFnOHBKUHQ4dzhGcnJibDl0Q2xMd3RCQ2dPQ2YzQ0YwLXhaMEViSkdjOFdxdGJfUFNIcDkyWGZTNW1FTmROaVdtdVZzMlNUNE96QW5tYXlQR3cyZGJKckZoSlMxRXVEdVFnYWN3eklkbkV1Z0JF0gG0AUFVX3lxTE42Y05rWW4tSFA4M2htc1lSdTFYcmQ5N2I5THhTel9SNkRGdlJFMUFMdkxEbmFxb3lCSWpFRFd2a0x6ekZTR1VPVGlzRld5TWM2bkJnR3FuMXFHMmVLMW8zejVJYnhCeVpicjJrVTVZQU9XYjN5Q19ySmQ2Z21EQVRrTWtGU3VTVzY0V1RPcTRRbVVxOWtPQV90el9YaDJrMzZPdVBLWDA5aWZtR0k4b0tJbWFxMA?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Ilham Aliyev speaks about relations between Azerbaijan and Uzbekistan, and says the good personal relations with Uzbek president Mirziyoyev are crucial",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TQks1NVlMeEVQTHFXZHU2bHlYaGFOUjFqQUJ4TlVhb1JZQ1VMSlFacEF0UVJnR1lhZFpCLVdONkFSRDdJbDUxdGJhQ0t2UQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Kazakhstan votes in first election for new unicameral parliament",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa3lIb096ODlhQXptQWpCWDdybVBrNzhmSnA0eU1OY0VhU3dJOWkyOE1JSWM4VzRlTjdoVG54ck94RnBzM29yWXVaY2h6VkdQcG1vZGREYjRscVFmUkdEeDlyTGhLeDlGY0NiMWstS3lNUk93UDhZdDZWTWFQVjhtMFplS3FEblNsb2p5dzVFV2lJQnZBbk5DRFo5NDNKa0tLTlFjd1RkVUQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Kazakhstan drives Central Asia transport investment with $32.3 billion",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSDQ4NDVPVk9wYVpYRjgxekJuSWJ4dDA4ZDN3elM3cGxPQzkydmRCVGhwUm96VjBiNVhuVkx5N1g4ZF9rSXZtcGJ4bElCZGs0eWhMNEtaUE1HeXZpdERLVDFLRzB3WjZXZzdUbFhaV3NjYVNkR3ctdzhrTG03WEE0TnEtWThISlc5WS0tQ3QtWU9LUC0wTkRSODVYWG5XUDg?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "President Ilham Aliyev: Central Asia and Azerbaijan constitute a single geopolitical and economic region with great potential",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMnFadE96eDhhSXlJNjVqQVVrTWJ1a2VrM3JWM2tEQmhzZ1p1ZmF5YjFkMVotaXM2b0g4S1UycjRXbUNXNEhpalMwUjZyRzdVZmhBNWpMOTdfSzRRSzVHX1FqcDZMMWVvUktqUzNJYWVPLUtlUHg3eERzQ0tPNGJMN3J3NEpYdERMeVhkd3FlcUQ0d2wxc2szTWdJeUhvQkJ3ZnlaYU9YSFZCZEtIemhIUGZFTXdMZ1lOc1FiZTRwZnhiaHdQdXZqR2syU2xhS2ppdjdHeDM0T1NXcHd3QlkzM0MtWFFkbTdpa2ZtSXNMMEdGaklWOUE?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -217,7 +481,55 @@
       "title": "Azerbaijan-Uzbekistan alliance strengthens South Caucasus-Central Asia axis - ANALYSIS",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWd4ei1lN3dfNlpGTGlYcnVKZkprQUlDMGtTMUpqQVpfeEhhWTRvQmkyTHlrNVp6VF8tUllfUzBPdWkzZnpmUWtHTEI1YlNucGp6Y3MwNkRaN1dnb3VNdExOZGhWWXJyRnNnS3AxclRSbjhUM3ExX3k0bFEzX0RrbnVEcDdwcy1MNk1ZelZScEIwNjJZbHhhWG5fMkZPQ2FEakR6SVo2U3V3a3poeG5IYzl0cEVtVDZuR3hR?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "FOR THE FIRST TIME IN CENTRAL ASIA, KYRGYZSTAN IS IMPLEMENTING NEW METHODS TO REDUCE THE RISK OF LANDSLIDES",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16MDAxWWdrWmpqWDU4Y2FZQmMtWmItY1l0QlFDLWprdGVWTlViTnRhbm55NlVfNmoyenRWVkRxZXJQY3BYUG9vX0FSQjdqY2tWck5SNUhFZXQweVNq?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "New Agreements Advance Central Asia's Middle Corridor Ambitions",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX3FXbFB2V0NTb1FpQzRXVmdwUWtIaU9tVExZNW4wbWtQY3EyWjRQX1FlZkdSNUN1MWJIVTUtZEJOWXFnOHBKUHQ4dzhGcnJibDl0Q2xMd3RCQ2dPQ2YzQ0YwLXhaMEViSkdjOFdxdGJfUFNIcDkyWGZTNW1FTmROaVdtdVZzMlNUNE96QW5tYXlQR3cyZGJKckZoSlMxRXVEdVFnYWN3eklkbkV1Z0JF0gG0AUFVX3lxTE42Y05rWW4tSFA4M2htc1lSdTFYcmQ5N2I5THhTel9SNkRGdlJFMUFMdkxEbmFxb3lCSWpFRFd2a0x6ekZTR1VPVGlzRld5TWM2bkJnR3FuMXFHMmVLMW8zejVJYnhCeVpicjJrVTVZQU9XYjN5Q19ySmQ2Z21EQVRrTWtGU3VTVzY0V1RPcTRRbVVxOWtPQV90el9YaDJrMzZPdVBLWDA5aWZtR0k4b0tJbWFxMA?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Kazakhstan votes in first election for new unicameral parliament",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa3lIb096ODlhQXptQWpCWDdybVBrNzhmSnA0eU1OY0VhU3dJOWkyOE1JSWM4VzRlTjdoVG54ck94RnBzM29yWXVaY2h6VkdQcG1vZGREYjRscVFmUkdEeDlyTGhLeDlGY0NiMWstS3lNUk93UDhZdDZWTWFQVjhtMFplS3FEblNsb2p5dzVFV2lJQnZBbk5DRFo5NDNKa0tLTlFjd1RkVUQ?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Kazakhstan drives Central Asia transport investment with $32.3 billion",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSDQ4NDVPVk9wYVpYRjgxekJuSWJ4dDA4ZDN3elM3cGxPQzkydmRCVGhwUm96VjBiNVhuVkx5N1g4ZF9rSXZtcGJ4bElCZGs0eWhMNEtaUE1HeXZpdERLVDFLRzB3WjZXZzdUbFhaV3NjYVNkR3ctdzhrTG03WEE0TnEtWThISlc5WS0tQ3QtWU9LUC0wTkRSODVYWG5XUDg?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "President Ilham Aliyev: Central Asia and Azerbaijan constitute a single geopolitical and economic region with great potential",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMnFadE96eDhhSXlJNjVqQVVrTWJ1a2VrM3JWM2tEQmhzZ1p1ZmF5YjFkMVotaXM2b0g4S1UycjRXbUNXNEhpalMwUjZyRzdVZmhBNWpMOTdfSzRRSzVHX1FqcDZMMWVvUktqUzNJYWVPLUtlUHg3eERzQ0tPNGJMN3J3NEpYdERMeVhkd3FlcUQ0d2wxc2szTWdJeUhvQkJ3ZnlaYU9YSFZCZEtIemhIUGZFTXdMZ1lOc1FiZTRwZnhiaHdQdXZqR2syU2xhS2ppdjdHeDM0T1NXcHd3QlkzM0MtWFFkbTdpa2ZtSXNMMEdGaklWOUE?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Azerbaijan-Uzbekistan alliance strengthens South Caucasus-Central Asia axis",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbDk3WjdtRGJHZ2s0UER5czc1UUlIdFp6YzNVN25SRnZ3WEpyMDRERmhVSFNtUURxQlhQS0xmMzBIMHdoOS04dy1yS01idVlmbHQwMk1aV1UyRVItV0M0cFNXeWVWRlNrR01ablowcXBtcTVWMzRoQVZuaHNEaEVhMXRnZWxpRFBTVWZ1WWdFQWQ3RURjTEQydS1SLVRJNktEQzY1NjRTaXdzS3FDWE5JbDBFMHdpZw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -225,15 +537,7 @@
       "title": "Uzbekistan and Georgia launch digital permits to speed up freight",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbENBWERZY2t6RDd2cFMtYUlTUFFnOXpTN1JlMDFtc2o5UzhsR0VBM2JvNUpPRXZMaWZSR2ZFVWVtcGpQdGhqWnhBc0pjZ0g1YWNyZ2VJa0VfVHFpZUR3WHhSZFZJZUpreGtFeDZBWjkxeTJzZDI1bnI4MEcwZ29xVEwycGpJaC1Zek9BTDZwUXdZQ0NaQnotc0VBV1R4dw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Korea is about to meet a Central Asia it thinks it knows",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbk5PaEozUEZrX2ZDU1ZpTnlQWTRUQ3FoY19hSWowSktFTGdQRHhzWGFqTTFBRzE3MkIyd2ctOVZKVVdJNTJtaFdUWjl5WDNkNFBobnpKajRLMl82bFNHTklwc3FhZlU1SzJIQnB0ZmZ6QUZFb2NyUTFRS252UjRFUzRNSklpUnZUcUlZUER1WFA3OTZaX1UyeHpfMUc3VEhLTWRBX9IBqgFBVV95cUxPdmplWHdFREM4STBVTGJRR2JPUUZ6RVpSU0RoYk9DMmZUbC02aWpYOUU2dEFTYTM1OXh4TXpMTkluTmZrdHlUek1RVTBsdzh0cG9JbmtuUFdGTVNiTDNjVzdSSTk4UkYtbDQxV05oNy1uWXJ6XzY4OVVlRUNZTjItdkVQbVlEVDdxaHU1S3FiVEdxRmRIcDJSZkh5MGk3OV8zTWI5VGJDeWRZQQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -241,7 +545,15 @@
       "title": "Barclays increases stake in Central Asia Metals to 5.57%",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSE1JOEV2TFlDVUMtX0F5dDhlZEtKWXJCS1J3S0RpeU1DanVMcXJDNzVqSmNVeGo4NXpEb015VlU1MkJnRnpzV0t0WFpjUXhwTllqU3lqdURQb2RBLXJUUzJrVVpKa2pTQ2FzMUVmQmVWSVRwRHNtcVdUem10YXBncFYwcW5YME5Gel9jTHBHQVF5b1piTFhWYWVpTFBTZ1piM2p4MXpKekt4UG54Ujg4aQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Korea is about to meet a Central Asia it thinks it knows",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbk5PaEozUEZrX2ZDU1ZpTnlQWTRUQ3FoY19hSWowSktFTGdQRHhzWGFqTTFBRzE3MkIyd2ctOVZKVVdJNTJtaFdUWjl5WDNkNFBobnpKajRLMl82bFNHTklwc3FhZlU1SzJIQnB0ZmZ6QUZFb2NyUTFRS252UjRFUzRNSklpUnZUcUlZUER1WFA3OTZaX1UyeHpfMUc3VEhLTWRBX9IBqgFBVV95cUxPdmplWHdFREM4STBVTGJRR2JPUUZ6RVpSU0RoYk9DMmZUbC02aWpYOUU2dEFTYTM1OXh4TXpMTkluTmZrdHlUek1RVTBsdzh0cG9JbmtuUFdGTVNiTDNjVzdSSTk4UkYtbDQxV05oNy1uWXJ6XzY4OVVlRUNZTjItdkVQbVlEVDdxaHU1S3FiVEdxRmRIcDJSZkh5MGk3OV8zTWI5VGJDeWRZQQ?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -249,7 +561,7 @@
       "title": "Pockets of Hope: Biosphere Reserves in South and Central Asia",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWWNva2h3RWpVZGRpRDJQaHYwUlczeDN4aFpXWjBONm1HM0l1TWlESVNQbUdjUmRfVFd5NjVfbk9vMC1nNGRiZDJuVlJqODI1M2x1SGh4SURSa0hidTdhdmNmWjVlZnp5SEgySmxnVUdsVmdwN2x5a2ZrZlg4LTkzc1dpQWRSTDY2Z0VmNmdlT0RsMHM?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -257,7 +569,7 @@
       "title": "Kazakhstan votes in parliament poll set to tighten Tokayev's grip",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQlM2bFROUHBEZ3JuZXlQckQzbFljNVVhZFBpT2FJUE1PdnYxMUtKZzMzVEdnc1V1N0FwalYxMFp1T0UxcDFGT1hhYTUyWnpUZFZyTkNmczhTTXdwX3g4X3ctSjduLTQtcDc2em9TZDR5MkNsOUNSc1d5Q3RpTnlDTkNrazBKUnR3a29EMXE5OUZfekN1RGpveWJNNWx2OVRDNkR6TDJNT1ZsZXVhRGZvbXZFMi1hU2NLaTlBSDFqOGhEVlZDSlRHdTl5YkZ6MkViWWfSAdcBQVVfeXFMTjRycmJNQlpuS0k4dG40MVR6dktLN2ZfTzhrVjlPYzBuV0RQXzRRTkRLRFVEckRoejhMMlA5MzNRYnNIT2dqX25qNXdxemZKRUxURzZMZDVkTWdzVzRfaEE0bFN4WUlQZFd3STkwQ29JRTN3ajJRcXE4bGFLLUFVRDE2NkNBVHI5M3J3THpLTjBwajJsRDBuY2dId2ZaZ2V2N1VuSHA5Y0tLZnlwZ0FaVW9xSHBOX0d3TXRYaE5OTmlENkNmVVRtdXZuUjBkSGNQZzItdXBVUzQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -265,7 +577,7 @@
       "title": "Azerbaijan–Uzbekistan: Bilateral relations based on a shared history enriched with new dimensions",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeHRWM2dPajNQcVhyVUtvR1Q5U2hybFk2bzBocVhhdExqQVJ6TExiR1lxMmg5V0dwUFVwOWFTQWlWZWxQQXN6WHhJVjEtVFZMS3pybUxmc0piSFFuQ29ZbFVVR1JKR1dvY0tsQngtZGJNeFhPWVh4N3M1bjF1V1p3bHJLZ1NxeThnRjFES0lnVGh0V3NkSnR4cldnWDVPbk9aSDFuc1BoVm9YTTZ5eWVxRzhURW14Zll1aVNqZTdDSFZ4VUFZU1ZrR0IwRTM?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -273,7 +585,7 @@
       "title": "UNICEF Europe and Central Asia Region Humanitarian Situation Report No.34 (Ukraine Refugee Response in Neighboring Countries), January - June 2026",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNTDFHQjhxeUZqc1BfZEJsa1FrbldLYmdxc19INnJQUEtjRmhoUHNQQzV4cmdlem16M1VrV1VtTVRtNnVjTkItbGhpZXVicjBNYXRFUXNhcVd0WXRPU0pReV9CbDZrRi1JUG9qczlTRFhyX0EzR1hmcmxZaDc0T2Z2Q0VtVUNqdGRhSnZFSjlLRURISzVEeTAyN3M2bTI3OXNfX1dMYWRzbmpoMWVxajZZZUxiNHFtSnZYdFhfd0ZqbEpMMjJ5ZlI1bG1JdmJzcVVVMTRKOE9CUl9vTHlxazF4OERFQTlQMUhOTlM5WEppeDF3SUxYUjM2TkI2YmprNXR6Y3NrNg?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -281,7 +593,7 @@
       "title": "IDFA Releases New Project Diversify Report Highlighting Export Opportunities in Central Asia",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFhFdHhQN285Y0FEa3l6OURHOHpBMzJFZWQydWU3MjRZeWc1TTRVMzhFbTREWEVXNk1OWkZJUENOVmY2SFVmMWhkWVdFdjhSVTZvMW1Xd1RjNm1QbHZGemQ3aURQNHhBdmVWYkF5RzdiM0hNbGk5M3ZUbFI0bEVEMmNybzlXdlZRaDhRSDR6YjAySnVibFN3S3ZvZFJQR1lwQy1mZ2cyenRSMk9LcXpiWDZxSXBXckM1LUE?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -289,7 +601,7 @@
       "title": "BANK CENTRAL ASIA UNSP ADR EA REPR 25 ORD SHS To Go Ex-Dividend On September 1st, 2026 With 0.03519 USD Dividend Per Share",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZlF1QW1jRjZMbE9QenZMVzlRb1Iyc1NRZFRvNkRuMmhCRGhDNWh2R2xlYS1NZU1jU0Z1dU9iVlB0UE95djFiQjFWMXl3WjczVFVtZnFkSFlJTTdtMEJ4ZERNV0hPU0J2c3JWa29kWVFqYlRDaGtQVnc4UVZwa0lqV3B0SEpXZXViTnZwdHhETQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -297,15 +609,7 @@
       "title": "Reordering Central Asia: China’s Emerging Economic Hierarchy",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHE4dHdfZXAyX0t6em5HMXU0T0IxWFI5OFFBQXc1SDhTa0J2dVdSZXZtem9ibExYTHotR0Vyb2hFNXhQdUJMUnJUX0F0aDN5QktFU3Q1NVdFd1BQdTl3N1ppWVhTUHhIU0U4c1RPN3gzenlzbnF3eng4WW9PbTlrR2UxYmliZFJnVVVZRkQtc2d0RnpYYU9IR0p3amY?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "SM Lee to make visits to Kazakhstan and Uzbekistan from Aug 24 to 31, Singapore News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZTQ0dWpYWEl6ZjJTZnM5M0lxX3ViUGlsUE90ejRGZ3BSWUlRYjZObXdvZFM4WU52ejVmLWNNdG9KXy0xdWhHREtUNEdBSVRDV2JicXJzeEpGVDYtNEVFVVpOMXQ0SEh2c3Bvc2pTSEp3LUM3N2ZRdW5jdjUxbENOM3oxbnBpRC03Yml4ZDR4MkU?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -313,7 +617,23 @@
       "title": "Multiple Wars Are Ruining Central Asia’s Efforts to Diversify Its Trade Routes",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSGZETVRnR1ZMSFVJbUJ0eWFfbkpua3h2b05Qc2V1OWM5aTZ3TFJYM2w4WVF6c1JCV0phNExhdDIzb3AwTWJsVDRkOVBDa3NXaThVbEo4TDNycG4yckFCZGVEMDZwSS0zQjNadWJVYU5XbG01dkMyeXJ4MU1iRFdZcXRzaFZDWFpKbFUxb3FvX1c?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "SM Lee to make visits to Kazakhstan and Uzbekistan from Aug 24 to 31, Singapore News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZTQ0dWpYWEl6ZjJTZnM5M0lxX3ViUGlsUE90ejRGZ3BSWUlRYjZObXdvZFM4WU52ejVmLWNNdG9KXy0xdWhHREtUNEdBSVRDV2JicXJzeEpGVDYtNEVFVVpOMXQ0SEh2c3Bvc2pTSEp3LUM3N2ZRdW5jdjUxbENOM3oxbnBpRC03Yml4ZDR4MkU?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Shavkat Mirziyoyev: Azerbaijan and Uzbekistan speak with one voice on international stage",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZGNGbkpaS0hnU1otNENMWUJsVUktNFJPSzg4OUdaUDh4TERKLXl2YjdYVG5rRDRGQ1Y5RzZmQXB5eTVwY0F4eHNqT1R5NTJWclJFLWlDS1JqUWhRak1Ib2ZINXI1NEszbUZMd0l4Tm9tRlBiMEItazZsbDlXQTBHYktQZVRrcHBIWUdwM1NKQ0k0eFhJazBReUFuOGlWT0lfQXVwdHBFMW95V1FUcDl4dGdKTlBseEp1S3RiYVBQcWFxc2Z2eGZF?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -321,7 +641,7 @@
       "title": "Kazakhstan Holds Snap Parliamentary Elections Amidst Political Transition",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4wSUx4LUF2Y3ZtUkVSWUpaTTJ2Nmg0OW1wNDdONksySHRhandpWHZUNkNpeUtyaV9XWWZQUC02RXRId0lNOW5F?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-08-23T14:14:23.544Z"
+      "pulled_at": "2026-08-23T14:46:55.727Z"
     }
   ]
 }
