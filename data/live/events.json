@@ -1,335 +1,15 @@
 {
-  "fetched_at": "2026-09-05T02:07:29.749Z",
+  "fetched_at": "2026-09-05T07:00:40.830Z",
   "source": "GDELT + Google News RSS",
-  "count": 80,
+  "count": 40,
   "events": [
-    {
-      "id": "gdelt-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "睦邻友好开新局 繁荣共兴启新篇 吉尔吉斯斯坦各界人士高度评价习近平主席国事访问",
-      "url": "https://news.sina.com.cn/c/xl/2026-09-05/doc-iniqtnha0544064.shtml",
-      "domain": "news.sina.com.cn",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "视频画报｜习近平主席的开罗时间",
-      "url": "https://www.yangtse.com/news/tt/202609/t20260905_389640.html",
-      "domain": "yangtse.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": " 【 名家专栏 】 美国海军发布新型导弹 震慑中共",
-      "url": "https://www.epochtimes.com/gb/26/9/4/n14842911.htm",
-      "domain": "epochtimes.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cDovL2dsb2Jh",
-      "layer": "reported",
-      "title": "Xi trip hailed as catalyst for global certainty , cooperation",
-      "url": "http://global.chinadaily.com.cn/a/202609/05/WS6a9b4f20e4b06d4aa055c771.html",
-      "domain": "global.chinadaily.com.cn",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "IN PHOTOS | Best of World Nomad Games",
-      "url": "https://www.cbc.ca/news/world/world-nomad-games-photo-scroller-9.7329928",
-      "domain": "cbc.ca",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "视频画报｜习近平主席的开罗时间",
-      "url": "https://news.sina.com.cn/c/xl/2026-09-05/doc-iniqtsqa5437385.shtml",
-      "domain": "news.sina.com.cn",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "视频画报｜习近平主席的开罗时间",
-      "url": "https://www.cqnews.net/web/content_1545718752998780928.html",
-      "domain": "cqnews.net",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "Focos de resistencia al sueño tecnológico libertario",
-      "url": "https://www.clarin.com/politica/focos-resistencia-sueno-tecnologico-libertario_0_B8GhAwdPcX.html",
-      "domain": "clarin.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cDovL3d3dy50",
-      "layer": "reported",
-      "title": "No . 3 Jessica Pegula rallies from slow start to reach US Open fourth round",
-      "url": "http://www.torontotelegraph.com/news/279286953/no-3-jessica-pegula-rallies-from-slow-start-to-reach-us-open-fourth-round",
-      "domain": "torontotelegraph.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "睦邻友好开新局 繁荣共兴启新篇 吉尔吉斯斯坦各界人士高度评价习近平主席国事访问",
-      "url": "https://www.yangtse.com/news/yw/202609/t20260905_389637.html",
-      "domain": "yangtse.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "视频画报｜习近平主席的开罗时间",
-      "url": "https://www.163.com/news/article/L625HNCK000189FH.html",
-      "domain": "163.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly90YWl3",
-      "layer": "reported",
-      "title": "俄無人機襲烏國安局 澤倫斯基 ： 直接瞄準局長辦公室",
-      "url": "https://taiwandaily.net/%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E/155685/",
-      "domain": "taiwandaily.net",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "Are Putin Days Numbered ? – Endtime Ministries",
-      "url": "https://www.endtime.com/prophecy-news/are-putins-days-numbered/",
-      "domain": "endtime.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9iYWlq",
-      "layer": "reported",
-      "title": "视频画报｜风雨同舟启新程 习近平主席的开罗时间",
-      "url": "https://baijiahao.baidu.com/s?id=1875327242360262097",
-      "domain": "baijiahao.baidu.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cDovL3d3dy5h",
-      "layer": "reported",
-      "title": "No . 2 Carlos Alcaraz continues strong U . S . Open return with 3rd - round sweep",
-      "url": "http://www.afghanistannews.net/news/279286993/no-2-carlos-alcaraz-continues-strong-us-open-return-with-3rd-round-sweep",
-      "domain": "afghanistannews.net",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "乌高级研究员 ： 从绿电 、 矿产到电动车 ， 中国中亚合作空间广阔 _ 广州日报大洋网",
-      "url": "https://news.dayoo.com/china/202609/04/139997_54999978.htm",
-      "domain": "news.dayoo.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "视频画报｜风雨同舟启新程 习近平主席的开罗时间 _ 腾讯新闻",
-      "url": "https://news.qq.com/rain/a/20260903A0BW0P00",
-      "domain": "news.qq.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cDovL2FyYWJp",
-      "layer": "reported",
-      "title": "مقالة خاصة : رحلة شي الثقافية عبر المتاحف",
-      "url": "http://arabic.news.cn/20260904/55db2768293a41909a03fb80dcf79ce9/c.html",
-      "domain": "arabic.news.cn",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9iYWlq",
-      "layer": "reported",
-      "title": "国际论坛 ： 推动上合组织合作取得更多务实成果",
-      "url": "https://baijiahao.baidu.com/s?id=1875449737816549265",
-      "domain": "baijiahao.baidu.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "视频画报｜习近平主席的开罗时间 _ 广州日报大洋网",
-      "url": "https://news.dayoo.com/china/202609/05/139997_55000079.htm",
-      "domain": "news.dayoo.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cDovL3d3dy5y",
-      "layer": "reported",
-      "title": "No . 2 Carlos Alcaraz continues strong U . S . Open return with 3rd - round sweep",
-      "url": "http://www.russiaherald.com/news/279286993/no-2-carlos-alcaraz-continues-strong-us-open-return-with-3rd-round-sweep",
-      "domain": "russiaherald.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "睦邻友好开新局 繁荣共兴启新篇 吉尔吉斯斯坦各界人士高度评价习近平主席国事访问 _ 广州日报大洋网",
-      "url": "https://news.dayoo.com/china/202609/05/139997_55000082.htm",
-      "domain": "news.dayoo.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "睦邻友好开新局 繁荣共兴启新篇 吉尔吉斯斯坦各界人士高度评价习近平主席国事访问 _ 腾讯新闻",
-      "url": "https://news.qq.com/rain/a/20260905A00R5K00",
-      "domain": "news.qq.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9iYWlq",
-      "layer": "reported",
-      "title": "瞭望治国理政纪事丨让  美丽产业  成为  幸福产业  ",
-      "url": "https://baijiahao.baidu.com/s?id=1875449139301890385",
-      "domain": "baijiahao.baidu.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "Путин усилил атаки по Украине после визита в Москву главы ЦРУ Джона Ретклиффа - WP",
-      "url": "https://www.obozrevatel.com/politics-news/putin-usilil-udaryi-po-ukraine-posle-tajnogo-vizita-direktora-tsru-media.htm",
-      "domain": "obozrevatel.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "深圳发布人工智能与应用发展行动计划 _ 南方网",
-      "url": "https://news.southcn.com/node_ac2b0b62a4/4792b04216.shtml",
-      "domain": "news.southcn.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9rLnNp",
-      "layer": "reported",
-      "title": "长安自研智驾上车 ！ 标配激光雷达+端到端 ， 启源Q06首搭",
-      "url": "https://k.sina.com.cn/article_6367828723_17b8d5af302003xn7g.html",
-      "domain": "k.sina.com.cn",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "小因扎吉 ： 马丁内利与萨默维尔都可以踢右路 ； 新月需补强后防",
-      "url": "https://www.163.com/dy/article/L6233M6Q0549BAP0.html",
-      "domain": "163.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "У манула Тимофея из зоопарка начался сезон зажировки",
-      "url": "https://www.5-tv.ru/news/5085367/sezon-zazirovki-nacalsa-notolko-umanula-timofea/",
-      "domain": "5-tv.ru",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9iZWlq",
-      "layer": "reported",
-      "title": "  京味儿  与  国际范儿  相遇北京坊 ， 百年商圈文化新地标迎全球来客 - 千龙网 · 中国首都网",
-      "url": "https://beijing.qianlong.com/2026/0905/8722808.shtml",
-      "domain": "beijing.qianlong.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "Progress MS - 35 Launches Tuesday as Last Progress Cargo Run on Soyuz - 2 . 1a",
-      "url": "https://www.techtimes.com/articles/326736/20260904/progress-ms-35-launches-tuesday-last-progress-cargo-run-soyuz-21a.htm",
-      "domain": "techtimes.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9iYWlq",
-      "layer": "reported",
-      "title": "赴华考察工业重镇 ， 深入一线实地  取经 ， 外媒 ： 科技朝圣者  涌入中国",
-      "url": "https://baijiahao.baidu.com/s?id=1875353005986248154",
-      "domain": "baijiahao.baidu.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9iZWlq",
-      "layer": "reported",
-      "title": "智慧育种  硬核上新  亮出北京  芯  实力 - 千龙网 · 中国首都网",
-      "url": "https://beijing.qianlong.com/2026/0905/8722802.shtml",
-      "domain": "beijing.qianlong.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9lYXN0",
-      "layer": "reported",
-      "title": "Despite public outcry , migrant arrests surged in San Diego in past 12 months",
-      "url": "https://eastcountymagazine.org/despite-public-outcry-migrant-arrests-surged-in-san-diego-in-past-12-months/",
-      "domain": "eastcountymagazine.org",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "HD현대重 , 노조 파업에 잇따른 중대재해까지 … 첩첩산중  ",
-      "url": "https://www.ddaily.co.kr:443/page/view/2026090412095621314",
-      "domain": "ddaily.co.kr",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93aWFk",
-      "layer": "reported",
-      "title": " „ Washington Post : Szef CIA uznał , że Rosja odczytała jego wizytę jako oznakę słabości",
-      "url": "https://wiadomosci.radiozet.pl/swiat/washington-post-szef-cia-uznal-ze-rosja-odczytala-jego-wizyte-jako-oznake-slabosci",
-      "domain": "wiadomosci.radiozet.pl",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9naXpt",
-      "layer": "reported",
-      "title": "UN Approves Resolution for World Map That Depicts Africa Size More Accurately",
-      "url": "https://gizmodo.com/un-approves-resolution-for-world-map-that-depicts-africas-size-more-accurately-2000807486",
-      "domain": "gizmodo.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "男童长期吃隔夜菜脸色发青 老师坚持送医救了一命 …… ",
-      "url": "https://news.hangzhou.com.cn/shxw/content/2026-09/05/content_9299109.htm",
-      "domain": "news.hangzhou.com.cn",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "  Sahte gelin  iddiası ortalığı karıştırdı : Cem Yılmaz  ın  Hokkabaz  filmi gerçek oldu",
-      "url": "https://www.odatv.com/guncel/sahte-gelin-iddiasi-ortaligi-karistirdi-cem-yilmazin-hokkabaz-filmi-gercek-oldu-120161521",
-      "domain": "odatv.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9oem5l",
-      "layer": "reported",
-      "title": "G20十年回望 ： 杭州的惊世巨变 ， 并不在天际线",
-      "url": "https://hznews.hangzhou.com.cn/chengshi/content/2026-09/05/content_9299110.htm",
-      "domain": "hznews.hangzhou.com.cn",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
       "title": "Five Key Moments: Hearing on Strategic Partnerships to Secure Critical Resources & Supply Chains",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONm9qdTBmSmlJeEQwY05sdzJjZjZaX0JwVFNtNVZrYUVaUlExQnZVWUNVMVJLNDRja1F1NnRYa1l3UGYxYUUyMzRZd2lzTWlhd2RBdHNCZUZWTUw3YWRXTVJEc0l2OGd2QkF0MU45TzVHdHNfNHpiZGlIR3loMGRYZmstXzhMeVFPV08wbzRuZlVkdE5ZN1RFOTM0WVZza2pQemtKOTVHX3luQm01VkhRNlFuVDFDT01mTk9qdTRjM0I5VVJJS0ZiUTliVEhCQ3l1cUE?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -337,7 +17,23 @@
       "title": "Horse Wrestling and Hegemony: Why Central Asia’s Nomad Games Matter This Year",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOalFyT29YeXNsbHNMVF9ydkczWTVzR3YxTDdIVVRCLU9UMWJwZ0tqX3JGXzRKenVNa3d3d1VKWjZFTFFHd3d3bGZjbkZPYVpGYzBuYWZRdWZ2SVVNNk5ia0ViZDI3NlBtaFk4a21aTk9SelFnSnJCTEhhT1M0ZmFxS0JESWhhWkV6YkNUUjNwWV9kbzJobTMtS18zZlRPTktyeW5URGVZZw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Washington Post. . By the mountains of the Issyk-Kul region, the international event celebrated the sporting traditions of Central Asia's nomadic peoples at the Kyrgyzstan’s World Nomad Games.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0NkX0Z5eXVubUtnaVdwY3hOSjI5OVVGUHJTcUJYOTdPRmFxVmlKTmNSRzh0SXhGYmpkWm1Sdll5T19FR0dnNG5pcGVxYWtrMUt2NDFwblVrbUVac0p1TnNDZlFlOUhEdmdLQjlvS2dCNHVtaUxhT2w5QktoRmlNdFFjaF9lODdwWlVDQ0ZUMFFtWTVqS2wtdXNjS2M5d1NRa0xoTXl3cFNkSGtRbHNHU2RYWGxoRGFVRHRBaEkxdjN3cTVUbVJsOU9PUzExaW43QjBIemJqZEpjM25SQ3c?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-05T07:00:40.830Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "First tunnel completed on Kyrgyzstan section of China-Central Asia railway",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MUlg2NzctelFWYlZxWkJhTUl4ZVh0UEhxclZjZDFSaW5QWVhKSU8zVWV5R3JMZ21oQmpqZldrUHowUjcycDRBT1V2RUNxdTJLcW5zNThUTTVGS3ZvcFNqMmlYbDdTNkR4VWQ2R0xBVWxocmMwN1Ftd3RkYmoydw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -345,7 +41,7 @@
       "title": "How the U.S. Is Building a Critical Minerals Chain Across Central Asia",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91QkEwb2lqcVltMml2NHlXeDc5cmo3QWRxT2RsTjBZTFpGY0F5VTJURGtlWXdleW9BRkg4Tzg3NEw0QXBNSllRaE1KXzJRMVBVRmFOQlAyQ245T1FHOVFFRjVfWkRscFhsZ0xFY1pwelZVeXY0SjJJMQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -353,47 +49,7 @@
       "title": "Labor migration as chapter in Türkiye-Central Asia partnership",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRkRRbkZvLUZOSHRxRDAwaklkMHktSUxmZ3RoRFlCV25CTjh2dDJsY1VYbEVwMG4yODhtdmZMVnphX2w4cDlvckl3MEpxNEVlZGpEYUQxaHJ5LW5LbUVQNldjR2o5NDFaSU1sR0kzZy1LMVBjQjVINUhiSFFmOUsxcUpVQ3l4aGZyVkFocFRuYURQVmxsY09sQWNVdE1ySVBCbXVpX0Z3?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "EyesOn | The railway that could change Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KbTVBSHZxYTZaTkdlQnFfZGlwTGZyOEVYNVpHRFpPekFQY0p6ZV83eWNDNTN0TXVGVTZmUEctR0x4bkxieUNnVWtSZ3M3REtMY3VFd3ZERnFBWUlNTkYwRWt2Smtia3RSZHNHOG9nYW5EY1I5MlhfNk8yVDk?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Top Experts Argue Central Asia Needs Stronger Agency in Emerging Global Order",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVhQcU14am4zOTRFRHZFWUR1elk4V3h2U29Jc3k4SVpQM25sWmNZb3dIN3phakFfbmpSb0lRVzhrQkd1NktkaU9OdWZkU3BLSjFjRkpySnFXanJrSmR2ZG1vTjFxNEltRksxX3ItNVgxdzQ1YTJlcnowanNRZWdaODdOV1h2MnpFSDh3aWsxa25ISkxqYWlvYUhTcXBxVDUzZFVqWnh0bnozZ1Q3MElr?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Tajikistan begins construction of Central Asia’s tallest skyscraper",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWHo0YWVhWmgwSFc0WEhEc09tZHNyOU9HTTZYY0ItMWhXa0pVRHNCT3lsY2NuT3lzSkw0Z1lZZ1J4MTlVQjVTa0ZjX21wRkYyWWM2MzY3LTBDd0ticTVEbWVGYmx2NGZMZWh4al91ZndoVmlHUllsb2lwbnRvS0ZJYXoxNUNwRWQ1M2pvM0ExaGM4eTR1R2Vzc3FFcXQzTTdYMHfSAaIBQVVfeXFMTjhwZE52NmRELVgxeEJucy0yWWZhQUVycTFHOC15ZkFtdGdKQklCdkl1MXZNYVFvY1B2UWhfY3NOeXdTUjVGUDhoWEV3aUN6YlYzTnhjTGZWb1BLb0N5ZFo5Y09DeENvZGliSHpQNG1mbkljanEzeDhnc2ZlVFZmN2kxX1I1clQyMFZHSm9CQmp4LWRBVFltQVB1TE1uWFNQLUNn?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Central Asia’s Energy Transition Depends on Water Security - The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbmgyNTgwU2pyQTA0SURxZ3FuV2w0cVdrS3l1Vkh2SEhERU1hd3U3WnlNeHl6NDBoZW1Ld2plSlBvV3FDMTVQZHVEZVlrcFhjZU5IY0g3ZnRleHZJa1FFSjFwY0lKd3VzNDBPbUVuWlUyVEtpWXU5d1ctX25ib3VZejZsdGFKVkoteXFrUkJLR0xPOWFk?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "What Xi’s tour of Egypt and Central Asia reveals about China’s trade strategy",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYXlsVERlejZHWWUxMWRJRVhMV2ZPR3Y1dURyR3lBT1BsUEd1U2JHVS1nOFRMVkN3TjNPbGU0T3hkNHUxMDZNR2lqR0Z2bUVabnBaelZBXzM3bHlXcWFLSFRXenIzRHFJQXNNUXdUQXlDcUJwOHdwNXhhb2kxc0RzR3VmUGpHLTd5Um9OLVFUZzZYTW1GZTRfQzlUMFZ2Y2VDSWU2S1ktQjFWWkl4Qm9KbzYzVFVWNmZxMG8yQnBGWUpmOGNxa3dlVFUyX2tqZWNTZmZERTlwMNIB1wFBVV95cUxQdDdxUHk3SXVEZDJ2eF9JaF9ZUkQzLW9aWlpTUU55b29hdko2eGpFa29hNnBpOUlzRG10bzNyRjVkOVJQbGZxUEVUX1ZTQlVleGE2VFZndFlkRnV6TEstY0hpTmZjcFM4dU44VXlUaVBpRXY5bDllZ0FTNXJlOEtEZV85OE9tZE9TR0tfVnhTTU5OY2c2elRON1hyYk9ISnlQeHRnSnQ1WUdJM2ROaUhESW1YaWxFRVVpSk1wd1NrckxwMW45ZjhzOTQ1d251NUlPRjNON2Ixcw?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -401,95 +57,47 @@
       "title": "U-M alumni return from Central Asia to seek treatment for their child at Mott",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWms0X1dfcnloZm5mR1lFUk5leDhOd1UtNkdFdTJXSHl6VndIRHZ4ZXlKNWxDSkJGNW9qSXVNdGdRckdRd1N2dzJHYTBzSlJCNUhIZU91UjJzdV9vanBOeFFmX2xpbjVXeVphNy1hX2FDdTFuMl9jS0xJbHlvNElodUVQSFhJZkhtZVUtbzRaUEswd0xrX3dMSHNjcmtSZTBpVTBhV1VEenpidw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.748Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Dushanbe Tower Set to Become Central Asia’s Tallest Building",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMWszSmFzM2pTV0dOQXJ4T19lTGh0YVNBemdHRDA4OXpueVNyM1Q1YlY4YlFqOGtvZGNwVEhjQndhVjlBRnZWQk81SWgzNnU2ejlzcFc4MXZ4UmVOM3lVMU9lWUItUjZGa0drLWRqR3B6bVhIWE1NeTc3N1ZmSUNqOVVnWmhoOVh1ZnNvdV9BU3hud21TSF8zNVRhcw?oc=5",
+      "title": "EyesOn | The railway that could change Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KbTVBSHZxYTZaTkdlQnFfZGlwTGZyOEVYNVpHRFpPekFQY0p6ZV83eWNDNTN0TXVGVTZmUEctR0x4bkxieUNnVWtSZ3M3REtMY3VFd3ZERnFBWUlNTkYwRWt2Smtia3RSZHNHOG9nYW5EY1I5MlhfNk8yVDk?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "With Global South tour, Xi drums up support ahead of Trump meeting",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGxmZWQ1c2hCRWQwb3Z0MjZKeTY1bzNuRTUwQ0dERWpZOW5FT241UkVOaG5DSURuQVpIeFZxSE9MUE14bUx3Z2FwQXhsVEFWUjN4d1U3MlhaNXJmdUk0eW45SVZ0T3J4d0E0VktzWFM3UXI0Y2NrRm8zT3BDanZuYmdFajYtRmptUHlobm91NzJHSnVmTmJQQdIBsgFBVV95cUxOWGJuYk1mQUFzWmRoNjVQWExBYVp2WW1ZZHY1WWZEd1FhZFlIR3Rab1pKcXhGQXNrYkpKU1I1Rmx5SFV1dWdLYl9YSTVvT0FWSW1BeDVpajBYY0JoUW50QTdiUmpzMWUtem1qbXVjWTVlb2VIcUVlbU45czZrQW5WOGRfVmluTlFZQXEyUEppM3JCTWNKa09qdnVITjJzT2hTQkJBNEtmT2dqOVh4V2gzbW13?oc=5",
+      "title": "Central Asia’s Energy Transition Depends on Water Security - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbmgyNTgwU2pyQTA0SURxZ3FuV2w0cVdrS3l1Vkh2SEhERU1hd3U3WnlNeHl6NDBoZW1Ld2plSlBvV3FDMTVQZHVEZVlrcFhjZU5IY0g3ZnRleHZJa1FFSjFwY0lKd3VzNDBPbUVuWlUyVEtpWXU5d1ctX25ib3VZejZsdGFKVkoteXFrUkJLR0xPOWFk?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Central Asia Water & Energy Program",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53ZjFKTTc5OUtSN3UtQ2x5TUpvUlBiVkQ3VlhIZ1Nub04wbzhzUkJ0ZWEydHlMZm5tNXItRFJUX0wtYXRjUHUxVU9KODJWX1BhU2h1YmRHSzlkNFpnTTEzeA?oc=5",
+      "title": "Tajikistan begins construction of Central Asia’s tallest skyscraper",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWHo0YWVhWmgwSFc0WEhEc09tZHNyOU9HTTZYY0ItMWhXa0pVRHNCT3lsY2NuT3lzSkw0Z1lZZ1J4MTlVQjVTa0ZjX21wRkYyWWM2MzY3LTBDd0ticTVEbWVGYmx2NGZMZWh4al91ZndoVmlHUllsb2lwbnRvS0ZJYXoxNUNwRWQ1M2pvM0ExaGM4eTR1R2Vzc3FFcXQzTTdYMHfSAaIBQVVfeXFMTjhwZE52NmRELVgxeEJucy0yWWZhQUVycTFHOC15ZkFtdGdKQklCdkl1MXZNYVFvY1B2UWhfY3NOeXdTUjVGUDhoWEV3aUN6YlYzTnhjTGZWb1BLb0N5ZFo5Y09DeENvZGliSHpQNG1mbkljanEzeDhnc2ZlVFZmN2kxX1I1clQyMFZHSm9CQmp4LWRBVFltQVB1TE1uWFNQLUNn?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "The Venice Biennale and Central Asia’s Rise in the Global Art World",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNzRQWFpyQ1lGU2YwWE9OQWVCd0t4LWJtY1VONDVMNVVSNFBNaUlXR3l1WWs5N1Iwa0FNcDZscGhUQ3Joa19lN25qbUNRRElOWkxRWi1xX1FEdDY4eENlUVpwVURLdzVZTTVLQXFHOU1vNDBjTC1yR3l5RHFBMmJiYnFaTDRxSS00V2dTenZ1LVRWX0E?oc=5",
+      "title": "What Xi’s tour of Egypt and Central Asia reveals about China’s trade strategy",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYXlsVERlejZHWWUxMWRJRVhMV2ZPR3Y1dURyR3lBT1BsUEd1U2JHVS1nOFRMVkN3TjNPbGU0T3hkNHUxMDZNR2lqR0Z2bUVabnBaelZBXzM3bHlXcWFLSFRXenIzRHFJQXNNUXdUQXlDcUJwOHdwNXhhb2kxc0RzR3VmUGpHLTd5Um9OLVFUZzZYTW1GZTRfQzlUMFZ2Y2VDSWU2S1ktQjFWWkl4Qm9KbzYzVFVWNmZxMG8yQnBGWUpmOGNxa3dlVFUyX2tqZWNTZmZERTlwMNIB1wFBVV95cUxQdDdxUHk3SXVEZDJ2eF9JaF9ZUkQzLW9aWlpTUU55b29hdko2eGpFa29hNnBpOUlzRG10bzNyRjVkOVJQbGZxUEVUX1ZTQlVleGE2VFZndFlkRnV6TEstY0hpTmZjcFM4dU44VXlUaVBpRXY5bDllZ0FTNXJlOEtEZV85OE9tZE9TR0tfVnhTTU5OY2c2elRON1hyYk9ISnlQeHRnSnQ1WUdJM2ROaUhESW1YaWxFRVVpSk1wd1NrckxwMW45ZjhzOTQ1d251NUlPRjNON2Ixcw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "China’s Defense Ties to Central Asia Grow With Aircraft Sales",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ010ejh1ODNxTm1fMzBhYlJmV1UxTnFkUVNUVHNILVNVSENuczNnbk00RlRYU2RvOWh2MTh2QW5JNHV4NFRaeWp5bG8yNGRnRFNRVlk3R0VOVXdOMk5VVTI2anBGelFzTjE5akRIUi16Qno4NUtDOExULTNGcXB2MHNaM25tWjh2MVBycTRmNXJvZDRpTDlHNjRkdHdRSnc3S2libks2ZE9RRUFycEJF?oc=5",
+      "title": "Kazakhstan to Host Its First Ever ICAO Aviation Security Week 2026 in October",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZUFJMXpua1NNbGxwcVhSckg4T3BCcFpTblVkRUVPN1BPNXZqcUw5QnBEd05ieDZNZGp1UDFxN2VldnhEbHFTbWVjSWZPaVJoaHpBUkRVU3JfdVRpTTY4MC1UcVNWZFdfZG5BeW5vczI5cUhGdVBWZlE3ZDZVb1pVa0NEQUw5TldzRy1wdVlUYTlJODdDb3pSc3lJWnJ0U29yWFRsSHhnOTdTQXBpYVYw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Uzbekistan Downgrading Its Nuclear Cooperation With Russia",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObkxxMGpRZDdIZC1hREFhX2Z6Tjc4TDB4RDlnVkE0WENoTVVyd0NvdTVLNUV1bU5zSkoyQXZnaVlISldnR1RtdXN1cUJMTG1IbnlhNGcwamtQTEt4Mnk3X1dWWkRuVW0zWW9PeUxpQVUzMUgxWmNrYVlKWGNGNWVvYjAzNkIyQmNncnducEs1cDQ4cGpxMU14bUJ1X19XNmM?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Westerners test their mettle at Nomad Games",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WMnRBSFFnVkVqVWpvbWd3eGcyWWRVSllVUW9sZ09mZHVZUnYtVFdRUEtGeXVXNWdxc1ZJU0NTRjQxRTJfbnhweDNqNjZlclV0dWJieUU3cmlwU0RLbzNXZ1JDbDBhTU9ncDlBQVk4bGVobXZoWWw2VQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "International Media Forum connects heritage with new audiences",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcUVSeElwaUgwYXJuekQ0VkVZa1E1SGxlVVJrSnlyVHoyS0pUWjV2cTVHaUFwZ1NVeVEwczlNZWNuWmVjOHQ2V1hZdzQzUDBxVlRkMVNZWEFBTWxVZUl1Z0plM0txSGFqNThnX2dBbTM3STFha0ZrWkNla1pNM1Y5cWNIbWpMdlV0Q2xHcm1ZSGpLYVMtd2lfVDFMWFdWbk83VUE?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Kazakhstan Takes Center Stage in U.S. House Critical Minerals Hearing",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRWpuX2JjNnRYVTR1SnNCUEZJcThIa1ZtR2ZTYlI5NUlJUFFJV1hqVXpyMVpaN2ZKWkRwRGhnR2JGQ0VQLUtHX0lCTExhRkM5bmRiWk45Tjc0YWs2LXhRNF9IT0Zxcm9qUkxWNWdwaGVPWXljaVl0THZ0WnBueU1vNldVVlBvTkM3OTBKQjVFemxYY3M?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Kyrgyzstan Fuel Supply Shifts Toward Domestic Refining",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51ZzlkeVR1dmhVQ2ttNzkza0lQbjVzZWxMWV9BSzUtX0UzOEw4cnRvUE9xVmR4aXd4cndXbkNWWVZfdFFWb0I4TWR2bjk2LVNoekhUOGlPTnlrMHJUN081c1d2aFJud1JIRlhWWkFn?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Kazakhstan Delivers Third Straight Rate Cut on Slowing Inflation",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSkhtaHAwZmd2RUFtUTBNaFE5anRZM2dIUE1HWFJIUl9DY001Y0NVanBKU1gzQ2hsZHB6VExvVXQ0aVdCbW1yM3pfbGxwZWQxYVQtSHRsRDlpNUdvOHNfbHZmaVVEMFpzVzNwQ3JTakhjQ00zRG8xd3hNVTQwTFB6eDNvb0lncFBXSWUzQkpLTFlaRVFweGRtUnhwbXNxT2Nhc3VmV0s2MmRtYl9BSUVza1NMeHlEUQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -497,23 +105,71 @@
       "title": "China’s Appeal to Central Asia is Growing at Russia’s Expense",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS1E0NVhXTmhzODNSMFg4THNjQ3BFMzZiYlhYUnZnVDVIaFBQR3pHekljVFNwTmdBZWhJdjhOV3VlTVVMSW9wLWNJRXFsY1hwdWl4REhVRnBraUswc3VYdEpjTnpoVkFLQ2s1TUE5X2NFV1ZsdVJ5aElHdW1rQ1BqNWo2U3dhWTNGQmtoelU2RGpBalFnQ3pvN1J5NFBaRWFvZmc?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Kyrgyzstan hosts World Nomad Games, reviving ancient traditions",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnNtSjk2YWtDQ08wX24xZC1XRjNlUzdpUkpTM0xwbW9zMHNueTBUbnRRaV9ocWZPT3cwSDI4YUZiWW4tNWlfWG9yV3RKQk82WDJEakVwR0Iwdm5VWUxKTVNaa3p4YlBaam9vTlQ0OXNhTDF5NEF4aWtPbjA0enNadGtZaFpmS3hLd1pjSENjUkRHbHd5cFF6U3FNb0VVa1FBT0dEN1k0UDJpYlU?oc=5",
+      "title": "Central Asia Water & Energy Program",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53ZjFKTTc5OUtSN3UtQ2x5TUpvUlBiVkQ3VlhIZ1Nub04wbzhzUkJ0ZWEydHlMZm5tNXItRFJUX0wtYXRjUHUxVU9KODJWX1BhU2h1YmRHSzlkNFpnTTEzeA?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Western Tourism Interest Grows Around World Nomad Games",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXhaaHlDRFFLdTMtZWVyb0JYcE4yTnlPY01ZVzFickZuMDBnb3FaUUoyNjlrQklJRV85aDdNbUtxTFZGZjFmMWItLTNqbTR6cUJ0WnpabndXNWRXZ0R1SkU5Vy1RemtpYzUzd2xkY2lPSGY1akpJRFZvaEJsN0NVSzF3?oc=5",
+      "title": "With Global South tour, Xi drums up support ahead of Trump meeting",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGxmZWQ1c2hCRWQwb3Z0MjZKeTY1bzNuRTUwQ0dERWpZOW5FT241UkVOaG5DSURuQVpIeFZxSE9MUE14bUx3Z2FwQXhsVEFWUjN4d1U3MlhaNXJmdUk0eW45SVZ0T3J4d0E0VktzWFM3UXI0Y2NrRm8zT3BDanZuYmdFajYtRmptUHlobm91NzJHSnVmTmJQQdIBsgFBVV95cUxOWGJuYk1mQUFzWmRoNjVQWExBYVp2WW1ZZHY1WWZEd1FhZFlIR3Rab1pKcXhGQXNrYkpKU1I1Rmx5SFV1dWdLYl9YSTVvT0FWSW1BeDVpajBYY0JoUW50QTdiUmpzMWUtem1qbXVjWTVlb2VIcUVlbU45czZrQW5WOGRfVmluTlFZQXEyUEppM3JCTWNKa09qdnVITjJzT2hTQkJBNEtmT2dqOVh4V2gzbW13?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Dushanbe Tower Set to Become Central Asia’s Tallest Building",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMWszSmFzM2pTV0dOQXJ4T19lTGh0YVNBemdHRDA4OXpueVNyM1Q1YlY4YlFqOGtvZGNwVEhjQndhVjlBRnZWQk81SWgzNnU2ejlzcFc4MXZ4UmVOM3lVMU9lWUItUjZGa0drLWRqR3B6bVhIWE1NeTc3N1ZmSUNqOVVnWmhoOVh1ZnNvdV9BU3hud21TSF8zNVRhcw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-05T07:00:40.830Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "China’s Defense Ties to Central Asia Grow With Aircraft Sales",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ010ejh1ODNxTm1fMzBhYlJmV1UxTnFkUVNUVHNILVNVSENuczNnbk00RlRYU2RvOWh2MTh2QW5JNHV4NFRaeWp5bG8yNGRnRFNRVlk3R0VOVXdOMk5VVTI2anBGelFzTjE5akRIUi16Qno4NUtDOExULTNGcXB2MHNaM25tWjh2MVBycTRmNXJvZDRpTDlHNjRkdHdRSnc3S2libks2ZE9RRUFycEJF?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-05T07:00:40.830Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Kazakhstan Takes Center Stage in U.S. House Critical Minerals Hearing",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRWpuX2JjNnRYVTR1SnNCUEZJcThIa1ZtR2ZTYlI5NUlJUFFJV1hqVXpyMVpaN2ZKWkRwRGhnR2JGQ0VQLUtHX0lCTExhRkM5bmRiWk45Tjc0YWs2LXhRNF9IT0Zxcm9qUkxWNWdwaGVPWXljaVl0THZ0WnBueU1vNldVVlBvTkM3OTBKQjVFemxYY3M?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-05T07:00:40.830Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Top Experts Argue Central Asia Needs Stronger Agency in Emerging Global Order",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVhQcU14am4zOTRFRHZFWUR1elk4V3h2U29Jc3k4SVpQM25sWmNZb3dIN3phakFfbmpSb0lRVzhrQkd1NktkaU9OdWZkU3BLSjFjRkpySnFXanJrSmR2ZG1vTjFxNEltRksxX3ItNVgxdzQ1YTJlcnowanNRZWdaODdOV1h2MnpFSDh3aWsxa25ISkxqYWlvYUhTcXBxVDUzZFVqWnh0bnozZ1Q3MElr?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-05T07:00:40.830Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Cyberport, Astana Hub Deepen Tech Ties Between Hong Kong and Kazakhstan",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcW5xbGlIR25pRmVEdWhFQzNyQXdzZ1VJVHhNejhaeUJNM2JQakdVM3V5Qy1HLWY1WC1abjBGd0ZXM0tqLUVuX3ZhbU5TcW1PdXJtRkk1MnJUdS10WnFHaTMyaWNYUGJsMzlKaHN2UjFaYnJzT1MyM2F1V3hNcy1vNUYwaVhJbkwwekdwMDhnTFFEVlhLU01QblMzWk42azJyMFdVT0hn?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-05T07:00:40.830Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Kyrgyzstan Fuel Supply Shifts Toward Domestic Refining",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51ZzlkeVR1dmhVQ2ttNzkza0lQbjVzZWxMWV9BSzUtX0UzOEw4cnRvUE9xVmR4aXd4cndXbkNWWVZfdFFWb0I4TWR2bjk2LVNoekhUOGlPTnlrMHJUN081c1d2aFJud1JIRlhWWkFn?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -521,23 +177,23 @@
       "title": "At home in Central Asia: the lives and identity of the Lyuli/Mughat",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HaFY3eWF3MHNaQk9IcjNjVlZXaW1ERHlCTlNXckY5eHNQcGY3Z1dYN0YzWGxaT1Y2QVhuZmkwVUEtcFNzLTE5Z3RXNnQ4eURQR1ZXQVBhNERRb18zZDN2aVZnLVNST19sWnQxaDVn?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "GEOGLAM Global Crop Monitor | No. 47 – September 2026",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNDlxdExhR1YwdXlhQlhVUEV0dmZ0djBNeFYtUmcxTlJDZ0s3a1p2aDdIS1dOaWVla0dCa0NQSkxWQWVDUTVlZTN5ellkNTV3cjZWdWFCUENSbUQ1YV9ZWUViUFNCaVhVYjJmVlZQOWVZdEwwTHVzM2J1MW9JMl9fWjFVOWdGSkU1ZE9Z?oc=5",
+      "title": "Uzbekistan Downgrading Its Nuclear Cooperation With Russia",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObkxxMGpRZDdIZC1hREFhX2Z6Tjc4TDB4RDlnVkE0WENoTVVyd0NvdTVLNUV1bU5zSkoyQXZnaVlISldnR1RtdXN1cUJMTG1IbnlhNGcwamtQTEt4Mnk3X1dWWkRuVW0zWW9PeUxpQVUzMUgxWmNrYVlKWGNGNWVvYjAzNkIyQmNncnducEs1cDQ4cGpxMU14bUJ1X19XNmM?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "How SCO Can Drive Transition to Renewable Energy in Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLVk4M1BEX2hOSXp3NW9WR1U4dkdxOXpDQmxFbjBZU3ZzY0xTSE0wRjEwNkFqMVU4cFU1M2FWT3g4Y3FSQkU4cWFmVW9PNmhKbjJaaVd6aG1hWWxHUFhYN214T0NhVnZkOGxOOVpuZGhLUG9vRjVqSmZwSWl4cFNkY203T2ZOamM4R21RdnhVdDVtTTVqcmNBVWV0LVdxQQ?oc=5",
+      "title": "Westerners test their mettle at Nomad Games",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WMnRBSFFnVkVqVWpvbWd3eGcyWWRVSllVUW9sZ09mZHVZUnYtVFdRUEtGeXVXNWdxc1ZJU0NTRjQxRTJfbnhweDNqNjZlclV0dWJieUU3cmlwU0RLbzNXZ1JDbDBhTU9ncDlBQVk4bGVobXZoWWw2VQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -545,39 +201,39 @@
       "title": "Renewed U.S.-Iran Escalation: What It Means for Central Asia",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTWDgybVBnMER1RVp6S0VrWHFTRVZkbXlSSGRMYnpXd084YzJQMlVsQU5tVGIyNXlIeUYyWTNhb29jRFFlZjJkeVFEMFR4X2FMNFpDQWVZYmtsaDNuX3hJbzlR?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "TGI Solar Group & TGI AMIRON Alliance Issue Comprehensive Corporate Update and Strategic Research Briefing on U.S.-Kazakhstan Technology Corridor",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZGhLaXMyWFkzS0RldkxzZjRiN0JzQ2p2OWw4aFZxc1pLbnZfZFhEUVRUT19RUzVEb2ZYWGR5Qk1oSmZiVTdXQmxHTDVxS3RJNkVkTW02eW9sT2ZjNDVOS3ROSnVDWUlmRFR0alBaUzR4NHJ4dFBVTl9HcFVRdjBtNzQtNnBRYlBXSEx2elR4OXRRMnRvQzlUbHd2aHJsUk5tcEcwQWtNTWRjZw?oc=5",
+      "title": "Kazakhstan Delivers Third Straight Rate Cut on Slowing Inflation",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSkhtaHAwZmd2RUFtUTBNaFE5anRZM2dIUE1HWFJIUl9DY001Y0NVanBKU1gzQ2hsZHB6VExvVXQ0aVdCbW1yM3pfbGxwZWQxYVQtSHRsRDlpNUdvOHNfbHZmaVVEMFpzVzNwQ3JTakhjQ00zRG8xd3hNVTQwTFB6eDNvb0lncFBXSWUzQkpLTFlaRVFweGRtUnhwbXNxT2Nhc3VmV0s2MmRtYl9BSUVza1NMeHlEUQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Five Years Without Recognition: How Central Asia Is Building Relations with Afghanistan",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ObkpJNG0wbHpQVmlLQTQ4V0pWVjZCbWQ3a0xfTUFobWtCRWk0b0dJbkNwd0lodnFRbTl2b1RrTE12MEFybkd1aDUtdDdQRjliSkpJN1RYSWJqVWdpbmdLd0djNEtHN2YzSXJlbg?oc=5",
+      "title": "Western Tourism Interest Grows Around World Nomad Games",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXhaaHlDRFFLdTMtZWVyb0JYcE4yTnlPY01ZVzFickZuMDBnb3FaUUoyNjlrQklJRV85aDdNbUtxTFZGZjFmMWItLTNqbTR6cUJ0WnpabndXNWRXZ0R1SkU5Vy1RemtpYzUzd2xkY2lPSGY1akpJRFZvaEJsN0NVSzF3?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Russia boosts gas supplies to Central Asia by nearly 70%",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2FuTFBfdldpQWR1TTlhcGlVNzhFbHVqOGhRaGJTdnlSeWFRNUN4c3hCYUR4d0VhTmJZYXhrZU1jSkhoU0VxNV9EdHdIM0lqWV9vTnJUdUQyc0pUSkZ5RmdKenY0TzNGS09fLXNVQ2hRUEtsRkZYTFN3bWlHLUhNY3FfTmY0elh6ZWV3VnVLU2hVRlYtNjhRYVFKc1lISW5Zd0pv0gGcAUFVX3lxTE5VMS1JY2J2M0hkXzFRRENJa3BDMndhT1JuOExHSUJqeFdMR1ZVSEFlV3VjYnlZYk8wQjN0WlVhY1VBMkYtb0Y2eTRRTUVIbUFSYU5rMWFsV3NJd2VPMlM3Zjk3dlctVkFjY0llaVBta0hjMTZrSHRrX3BxUFhpY0ppYUNuV2lmbVVjOEZzUF9mN2l4bFdROW5HT2JGMQ?oc=5",
+      "title": "Kyrgyzstan hosts World Nomad Games, reviving ancient traditions",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnNtSjk2YWtDQ08wX24xZC1XRjNlUzdpUkpTM0xwbW9zMHNueTBUbnRRaV9ocWZPT3cwSDI4YUZiWW4tNWlfWG9yV3RKQk82WDJEakVwR0Iwdm5VWUxKTVNaa3p4YlBaam9vTlQ0OXNhTDF5NEF4aWtPbjA0enNadGtZaFpmS3hLd1pjSENjUkRHbHd5cFF6U3FNb0VVa1FBT0dEN1k0UDJpYlU?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Kazakhstan Laos Seek to Link Transport Corridors Through China",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iS3Z6UENaeUNnRG1XaDFCTjJ0VEx4Y0xlZmxzQ0pUTU40clNfOHg3M2tCQmpJM2MyY0toX3lVX05jWUowcjExTVdTanBMSVlxTzhRVllPWVZuVVVpa1I3a3dtMndHUQ?oc=5",
+      "title": "International Media Forum connects heritage with new audiences",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcUVSeElwaUgwYXJuekQ0VkVZa1E1SGxlVVJrSnlyVHoyS0pUWjV2cTVHaUFwZ1NVeVEwczlNZWNuWmVjOHQ2V1hZdzQzUDBxVlRkMVNZWEFBTWxVZUl1Z0plM0txSGFqNThnX2dBbTM3STFha0ZrWkNla1pNM1Y5cWNIbWpMdlV0Q2xHcm1ZSGpLYVMtd2lfVDFMWFdWbk83VUE?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -585,31 +241,23 @@
       "title": "US Envoy Courts Central Asia on Sidelines of SCO Summit",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTDlRMDRmWnFaNjBkdTF3b3dVajlqeUxLTy1kY1g1bWhBb0ttUmNQa0VPQ1M3dmtTS1JSdXVEUWZPWGtvbTFSVDQ3M3RuQVBZT1VLMG0wNlI3RWNMMFVnMjhodjgyU3ZqLURreGZxNmNkbnhnTDhnaGNGbE5yNWdpLXBOTXRkQUpWUkctWXF3VFhEaUJ6SVI2eTNMZy10ZjZBOHJHQUln0gGrAUFVX3lxTFBLOWR2Y1VhSm5uVFluYldrTWxPb1huYjhISU5TS3R1NURYZ254eHlDMUN5SDltYlJ1UVJ0Y2FSY3o2bEktQ1ZjWHMxWHM4aVJuZm5jN1NaMTh5RDdfdlROMlU0ZDNPOW1rTldxNlNoM29GUnE1UkRFRjRLYkMzNDdhRV9VblNtdlZVekg5X0YtbmMtdEZfT2dLNGZoaFhBX2JMaHlRV0JYTUtYWQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Sister cities forge strong bond",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtcFVtUGY1dzBEOU5PTmlGSlB4NmRldkdtR2txZG5LTV9XY3lWV2dVaHJwelNIeF9qMjIyYlBUcW5wY0hqUk9Rc2RhUS1KTnMwM0E3b3M3a0U?oc=5",
+      "title": "TGI Solar Group & TGI AMIRON Alliance Issue Comprehensive Corporate Update and Strategic Research Briefing on U.S.-Kazakhstan Technology Corridor",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZGhLaXMyWFkzS0RldkxzZjRiN0JzQ2p2OWw4aFZxc1pLbnZfZFhEUVRUT19RUzVEb2ZYWGR5Qk1oSmZiVTdXQmxHTDVxS3RJNkVkTW02eW9sT2ZjNDVOS3ROSnVDWUlmRFR0alBaUzR4NHJ4dFBVTl9HcFVRdjBtNzQtNnBRYlBXSEx2elR4OXRRMnRvQzlUbHd2aHJsUk5tcEcwQWtNTWRjZw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Can Singapore be the ‘natural choice’ to bridge Asean and Central Asia?",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlF5ZWc5ZU13NVB1V3BPUVFJTXNINUJ5RVVzbkFrX2Y5NU5DNElEV09BM1Q5MENfMEtFc25hZDZMQ0ZCV3FDdkdZZVhOUmtZdDhSbjdQdzdObEEzdElHamxmeXNPbFdMUFpaZzFLYnVEYTAzNUVDOFV6ejByY0w2WXpiYUdwN3JUUHozUmwtczJRVFZ3SWRnNHZxaHdQR0hqenNGTnRXTTExTlZBaVBabzhQa1JweVRaa0HSAboBQVVfeXFMTkJ0aGNaVTFkVi1KRmJUdUYyZ0dGdmliNVQzdV9QX0g0b05XTktPU2dzLV9fRjB2R0p4dkZ0T2QwLURwWk8xT2hpbzFiRE5tZi1aYjFuS1hOdlZaZTVhanR6R1NNeTQ2c1pDelNtbG9Ed2dtME1UanBXck95ejNMSkpIMzVfU29pRThfWTl3bzQ4aHl5MzlhOGZJVE96dWFqdUlCc1hRajlOMXJWdkxfTEItak50MXdlekp3?oc=5",
+      "title": "Russia boosts gas supplies to Central Asia by nearly 70%",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2FuTFBfdldpQWR1TTlhcGlVNzhFbHVqOGhRaGJTdnlSeWFRNUN4c3hCYUR4d0VhTmJZYXhrZU1jSkhoU0VxNV9EdHdIM0lqWV9vTnJUdUQyc0pUSkZ5RmdKenY0TzNGS09fLXNVQ2hRUEtsRkZYTFN3bWlHLUhNY3FfTmY0elh6ZWV3VnVLU2hVRlYtNjhRYVFKc1lISW5Zd0pv0gGcAUFVX3lxTE5VMS1JY2J2M0hkXzFRRENJa3BDMndhT1JuOExHSUJqeFdMR1ZVSEFlV3VjYnlZYk8wQjN0WlVhY1VBMkYtb0Y2eTRRTUVIbUFSYU5rMWFsV3NJd2VPMlM3Zjk3dlctVkFjY0llaVBta0hjMTZrSHRrX3BxUFhpY0ppYUNuV2lmbVVjOEZzUF9mN2l4bFdROW5HT2JGMQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "What are the World Nomad Games and why are Australians competing?",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSEtfaWtteEZYSUtOLXY2YWNrV1FYWEdKNjhsRWxtZG5NTE5WQmc0UF9KUS1uYy1OX1ZLWEdDSHEwOW9BdUhNYnhlWjdLUkwyeW9MSk5LdWNmSFBHbnhFUEZadUtjSWwtZVdqYlY2cEpyTWpVR28wUUM5OUpSWktGbHJvQzhkMUdJNFFIVXdrVW9vZ3o5?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -617,15 +265,47 @@
       "title": "IFIMES Expert: Kazakhstan’s ‘Strategic Redundancy’ Is Reshaping Its Role in Eurasia",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbXQwVHZKRUdmd3NBTklvQmpOeDdaOFZVdE1kZDVWWmliUFF0OWp0c3REZGR4RWJ1YndxOXJvcTVmUnVlWDdOU3p2THJUSnhvNERfOVdfVnNaVjVrcWJzZUpRUFRjTmt0aE9tcTN4WGVCWU1FOGdMdGVJOFhvb0YweGl4ald4ZlphcnRoRWI5SUkwc2hoT0RHLWJqVzZDQVRqbW1NTl93Nm5yN200RldycHRR?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "World Nomad Games with 43 disciplines underway in Kyrgyzstan",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOEhKN0dvVHdwVnd4RDdmMkRsUlo4N09kcVl0NXB6bDBOS1hLRXA4cWJueHJtc0UzWW1ZLVQycURHY19EOXo5bUpMWUJaa1ZoT2tnUE56UUJpeGE1Qk5zSkMtR0pUbUE0bl8tcEF4OWtkYm0zZFM2SmpmcHczNUJJTEJBcV9oUFh5VWw4NFE3Rk9sUFJoNU9QdjFn?oc=5",
+      "title": "Five Years Without Recognition: How Central Asia Is Building Relations with Afghanistan",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ObkpJNG0wbHpQVmlLQTQ4V0pWVjZCbWQ3a0xfTUFobWtCRWk0b0dJbkNwd0lodnFRbTl2b1RrTE12MEFybkd1aDUtdDdQRjliSkpJN1RYSWJqVWdpbmdLd0djNEtHN2YzSXJlbg?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Kazakhstan Laos Seek to Link Transport Corridors Through China",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iS3Z6UENaeUNnRG1XaDFCTjJ0VEx4Y0xlZmxzQ0pUTU40clNfOHg3M2tCQmpJM2MyY0toX3lVX05jWUowcjExTVdTanBMSVlxTzhRVllPWVZuVVVpa1I3a3dtMndHUQ?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-05T07:00:40.830Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "IN PHOTOS | Best of World Nomad Games",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FUGIwQkhXaGZJYmJpME92eHZzZHhkZnR5dUVyS0pySS1xYklkV08ydGEzUm1yQjBDTGlzcEhFSTlGMUM2d2dTYU0zMWxiZjJSbU1OdUp5a19udURNakNlUjVYN3VXcGZCcWlPQnlQa3dPa0h2SjJMLWNoazc?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-05T07:00:40.830Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "New Kazakhstan Government Retains Core Economic Team",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfV0JxZXlLN1E5VnZnaFUtRHp6Ql9NUVNISjdaRHhENXZzcHp2NWFvaGRxOGdQNThpejloZUIxU2FLYTd3RnplYnktaHNISFdKNXJkS0lzcXl0Skg5NmdMWVQ3S3hOTnEweGJZeEdoTFIxMTZtYl9xdQ?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-05T07:00:40.830Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Reordering Central Asia: China’s Emerging Economic Hierarchy",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHE4dHdfZXAyX0t6em5HMXU0T0IxWFI5OFFBQXc1SDhTa0J2dVdSZXZtem9ibExYTHotR0Vyb2hFNXhQdUJMUnJUX0F0aDN5QktFU3Q1NVdFd1BQdTl3N1ppWVhTUHhIU0U4c1RPN3gzenlzbnF3eng4WW9PbTlrR2UxYmliZFJnVVVZRkQtc2d0RnpYYU9IR0p3amY?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -633,15 +313,15 @@
       "title": "From yurts to Russian goth bars, is this the world’s most bizarre road trip?",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWXhjZjhiVWZrU1I2SUFnNjlYOWtPcUJMMElzeFB1cXltdXJTTnhzckVJRUFZUjFTUWhsa3phdU81N3lCeTNMWENOY0RCNDZqTzA0OTRHUVJqc0ZBRlV0eVZwb29CMFN2bWdONUpocS1Cb0trY1NYam1iNWhYUUtFZDVIZjRfcy1zZHBRVDdtREFmbkkyNmF2bTRJdkx1YTdFX0Q5Y3hTRmNGWG9qcERsQU1CWkFqWm1NYkdBQlU3NVN0WlJZSGJ0TndvVVdRUQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "From Tashkent to Bishkek: Decoding India’s Central Asia Strategy | Explainer",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR2VCMWFodEJZY1BWTGpCXzFEQ3hldm9EUm9odzNac0xOa3RneEM1ZWM3M0xuMGVZQnR4YXZZcU9TbTBOVF82aWRPWWdCXzBkR0psNzlkcG1xOXlUSFBac2xCRGtrS0R4YjQ1aTRrdzVxMXIxYlZnUkhqeVpueXUyV3NZNjZJdDc0RjEtYVR0U1QzLTBXUFFrQ2hFMHo?oc=5",
+      "title": "World Nomad Games with 43 disciplines underway in Kyrgyzstan",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOEhKN0dvVHdwVnd4RDdmMkRsUlo4N09kcVl0NXB6bDBOS1hLRXA4cWJueHJtc0UzWW1ZLVQycURHY19EOXo5bUpMWUJaa1ZoT2tnUE56UUJpeGE1Qk5zSkMtR0pUbUE0bl8tcEF4OWtkYm0zZFM2SmpmcHczNUJJTEJBcV9oUFh5VWw4NFE3Rk9sUFJoNU9QdjFn?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-05T02:07:29.749Z"
+      "pulled_at": "2026-09-05T07:00:40.830Z"
     }
   ]
 }
