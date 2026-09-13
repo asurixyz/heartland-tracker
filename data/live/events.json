@@ -1,327 +1,15 @@
 {
-  "fetched_at": "2026-09-13T02:14:04.905Z",
+  "fetched_at": "2026-09-13T07:33:25.604Z",
   "source": "GDELT + Google News RSS",
-  "count": 80,
+  "count": 40,
   "events": [
     {
-      "id": "gdelt-aHR0cDovL3d3dy5l",
+      "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "India global trajectory offers massive opportunity for multipolarity : European Press Federation journalist Marco Alpeggiani",
-      "url": "http://www.europesun.com/news/279303516/india-global-trajectory-offers-massive-opportunity-for-multipolarity-european-press-federation-journalist-marco-alpeggiani",
-      "domain": "europesun.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "Соболенко не смогла победить Рыбакину в финале US Open",
-      "url": "https://www.sb.by/articles/sobolenko-ne-smogla-pobedit-rybakinu-v-finale-us-open.html",
-      "domain": "sb.by",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly90dXJu",
-      "layer": "reported",
-      "title": "Rybakina tops Sabalenka to win U . S . Open , claim No . 1 ranking",
-      "url": "https://turnto10.com/news/nation-world/rybakina-tops-sabalenka-to-win-us-open-claim-no-1-ranking",
-      "domain": "turnto10.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93bG9z",
-      "layer": "reported",
-      "title": "Rybakina tops Sabalenka to win U . S . Open , claim No . 1 ranking",
-      "url": "https://wlos.com/news/nation-world/rybakina-tops-sabalenka-to-win-us-open-claim-no-1-ranking",
-      "domain": "wlos.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly90cmli",
-      "layer": "reported",
-      "title": "Pakistan to expand regional trade",
-      "url": "https://tribune.com.pk/story/2628959/pakistan-to-expand-regional-trade",
-      "domain": "tribune.com.pk",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9lbi5n",
-      "layer": "reported",
-      "title": "Xi urges BRICS to stand on right side of history , play pioneering role _ Guangming Online",
-      "url": "https://en.gmw.cn/2026-09/13/content_38998048.htm",
-      "domain": "en.gmw.cn",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "Rybakina voitti Yhdysvaltain avointen mestaruuden ensimmäistä kertaa",
-      "url": "https://www.savonsanomat.fi/urheilu/9788624",
-      "domain": "savonsanomat.fi",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "Elena Rybakina beats Aryna Sabalenka to win the US Open title and punctuate her rise to No . 1",
-      "url": "https://www.erienewsnow.com/news/national/elena-rybakina-beats-aryna-sabalenka-to-win-the-us-open-title-and-punctuate-her-rise/article_5003208b-62a0-54c2-956d-ffb5e4fcfe56.html",
-      "domain": "erienewsnow.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cDovL3d3dy5y",
-      "layer": "reported",
-      "title": "Elena Rybakina beats Aryna Sabalenka to win the US Open title and punctuate her rise to No . 1",
-      "url": "http://www.reflector.com/news/national/elena-rybakina-beats-aryna-sabalenka-to-win-the-us-open-title-and-punctuate-her-rise/article_3e5b7489-1843-5979-888c-443d04bbb282.html",
-      "domain": "reflector.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9mb3hz",
-      "layer": "reported",
-      "title": "Rybakina tops Sabalenka to win U . S . Open , claim No . 1 ranking",
-      "url": "https://foxsanantonio.com/news/nation-world/rybakina-tops-sabalenka-to-win-us-open-claim-no-1-ranking",
-      "domain": "foxsanantonio.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9nYXpl",
-      "layer": "reported",
-      "title": "Экс - министра обороны Грузии задержали после его интервью » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
-      "url": "https://gazeta.kg/world/219445-jeks-ministra-oborony-gruzii-zaderzhali-posle-ego-intervju.html",
-      "domain": "gazeta.kg",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "Туреччина пропонує створити спільну поліцейську структуру тюркських держав TÜRKPOL",
-      "url": "https://www.ukrinform.ua/rubric-world/4163520-tureccina-proponue-stvoriti-spilnu-policejsku-strukturu-turkskih-derzav-turkpol.html",
-      "domain": "ukrinform.ua",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93amxh",
-      "layer": "reported",
-      "title": "Rybakina tops Sabalenka to win U . S . Open , claim No . 1 ranking",
-      "url": "https://wjla.com/news/nation-world/rybakina-tops-sabalenka-to-win-us-open-claim-no-1-ranking",
-      "domain": "wjla.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cDovL3d3dy5p",
-      "layer": "reported",
-      "title": "Elena Rybakina beats Aryna Sabalenka to win the US Open title and punctuate her rise to No . 1",
-      "url": "http://www.idahopress.com/ap_news/us/elena-rybakina-beats-aryna-sabalenka-to-win-the-us-open-title-and-punctuate-her-rise/article_9619c27b-ca56-5ed0-9a46-11d399d0ef20.html",
-      "domain": "idahopress.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cDovL3d3dy5j",
-      "layer": "reported",
-      "title": "EAM Jaishankar holds discussions with counterparts from Nigeria and Cuba",
-      "url": "http://www.calcuttanews.net/news/279303578/eam-jaishankar-holds-discussions-with-counterparts-from-nigeria-and-cuba",
-      "domain": "calcuttanews.net",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9mb3gy",
-      "layer": "reported",
-      "title": "Rybakina tops Sabalenka to win U . S . Open , claim No . 1 ranking",
-      "url": "https://fox23.com/news/nation-world/rybakina-tops-sabalenka-to-win-us-open-claim-no-1-ranking",
-      "domain": "fox23.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9nYXpl",
-      "layer": "reported",
-      "title": "В Кыргызстане хотят обновить систему авиационного поиска и спасания » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
-      "url": "https://gazeta.kg/society/219446-v-kyrgyzstane-hotjat-obnovit-sistemu-aviacionnogo-poiska-i-spasanija.html",
-      "domain": "gazeta.kg",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cDovL3d3dy5i",
-      "layer": "reported",
-      "title": "Rybakina outlasts Sabalenka to claim first US Open title",
-      "url": "http://www.bignewsnetwork.com/news/279303584/rybakina-outlasts-sabalenka-to-claim-first-us-open-title",
-      "domain": "bignewsnetwork.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cDovL3d3dy5i",
-      "layer": "reported",
-      "title": "EAM Jaishankar holds discussions with counterparts from Nigeria and Cuba",
-      "url": "http://www.bignewsnetwork.com/news/279303578/eam-jaishankar-holds-discussions-with-counterparts-from-nigeria-and-cuba",
-      "domain": "bignewsnetwork.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly91ZG4u",
-      "layer": "reported",
-      "title": "MLB ／ 李灝宇夯出3長打 老虎單局灌7分逆轉洛磯奪3連勝 | MLB | 運動",
-      "url": "https://udn.com/news/story/6999/9751160",
-      "domain": "udn.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "Rybakina voitti Yhdysvaltain avointen mestaruuden ensimmäistä kertaa",
-      "url": "https://www.aamuposti.fi/urheilu/9788624",
-      "domain": "aamuposti.fi",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9jYnM0",
-      "layer": "reported",
-      "title": "Rybakina tops Sabalenka to win U . S . Open , claim No . 1 ranking",
-      "url": "https://cbs4local.com/news/nation-world/rybakina-tops-sabalenka-to-win-us-open-claim-no-1-ranking",
-      "domain": "cbs4local.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9mZWRw",
-      "layer": "reported",
-      "title": "Гуманоиды и нейросети в нефтегазе : министру Алиханову покажут передовые разработки на TNF - 2026 | Тюменская область",
-      "url": "https://fedpress.ru/news/72/economy/3451460",
-      "domain": "fedpress.ru",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9va2Nm",
-      "layer": "reported",
-      "title": "Rybakina tops Sabalenka to win U . S . Open , claim No . 1 ranking",
-      "url": "https://okcfox.com/news/nation-world/rybakina-tops-sabalenka-to-win-us-open-claim-no-1-ranking",
-      "domain": "okcfox.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93Y2hz",
-      "layer": "reported",
-      "title": "Rybakina tops Sabalenka to win U . S . Open , claim No . 1 ranking",
-      "url": "https://wchstv.com/news/nation-world/rybakina-tops-sabalenka-to-win-us-open-claim-no-1-ranking",
-      "domain": "wchstv.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9mb3g0",
-      "layer": "reported",
-      "title": "Rybakina tops Sabalenka to win U . S . Open , claim No . 1 ranking",
-      "url": "https://fox4beaumont.com/news/nation-world/rybakina-tops-sabalenka-to-win-us-open-claim-no-1-ranking",
-      "domain": "fox4beaumont.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9iYWlq",
-      "layer": "reported",
-      "title": "市井烟火玩出新花样 ， 买菜成了新乐趣 ！ 菜市场里  一站式  集齐吃喝玩乐多种体验",
-      "url": "https://baijiahao.baidu.com/s?id=1876126447716764792",
-      "domain": "baijiahao.baidu.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9rY2J5",
-      "layer": "reported",
-      "title": "Rybakina tops Sabalenka to win U . S . Open , claim No . 1 ranking",
-      "url": "https://kcby.com/news/nation-world/rybakina-tops-sabalenka-to-win-us-open-claim-no-1-ranking",
-      "domain": "kcby.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9hbmlu",
-      "layer": "reported",
-      "title": "EAM Jaishankar holds discussions with counterparts from Nigeria and Cuba",
-      "url": "https://aninews.in/news/world/asia/eam-jaishankar-holds-discussions-with-counterparts-from-nigeria-and-cuba20260913045633/",
-      "domain": "aninews.in",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9hYmMz",
-      "layer": "reported",
-      "title": "Rybakina tops Sabalenka to win U . S . Open , claim No . 1 ranking",
-      "url": "https://abc3340.com/news/nation-world/rybakina-tops-sabalenka-to-win-us-open-claim-no-1-ranking",
-      "domain": "abc3340.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly8xM3do",
-      "layer": "reported",
-      "title": "Rybakina tops Sabalenka to win U . S . Open , claim No . 1 ranking",
-      "url": "https://13wham.com/news/nation-world/rybakina-tops-sabalenka-to-win-us-open-claim-no-1-ranking",
-      "domain": "13wham.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": " 【 早报 】 阿森纳四连胜领跑 ！ 姆巴佩造3球皇马大胜 ！ ",
-      "url": "https://www.163.com/dy/article/L6MMPDUS05299JMD.html",
-      "domain": "163.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9teWZv",
-      "layer": "reported",
-      "title": "Rybakina tops Sabalenka to win U . S . Open , claim No . 1 ranking",
-      "url": "https://myfox28columbus.com/news/nation-world/rybakina-tops-sabalenka-to-win-us-open-claim-no-1-ranking",
-      "domain": "myfox28columbus.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "Rybakina Takes US Open",
-      "url": "https://www.newser.com/story/396341/rybakina-next-no-1-wins-us-open.html",
-      "domain": "newser.com",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "Elena Rybakina defeats Aryna Sabalenka to claim her first US Open title",
-      "url": "https://www.lbc.co.uk/article/elena-rybakina-defeats-aryna-sabalenka-to-claim-her-first-us-open-title-5HjdhL2_2/",
-      "domain": "lbc.co.uk",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9vYnNl",
-      "layer": "reported",
-      "title": "A futura número 1 está um passo à frente da antiga número 1 – Observador",
-      "url": "https://observador.pt/2026/09/12/a-futura-numero-um-esta-mesmo-um-passo-a-frente-da-antiga-numero-um-rybakina-bate-sabalenka-em-tres-sets-e-conquista-terceiro-grand-slam/",
-      "domain": "observador.pt",
-      "pulled_at": "2026-09-13T02:14:04.904Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "Rybakina voitti Yhdysvaltain avointen mestaruuden ensimmäistä kertaa",
-      "url": "https://www.ita-savo.fi/urheilu/9788624",
-      "domain": "ita-savo.fi",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly93d3cu",
-      "layer": "reported",
-      "title": "Elena Rybakina beats Aryna Sabalenka to win the US Open title and punctuate her rise to No . 1",
-      "url": "https://www.yakimaherald.com/news/nation_and_world/nation/elena-rybakina-beats-aryna-sabalenka-to-win-the-us-open-title-and-punctuate-her-rise/article_79a65307-a798-5bfc-b450-fc69858c1c0b.html",
-      "domain": "yakimaherald.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly9pbmZv",
-      "layer": "reported",
-      "title": "Žirinovski predvideo četiri fronta Trećeg svetskog rata : Posle Ukrajine pominjao Balkan , Kavkaz i Avganistan",
-      "url": "https://informer.rs/planeta/vesti/1148919/vladimir-zirinovski-rusija-ukrajina-rat-balkan",
-      "domain": "informer.rs",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
-    },
-    {
-      "id": "gdelt-aHR0cHM6Ly90aW1l",
-      "layer": "reported",
-      "title": "Kazakhstan Elena Rybakina Wins US Open Ahead of World No . 1 Debut",
-      "url": "https://timesca.com/kazakhstans-elena-rybakina-wins-us-open-ahead-of-world-no-1-debut/",
-      "domain": "timesca.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "title": "South Korea's Lee to host Central Asia summit in Seoul next week",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNclM3Q3owRXQ4cjgxX0tHNjBoMmhDTHlNUEhwUlpCTHd1T0RibmY4Q1ozSzdXVHJYVDhtZ1JBREVBWTU3Z0hFd0ZlYm5jYzNRc0x6OEg1Q3loU0xhSmtva3VSSXJ2c1B2NVBDM1hQMXVvVTY3dVJkRldMaTQ2T0ZCd3AzQUlYMmZMR1B3WG5iMTdqQ2xob2FFbDhVVTFrTGpEbUhfV21QWWVfTGJqMWhCYm1jRjFiR3ZjSXJxOHo3RDM3V1Vk?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -329,7 +17,7 @@
       "title": "This week in PostMag: a guqin revival, odes to Central Asia and a peek into Puyi’s last days as…",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTEhWbF9hanVENWNfM1R0OW5nUVFmRGFYSVpDMDJNMHJyaVdJNERJOVluVmU3aWozSF9kNE5JVDMxYXd5c3pYLWduZXJHelUzbmVBUEktQWcxemc2Znc2TnpBNzNfbzkyd2U1cy1ZTFZRc0VmaHkwa2pzY3JBcUdZb2VWVVlHN2ozVEZQTy1CUG0weU5CRDh0QUp3RjRhR1gzWGNycWJ5cEY1Y3hqOWhlTDZmNERIbkxVbVJELWVoUdIBvwFBVV95cUxPekVlMUV4WFRyRzQwVTRIZWgxS0hyQUVTODJzcW5Vb2ZPTFZfMFRxdEoyNjdabFVYTUVwTzlBdzd2T0FIMUVMRkZtUVQzWjlCUi1fSHJCd1l0elM2dUpqMXlhZnB2M01VRHYzb0E2ZlB0Nkx2WnloWjYyZ3BhOFdZWG9rUXNsdElfSGM1Vzhsb192VUptOUtkOEk2Tlh5U3Y5SkFNN21oVnVSN18yNE5uNWtzZ0NLNmRXbzA5NXJ5TQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -337,7 +25,7 @@
       "title": "As Russia’s War In Ukraine Continues, China Expands In Central Asia",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ0FKNnY3SFpPcmQ2Y1U2UGhIZkRuUUs4WWVaSTc3NHJlc2plYUlfMWNMWXdWZGJSZVlQZnNNYWJ2WlU1dnZNTnF1aUpmeEQ1Z3hneFFHZ0VkVFhxY2hUOVIwdkpOQk04dVBtTDBOWUtuUmVPYVBkRFlDRElfSHRqeU1NZ3J3WDVDaTZDNVh0ckIyd0ZVb0RYbS1LcXdsUUVFb1pUdUpZZjdPNjZvaF9rTVFDMVRuUUZlVUVn?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -345,31 +33,7 @@
       "title": "Uzbekistan’s First C-390: Embraer Lands in Central Asia",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMG5IbmszbFNveGNyaTlYUGtKVHlyeERkU2U0TkgwMEwtbkpzSDFPZVVqZWNncV91VkxpT2puNEd6WktBcmFmajc1VE9XNkxaLVVybmlXcXZlS1NWTkVmYjNrLXJGQlFOemlUNkxrWkhHTzVEVWdYeWtiNFhDVVdDaS0wNUdja3RJNFZWVnEwWmt6b0JP?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "South Korea's Lee to host Central Asia summit in Seoul next week",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNclM3Q3owRXQ4cjgxX0tHNjBoMmhDTHlNUEhwUlpCTHd1T0RibmY4Q1ozSzdXVHJYVDhtZ1JBREVBWTU3Z0hFd0ZlYm5jYzNRc0x6OEg1Q3loU0xhSmtva3VSSXJ2c1B2NVBDM1hQMXVvVTY3dVJkRldMaTQ2T0ZCd3AzQUlYMmZMR1B3WG5iMTdqQ2xob2FFbDhVVTFrTGpEbUhfV21QWWVfTGJqMWhCYm1jRjFiR3ZjSXJxOHo3RDM3V1Vk?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Kyrgyzstan records fastest economic growth in Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUkJSUG5wQTc5Zk5Sejd0Sk1RdXFKQUpsWjdzcnBScjJTSXhjaEdCR0V2a2s2WWMtalE1bDUzUHRrUWdlUUtqU1FVQ1ZQdTc4NlAwODV2a0h0TW1OV1ZoYWt5NV9MRlVzcl92Wl96QmNMZXc5VG94U0ZfWWdTNEd5OGUtSDdwVXUyOWMwTEdQWG8?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Kazakhstan: A Responsible Middle Power And Strategic Connector Of Eurasia – Analysis",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUmtjclR5NHE2Z3Ywd1NlSHB4Yk4yVHRNZkJ5azRMZTh4WUJjZVM3azUyRzRQQkhtcHRPc3o3SHlQb0pmWExTRnJlWUxvSUxuRTFwTG15eFpEdjYxUDZOdDNjbHA5XzlNWXNYbUdWNzlZcjBKZl9udzlvWW1mZVplaHh6Ri1KNWdSYkhJRlB2UU5LU1FuUFVJWTR2WXd0b0ZHUjhvMzVFVlEwOWRJNm40SU5ScUFvQ0pjMU1oRFVB?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -377,31 +41,23 @@
       "title": "Imad N. Fakhoury, Regional Vice President, Middle East and Central Asia",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DRlduNWRqVjVJd0pKOWV2anFlM3ZIeHZtVzhSY0g2b0E5VHI3c29SSmtCUk1GWTVMM1VrRVJkN3VmWm50QXoxbE1lcERVOTB1NUlhZkhpTkNYUHBIZVBEQ0xITQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Stadler Kazakhstan to launch Central Asia's first aluminum bodyshell production",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzdEbWNqMnVyVTR3RzRUWGxPam5oZk1fbnIxWFF3QWF1c21BS29MUEU0X3NEN2hYcFlvY1dVTmdXMDJOVW5sbTZzM0pFTkZJN3Nyc3lZNmQzX3VHZHhYYm0yUGxEanFLcFA5bUp6MFM3RHFJT3lwWjlQdXlVRmFjU2RsTFdTaXVjcUxfSzZCR0w2WEtNanRtYXJGVFNCMVotb1dNRnhiSWpScGRwNnA4QXBVQQ?oc=5",
+      "title": "Kyrgyzstan records fastest economic growth in Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUkJSUG5wQTc5Zk5Sejd0Sk1RdXFKQUpsWjdzcnBScjJTSXhjaEdCR0V2a2s2WWMtalE1bDUzUHRrUWdlUUtqU1FVQ1ZQdTc4NlAwODV2a0h0TW1OV1ZoYWt5NV9MRlVzcl92Wl96QmNMZXc5VG94U0ZfWWdTNEd5OGUtSDdwVXUyOWMwTEdQWG8?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Kazakhstan’s Elena Rybakina Wins US Open Ahead of World No. 1 Debut",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYUhmOFFTQ1pDNUo3TmdxOEs4cUpYLTBDWnJ5LVdxN3hPTTFlV1U5UThEa2JYZzlLbHExSFEtR01zNHYwWk5hajhtY1h0aFQxV3pBMWszcGlBMGZHdmh5RU1kNEw2V2FnaXRON01mWW5xRzA0R2RfMnI3LUt5RkdKNWpWWlpDTmJPdHVoeVJoSQ?oc=5",
+      "title": "Kazakhstan: A Responsible Middle Power And Strategic Connector Of Eurasia – Analysis",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUmtjclR5NHE2Z3Ywd1NlSHB4Yk4yVHRNZkJ5azRMZTh4WUJjZVM3azUyRzRQQkhtcHRPc3o3SHlQb0pmWExTRnJlWUxvSUxuRTFwTG15eFpEdjYxUDZOdDNjbHA5XzlNWXNYbUdWNzlZcjBKZl9udzlvWW1mZVplaHh6Ri1KNWdSYkhJRlB2UU5LU1FuUFVJWTR2WXd0b0ZHUjhvMzVFVlEwOWRJNm40SU5ScUFvQ0pjMU1oRFVB?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Global and regional climate change impacted Paleogene mammal faunas in Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94SzVPaU1DNzlHT1ZFTUVBY0ZZSjFHSUFkVTRZbGY1MzlLNWtwMHBmYXBTc3dpVHI1dWFvTE50czBmQi1pWUQtNF9YdVF1VWROQUJrVzNBUEJ5SFhSRXVZ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -409,7 +65,31 @@
       "title": "Summer Diplomacy Deepens Azerbaijan’s Integration with Central Asia",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lanNPNUJmZEpZUkpIb2hONy1rbU4tcGZoeWFNRGdWQkRNSDQ5ZWxISVFCVXM2SHp3cUF0Qml2b203VUw3MEM5QXJkN3daMTBxN3NuaFZ6REJWdG5TWWswS1RlaXRtZjIwSXFZc0s1UFdYZ0dWeVViMg?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Global and regional climate change impacted Paleogene mammal faunas in Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94SzVPaU1DNzlHT1ZFTUVBY0ZZSjFHSUFkVTRZbGY1MzlLNWtwMHBmYXBTc3dpVHI1dWFvTE50czBmQi1pWUQtNF9YdVF1VWROQUJrVzNBUEJ5SFhSRXVZ?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-13T07:33:25.603Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Stadler Kazakhstan to launch Central Asia's first aluminum bodyshell production",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzdEbWNqMnVyVTR3RzRUWGxPam5oZk1fbnIxWFF3QWF1c21BS29MUEU0X3NEN2hYcFlvY1dVTmdXMDJOVW5sbTZzM0pFTkZJN3Nyc3lZNmQzX3VHZHhYYm0yUGxEanFLcFA5bUp6MFM3RHFJT3lwWjlQdXlVRmFjU2RsTFdTaXVjcUxfSzZCR0w2WEtNanRtYXJGVFNCMVotb1dNRnhiSWpScGRwNnA4QXBVQQ?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-13T07:33:25.603Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Kazakhstan’s Elena Rybakina Wins US Open Ahead of World No. 1 Debut",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYUhmOFFTQ1pDNUo3TmdxOEs4cUpYLTBDWnJ5LVdxN3hPTTFlV1U5UThEa2JYZzlLbHExSFEtR01zNHYwWk5hajhtY1h0aFQxV3pBMWszcGlBMGZHdmh5RU1kNEw2V2FnaXRON01mWW5xRzA0R2RfMnI3LUt5RkdKNWpWWlpDTmJPdHVoeVJoSQ?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -417,23 +97,7 @@
       "title": "South Korea’s Lee to host Central Asia summit in Seoul next week, media reports",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLVROUGJVemlDUk5jVkRnV3hNQ2pESlVmMDVaWmdfZ0xMeWhUX3dtV2FGemtvWW9fTThjajhFZ3J2akZkLXlRVExpY3VWMEhJVDh1N2dsbEhhb0dCMTM5VVROSm1HcVMwcXZxMXpNMkJuTFhzckRTNDZlSThzb3BpcVJZX09NdkFLWEY2QlJWSDNPdUN1RFpGUnZmZllIYVhiWkFQaDUxbWU2eFot?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Russian Mobilization Rumors Ripple Across Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmp0SllXSzA4c2oxWUhNYkZJQldrWEhxaE5TcHp5SWZteW5NeVJKd3JIT0NZNndIdXRtZURaNlVJTEtGQVQtX25McEp4TkpqT1dMQXpFZllnT1ZYTFZFNmhtaXAyMnNKUVVGd01UamdCOG43OW1jZXV0VHNJbFdKSVo5T3J4STJrcjRuSzAxc0swRUd2azE0WkxFTEFBZ9IBowFBVV95cUxPc3VTd2R0b0xBczM2aUtXaUhCcmp1U04xU1paT0tTRXBVUGNBVFJVRm13SlFBZ290amNYRVVDM3FEQnpqYUQ2NU1nMExYN3R1ODY0WnA0UXFTeXQwZkExblNpb0p5VFVJWWJNZmt4TzJFeEg3bkc3UFQ0dHVsb1NyNVBMbU02OXFEVE1mMndQbEsxQzZKX1Y2d0lvczY5RHF6c1VB?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "SPiCE Central Asia Awards 2026 to Honour Industry Leaders & Standout Achievements",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0gxdXZIRUViTmk3QXBEa2czLTN2RkV4TWoyOWN5ckxCdlRXMkpNVFEtNC1DZ2xQZDExdUlDSTVEdDdZUkNGN0lQVEwtU3lNeEh0Ri0xNnROUGlISU5QeTdCVHZsRlh0VzJkb3BjVkN6UjhzYmZnSTB5aEtkZllrWDlHNDBJV0dEZ1p4ZmtETzlnVEVyVzJGb1FWakZPd0JhbHRvVWN3eFg2MHdERHNuTUN2a0kzeENK?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -441,7 +105,15 @@
       "title": "China-Central Asia Trade Surpasses $100 Billion as SCMP Hosts Landmark Conference in Astana",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVXlwaGpId0Y2T01Jdk15eEZYYlBTX3kyZmpOVkYzNTV3ZmtyWlN1RGM5Vm9QSG9BU2JkTWpVSWNmUDRScHVvbzMwa1RSQk5LMXYxamNtcFdZcWpKMmpuOHVHVjF3aHc5WHVQc0VoZEQwV0J4R1libEpUaWsyVTlCT2cyZXcxVEhVV19CTm0wVEZnbzVrZ2szWm5jeEhtOWRoRmdVRERZMWxkM1BuZjlRT2hDR2ZDLUFCb0o1U0N6d0g?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Russian Mobilization Rumors Ripple Across Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmp0SllXSzA4c2oxWUhNYkZJQldrWEhxaE5TcHp5SWZteW5NeVJKd3JIT0NZNndIdXRtZURaNlVJTEtGQVQtX25McEp4TkpqT1dMQXpFZllnT1ZYTFZFNmhtaXAyMnNKUVVGd01UamdCOG43OW1jZXV0VHNJbFdKSVo5T3J4STJrcjRuSzAxc0swRUd2azE0WkxFTEFBZ9IBowFBVV95cUxPc3VTd2R0b0xBczM2aUtXaUhCcmp1U04xU1paT0tTRXBVUGNBVFJVRm13SlFBZ290amNYRVVDM3FEQnpqYUQ2NU1nMExYN3R1ODY0WnA0UXFTeXQwZkExblNpb0p5VFVJWWJNZmt4TzJFeEg3bkc3UFQ0dHVsb1NyNVBMbU02OXFEVE1mMndQbEsxQzZKX1Y2d0lvczY5RHF6c1VB?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -449,15 +121,15 @@
       "title": "Seoul readies for first Korea-Central Asia Summit",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fTzdNLS1yaFJfeC05MFdqRTVZcDhRaWJncnpPMVozVy1YQlU3cDE0ekdDMXB3OFZmRDNabko0SlgzRWdJNVctT1Jfb3M3ckllSTVWay16UQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Indian scholars explore unique artifacts at Tajikistan’s National Museum",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUGJ1VzZsSEhMb0lYNGdLcklMTXhOc2czZmpqcFJzRjRRTklidmd6T1ViOXJKSUMycTJrQWRJME9qMHY0R2dDaTNtRkRMUFVzbVdpNXlzczVDV2xBMi1LMUZFX1ozb2kxWlFIbmxTVnBCNEpQX0k1ejJzanh1eUd2TFBTdnBXRDBWcVd5RTdmRGZNTzRXN1hNWV9hdmp5MFpialg1em5VdmXSAagBQVVfeXFMTzJmcVdxT0ljVFhlSlVOX3ZFdnJ4ZFBsM0VCaC03WldXUTA5OTJob013bENFYk1KWVcwTG5vd1hheF9yVGNnb1BwQ0RtcVNDLUduZHg5aW9BWHYwSVE3QXNJeXJyWlc2LU5sNHdUQXkzcXgxWUxJNkw4VlRNVmY5S0ZILXlMYWdhb3NPOVJJNGowd292bDJPX0pTZXByNU8yVzVGdkVqVzVP?oc=5",
+      "title": "Foreign media on Kazakhstan: Infrastructure investment, global education ambitions and Elena Rybakina’s historic rise to No. 1",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYXdiZTZtenAyX0FIRnp0b2MwZlR1NUhyNXJmYXJWRnFYY19LeDhUaUJ4UjZ3bkUyRHRPMFl2U3hUdWVjQW9ScmVIRnIyUE9Pdk5wcU9oR2tWbkd2NFdXdnVKRVF3cVJuLTZETUpUTnJHVkJuMmdXVFhTQVRqZ19VV0ZjN2FsUXpSakdLYlE4OHI4TVU4MkRpM2FBVFJHRFNpVjNKU1UyN1ZmRm9WZTVNM291TXBBOGVvOWpCS0xTc0h1ZGVPTmNhWG91aGhCTmZYcldvRklROFpOdVg2S3NYdkFEWTlNUVB0dzBBSdIB7AFBVV95cUxNcU44a25ZS1BoZmNqUUMwb1BpSTNUdTVTOGJVa3VQbVVvRTFKYTMtRXM3UWFwWHNIU2F1em50Rmw1eVJHcjhITE12TDNWcmVuaDJCMHZoei1fR0gzRE5qaWhMajIwQzFFSmRXZ0FnSWY4SXczRXJ4MTRZTjF6S3pIZTQ1N1VsT3R3RGh0NnlRWmNGdS12RXhMdzJ0V21HT0dHZV9vdTBrVlprTnpnZmxXU0RyTlh6TFN6XzFBRTM0cXpIYUR2SXB4UjZDcjhBcVVMbXU3b3VSUUI0RHh6QXpaQUVYU0xMZzdWYWxMdA?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -465,7 +137,7 @@
       "title": "Central Asia Water & Energy Program",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53ZjFKTTc5OUtSN3UtQ2x5TUpvUlBiVkQ3VlhIZ1Nub04wbzhzUkJ0ZWEydHlMZm5tNXItRFJUX0wtYXRjUHUxVU9KODJWX1BhU2h1YmRHSzlkNFpnTTEzeA?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -473,7 +145,7 @@
       "title": "China marks major tunnel milestone for Central Asia railway bypassing Russia",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZllQQzZsWmdKSTJlMmJtR3haTGFBWWZLM2wyOTJUUGFVMTZTaFlnNm1faUFrRGE4ZG9sYVgyZlFPZzBuMm9oTGU5SUxUZlVTM0dqd3Jfa1ByN1JZdTRBX0ZFZDVFYjg5N25hMEtBQ2trQVphZXNxYVNkSlRtbTdwak9zRjVnam1VVXA1OG81X1VPWkxQWHVxVkx0c25uWXdiYUdZbmRsTmtlbTlyUHhpcXk3d0RqNGZCaXhxVk9UUy1IYWJOYkNhOHV30gHKAUFVX3lxTE52WTRCQkZfdnQzZEhLa3NQMFZETkxzMF92eERNc3V0UUpqNzh3RjlRSWhpWXh4RHVLTHNpM1h4aDJ5Y19pUWJVc0ZrY0d6SzRmNlk2eHZJLUxQVGdwVFdMTGVEdklBbExVNGZfbm9wTmZDWkpoeFdYa0IyZVVNU01LQ2NKRlUtYXM4ak1obVEtVWpTcndTX08wbWZIMVEtajNSN09EQ2pBLVBPRnY2TmJETm9JX2k0NWNsN001ZndnWGlJZzA5TWZLdmc?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -481,39 +153,23 @@
       "title": "Investment surge in Central Asia drives calls for Chinese yuan use",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa0VZNU55WWhPN05MeGJCSGdtOGx5bk5BS3lBYkE0NE4yMmhxRV9yMldIXzhsREI5Umt5UlpTR2tmR0RDaVp0alFkbC15Tk44ai1LQzBwQjdycUdUczBjNzFxdkNDOV9PbzFXR1NOTExaY05IcTBIeEp0ZjhrY3Y4VVlxYV9KUzN2U3h6SGJlRHU5UUFES2J2cjRLN0FuWkVMUklnRmhQQWhWcC1KOXBUS0RBY9IBswFBVV95cUxPLUY0QUpSREFfc0hDb1ZoV2pIQWVYWC1vX3ZIVlZkSGlNTTRVTWxxWXZjNVB3dXhNd09EbVk3bW9YazJFR0VsYVJWOUd1OFA5ZE1MZHp2czB6Q0k4dzNWa3Q0dkY2dldtd1JsOW9CSWFta0VIMGthYjdtSlFPLWlaaEJKc2pwOU16X3NZNkxHeGhKVEo3dG1IaTFRTGJqaFQ5ZU5oNG55QWhYQjhpckhLbFZ6MA?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "New OECD Assessment Reveals Central Asia’s Student Performance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON1pnalJTS0JmRGNFaEx0bkFpYTB1eVJxNk94QVZzMzZEVVFGb0N6OUFudGFTY0hTaHlkYUJJTFJEdWhKcExiWnpkenlPUVhxbFJrSDNkM090bVVaUzY3TGlzQzg1bzRDMGVRVkpEQzllNmpkM0xoWWVXdXFlYV85alBBcmlETXZDR1E?oc=5",
+      "title": "SPiCE Central Asia Awards 2026 to Honour Industry Leaders & Standout Achievements",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0gxdXZIRUViTmk3QXBEa2czLTN2RkV4TWoyOWN5ckxCdlRXMkpNVFEtNC1DZ2xQZDExdUlDSTVEdDdZUkNGN0lQVEwtU3lNeEh0Ri0xNnROUGlISU5QeTdCVHZsRlh0VzJkb3BjVkN6UjhzYmZnSTB5aEtkZllrWDlHNDBJV0dEZ1p4ZmtETzlnVEVyVzJGb1FWakZPd0JhbHRvVWN3eFg2MHdERHNuTUN2a0kzeENK?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "China’s Uzbekistan jet sale tests Russia’s grip on Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTTN2SW91a1F6WG5hR1liQUdGWFFmOGtoQjZzQVk5QkVQT2VKUkVEc1pMWHhNU0d6ZEtZdHRic3FDbkVYUDZDR25PNllSQ2ZLekNBWmtlTGszTVVqdEtGbUZUaGZuTE1aaVF4NkJpMlBxQ2xvQVd4U3RNd2ZoWkV0Skt2dU0wa09zakRWZzhtRDFWZFQ5am5V?oc=5",
+      "title": "Tokayev reiterates invitation for Trump to visit Kazakhstan",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51QlRZZnBkMDFkVlFDNXZOd1BxcFNKUkdrY0NPNk5wUWFsalFocWUxOERhb2V5WHVleWFtUEptWXR2ZGNqdS12VXNyYkwxUDJBd2VyNg?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Kazakhstan, Kyrgyzstan to build USD 350 mln fuel processing complex",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbHVCSHA3c0pRWG1wRTVQVDFfY2JEbEY0bHdLa203VWl4UGd5cEZ2eUVHZ2M3X3BYN19XbldENmpwOEczOW1JUEUwc21OQXNTcDVPd0p3eUdPSEFyXzQ2SUtmWDBsUklMS3htWGhod3BhQXpuUDYyaVB0Z3Y2UlRYNkNRaXpSNEhqOXJOcWNEMl9vZ03SAZMBQVVfeXFMTkdUOUxFTmdqLUdhOUFQTDFWal9jNUZ5TGtNTWJRRVM3UnV5d1VJcXJsQmRNTWEwS0ZrTl94Snl4Vkx3ak1fYk1ycWt4bWRkUnI5dHFsQnFzUlNmZEMxeFRRNWs0bDlUSndxWTJOUXdjVlpWZ2JnTXZhSEV6bFB6ZE9NTV9PWm54TFdwR2JCNlIxcVlV?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Mirziyoyev calls on South Korea to make a joint leap in development",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTFFJVHYwQlR6UlNLdHRvaTZJMC00czBBSzEyZ3BwRzRNWk5qNWtFOXhleVh2WUhfeXZGTHN1bVFOcFpDTlA4eGkxcjZsc3J6WDNHUDlZclNuTnZUMDA2eGlhS2tjdVRTVFZpQVllVmFfcjFaRUxZSVUzMEFETW4wUUt1d1pYNkU5bmZxcVdmSmVQdGdIbFE?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -521,15 +177,15 @@
       "title": "Medieval Palace Discovered in Uzbekistan",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVUxaNkYzTTdoY2JPODBzb2pKcUlmcHZpNE42WUV2MFdKd3kxVU1kSlptLUdFSE9lVmM2VlJQRlNrOU1CX3pITmpHUTYxWkRMYjFfd1FkN2NpRmdQTURybGVnX0tYdTdrcjBmYlJWLWNBV0J5S29LRzlhemozaFRhOU9waWY?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "The Head of State Receives U.S. President’s Special Envoy for South and Central Asia Sergio Gor",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR040RHZab3kwRWZ4ZXJjbkhMVi1mUzJfM2hUQVpKMmRKdWNzN3VVS0preHBmcWNlcG1hcXBJS0k3UC1Qdk8teWJ6cFpCTmIzcGxOWUttaTRrdmZ0V1YtNXRuZ3UxMWc0d2ZDZjc5SWJZVDNPa3NqTzF6bk4xZDJOSnh4YU5CdzEzLVpRT0g0b3V0M0JHU3NBRHNrbkp6Y2lIbzVzX3RTYnNQR3AwYnJpQTNaUk56U1MxbWNRenNsejRneUk?oc=5",
+      "title": "China’s Uzbekistan jet sale tests Russia’s grip on Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTTN2SW91a1F6WG5hR1liQUdGWFFmOGtoQjZzQVk5QkVQT2VKUkVEc1pMWHhNU0d6ZEtZdHRic3FDbkVYUDZDR25PNllSQ2ZLekNBWmtlTGszTVVqdEtGbUZUaGZuTE1aaVF4NkJpMlBxQ2xvQVd4U3RNd2ZoWkV0Skt2dU0wa09zakRWZzhtRDFWZFQ5am5V?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -537,23 +193,15 @@
       "title": "China using Central Asia as pass-through for shady trade with Iran",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeDcyd2VHdHpKVFV0X2VpMTFVLWdWbXU2RHRva3hLakJVVjRvcHJaWDBGS3NYdVlFd1Zhck1VMGN6TVprNE9BanFkS0YxRXlZcXZybDk4Rmg5Y2VVWjJSb3dNOE1SbDE1eVhMSEZEME1GZW90d3EtVThhM3kxMjdNSDFxZnNpdWwtNjlfNnNKamxtbGc?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Trump sends personal message to Kazakh President via U.S. Special Envoy",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWk1Ja2hKcm1BVzluMlRlN1NlMVdzZmhkSUx3Yy01eVN4TGJVaVIxRUZMbzNsUUNLUFFOY0FRY05LSUdTWVkyX1hKRTdHelhpWERfV2xTbExCM2QzNjdiTXlCWnhWVnRLNF9wZ2MxT1F4VWlzSWQ0LU5oUFVKWnhiblZTN0FfN0kycThYVnJwWGNieTlDOVk5d1dOTzEzWkRYTFJHVkJB0gGmAUFVX3lxTE1FemxtTFppSjJOU0NKb3NMc2JXcTE2cC1yTFBGR0tjNW84RTBEbXExbThrVWVLRl96Z0hxeXZLclByT2JMMGJTWXFfN0pITWFEdDVQcFBHQTVaWDd1cVNKcVdSMzNBbTRlLWMyaEFXcVh6enhsMm9OTDZUZWIwV2MtS1pvS05WMnVqQ1Zsd3MtRHhtdlo4Z0hxWndtOE1VT011RXUxZHc?oc=5",
+      "title": "Indian scholars explore unique artifacts at Tajikistan’s National Museum",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUGJ1VzZsSEhMb0lYNGdLcklMTXhOc2czZmpqcFJzRjRRTklidmd6T1ViOXJKSUMycTJrQWRJME9qMHY0R2dDaTNtRkRMUFVzbVdpNXlzczVDV2xBMi1LMUZFX1ozb2kxWlFIbmxTVnBCNEpQX0k1ejJzanh1eUd2TFBTdnBXRDBWcVd5RTdmRGZNTzRXN1hNWV9hdmp5MFpialg1em5VdmXSAagBQVVfeXFMTzJmcVdxT0ljVFhlSlVOX3ZFdnJ4ZFBsM0VCaC03WldXUTA5OTJob013bENFYk1KWVcwTG5vd1hheF9yVGNnb1BwQ0RtcVNDLUduZHg5aW9BWHYwSVE3QXNJeXJyWlc2LU5sNHdUQXkzcXgxWUxJNkw4VlRNVmY5S0ZILXlMYWdhb3NPOVJJNGowd292bDJPX0pTZXByNU8yVzVGdkVqVzVP?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "First Block Train from China to Iran Departs Via Uzbekistan",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUFIwaFJ1ZHlEaVBUcXVZWWRISk93dDR0dEFkNDR5VWw1Y3JGalBpMTZjQkhiRVd4ejUzNmxWT3lzVTNWQk9oc0kydGJFd0J5ZENsdVY1QkF1T2FVa3pSbWl2c19PTFhnSnFXangxYkUxRWJyUENYZnAyYUh0NjU0cmlyZGVFWXZOWXVHYV9ac053akNIRm0tQUJWNGlKV2hVX0gzbDRNYnVfYkY2dWc?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -561,7 +209,7 @@
       "title": "From Brazil to Uzbekistan: Embraer reveals Central Asia’s first C-390",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQjJSRExzWWQ0MWRMM0xyUWVsUzlvNHlELWdrNGd6S0VTbFZ3SjVySE1iY3FPWUl5eDRmeWJZRzhiak9uU3RqemQwcXpVWjhLOUhSQ2NEMEw3ejJvczhhUjVNdFlvNWc3c3pic29CZEhFMnFxeEp3NmZWZnhMTlc2Y3dtTzF6ZG5yZDZfNzFjWEoyVjNIc1hwSWdseE4?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -569,23 +217,31 @@
       "title": "Inaugural Korea-Central Asia Summit to take place in Seoul on Wednesday",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMkxXR1hleG5nZmo0bks3RnhXVjV1aExfZDhnUktMbDhHMzhHaVdBWkV3azRvY3BWRGllckpHQ0JrQzJXWDRoNlJESUt0Snd5V29MNmdfa2pCdGxpSlRQaDk2bjdZQmd6Z3NTRjZBUnJUTjlQdU5WUGNmSG5hQ0NNMzc0Si12Nk5fTEwzUEhnckR0ME1hUWl6WWpoVTh1RU5TYWxyWWM0RDJmMzR1cDdvY1ctNi1Ga09DbFl5dw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Space Days Kazakhstan Highlights Push Beyond Baikonur",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83cV9uQXNXdV9IMlVOb3VNYnYxSENYX3RHRFcySzlVVUhBdThKU3hIYl94VFNKOW1objVySzZacmtJck9IUzJvaWlnMEhubENsT2lZVnE0dHh6TlgwSDNHaGl6Wkd2Qzdqcy1KNTd0RQ?oc=5",
+      "title": "Mirziyoyev calls on South Korea to make a joint leap in development",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTFFJVHYwQlR6UlNLdHRvaTZJMC00czBBSzEyZ3BwRzRNWk5qNWtFOXhleVh2WUhfeXZGTHN1bVFOcFpDTlA4eGkxcjZsc3J6WDNHUDlZclNuTnZUMDA2eGlhS2tjdVRTVFZpQVllVmFfcjFaRUxZSVUzMEFETW4wUUt1d1pYNkU5bmZxcVdmSmVQdGdIbFE?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Uzbekistan Unveils First C-390 in Central Asian Airlift Power Shift",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSFNCeWNjTlg1eFZ1QWlEbExiQ2pVSU9wWDhYN1VRcUpNczJIQkZlbzBObF9yTm9MNjduUnV6RnUtN2VaV1RSQmhCQUYxWlE1UXVvaWp2RlJaYmRLN1dNS0drZHJTNmlXWGRscmVEOHotZDIyWWk3bTIyQ3EwLVpTQXA5LUxMcGdvMWVGeXAwV1lYMWV2RzN6SzFSOEpDcmc?oc=5",
+      "title": "Trump sends personal message to Kazakh President via U.S. Special Envoy",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWk1Ja2hKcm1BVzluMlRlN1NlMVdzZmhkSUx3Yy01eVN4TGJVaVIxRUZMbzNsUUNLUFFOY0FRY05LSUdTWVkyX1hKRTdHelhpWERfV2xTbExCM2QzNjdiTXlCWnhWVnRLNF9wZ2MxT1F4VWlzSWQ0LU5oUFVKWnhiblZTN0FfN0kycThYVnJwWGNieTlDOVk5d1dOTzEzWkRYTFJHVkJB0gGmAUFVX3lxTE1FemxtTFppSjJOU0NKb3NMc2JXcTE2cC1yTFBGR0tjNW84RTBEbXExbThrVWVLRl96Z0hxeXZLclByT2JMMGJTWXFfN0pITWFEdDVQcFBHQTVaWDd1cVNKcVdSMzNBbTRlLWMyaEFXcVh6enhsMm9OTDZUZWIwV2MtS1pvS05WMnVqQ1Zsd3MtRHhtdlo4Z0hxWndtOE1VT011RXUxZHc?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "The Head of State Receives U.S. President’s Special Envoy for South and Central Asia Sergio Gor",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR040RHZab3kwRWZ4ZXJjbkhMVi1mUzJfM2hUQVpKMmRKdWNzN3VVS0preHBmcWNlcG1hcXBJS0k3UC1Qdk8teWJ6cFpCTmIzcGxOWUttaTRrdmZ0V1YtNXRuZ3UxMWc0d2ZDZjc5SWJZVDNPa3NqTzF6bk4xZDJOSnh4YU5CdzEzLVpRT0g0b3V0M0JHU3NBRHNrbkp6Y2lIbzVzX3RTYnNQR3AwYnJpQTNaUk56U1MxbWNRenNsejRneUk?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -593,7 +249,7 @@
       "title": "Seoul prepares for first South Korea–Central Asia summit",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU2duLVFZWE9mRXUxUDhkSWdtXzBnZzlxLUdaZmlJTjNKZGpadGlhZF9LQktJSmI5SEZfVkx2RS1rWld5NjV0ZXp2Q0JoNVp2MXRUemdhYU00NVlaTDFDYmhpNWZqbjVRS2lZSzU5LTRacmttMnNoMWV4cklwd0ZMWFRKeXJnZGN3dzVERUoyWmRpczZMR05EQkwzQQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -601,15 +257,7 @@
       "title": "Uzbekistan’s Senate Approves Latin Alphabet Changes",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qWWt0Q2hhZWs2VEE0SFlKSHlaU0FQWThBcFJScWFlYkJORHlVWUNIV2gzQUlTak5vb285aGtvblpqajd4aW1lNTNXN1l5U0NtdldDRDVYOXhwZnBncVF0V0U2clVobUk0MDQ1NFZ3?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "SCAT Airlines to launch flights from Singapore to Shymkent, Kazakhstan",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYkxYZTR6azA3QnBUVzd5cndCVDZCNFFNRF9UbnB0VkhQUXd5amVPMEs3eHlJOENqbHdpMG01cUtuc1FobGpvTzJxdnBzb3IyTlRiWEV2Zzc2SnJDOTJZeWlwOEMzN3VRT3Bnd0l5VktGVTVPOG12VFpOV0MybUN6bGZ3eEQ4LW14RkVWNUhfUTJRSlVEWmF2cVltTUtfanFfN3h6M1QyM0xBb0hXVFkxYw?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -617,23 +265,7 @@
       "title": "Foreign Media on Kazakhstan’s Economic Transformation, AIFC and Rybakina’s Rise to World No. 1",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1BxSmtKYUZQZFlVTzhvUlRKZ0JDN2VETEpmZXhPR2lOaldfUTk5UzJGb2Zhd3FqaTdhZVNRZUJlc2FfbzRPaEFhRllVajhGd1FfODdXcFlRY1FaX0syN3NZSE9oWXRHdzlrZmswOFctcjZmX2xhdTYwWHNpQ0MyZlhQR0VHTXNSSmd1ZDFkRm5heWx5NkZ6cFYxdVBqQmsxb3ozcFF1RmRoRTNXa3ozcG50QmtwU1prakZOb3VPMHk?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Uzbekistan moves to protect historic cities from development",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOREo5emM2c25rQTZHMkFVOVZXMFdEekhJX3R2UllsNTJPVHBBMTA4ZWo1TlB1eXJoX2NPN0hNSkVLX1c0WGh6czRwT2h3ei01eUEteVVfbXE1SUlKZjVHMTdPbTEtWE5VV29NblJMQ2JOSnBxLWk2OWlRRXlVdFg3MVVZbkplX2dJenNjTmpJTW5YYnhqdHV5aU44SlR5U0ZNcjRRXw?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Barclays reduces stake in Central Asia Metals to 5.62%",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd3E5SFdYbEN5LXVNNm5RUm12NEtIVklrN0VEZEhWdDRBSnBjQWpfcWV6NFpSRHZvUWtZNHYwMFlEWUk5YU4zT0czNXZjZlAwTE5wWndEYXZlRTNXaWh1bm94dkNYTDR1WU1CMnp6dXNFRmxxZjdUMnVuWXo2aWtaQlFzQzhrY1FJSFhVYUp0eXNUVUVvZTFwS1YtT1NIbnlrZ25LZmZoV1puWVlObnc?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -641,7 +273,55 @@
       "title": "U-M alumni return from Central Asia to seek treatment for their child at Mott",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWms0X1dfcnloZm5mR1lFUk5leDhOd1UtNkdFdTJXSHl6VndIRHZ4ZXlKNWxDSkJGNW9qSXVNdGdRckdRd1N2dzJHYTBzSlJCNUhIZU91UjJzdV9vanBOeFFmX2xpbjVXeVphNy1hX2FDdTFuMl9jS0xJbHlvNElodUVQSFhJZkhtZVUtbzRaUEswd0xrX3dMSHNjcmtSZTBpVTBhV1VEenpidw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-13T02:14:04.905Z"
+      "pulled_at": "2026-09-13T07:33:25.603Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Explore Astana, Kazakhstan’s futuristic capital",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRGRfNks4M2hfU1NyMFU3VFprNjhtTTNfcmkyYk9lclFlWks3MUtzSElmU2VVa3M2OTA1QmNGODhTYzNpZU9mVWhZcEJzSVlfN2lFSy05eGVpTktvcndBVHpDQl96RVNza1NQUE9ZN01sdnh3SHN2MnVfS2YwYUFPOW9HUVUyNW1zZmRLNW1n?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-13T07:33:25.603Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Tokayev outlines new horizons for Kazakhstan-China partnership in Xinhua interview",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVERCVlVyT2NSWHlheHpvZlhrV2VoN0ZOS0NuMTRWVmNhRGdqWlN5R2N4YnF6cHc5MU4wUW93WVc5dXZKT3RwZ0VfVG1La2tpWmxhVTJRUWZkbkFnR2lYaUJvbzQ0WjM5UlZoaXJPS3o3b3JQOWhCVnpWQzBtSDlONlB2X29EeDF6VjJGT1pYU05RemNUanBoUkVkcENxZW40TVRiYXZwc3N1VVk?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-13T07:33:25.603Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Government Conducts Counterterrorism Drill Ahead of Korea-Central Asia Summit",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeWc1VExvdk5BWkhGR0h2YTJ1Q0M1Z0pqeTRTTk1uZ2M2MkpuTWxVdXNsTUxmVmR0b0JoanlsSXJpRnZmRGhsc3VqeEhsYTlwbmpSMEJaaTRoX1RhbnI5TG5nSEREUV92aVZRRk02WkhOWlFpbHJTR2wyTEZKUXlLUzlieWp3UzFo?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-13T07:33:25.603Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Uzbekistan, S. Korea taking ties beyond capitals",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LZFpBZ2RKOWF4Z203anU3a3RtdzFnMmdFQ1ZhVWF2bmRyVE1jOTI0Q1Q2QjAxNzA2NUF6STB0QmhQQVhucUVyXzBPTS0wVUp5UDBydmROYw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-13T07:33:25.603Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Uzbekistan becomes Central Asia’s first C-390 Millennium operator",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcnJDMjhVekgxamsxVFBlUVd0ekZCUUV3T2E1clVUT3hrVHlMendIbVM2cTlWZHp5anFyYlhJMy1QdUpNcENVckdWbC1xUjZUT1dLQTVsVW94SnhmUlE3QnJUcHdjazlRYnN0UktpS0g0SE9saVo4LWhnRVVObWFCNjFPOG1Cb2hjLWZ0aGJ3?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-13T07:33:25.603Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "SCAT Airlines to launch flights from Singapore to Shymkent, Kazakhstan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYkxYZTR6azA3QnBUVzd5cndCVDZCNFFNRF9UbnB0VkhQUXd5amVPMEs3eHlJOENqbHdpMG01cUtuc1FobGpvTzJxdnBzb3IyTlRiWEV2Zzc2SnJDOTJZeWlwOEMzN3VRT3Bnd0l5VktGVTVPOG12VFpOV0MybUN6bGZ3eEQ4LW14RkVWNUhfUTJRSlVEWmF2cVltTUtfanFfN3h6M1QyM0xBb0hXVFkxYw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-13T07:33:25.603Z"
     }
   ]
 }
