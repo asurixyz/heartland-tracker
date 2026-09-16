@@ -1,15 +1,31 @@
 {
-  "fetched_at": "2026-09-16T05:30:28.086Z",
+  "fetched_at": "2026-09-16T10:31:27.472Z",
   "source": "GDELT + Google News RSS",
   "count": 40,
   "events": [
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
+      "title": "Central Asia's Hijab Debate Flares Up As Schools Reopen",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVdUWlNmWFNHV1hhVXowdzM2R25PanRsRG82ZWVDSzM2THRvek4wakRFZXRJaHRUVmY2dWJMaEpRRHg2N0JkOVhoOEYyT0FEZHBCanRUc2NXeC1URVVjdVhZVVViRnRWMlRJMFpWanVPTE02WThFRFdiZ3NYQ09yY0hGSW1tbDRhdEZ2MWgtSHpWYzF0RmtEUnNR0gGcAUFVX3lxTE9DVy1zVXNMQWZxNXl5aktqRTRKa05zMVlKRERWRGVKVUlKampXZFc5MW9EaG9BdktNRHl3UWZEN2ZSUDZ6VGtWZndIV3d5aFFsMmRkVmdWT2xmcEo0c3pCX1NRcm5KOENhR3gxWlFSVFhGY3ZZTGViVm9nOUhjM2FMM29QTEFLYnNuRXRCb1JxS3czSlVlTFBCN3JXOA?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "South Korea puts critical minerals, energy at forefront of inaugural Central Asia summit",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjVJZ054NjQyOWRnOVpMU21Xd3BPNDZVejEzVjNhVHUtT2JxM0hFVmxkaXNOdXN0OTNhNlNNck5hLUxGZ0R6d1lwSUhBa0JUZzV2QlV0ZXlCeVpocVVSbGk5bThUS3JTeVB4bVlGcGlCOXl4eHBDWmdmbF9RRkVqUHFpbVY5UGsxLXR6OVJvaVF3MC0yeTk0OXo1dHdqWmNZREZ4eDRRQ01FU3FzZ0tvclB4Qk1QRGQxSi1wa2RqTmgyVUtjTWh0RA?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
       "title": "South and Central Asia Subcommittee Chairman Huizenga Delivers Opening Remarks at Hearing on Covert Foreign Malign Influence Operations in America",
       "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPVDB4NHZvSThXcHRnVW01b2FNSXFUa2E3NzJNbWtWYlR1bE93TlFmaDFBb29BY0p4UnZ0aWE2d2tuQ1huM3lfUkdLblNYZG9HVTJLUE1YVzhESHM5enAzVmUydXJOLVpzN0tPV3VfYW1jaHlOUXdOdGl4ZFdVSFk5N1A1bVJsUXpQVmRsRktSTUNxY2lhTFdTbHk3RkxFYWFzdEFYdWpNc1g3TjVoWDNraFFKRjZ6cnJ4NGVWdTdqSjVXX3ctcURPMzRidE04N0JwRUhNLXhmUGU4dUc1bk1fVW9FOEhhclRnRFl5WkVJRjQwTWpqbGVncnNxZi12N2U0RGhBOFFNczlEWUN5NmF2bHJOOTY5bW9wd0o0TkNkaGN2RS1CX3c?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
+      "pulled_at": "2026-09-16T10:31:27.472Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -17,7 +33,39 @@
       "title": "South Korea embraces Central Asian leaders, looking to boost regional clout",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON0pvMVNYLXAwQzlmcTk3WmwwQ1RWQ1NNQmowR092Nlhab0ppcVJiaWJGVHNaeTJwX3g3UzNzejNOSW5PTjRXU3VkNjhXOVQzaHJ2T1FzQ090Y0Npa1ZFNVFQZ2hhcHl0WGE1d1ozUTM5aFZOUGtCZnJjU19ud0lrcUpMOFdWYUVfcEFGaG1nUm96aTVzTFEtRHJuQ1g4dUNwQmVBU1lEQjJCSlpiMGZyYmpNWFYzd9IBuwFBVV95cUxObUtaNTNVQl9GYUdZdDJaV0hNZ2ZDdFRndkFnRkp5QWw0RzZHTUFmWVhManI2MTQ5eWlRY05KX3ZiclVKOGltUnNoVzVtcDA0TnNBVnhaNUNGUi1rX2dYTU5XY1YtU1hBWlVrc0hjSVdGN0pJZ1FMV25qMlZpWmlHaEI0dHZjM1B6MGJqeTNHcmdyellObzdtMFFoOVBEOVNmbE9Ga293NTVSZFBBQnpSWlR1R3R2bHhKV3VF?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "South Korea deepens Central Asia ties over critical minerals",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOam5RczN4OC1heU9IRHJrcmFsNDQyLU15YXk4TGlZRkQyZHJHUWpzWFlhSlVlTXZPQmpDbUYteXhQVG5CV1JpLWhERXRlVzNWWjNUS3Z3MjhXUEFUdjdnVzNWbkxPZ2ZncWtUa01MMDQ1bE4zVjB6N2kzTV9KZzBhY3NfVnBaVXZ4OU5yclJIRG1kWUZhZFozU1F2a1B5OFVM?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Korea, Central Asia map out vision for next 30 years in Seoul Declaration",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iR3huZG44ZE9CZ3VaU0F6UjNGaEhhWXBJWEl5MWdiOG95SXAyb3Z3Y1IwbTRjemhaQlRFbkhtYkZvcl8tTEoyT0NRQTB4QUlockxDWUh0bw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "One Plant Tripped in Kyrgyzstan, Four Countries Go Dark",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOazM1RmxwWlhjelFyUVFVWHljeHp3UXhMS0t5b2Y5M2ZmUW1KRVJNT2JCalA4YUhfQzZkU1BTaURJUzIzdGgydHd5d01QWmdvZVNONEE2TlY0Q2d3YTQtQVVtYWdhMDM1MFBTTWl4ZGhOUGpnMEZqRUpQcEwxYzZZVnZ0eHdYcUh1U0NNS1N2Rnk?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "From Nomad Festival to National Showcase: Kyrgyzstan Takes Center Stage - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaDNnN2RDUTczY25fcFZuR3VwVXpKejRSOG10ZDN4SDU4M2Jzai16WHZybTVyZUItVzR4M3lESnBSTWdPdjFkd0EyVUhVQTNMSk9iS0ZZMFFGUTd1UjFfTFVmQkV3RnZya2F1OWU3cV9xQTVDRFBEemVHd0plVURBaVlYMTlyWS16djVlUDhRRmtyaE1yT2pSam5td2VOX3R6bU5FZGZB?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -25,7 +73,31 @@
       "title": "The PRC and Central Asia Now Focusing on Iran as Additional Route West",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kYUhmVGYxc3EtQ01Pd0ZHcnM0R0tYamxpRGZkQWhwTU44VkFNY0JmcldicUgwMUhGT2pzSGpBM2wzaFdnSl9TUHZpQ2JuZl94T3pXb0Y3LVRYNFctZUdFRUlDYTB2bWlzRklBRktmTFlDZ0VJV3pqTU5n?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Tokayev outlines priorities for Central Asia-Korea cooperation",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOVh6ekNGbTJSa1dKQjdwMHg4VHZmMk5RbmxycU45UDNIZmc5bXJQQzBQa2VaRUVTdEg0M0RZbTM3ejhKR1FjN2xWeFNXNXFpRkdFT0NGNzRLdExXQ0FDcXdScVRqVjh5SDl0ODlZNmROMXVBeWJDdzR5V2hodDUxRnhXQlZBbUN3Vm0xdWdsem8tbzB1bmZfX1VHa2_SAZwBQVVfeXFMT1JnclgtZ1haS0pvRXhhenBBcXJFZnhYZHRhZFFCc0t6RzByVFlqeWJ4NTJ3ZGM2NHZwZVF1STZXbzJKclE2Y0lZOEFTRFZOQk9iNHhuWXNfa0dwNUZYdU9hd0RkVlZnSG90MktoZV92SUo2cUF1Ymw3b1F5dW1KbDQ5N1l5SXVncjdCNUZ0MnlMUEZmeTEyMTF2OFBy?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Korea, Central Asia forge new supply chain partnership at Seoul summit",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUNpX2dEWVJhTkxUYW9mREFFWUpGejhCR190Xzdla1JodU5TcXJST1JxZ1F3OEs3VVdpb1c1TmhMb0lST05VOXRCTjhBZmtZbDdpenV2OFM5WC0tYkVCaHN6UnRidVJFZmEyYmNNN3ExdHBIVks1V291emh0THE4ZTlCc0RFWk1CWmo5bHZuSFV1QmxaTFdJYkxXbFdoQkg5dktvY3VlekJaRWFZX0VOQ0pURFllSHl5YnM4?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "1st multilateral summit elevates Korea-Central Asia cooperation to leaders' level",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdnZXNVcwMExiUy1LVnR4REppaFAySVBoazhvTlNqa19FWkdDSWN6d29xYVpzU2JMY3ZUSXRleHRyNm4xTE1HQmk3RldhMENyWWwyZl9Zd2pHcm9leWRCQld4cEtLZ1F1MEo5Wm8tQUthT1lJb1hkWXB6c3M2cUJHLXozSXBlSDl6LS0zbXVmbU56bDNqYlBNTDd2QUxFUFptbkdHLW9PUUxZZnBPY0hyQlIyU0NPS3RZcDFiazlBdGhmZTNzWGFXOUVNWWVEd9IB0wFBVV95cUxNV1RHNnIxXzVzc0N6X2tLZW1OQVdyVzBXaVpKV21YTDB2aTM0akRMNVlpRWN0SjktUHZUbGdxRlRvWUhsUy1BN29PNFA3UGVXeVV4dEVET0s3N3dFS2FFeExwUm9FVGozYUltQ2JLRkF1UGMxX244Tmtybmd1eThGZUNMTnZXN1gtSmRaN2JvbTBmTEREM2xhZFpGRzg0c2hGQzNWdTdWM2k1RVFPdXFSVDdTYnlFUEVSX0Z4RUJkWEpXYXlSR1ZwNkcwRTI2c21iSVQ4?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -33,159 +105,23 @@
       "title": "Uzbekistan's New International Commercial Court: What Does It Mean for Arbitration in Central Asia?",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWDVlY1JNVnpETWtnaXJJTmNaR09BQlppWWQybVg2NHdMVnRyVW1IYkZuUUFPME1uVlBzd3Z4UFNrN1JNU25YVHZrZTdwaWlreU9ZYWdsMGpRdjM2djliYjA3eEd3cDdMVW41RzBfSmE4MVNkT3pEcVF2WFZvNFI0VTBmUTd3eGdxQ0E0dWNBcmRyTGIzYVBNNUhjTHZWbFUyajFyRm5fa2xMdVhXUWJiNTRFUlRUZjREejF4S0liOVQ4UjA5VjBzYm1wSXVDeURsRWlLbzY1TEVmSzdxMTFDR1k2cmhPZw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
+      "pulled_at": "2026-09-16T10:31:27.472Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Inclusion, learning and resilience",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vRVBteXUxQ053dWM2cW9oc2Q0bUIwQ3BpSC1KYTk5eGgwRHRQVlhmamM5ZUFXdWxzOGlUMDZ0X3cwdWtBTC1tR2FmYWQxaHdid3JWSEVYMGdQZjd0MUl3dWJFanRUc0d1enA4ZklaYVAtMjExRXIw?oc=5",
+      "title": "Lee calls for renewed spirit of 'Silk Road' to bind East with West at Central Asia Summit",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoX0ZJdTR0SEU0SVNUTGtnTE9TSGIwUWlreU5FM2xUT0wwVEVaY3hzSUtfVVRzZVJyaU02VGcwMXh1R3Y4SkNIZlhOOHRLU2tyRlJtOHZBU21odw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
+      "pulled_at": "2026-09-16T10:31:27.472Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Kazakhstan, South Korea Advance Investment Cooperation Ahead of Central Asia–Korea Summit",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2czc25XMjRJUTZWQUpBYVdIWjAwVkdQUnlDbl8wUHI4VnRNbl9iSUlaSGJNbEZRejFXWDJ1SkhzMkF2V3djY0lTNEdsUkNuLURwLVhCRngwak9sNEwtektLb09DeUFseDBHZTN5WnI2U2xsMm9vUlM5Y3NGVnF3Z3hhdEZzcnB6c1p4NnJwQXhNTkl5NHRvTDRKZnE0TUtINnRVcmgwU01SR3ZacV83UEhKMndTNEpjMUJabldR?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "President Lee Jae Myung Stresses Urgency of Central Asia's Silk Road Spirit",
+      "title": "President Lee Jae Myung Urges Revival of Central Asia's 'Silk Road Spirit'",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZW80b0NoNmVDcXpjZnlyV2NtQlVzdWcxOXFLSFJTdjFUMEFYQk9WWEtEaGJwU3N5aUoycEJ4QmRadmR3Q2k1akVmQ2dTLVZDUkVjTFFNN2E3RF96R0pUUV9PbVVRYW9lQTZTV2Z1MEdFcDBXWHcxdHBmWDI1RUlkQXQ2V1VBaGRQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "From vocational training to AI governance: KOICA's evolving role in Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQODFNdjFEdUtxYWdjQUl5eVI3ZFFjQU9DLTRhYWNEeGtwMExqVVo5X3AteHR2TklmaE9wdng3LWJMRmVLcWdMSzExdHVpcldNTkxiNkgyUGsyT1JqNnlxaVAwTjY0VjZzVjdQdlpxdURSTzVYX3pzRGZJMzVhR256WVRETFJMOTVDdF9nNjh4cWttSWZmNUtDdDBFVDNwTlF2RHpQVmtFY2lRakliZFdHV3FGUjE4NzJkUkdDc0NDcnBTOHI3cmxpWHBCTdIB0AFBVV95cUxPUFg5S05HSV90c3VaeE9FT3lSNmlvWFp3QV83UExiRTlSWEh1eUEzRUtxMk5XVEU0VVpHZTJ0elQ5SHZIUFlTekE2TkxTWDd5NnRoTGJENGN4aGs0V1MwN1g2QjRJT2I0VGFkb1ZtNHdWczBXX09EMDAtYUlSdnR6QVE3b1FzUS1VTWl3WGc4NUd3NTNia2NlZkFwS1JsUldZTXFETjEzMzRnTzRhSGRFa3BhQ2VTRmE2d29PTUFsTU1ON09yS1BIUlgwOVV0RGMw?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "S. Korea-Central Asia Summit",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xenliTHZXYzk1M3RYUE0xOVViaEJQeks3REJqWDN5LVU0ek54SklkMl82Z0wtRVNFOXZjNlVHRVZXdVB3NDV0ckJEWm05MUlhdndLUWxHRXBzXzZiQTFHeHVfYU13QThEV3ZUWVRWVDNIeXR2ajRV?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "A round table entitled “Kazakhstan–Central Asia–Greater Eurasia: resilience and security amid new challenges” was held in Moscow - odkb-csto.org",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWFZ0VXA0dmY1eThtQUZ5bkF6SlhjM2lsRlBzSm01ZlpYRjNwZFFRRDdVMGdvZEZta19VblVuSkM0c3FFNk9LbnZ6aFRtY1FseWhmWjhDbGtiWUN2ZEFZdU9FWUhjdjJEYnRDRmd4Y3liazdHNEhNanAtb0tFelZrRktCbnFoNV8tak9kNlItdUJ2aUNucVlTTTFhZWozalNOQ2VxT3c0WXU2SElSTS1RUTBaS3FnRDhiVHRDNWFha2pqRksxYmdzUUMzM0EyMHNZWk5TY1JtcXM?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Hundreds of fake government websites target users in Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ndU1vb3FOU3BNMVlFZTBGZEoxNThMVDdjUTdFRXJUazRmaEpMczNlZjU4YllmdkhycHV2VUxqamtpXy1sLWJERncwSm4xZjUwSU9fWnh3ZFh4MXdiMFZVUXFnNW1pbjEtY2phdnI4RU1mbTV6VEg3WHJzbw?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Korea Eximbank seeks deeper economic ties with Uzbekistan",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oa1BLTk45S3d6cDhBUGZRbE5EWlh3ZjJkanZvcHA4NjdKMW1HYzZva2Z1YWNDQVgwVm5wLW5jdm1FRHZwaHZRTUNuQXJqYWlPVEVWZzhWVQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Uzbekistan Views its Future in Trade and Investment Diversity",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFFybjFidm1ucEs4OURDd3RpR2dOaVE4UTJsWnFwRnM1X0sySE9qaTE4azZKSkZ0UE8tcG8yT0R4WTB6VnM4S19uNy1fQ0V1UmR1Xy0tSmVQVHVRZlppamNyeVJkRFdtZWxyYnZ4TFdTckhCZnF2bzB5aWdiVmF4TDBXc1YxX0E0OWpNVkpwbFdfT3FIYklSRXNDajVGZmY1cGtFMFJpUUoyeUhXcXJWWUln?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Lee deepens Central Asia energy ties with Kazakhstan, Turkmenistan",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXJidERiSWFQSVljc3h0TXlhelZqbS1RYmZla2pfRU1XVGkyMHR2T3VocGNMZlBhMGR0aXA4Tl9IMG1QWUFJdTlaNGpwUWdPbGtyUTcxRlUwd2xpbi0yT0tlSGNmWEJHNTY4VThaOVE5UWZaY2g3TlRtTWUzdFMyVVFSYkNXYWVCWGF4TDJwQ2Ztd3hnaDljNk1TQXFBNXAzNlpDODRHN1dheldZdVE4S3ozWE4xUQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "South Korea, Kazakhstan sign MoU on atomic energy, explore mineral trade",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcmpGY0ZKWmtUQ3RfTE11blg3Q3llUi13TkxDTU5BNllvVDAtNkZPMVJNZ04zeXgwdEt5NU51TEUtTHRhNUJqeVY4LWFtOU5XT0Z5N2JRLXY5NDJfTk1zSzFWNW9NdGpjMG1MT3czNFZnbi1fdzk5OXZQLTcweVlBN1Z0VlFrUG1GRlNfTnlaLWp5RjRESlBjVjZTYmpuRXdSaHZMTC1XTEYwLWZvUi1hRGV1TzFFaTNRSUhnRjljMA?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Seoul Turns to Central Asia: What to Expect from the First Summit of a New Format",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUHEtVlNyQUJFQ3EzbE5iSGt2a3A5OXZjV3JZdVh0X3psQ3AwVGYzYWtZX0ZWdHNKRVg4YTl3YXdSQk1vYkY5VS10U1pZNjlzTlRVRURScDZHUWk3ajA4enBUNWRrMFp0NDh4dU8tRzFqY3hZdUZoZktQVHQxb2JCZlR6SFdZdlk1RDBMM2F1M24wSl9Zb3Q2NmxNYW9sMVcxMV9vRmFkZlVzX2lyczRuUzlnalM?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "S. Korea-Central Asia Summit",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tSVBtWWFkRGNXa3ZzQVhnVl9qMXppc1RURGw1WFNPakllSXFkM3JCRWk4eVhjWUtwRFI0aWNzNGc3TVp3OXRRLWZ5MGxUQ19pZ2NfZ2R1WWFSeHJVS3A1YUFRV0E0VG1yT3ZzTUhhcE9KQkJrOUxF?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Korea welcomes Central Asia's leaders",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM1lpSVRSeTJScExMUmZKTUQ3N0c4a3BtVEpucTBYcXZoXzBuMThoWW0ta2VXU0ppN0Zvc3FVcDl1WHlTekZBbDhlcXlKdENvUFV1WTRjTldxMkFzUnhfelA2QlY0aTE1UFFKZllUbU94QjdnallYZFdNQTQ3ekQ2LXBIQ3UwNDJoOHI0X3FqdjZmTXPSAZgBQVVfeXFMTzFReElpcFh0bHhOdHlGWE1qcHRiUEdWaS1Nbmw5aUFDcDNyQXR6eTNNelhMWER0cnVMeXMxYVNUX3l1VnNIeVhmTUxtX2JNdmJoTTlmTm9Ebm5XZ2ZNMEduSElPWUpYcFMzNHJqRFdHUHA1eGsyOElkeWR5SjlLSmF1X1pzTjZNeUFKRWJsSFJvLTZuOWZPbHg?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Regional Rivalries Could Jeopardize TAPI Pipeline Ambitions",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzbUR2anUwTGp5U2ZCN09ST29YUTg5anlucDhnRF9pcjJYU2xPcEUzRzdVV2xia3Zydl82Q0xZMldTXzZ4UXd4dHJSR2tObXA0X3J5QU16bkxuT0FPeWxSaWxZMXlNSDJGdkJGY0tZclIwSzRUZ09J?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Seoul, Astana ink MOU on preserving sites related to Korea’s independence movement",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTHZCUnVteFpoX09Fd0pRRXprM3I0eVYteTNJcGZiU28zdU9kMGZyWS1CQWZLeTZTWV9jNXJDaUxEN0MxY2F4ZkNGdHJtNXk0VEVYanJqQTY2MTNjNUdTMS1RNTlidXprMl9veGVYN2dpdWw3dUJMaDBTYzBlMUtJQWZtSG4ySnpXdk9VWEZvejZUWEJNSFVaQmxSbkJLTm56RFJPa2puSDlaNlA4TjNfSzRQbF9LcWdpRVBNRHM2MUtMMkRuOVJqR1VR?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "S. Korea-Kyrgyzstan summit",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4eGRuWmVZZHgydUwwUmJkZDVnQzlmWjFpanVFLThvR256NUxEeXdOaDI0SUJtYm11TWQtY0tZZ3loUi1pbExWZ2sxTk9VRU52aDJocEYwZmt2THE5aVhZS3dJWUIzVnZLTUxQWnhncUVCYy00U1N3?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Uzbekistan’s First C-390: Embraer Lands in Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMG5IbmszbFNveGNyaTlYUGtKVHlyeERkU2U0TkgwMEwtbkpzSDFPZVVqZWNncV91VkxpT2puNEd6WktBcmFmajc1VE9XNkxaLVVybmlXcXZlS1NWTkVmYjNrLXJGQlFOemlUNkxrWkhHTzVEVWdYeWtiNFhDVVdDaS0wNUdja3RJNFZWVnEwWmt6b0JP?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "S. Korea-Tajikistan summit",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wcTJtVEVVQ2FyZ1BJRHh6c1pybXBORHF3cmpIcTF3T2FRaXoyZHR2YlhWQXl0SDBBSWV3WHhnTUFfLTVObkliM1hVeHdDNHRnX1VrU1BXLUxqMnR0aEdfdmlzbGkxSkJpTWwzcU1jQWNfR1lnV0gw?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
+      "pulled_at": "2026-09-16T10:31:27.472Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -193,39 +129,183 @@
       "title": "China's Growing Iran Trade Is Moving Overland Through Central Asia",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0FCelN4clN6d3dVWnNnbzhjc3RodndSTnMxX1A5Q3RwdGV4Z25lbi1pTGNMcmhCeHZoZ1BIdURUTFMxeDExVVk3RjItM3UxcHppa2lWWWZuLVVneGltU0pFSDI3QVhoQmlKRXN4T0tKUHhQc09ZTXlXdC05WUJ1OGdxeUZBc1V1ZEk4azBaVERpM1B6SGFZZmstNWF5YVllVDdsUjVXZnlvcVRNaGl6amhad9IBuAFBVV95cUxOYUpiRjZRdElnVDc0dGtZajRnZzU2c0I5RGd2dm1Cd3RDeVFpU3JPSGk3LVZicGYwM0RJNFFGd2pkZUhzcXR0SnlmYzNXZ1Q3enFQM0FoYm9JN0hDSVFQdno1WUFwWW5tNDFHLVJEWV9EZ3lmclp2aUhiRzJSSk9kWjc2UWgyemw5QkswM2ZGV0hDdVA4RXZpSHAwWmpnWHhfM3VNV2ZycktyNE9sUzl1N0VMdWpDTTBo?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
+      "pulled_at": "2026-09-16T10:31:27.472Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "South Korea and Uzbekistan Sign 13 Agreements as Seoul Deepens Cooperation Across Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZnJGVkNVSGROaWlqRmd5NWNmenZSNW0waF9jazRMOEMyV0owN1hzNjlicFJvQmVmY0RuUHU5MWM1aUJ1QVF4SWoxdFluMXNKQnU3VXNCMVNoNkpYTUwzZjNkejdqVXh5aDlHdnZpbkNoa1pGWmw1YUkzRkhKLUthdGlDaVdTTkdYUE9iblJzSXlGS3dUejk5UUZLVjBBUFYybDBxZVZnNWl2bFRzcVlhOFZQVF9aQQ?oc=5",
+      "title": "Inclusion, learning and resilience",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vRVBteXUxQ053dWM2cW9oc2Q0bUIwQ3BpSC1KYTk5eGgwRHRQVlhmamM5ZUFXdWxzOGlUMDZ0X3cwdWtBTC1tR2FmYWQxaHdid3JWSEVYMGdQZjd0MUl3dWJFanRUc0d1enA4ZklaYVAtMjExRXIw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
+      "pulled_at": "2026-09-16T10:31:27.472Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Kazakhstan aims to become Central Asia’s computing hub, bridge between Europe and Asia - Tokayev",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeE9vLXFDMjM2bzV3bi1tVjFGRFBEd2pEUG5PYmliMEdWSFRXN1UxbUR0eGJyMktlN0V5TWFCNTAxUTRhVnoxa1BVTVZSRkZXTFhPelF1aTNyVkk3MUw3VGxLT0p4aXB5Rnc2b2VZLVVFTGVwOVZaTi1WU2pjNWVNM1J1WGRJTlhzLWxSN3Y1dkZVLWFubmc3ay1CRkdFRE1udXlEYVZZVkJaeEFySmRldGFVY2c5TnAzbFgwQS1VdmxweXJ20gHEAUFVX3lxTE5oZUtSTG5ZWFd4Yl9WaG5yeDJmeVp3WW5EYjNFakNwa0JuV2haVnRXQ2lBU19PaTk1WWhaTFZ2VGFRMGYzZjgtbG5keVh4clZ4dmpTSkMtVHdZS2NsRWJwNXE5TVNTTFJnZlQwM2lHSWhRMnlIS25fUVdET2g5YnBhMW9UYTJIUjl6QkphUERoRlcyR2VHSVBhLTE3ZGpiM1dreUhaNWppRl83by1pSTh0ek55WEhmOUdLME5tNVpMZlc2MlI?oc=5",
+      "title": "Lee calls on Central Asian nations to forge ‘new Silk Road’ with Korea",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwMk9vdGlINWZxZS15QTgxeUNVbUpiTk5rVFppT0dGTGdHeTRoa3ZzM0F2TU8zaVE1QWRzN2pwQXV3ZEVBV1h6VkVvcE5qS3NpV2p2VVQ5UQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
+      "pulled_at": "2026-09-16T10:31:27.472Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Imad N. Fakhoury, Regional Vice President, Middle East and Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DRlduNWRqVjVJd0pKOWV2anFlM3ZIeHZtVzhSY0g2b0E5VHI3c29SSmtCUk1GWTVMM1VrRVJkN3VmWm50QXoxbE1lcERVOTB1NUlhZkhpTkNYUHBIZVBEQ0xITQ?oc=5",
+      "title": "(LEAD) Lee calls for trade diversification with Central Asia, cooperation on critical minerals",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zVENLV3QydkptS2JSS3VkZnMyTGZfV3ZyUmc0dzkxdTlzMmpYVVFrYVlfY1pqY24xOGVjaFNtMDZwcWNaOXdoYlNsdFdpek9oQUUwX2ZCeE5YUQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
+      "pulled_at": "2026-09-16T10:31:27.472Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "S. Korean president says Kyrgyzstan a solid partner, calls for expanded exchanges",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42RzZjR1FqOElXczVVd0YzaGVjNkhQdURRRVFNN2NzeGxKQWt2ZzV3NVg5SHRwUDBudUFKREdLa29CeGsyTEdtVVgxdVZLQVNpWXVZNjlJRVBQdw?oc=5",
+      "title": "Korea, Central Asian leaders gather for first summit to set out shared vision",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51SGludS1sX1RxVEVCenRhU2ZJRFQzR2l1aGQtMTJBcy14d3hOM1dqTFJ3ajZ6YkU3am1NQU1RVF9XZ3FObEpMOGhaNWRVckFVS25MX2tBaw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Experts: Geopolitical Volatility Reshapes Kazakhstan’s Energy Strategy",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGVDM2xiRHI3aXBLSGFKWXlzbjFOREpuVmtLX0V2M2lDZEp0cTluOUt1UnkwWVY1ZFJmVkRGN3poTW5HMy1uZ3E5QVpvUC1MZTEtMXRUX2drQTJubjZBaDdlQ182aHRISDNzRDZXT0F2M3E3dWdDM3I1bDBSTmFzaEI2SW1wTkJ1YlZpU2ZxWlVfWlZoOW1IVE8tWC1YYmZmWHhV?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "S. Korea-Central Asia Biz Summit",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2Qzd3VWVVM29sVVhlaGNERk5KMHN2RENoZmdmMGlXV215aVNnd18tdlhaRWN0Z254RW04VDdfSjhQLUQ3RWFiT2h5ZDZ1dk1SZEFYRFNPejFMeFBHYm5nNDh3NlJkY1ZUMC1FTWtwOEVfR0tXTmNj?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "S. Korea-Central Asia Summit",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xenliTHZXYzk1M3RYUE0xOVViaEJQeks3REJqWDN5LVU0ek54SklkMl82Z0wtRVNFOXZjNlVHRVZXdVB3NDV0ckJEWm05MUlhdndLUWxHRXBzXzZiQTFHeHVfYU13QThEV3ZUWVRWVDNIeXR2ajRV?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Seoul hosts first summit between South Korea and Central Asian countries",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVVxbFZ4ZFktQWg5ZHByNXNOMFE2RlNfZUlNS2F4TXEyT3QxRlNPb29iZW1tR3BHOC1rRG1VaGtxa3dlZEFZWjhlNHlkaU1sc3NGZlhPUTVjTGpadVFSeVdub0NYdWc5aU04LVVPM3MyWkppa3luWl9KMmpLQnNmQy1adG9heGFTMGYyWVZpMVR4RFZGNzExdFBtcDV4Ukx0ZmUyWkZR?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "From vocational training to AI governance: KOICA's evolving role in Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQODFNdjFEdUtxYWdjQUl5eVI3ZFFjQU9DLTRhYWNEeGtwMExqVVo5X3AteHR2TklmaE9wdng3LWJMRmVLcWdMSzExdHVpcldNTkxiNkgyUGsyT1JqNnlxaVAwTjY0VjZzVjdQdlpxdURSTzVYX3pzRGZJMzVhR256WVRETFJMOTVDdF9nNjh4cWttSWZmNUtDdDBFVDNwTlF2RHpQVmtFY2lRakliZFdHV3FGUjE4NzJkUkdDc0NDcnBTOHI3cmxpWHBCTdIB0AFBVV95cUxPUFg5S05HSV90c3VaeE9FT3lSNmlvWFp3QV83UExiRTlSWEh1eUEzRUtxMk5XVEU0VVpHZTJ0elQ5SHZIUFlTekE2TkxTWDd5NnRoTGJENGN4aGs0V1MwN1g2QjRJT2I0VGFkb1ZtNHdWczBXX09EMDAtYUlSdnR6QVE3b1FzUS1VTWl3WGc4NUd3NTNia2NlZkFwS1JsUldZTXFETjEzMzRnTzRhSGRFa3BhQ2VTRmE2d29PTUFsTU1ON09yS1BIUlgwOVV0RGMw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "(LEAD) S. Korean, Central Asian leaders agree to deepen cooperation in critical minerals, energy",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ROEJ6bWREUms1ZmlTYUstNGY3eWFQSGp5UFhFZG1SRmNZVHRyeDRMbXkwMEFiUjZsZjYtdnFOYjc1RFRlMWhRaFFLcUNxUmhBUUZicEx0S0ptUQ?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Uzbekistan Views its Future in Trade and Investment Diversity",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFFybjFidm1ucEs4OURDd3RpR2dOaVE4UTJsWnFwRnM1X0sySE9qaTE4azZKSkZ0UE8tcG8yT0R4WTB6VnM4S19uNy1fQ0V1UmR1Xy0tSmVQVHVRZlppamNyeVJkRFdtZWxyYnZ4TFdTckhCZnF2bzB5aWdiVmF4TDBXc1YxX0E0OWpNVkpwbFdfT3FIYklSRXNDajVGZmY1cGtFMFJpUUoyeUhXcXJWWUln?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Kazakhstan, South Korea Advance Investment Cooperation Ahead of Central Asia–Korea Summit",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2czc25XMjRJUTZWQUpBYVdIWjAwVkdQUnlDbl8wUHI4VnRNbl9iSUlaSGJNbEZRejFXWDJ1SkhzMkF2V3djY0lTNEdsUkNuLURwLVhCRngwak9sNEwtektLb09DeUFseDBHZTN5WnI2U2xsMm9vUlM5Y3NGVnF3Z3hhdEZzcnB6c1p4NnJwQXhNTkl5NHRvTDRKZnE0TUtINnRVcmgwU01SR3ZacV83UEhKMndTNEpjMUJabldR?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "S. Korea-Central Asia Summit",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tSVBtWWFkRGNXa3ZzQVhnVl9qMXppc1RURGw1WFNPakllSXFkM3JCRWk4eVhjWUtwRFI0aWNzNGc3TVp3OXRRLWZ5MGxUQ19pZ2NfZ2R1WWFSeHJVS3A1YUFRV0E0VG1yT3ZzTUhhcE9KQkJrOUxF?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Seoul Declaration: South Korea, Central Asia target new energy value chains",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAydDFXYzRyV1F3YUVicV9FUGR6Z3M5bGREM0RzMDJVejJ0RzQzUDlCVDhfNi1IaXlqUXlBdElxdWlmTi1sOEV1aHdUUDBnRGg0?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "First ladies of S. Korea, Kyrgyzstan",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90NXlpTTJKODlEbU5zdTdMZ19lajhHdTB4MnZtV2poWmljYWxoOHE0a3RwdVdjdl9wX0JfMHpmTlRMVzVnUEpoTXh1djZ1R1d0RWZhVHNLN19JV24wQjFqeE4zU2pwZFB4Ql9KTmNtRFR2WGUwcVp3?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Uzbek leader proposes $20 billion Central Asia-South Korea trade target",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdG9ERzNmZ2NCQVpzZzhkdkE0U0ZkSUMxTkZ2SWl4NnZra2NEeGxTaUJuVkdzeEF5Z0pxVGpCUi1Ub1NtTHZtaUIxX1YtQ05VUWVJN3oyT3p1blc4UjRIUVVPRHBRQXFPVUF6dVFuNHc5a0RhSFE1c2ctREQzOHhsakJQWkkxSGNFR2ZmcDQ0ckp6STVjd3M4LWdtaDMzdw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "First ladies of S. Korea, Kyrgyzstan",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51TFFsRGxteGFZbVhsTW1OeHdaWU1zT0JkejlmRzdCR1pkQUpRSlBnLW9vMmhPZG5McnVWTzlXRnJsRDBWZ3d6WExnZWM1aW15UTNENGN5bXIxSGJVMlE0eHNkYjQ1ekRiWVNuTTRDWmxwTDIweXNr?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Uzbekistan’s First C-390: Embraer Lands in Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMG5IbmszbFNveGNyaTlYUGtKVHlyeERkU2U0TkgwMEwtbkpzSDFPZVVqZWNncV91VkxpT2puNEd6WktBcmFmajc1VE9XNkxaLVVybmlXcXZlS1NWTkVmYjNrLXJGQlFOemlUNkxrWkhHTzVEVWdYeWtiNFhDVVdDaS0wNUdja3RJNFZWVnEwWmt6b0JP?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Seoul Declaration sets 30-year Korea-Central Asia agenda on minerals, energy, AI",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdkFaaUFkVk5kQzdFRV9DOXlCZXhERFhHSXdseTNCOGtHOWpZX21SZmtSNlE3b1huNEw4SHVlWnpMYkJacFVJdUtsNFh0NXhKNGt3Zm1jU1R5TUxmei1rT2JTbEtHTlNGUVpPQzBhSEtwamlMOHZoc21NLWJaZTFBcmZETWNSeWJrRmRJNjdJbTQyVnNsNzV1Qi1BbmJTX2pqcXB6Smtzdi03b3RoVHdkMU4xVUtQbWd5bVBlN1Q2YW9qNEllZGxHWV9VSdIB0AFBVV95cUxNUm5LcWduNEduZ3loclpXQXRfOTloQ09sdlRVZXJ1NlFfdEc3dExJOFRzZEgyRFN1UzdPNWpPNUpmelFtWXNaempPeTVFb1BDdU1uV0owX19fdjJnLS02LTJmd2pSRzVOaFZheTcwNmhTeVJpdUNUOUdJRmdlTVlxNno2R3VqLXlEa0laLW9JcnJvNXd3dHBjcVNfZkJwR2dpSlhDTWphbDRkRFVzanVySmZ6YzZOdU1iTDdTTGlNbEdoWW1HclE3aGhRYmZsUTk5?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Korea welcomes Central Asia's leaders",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM1lpSVRSeTJScExMUmZKTUQ3N0c4a3BtVEpucTBYcXZoXzBuMThoWW0ta2VXU0ppN0Zvc3FVcDl1WHlTekZBbDhlcXlKdENvUFV1WTRjTldxMkFzUnhfelA2QlY0aTE1UFFKZllUbU94QjdnallYZFdNQTQ3ekQ2LXBIQ3UwNDJoOHI0X3FqdjZmTXM?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "President Mirziyoyev proposes Central Asia-Korea critical minerals alliance",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TMlNuSFNQMmNoV0l4MGhRWHFoSkM1TDJJeGFJdV8xejVNQWtSZFNPNFQwX1RwZV9VQVliRDk1Qm1BMDFkakF5T2lmVkM3NG10X2dzOFhoeGxPTGM2dnIw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Central Asia-Korea Summit Opens New Era of Economic, Technological Cooperation: Expert",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObEFjRlVHT1d3WkpLUm1JVXFQTVFKQTZxeC1JMUtJU3lEcEJGZVhCOHN5bmR0ZmxZeEtNQlk0UGhsaXdDOUF5d2NlVFlKMnkwZk5iSW9PeS1TNFpzWkpYMFNGdG5GdkVlU0h5WVBBWGFQal9kREw1a1NrU0dEMzJTS3VZT2psRjJRdVphTVl1QVNudw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-16T10:31:27.472Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -233,95 +313,15 @@
       "title": "CESTY pathways for refugee youth education and employment in Czechia",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOREhfUUxNVDNSWjY3Nk9naHpidDVHSmEzNGh2SkpNMmVNMXNKNUR1ZzlmX1B6bjcyLUtDQ2YzVVMycms3UkJwSVFJT2c2dVR3cWJqaFAtdERkVVdaLWtmRFdfT0NOYUpsTDFCbmFDZ2FxM0FBOGxfZ0hRcUpyRmhUd25WQU00U1NQQlE5RVRXUFUxSG5KQThFR21hbkY?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
+      "pulled_at": "2026-09-16T10:31:27.472Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "AzerGold Eyes Gold Mining Projects in Kyrgyzstan",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42NE9DTmtPcXFMT1ZSdVhWemU0QWV4M1FkWlY5YmR5Y2VPUVhERTBhQms0MjFtcmR5Nm1vM1dKRmF2UEtnYllmNWVMUmZIRS1EMUZicU9uSnNkc0VtOHJoVk53?oc=5",
+      "title": "South Korea Strengthens Economic Ties with Central Asia Amid Resource Strategy",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV3NNMkVCOWNyT2FzdHJFNVNMNkphS3pUVk5MTHlUN05SMFdhcTdHYWhGR1lib2w5RlpISUluS0YxdEd4NFZKWWVGVExTcmx4QVpaZkhhanh6R3RmUVZmODhLMTlqeml6bEdlc29TMmplTzFpam1EM3VtbnJ1Vk1waVBvWU9Vc2V5bEhGa2dvb2syckxKcDYwU1dJVXYwWWRRSFRnVzNFdUxLUGRYWWI2Z05OX0loakZaNHNLOGU5aDRxM1hUaUxiV0diOGTSAdIBQVVfeXFMTXhjTlY1UlVQRlluR0h3SkFTVW1Qck5wT1JaUjRJd1lHbXZDMkF6WDdBREJQSUhaNzdaeFVoSnFkdU1HbXJ2MkJIZmgtQVh2MzA3emhFWjdYOEhPMDNMZnVnYmozQVUtQWVUWVhxQWtwNUJaNG5uYzh2Qlg3VU5HVDZ0TUhBQ0ZQem85OHNvcDFZUDRUN2VMOXNMMFg1YWFvbnRXOHRRZzQ5Q2FoaFhLRVRqQmZOVWhiellsZDBTSmlhTlRDTEJhTmlfcjF0cFZGZUJ3?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "S. Korea, Kazakhstan sign MOU on preservation of historic sites linked to Korea's independence movement",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wSjRhc1QzQzZwc1pOZmlzcWtDclp4d1BBMDhrQnNoVm1nQWpUV283MWZFeXZFQlZfNVo4Q241WkJmckNFc25NNE1UTkduNXJ6eEFvVGFOQUlyZw?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "VEON DFG, Beeline Kazakhstan Sign MoC with National Bank on Digital Payments",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTUxRdlpsc3lSQlFHOWp6Y293LU9iOG1XeWtEeVd1cFQybTdKczNXUDFjWHBXOGd1aUtpSEUwa1l5ei1Lbm5yR2pOcUVoOFVHUFNiLTZuNjRhTFV0emR3aFNldmhwWlRRV1VweWwwMmZCMEg2SWctelJfXzdicWI4eW56aEEtdHhfbjdNSE5LMGd4WHJpaUo5STRjOWJ0TS10ajlkOWZFclJjdkdqM1hZQUp4bWUxRDFzZ2N5Wl9fQzhQM3RNVjNqeERn?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Stadler to Open Central Asia’s First Aluminium Railcar Body Production Site - Railway-News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUdjWUxuNVh5cnY0ZWlPenFHNTVVdXZkYzQxQmhtZWwxMlVkSFA2a2ZYTXBGN3V3Zy1kOGE3SjZBcHl6OUlXWDctcnhvN2VjSUpTSFdiSVMtam15OUtxaHA5b2xtbUFmOHZ5Zm1ITW5qMmN3SUgyR1dJUjRfUnVWMnNEd1pzTENHbDdvQjVrbVJqeXB2LXpVMVp0bTBTVTR3REE?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "South Korean president hosts Turkmenistan counterpart ahead of key summit",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSFlWdDNpZWlxd0RVdVpHOHltNDNkMFZhZ2pRRllIRkpJeDB6QU9lVlMydEdwY25XcjhjUWIteDdCeWZOLURia19LQkhuN09VUHNTOXljRkxYdk53NWdmUHlNZGQzM09FZmRmdE5SeXdSYWFOTUY4UVRZOS1pam9GOEM1dDMyc3d4aVZyUGRKSm5mZ29UTUVlOGF0RHR0VEtjOXVJZDhfQzVwNjVLZENZZWF3SDNyNWJMVTJn?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Korea and Central Asia agree to develop critical mineral processing and industrial AI - Азия-Плюс",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWFdUTUMzNWN4WFdub2p5bjd2LXgxbU5QZEtPX0hsclh0Wl9kT014TFRnX1BEd21neWEyVjF1bDlCenVNZHMzS3JQeGd6UXZyR25lc2xTWDJuU0tTOS01RUVyQ2ZSTEpaNW16aVJHNXNfQ1h2RzRIc0pMSXJpYnEza2ZOcUpVdHNSUGZUYTYyb1MyZmIzWlBBNU9TTjhKT0E1c1FSNkFEVm56RFRXNVFiMTl4Y2JIaG5vTXhNNXRQZ0tHQQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "PM Han meets Tajik president",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54OWdOVWo0bUd1ZFZmeU1WaUF2d3VaWVdkTk9DbWFfa0g1ck9YVVFFVmdWNEhCVHFFUWQ2NGFJbm8wOUF1RkkxTFlockVfYlQyQkdqWDY1YV91LWNDVVc4OTFvUjlsSHJTMHRFYUEwb1QyZkNIM3BR?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Lee Calls for \"Silk Road Spirit\" as Korea, Central Asia Plan Next 30 Years",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeS1ONHdoaVo4cDRIWU5HdXBMdWstTEtSMUZlOU55a1lwMm5DS3Z1akdpb1E1WW8xRXRZbVRNNlhDcmtETWtEVXd1RFFzeFRZRFRjRl9tVzhrODBCeGFEZTJCQ3l2NkVmSHM1RzB5T1lKZ2wtRmU5WmdDb0FPQ1dNTVR5RmZ5QVdKR2E2eWgySUxrYnlEUFVyc043VTZNTk43WWc?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "South Korea and Shin-Line Group sign memorandum on food cluster in Kazakhstan",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVmVNcFdzQzJINTdaY19OSnB0UXNmNVpjRm5Oc0RGdkVVS2drUEFnSXl5ZHd4VEN5NnJNaTNjcEp3VWhEcEExU3FXbHlJbGdHT2dfWF9LbnRfaUlXRkEyTmR1R2YtZGpEYTVrMWJudlAycDNsZkhRY3B2VUpXem5qTU1ZeW5XZGlJRC0tSndXdjdTUHVXcmRzajgtdmtQdUZWS24tZkVtUDNnb2s2QTNwODZMYjl1dS1Hc3ZtNDRLMFM?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "S. Korea, Central Asia seek new path beyond Silk Road, deepen ties in AI, critical minerals: FM",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10aTBBOV9WS2c5QVhRN2RQQy1JUVFxOHg2dk8yVm15V29vQ3M2Z21rWlFnTjVPWjVBTlZEQ3FBcmNmVjBzSm5TWnVYYzJkY3VRTVB1eU5hcFBxUQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Emomali Rahmon heads to Seoul for the “Central Asia — Republic of Korea” summit - Азия-Плюс",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdzJ6QTEtbHQtS0UxVWsxclEtZnVkNGljR0llcXJqNkI4N0htMDZ6Q2ZPQWZzRXJKM2Y2ci02MDNTTTluZXhlajJYMDZTeUprR3NLV2FCWHpPTnh3SUhfLXFhUXJyVGdhUmFTUUFEbFNMaTFvTkRnNHd5X0tiUkU4MXBYeHJJdGJWRnhfRzdHdHBxQmhpY0FUcTNLeXU4cERjRmdBOFN3X21NekVUXzBHTXJ3?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-16T05:30:28.086Z"
+      "pulled_at": "2026-09-16T10:31:27.472Z"
     }
   ]
 }
