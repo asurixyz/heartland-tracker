@@ -1,15 +1,335 @@
 {
-  "fetched_at": "2026-09-18T16:50:01.899Z",
+  "fetched_at": "2026-09-18T19:19:58.048Z",
   "source": "GDELT + Google News RSS",
-  "count": 40,
+  "count": 80,
   "events": [
+    {
+      "id": "gdelt-aHR0cHM6Ly9leGVj",
+      "layer": "reported",
+      "title": "Putin defende reforço das capacidades do Novo Banco de Desenvolvimento dos BRICS",
+      "url": "https://executivedigest.sapo.pt/putin-defende-reforco-das-capacidades-do-novo-banco-de-desenvolvimento-dos-brics/",
+      "domain": "executivedigest.sapo.pt",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "WUC raises alarm over Uyghur repression , Beijings governance model and rights violations in East Turkistan",
+      "url": "https://news.webindia123.com/news/Articles/World/20260913/4498110.html",
+      "domain": "news.webindia123.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3d3dy5w",
+      "layer": "reported",
+      "title": "BRICS member , partner countries to take part in open session ; PM Modi to hold series of bilateral meetings",
+      "url": "http://www.philippinetimes.com/news/279304064/brics-member-partner-countries-to-take-part-in-open-session-pm-modi-to-hold-series-of-bilateral-meetings",
+      "domain": "philippinetimes.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9kZWYu",
+      "layer": "reported",
+      "title": "俄指控烏攻擊油罐車 危及札波羅熱核電廠安全",
+      "url": "https://def.ltn.com.tw/article/breakingnews/5572584",
+      "domain": "def.ltn.com.tw",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9kZWYu",
+      "layer": "reported",
+      "title": "烏南城市敖德薩連2天遇襲 累計2死31傷 - 自由軍武頻道",
+      "url": "https://def.ltn.com.tw/article/breakingnews/5572603",
+      "domain": "def.ltn.com.tw",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Milano , Micam al via :  tre giorni con la fiera delle meraviglie ( da calzare ). E nasce la piattaforma di  matchmaking  ",
+      "url": "https://www.ilgiorno.it/milano/economia/la-fiera-delle-meraviglie-da-c638e83b",
+      "domain": "ilgiorno.it",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3d3dy56",
+      "layer": "reported",
+      "title": "  BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+      "url": "http://www.zimbabwestar.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+      "domain": "zimbabwestar.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "BRICS Leaders Raise Concern Over Attacks On Civilian , Nuclear Facilities",
+      "url": "https://www.deccanchronicle.com/nation/current-affairs/brics-leaders-raise-concern-over-attacks-on-civilian-nuclear-facilities-1987183",
+      "domain": "deccanchronicle.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3d3dy5w",
+      "layer": "reported",
+      "title": "PM Modi , BRICS leaders pose for family photo at Bharat Mandapam",
+      "url": "http://www.philippinetimes.com/news/279304241/pm-modi-brics-leaders-pose-for-family-photo-at-bharat-mandapam",
+      "domain": "philippinetimes.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3d3dy5h",
+      "layer": "reported",
+      "title": "Rahul Gandhi meets Malaysian PM Anwar Ibrahim for breakfast meeting on sidelines of BRICS Summit",
+      "url": "http://www.afghanistansun.com/news/279304246/rahul-gandhi-meets-malaysian-pm-anwar-ibrahim-for-breakfast-meeting-on-sidelines-of-brics-summit",
+      "domain": "afghanistansun.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3d3dy5h",
+      "layer": "reported",
+      "title": "PM Modi arrives at Bharat Mandapam for second day of BRICS Summit",
+      "url": "http://www.afghanistansun.com/news/279304174/pm-modi-arrives-at-bharat-mandapam-for-second-day-of-brics-summit",
+      "domain": "afghanistansun.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Deccan Gold opens Altyn Tor plant , marks overseas production milestone",
+      "url": "https://www.business-standard.com/companies/news/companies-news-deccan-gold-starts-processing-unit-at-altyn-tor-126091300135_1.html",
+      "domain": "business-standard.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Temporary coach wants to make people proud of natl football team",
+      "url": "https://www.koreaherald.com/article/10871739",
+      "domain": "koreaherald.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Омская молодежь представляет наш регион на МФМ - 2026 в Екатеринбурге",
+      "url": "https://www.bk55.ru/news/article/260498/",
+      "domain": "bk55.ru",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3d3dy5p",
+      "layer": "reported",
+      "title": "  BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+      "url": "http://www.israelherald.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+      "domain": "israelherald.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3d3dy5p",
+      "layer": "reported",
+      "title": "  BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+      "url": "http://www.iranherald.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+      "domain": "iranherald.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Maher Zain , müziğiyle kalıcı miras bırakmak istiyor",
+      "url": "https://www.haberler.com/guncel/maher-zain-muzigiyle-kalici-miras-birakmak-istiyor-20232806-haberi/",
+      "domain": "haberler.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "BRICS to strengthen cooperation in ICTs",
+      "url": "https://www.sanews.gov.za/south-africa/brics-strengthen-cooperation-icts",
+      "domain": "sanews.gov.za",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9yZS1w",
+      "layer": "reported",
+      "title": "Объём отправок между пунктами выдачи вырос на 64 % за месяц",
+      "url": "https://re-port.ru:443/pressreleases/obyom_otpravok_mezhdu_punktami_vydachi_vyros_na_64_za_mesjac/",
+      "domain": "re-port.ru",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3d3dy5p",
+      "layer": "reported",
+      "title": "  India - China ties most consequential for world : Chinese journalist Qingduo U lauds PM Modi , Xi vision on bilateral relationship",
+      "url": "http://www.israelherald.com/news/279304245/india-china-ties-most-consequential-for-world-chinese-journalist-qingduo-u-lauds-pm-modi-xi-vision-on-bilateral-relationship",
+      "domain": "israelherald.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9nYXpl",
+      "layer": "reported",
+      "title": "Ядерная угроза , войны , санкции . Страны БРИКС приняли совместную декларацию » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+      "url": "https://gazeta.kg/policy/219474-jadernaja-ugroza-vojny-sankcii-strany-briks-prinjali-sovmestnuju-deklaraciju.html",
+      "domain": "gazeta.kg",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9nYXpl",
+      "layer": "reported",
+      "title": "Землетрясение магнитудой 3 , 4 произошло в Кыргызстане » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+      "url": "https://gazeta.kg/society/219476-zemletrjasenie-magnitudoj-34-proizoshlo-v-kyrgyzstane.html",
+      "domain": "gazeta.kg",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9nYXpl",
+      "layer": "reported",
+      "title": "В Москве прошел круглый стол ОДКБ по вопросам безопасности в ЦА » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+      "url": "https://gazeta.kg/policy/219464-v-moskve-proshel-kruglyj-stol-odkb-po-voprosam-bezopasnosti-v-ca.html",
+      "domain": "gazeta.kg",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "  宁王  美团鼎晖一起投了一家芯片公司丨投融周报|创投|天使轮|投资基金|a轮融资|投资机构|知名企业",
+      "url": "https://www.163.com/dy/article/L6NGSAUV05199LET.html",
+      "domain": "163.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9nYXpl",
+      "layer": "reported",
+      "title": "В странах ЕАЭС хотят роботизировать производственные предприятия » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+      "url": "https://gazeta.kg/exclusive/219472-v-stranah-eajes-hotjat-robotizirovat-proizvodstvennye-predprijatija.html",
+      "domain": "gazeta.kg",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9zcG9y",
+      "layer": "reported",
+      "title": "Таисия Онофрийчук победила в многоборье на Гран - при в Брно",
+      "url": "https://sportnews.24tv.ua/ru/taisija-onofrijchuk-pobedila-v-mnogobore-na-gran-pri-v-brno_n3141116",
+      "domain": "sportnews.24tv.ua",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9nYXpl",
+      "layer": "reported",
+      "title": "Возобновление переговоров . Кушнер прокомментировал визиты в Москву и Киев » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+      "url": "https://gazeta.kg/policy/219478-vozobnovlenie-peregovorov-kushner-prokommentiroval-vizity-v-moskvu-i-kiev.html",
+      "domain": "gazeta.kg",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "BRICS expresses concern over trade - restrictive measures",
+      "url": "https://www.sanews.gov.za/south-africa/brics-expresses-concern-over-trade-restrictive-measures",
+      "domain": "sanews.gov.za",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9maW5h",
+      "layer": "reported",
+      "title": "陳茂波 : 連結全球南方 賦能高質量發展",
+      "url": "https://finance.now.com/news/post.php?id=986124",
+      "domain": "finance.now.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Yön uutiskooste | Ruotsi valitsee uuden parlamentin , Brics - maiden kokous jatkuu , tänn luvassa sadetta",
+      "url": "https://www.kymensanomat.fi/uutissuomalainen/9788653",
+      "domain": "kymensanomat.fi",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9nYXpl",
+      "layer": "reported",
+      "title": "Необанк Revolut отдал данные клиентов мошенникам , которые представились властями » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+      "url": "https://gazeta.kg/incidents/219471-neobank-revolut-otdal-dannye-klientov-moshennikam-kotorye-predstavilis-vlastjami.html",
+      "domain": "gazeta.kg",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9iYWlq",
+      "layer": "reported",
+      "title": "前8个月福建省对上合组织其他成员国进出口同比增长超六成",
+      "url": "https://baijiahao.baidu.com/s?id=1876191500169778039",
+      "domain": "baijiahao.baidu.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Yön uutiskooste | Ruotsi valitsee uuden parlamentin , Brics - maiden kokous jatkuu , tänn luvassa sadetta",
+      "url": "https://www.karjalainen.fi/uutissuomalainen/9788653",
+      "domain": "karjalainen.fi",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9nYXpl",
+      "layer": "reported",
+      "title": "В Кыргызстане успешно завершилась проходка железнодорожного тоннеля » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+      "url": "https://gazeta.kg/policy/219463-v-kyrgyzstane-uspeshno-zavershilas-prohodka-zheleznodorozhnogo-tonnelja.html",
+      "domain": "gazeta.kg",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9nYXpl",
+      "layer": "reported",
+      "title": "В Бишкеке 17 - летняя иностранка оставляла мужчину для попрошайничества » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+      "url": "https://gazeta.kg/society/219465-v-bishkeke-17-letnjaja-inostranka-ostavljala-muzhchinu-dlja-poproshajnichestva.html",
+      "domain": "gazeta.kg",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9nYXpl",
+      "layer": "reported",
+      "title": " « Мы потомки Манаса »: хореографы из Китая о мужском танце и кыргызской культуре » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+      "url": "https://gazeta.kg/society/219482-my-potomki-manasa-horeografy-iz-kitaja-o-muzhskom-tance-i-kyrgyzskoj-kulture.html",
+      "domain": "gazeta.kg",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "BRICS urges international law to be applied in Palestine",
+      "url": "https://www.sanews.gov.za/south-africa/brics-urges-international-law-be-applied-palestine",
+      "domain": "sanews.gov.za",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9nYXpl",
+      "layer": "reported",
+      "title": "В Кырчыне начали восстанавливать зеленый покров территории этногородка » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+      "url": "https://gazeta.kg/society/219467-v-kyrchyne-nachali-vosstanavlivat-zelenyj-pokrov-territorii-jetnogorodka.html",
+      "domain": "gazeta.kg",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9nYXpl",
+      "layer": "reported",
+      "title": "Притормозить развитее искусственного интеллекта призвал разработчик Claude » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+      "url": "https://gazeta.kg/exclusive/219481-pritormozit-razvitee-iskusstvennogo-intellekta-prizval-razrabotchik-claude.html",
+      "domain": "gazeta.kg",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "BRICS Summit 2026 : Inside Luxury Delhi Hotels Where Vladimir Putin , Xi Jinping & Other World Leaders Are Staying",
+      "url": "https://www.freepressjournal.in/lifestyle/brics-summit-2026-inside-luxury-delhi-hotels-where-vladimir-putin-xi-jinping-other-world-leaders-are-staying",
+      "domain": "freepressjournal.in",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
       "title": "After the Backlash: China’s New Bargain with Central Asia",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLW05TlExcWtCOFhLZ2RmMjB3MlhiQjJQV0VtNHNGMkNSaDRBMWoyZHNoLUJXTElMSTgzM2V0NF8xTHNTa0EwS3FnMjk1M3pEVXBfbUJsUE11R20wX0VvcGx2YlRSV09JYkw5QXc5MTlxRXltN0s5MTY3cUFEZkxnVDRheDMxMXJKa09fbU1ta04wOEM2Rmc?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.898Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -17,15 +337,7 @@
       "title": "Italy, Central Asia Launch B5+Italy Platform to Expand Regional Business Ties",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekRjUG5iN2p2Tm5DaW9scG1LeUZGR1ZwRU43VFFBc05nYmlIUkdFaDkxT0lXNzBYMnAtem1FVTFhOERMdEhHcjJFa3hnRlhzOWttc1VvbGl1a0NCZ1NXMlpxSmw5V1BqV3dqTFV0VXN6QjN0VUlTZ3phQTZUMG1GS3g0SWxpdThKeWdvMmFvRUh0YWktcHJjdVJnZUtLWmtZUFNqWTkyWHMxRVZt?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.898Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Cross-border enforcement cooperates to target illegal wildlife trafficking",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR2tPamxUSGV2QWpRR0VjSi1YMWlkSHhTVUF1am44SXRQOEc3c1N1ZXViamoyVDBqa1NkQkpaVDFSbWJpeDJhQmN5TGd1c2t0LUNvQk9BMG1TbE1LZGotT0R1NnVpVEF3WXRkTVBCZVlMQTVYSGFZdWZEbUlGazYwRHZ4ZzZCNHpaV1FBQVhfYnEzNDFXZFRhMXJDdFpndUdQcWJid0duQQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.898Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -33,7 +345,15 @@
       "title": "Making the Most Out of Growing US-Uzbekistan Trade and Investment - The Diplomat – Asia-Pacific Current Affairs Magazine",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1JjR2Eza1BDRVVpSEdUYkx0dVlsam9XSlRPOTQ5Z1RZSHFORmZKdUxaZUpzRjNwN192aEZsdDc0TDJaRXZTRHdua0VuTE9IRWhNQ2lWUk42YjdlcEtvQ2dWc1RtNnFxcEtDYjFkRHFfeHUza3E3SzVzYTFCVllaOTZkMUViWGNqU2dnMmlJbEtXSnh3OWdsV1pFYkI4WXM?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.898Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Cross-border enforcement cooperates to target illegal wildlife trafficking",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR2tPamxUSGV2QWpRR0VjSi1YMWlkSHhTVUF1am44SXRQOEc3c1N1ZXViamoyVDBqa1NkQkpaVDFSbWJpeDJhQmN5TGd1c2t0LUNvQk9BMG1TbE1LZGotT0R1NnVpVEF3WXRkTVBCZVlMQTVYSGFZdWZEbUlGazYwRHZ4ZzZCNHpaV1FBQVhfYnEzNDFXZFRhMXJDdFpndUdQcWJid0duQQ?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -41,7 +361,7 @@
       "title": "Korea, Central Asia map out vision for next 30 years in Seoul Declaration",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iR3huZG44ZE9CZ3VaU0F6UjNGaEhhWXBJWEl5MWdiOG95SXAyb3Z3Y1IwbTRjemhaQlRFbkhtYkZvcl8tTEoyT0NRQTB4QUlockxDWUh0bw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.898Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -49,7 +369,7 @@
       "title": "South and Central Asia Subcommittee Chairman Huizenga Delivers Opening Remarks at Hearing on Covert Foreign Malign Influence Operations in America",
       "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPVDB4NHZvSThXcHRnVW01b2FNSXFUa2E3NzJNbWtWYlR1bE93TlFmaDFBb29BY0p4UnZ0aWE2d2tuQ1huM3lfUkdLblNYZG9HVTJLUE1YVzhESHM5enAzVmUydXJOLVpzN0tPV3VfYW1jaHlOUXdOdGl4ZFdVSFk5N1A1bVJsUXpQVmRsRktSTUNxY2lhTFdTbHk3RkxFYWFzdEFYdWpNc1g3TjVoWDNraFFKRjZ6cnJ4NGVWdTdqSjVXX3ctcURPMzRidE04N0JwRUhNLXhmUGU4dUc1bk1fVW9FOEhhclRnRFl5WkVJRjQwTWpqbGVncnNxZi12N2U0RGhBOFFNczlEWUN5NmF2bHJOOTY5bW9wd0o0TkNkaGN2RS1CX3c?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.898Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -57,7 +377,7 @@
       "title": "Central Asia Makes Progress on Uranium Cleanup, but Major Risks Remain",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdFRQQ3RmWnY5cDYtTkdDaTFvYUtPWEktMVlCOU9TaU52ZW1OUTJIT2wzMVEwMzNqN09CN1VLSlBkT3pGd3hyUGJLU3BvSnNsUEwxcjZZQmNQZkg3MHdPeXMzN3VLbVRxYmJCc0FjdEdkUHVlSWRrZVo5NVRGcThITmNSdWVpYTgxcjUxejBmSFl6emtC?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.898Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -65,15 +385,15 @@
       "title": "Uzbekistan's New International Commercial Court: What Does It Mean for Arbitration in Central Asia?",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWDVlY1JNVnpETWtnaXJJTmNaR09BQlppWWQybVg2NHdMVnRyVW1IYkZuUUFPME1uVlBzd3Z4UFNrN1JNU25YVHZrZTdwaWlreU9ZYWdsMGpRdjM2djliYjA3eEd3cDdMVW41RzBfSmE4MVNkT3pEcVF2WFZvNFI0VTBmUTd3eGdxQ0E0dWNBcmRyTGIzYVBNNUhjTHZWbFUyajFyRm5fa2xMdVhXUWJiNTRFUlRUZjREejF4S0liOVQ4UjA5VjBzYm1wSXVDeURsRWlLbzY1TEVmSzdxMTFDR1k2cmhPZw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.898Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "LS Expands Energy, Critical Minerals Cooperation in Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RbnNLUU51R1gxdldhek1UMENrQTJkTi10eExqUzdUUFZYYm9ZaDhSLU4xZVhYQlN6Skp6OEU2Z1N5VVg0cnhSVUxPdTNHY1MwUHFVeEVNdmtMdTNkN2tGWmRoeUE2SUE?oc=5",
+      "title": "One war is not enough: Russia instigating trade fights within Eurasian Economic Union",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObTB0aEpkcFd0WFlFeDJBN2pZeTU3UUgyNWI1eFdYcEdOek45dnE3cDBTdVFPVEdFUDlHVThtbk9VbE50UHhrZXdfbFlBdlNoMTYweFQza1hva2p0WW1JRDd1dGE4aHQtS3haeUFlVk9Bak13SWFxb2RyLVl4YmR6OFEtZWdvMmpGdzd3SlpURldYZkR2MVFPRmdlZ0hDdmtOZExkUUZ0bThvVGc?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.898Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -81,15 +401,15 @@
       "title": "Central Asia Walls Off as Russian Fuel Dries Up",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvN1A3dEZtbWMyclN1Nnc2QUlPVjViLXpwT19tcVhRWmtCeTFzVk1VVnNnTnoxenJ3OF9YdjV0SGRKX0d0cTZudGhQbi1jcTUwQ0c0QXN0TndOcGxIRmZvLTR6Ry1ZTzlUYld5UFpCWnVRSTFuZ0MyR25B?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.898Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Oh Sang-jin Participates in Korea-Central Asia Summit",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWXlRRS1Sbmc2SFlmbW5MMTIzREgxdmhySWlVbndRbk53eVdrQmpmeXkxMXZ1enJsbkR5akFVdjIySjYyVVNxc0gweHVLalFWRzRBZTUzcDZTOTZSTGVmeV84Sk1fdTVidS16YXQ0ZjM1MGZRRjkwbzIxREhIbnNHYWdCV0sxcmtRS1VxYkln?oc=5",
+      "title": "LS Expands Energy, Critical Minerals Cooperation in Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RbnNLUU51R1gxdldhek1UMENrQTJkTi10eExqUzdUUFZYYm9ZaDhSLU4xZVhYQlN6Skp6OEU2Z1N5VVg0cnhSVUxPdTNHY1MwUHFVeEVNdmtMdTNkN2tGWmRoeUE2SUE?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -97,7 +417,7 @@
       "title": "Asia is the new frontier for Ecuadorian banana exporters",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQnZaUzFpd1hYbUljY1B6eHlEVkZ0Tkh2SHhuYU93RXViYUNzWk9oSUgxZFBPb2hRTXhDSnVkdUZQLVU4QmpOVHBXREoyc1NCYWI5NUc1QlVxT0tWcUNBbmFkUzNBVVQxbWxEbV9iMU8tUTVwR0pndjJqa3h0NnlFUjhYWEZ2VENBaXJsQWJ5SVhTQ25FSnRXUVV2N2lGZ1hkZ1RQYktQZjQ1UXBQVWpicjFadGM?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -105,23 +425,7 @@
       "title": "Daewoo E&C Seeks Central Asia Infrastructure Deals",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ed1BBUEF3SUtaWnVOeVVUZzBMWHdIdzgtRC1keGNNUTNUNFJENzItRWE3bFRjZXF1cjVBWEpxUnF4aG85Y3VSeTM3UHdNbDJtMjd0WklmaUZtVDBZeV9BdEI5MjhKcWswWElOdkE5UGNiQTBz?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Drones Offer Central Asian an Escape From Foreign Dependency - The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSUhVWUNUZ1FueEF0cVMtdl9qS1BLZ3dhWXA0blRZMGZ6eXNIRk9Xdk93eHU5WHg3YnVpVUU4SEJraDRPeEw0QmdfWEpvRHdXTGZkRmNWTVViaGYwLVpEUlZzNWx0MmxPeWtPZ3NQOFdGTms3UHpxeVhiYWpqVWgxSllPTlM0cGpFcWRRZXFRNmRfU2JnVlFZRg?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Beyond Seoul Summit: Can Kazakhstan Turn Korean Investment Into Industrial Capacity?",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWHBvUktiX21WenlJQUZyNXl4cHBqNWZUb1lKejl4eW5DbHpZaUV6RjBKb3c5U2dFMDFyemZLUlhHUng4VHBGR1pjSUJkVlhVRVVoTnZuVl9LdEF3eC1rUFNqMXBiVXF6WTRpS195c1BNR2RGLTV2SGpTSWNhSHF0S3BRYlBXWlZfTHRWUVVnMnM4TFJiV2lJQVk2Yi15R0tBNWdpUV9JSHBYTnJaNUJsTXpMVVd0UQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -129,15 +433,7 @@
       "title": "Kazakhstan Mining Royalty System Delayed Until 2029",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WNXIxemc5YnQwdThJWkpZUzNLZGdKLW5kbVJzU2FnazY2TGl3RmluSkI4YTFfbWxJUWpTUXBUY3QyY0RXYkNjNUh6ZUhDVXdvaVVweEFIeEFBYW9PSTlwdkRuVFNkVlRrTG42S3duc3B6ZkVT?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Daewoo E&C chief doubles down on Central Asia push",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2MHNHYnR1d0Y5YlFEcGFBNkp2V2poUWs4LTdqT1A0TlZKYXc4Tk5hd0JEWnYzX3UzN1d6ZWVncm5uLWtmblBNeFNyQzJWRFB3SUQ2YzJISQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -145,7 +441,23 @@
       "title": "News Digest: Rybakina’s US Open Triumph, Kazakhstan-South Korea Ties and Oil Export Strategy",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdllBYU9oM0NKR1lsanJiM3l1WGJaeEFxZmVNWnMwWXBBTlZiN0I3emZWSkROX3lXODY1UEoyYmVaSlZXTndwS2hLdEJNX2VFbHc1V2RUSXdKOU94QXMxSFZUMGdsSWtXZWpXOWRiamtGZ2lTQlNLM0psYmhIS1ZsaW93RUR5UFg5djRWTUtTbURXbWw2c1JadS1nYml2N1VsTy00LW9Ybld1UFJ3T2JQNkFQbFB1V3I0cnlMRzFZUQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Daewoo E&C chief doubles down on Central Asia push",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2MHNHYnR1d0Y5YlFEcGFBNkp2V2poUWs4LTdqT1A0TlZKYXc4Tk5hd0JEWnYzX3UzN1d6ZWVncm5uLWtmblBNeFNyQzJWRFB3SUQ2YzJISQ?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Drones Offer Central Asian an Escape From Foreign Dependency - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSUhVWUNUZ1FueEF0cVMtdl9qS1BLZ3dhWXA0blRZMGZ6eXNIRk9Xdk93eHU5WHg3YnVpVUU4SEJraDRPeEw0QmdfWEpvRHdXTGZkRmNWTVViaGYwLVpEUlZzNWx0MmxPeWtPZ3NQOFdGTms3UHpxeVhiYWpqVWgxSllPTlM0cGpFcWRRZXFRNmRfU2JnVlFZRg?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -153,7 +465,15 @@
       "title": "‘Our Relationship With Kazakhstan Has Never Been Stronger,’ US Consul General Says",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSzY0OWVvZkRwa2RJMHpxUjJ1UDNHOEYyUXdQODd1OUNiSWJNOWNXb1hEN2d6VExSME8zZFZQTzJOZnByZXZkN3ZxWHZZZmwwTDVRcE9HMTlmS0JFMDhRU2pMXzFIeGdla25BdUJyV25uOHJKUG5XSEhBMUc2Y29hWnZzcUtQRTJlRGRzRlpuR2d6c1U0ME1tWTR6dUpPZi14dFgwOEJEQURsTmJFOGY1aTVB?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Expert: Astana’s Financial Center Rating Rises 18 Points on Structural Progress",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ2RxMmFsdThOOTNlQzktRVlHTUhJRjd3SW9zVVpSSVRmNU9LYTJnVldZY0NUYmtjVGEtbWdTZWE0RklOY3V5S1hkWHFzbGlLaF95SlExbG80djVWSERIU2NMTEdWb3ZBVncwUS1OSTIyODVZNFp0YzJLWHBGWHdtMEI4UXFnS1NJckdhRnlhTjZvUTNBU2lvN1ZCbWJTOFVDU3RYdDU3aC1Pbk9sOS1z?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -161,39 +481,15 @@
       "title": "Knowledge Partnership Korea and Central Asia Must Build Before Astana 2028",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUTZlbUprTk0ycjNicVFBNXloeG56b2VrcHRWdmhWVXhFQ0FsNGdTYi00UFkxUlRwVHNvLUxIX3NPRkNwR1o0Wmt3S2xJMVRJNGJvWEhuWXFtcWpZTmkzUEhGbmNsQ1Z3MG40dnRqNVZCX2VoUUgyOEQ2V0tUR2c4Q2wwT1JfY2RSR0NoU1lCNUY4aG8ySnVTTzNtVXc1djN2R0pienNrZ3Z4NzQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Russians begin voting in parliamentary election in shadow of war",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWmxlcmQ4THluTGpWZDVmbVNWLVFYSjIyX2VLclRkT0hYYUY5cjRSRWxITVhZWFh5a3pSNmdJT3Z0OVJiWnVlTEktejlvMlZUQ0N1ZHlsd1hsdkR6a0kzcXo0UlQ2eUtWQm50OUgwQWVfVG9uVjJwZE9HbFpvcEtCbzd1SHZRcnVJcGVlM2h1QkdwSkgyVHY3RDFodDZ5MjdGZm81LUtmVWxsUXJvbk5MMllHdnJyUTBCQ1M0Tk1XRG4?oc=5",
+      "title": "Oh Sang-jin Participates in Korea-Central Asia Summit",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWXlRRS1Sbmc2SFlmbW5MMTIzREgxdmhySWlVbndRbk53eVdrQmpmeXkxMXZ1enJsbkR5akFVdjIySjYyVVNxc0gweHVLalFWRzRBZTUzcDZTOTZSTGVmeV84Sk1fdTVidS16YXQ0ZjM1MGZRRjkwbzIxREhIbnNHYWdCV0sxcmtRS1VxYkln?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "[Central Asia Rising] Beyond oil & gas: how Kazakhstan wants to become a gateway for Chinese capital & technology",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVjJxQzVGZkFUQjctUXN3emREWmZ2T0dMbWFoSWtPcUFjaXphZ2d1ZzJZd2xndHpPR1d5RGFOVTNVX1diYVFZbWI4Z3dydS1NdmtaOVVTY3BCQjg0QWxhbXBleE13dUh3eTFKY1ZkakJMdnp6U3dPNnJ2RW80RmZyY3JTdG1udXRiQ3NzMlRWQTRrcXpZbXN0VGtJbU1BTVdTUWhTMTljV0g3MVl1SWJxN0FDRXhLeWg5d1pCUVpCU0tMQjdXNDBYWjhLZTFiczJuRzdJSG1yY2Fxdw?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Enhancing Red Cross Red Crescent Preparedness For Extreme Rain Events - Scoping Study, 27 June 2025",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOGNZc2ZMdEw3cC1DZDBjend5QmFWYjN6OGtkMWkzVDY1SzhCN3VmYVhURURhTzJGamhIcHlDcnZHRFIyalY0NE1rUjZKdi0yRFIyd3VmdzZ1aEphQ2Z2b1VWWVQzMFpWZXVzNWxiT1NLREVrR3hFajNwc2dXakthSHpJdVZvZ05LX2V0bmRjNmJqcHV2Tk5XTU5PWFIyaTBYUDRwSzZDV1FwaG1MRld3M3JwT01CM0RpaWJNcm0yNFZRUHBxYmc?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Korea-Central Asia Summit exposes limits of bloc diplomacy",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVUNyZndaVzhzSUhycDZQMHlxM2NvTzNOcjduR3hoeVFiTkMtZTRWSE5zOXlaUWpvckVHTFNuNG1JTXh6QnhJNHd0RnJUMTY1NklVNE5YWUpIc3hEcGx4eFQ5VlE3WTVVUTcyQnF0QVQtUjQzNkp3V05PeW1lZmVVcmMzQmtkOGVaLVNnLTVKQ2NBQU5IZ2ExNEVNZGJmZi1TOTI0ckhseVM2dXJGaU92QkI1b3ZENTBRODNtMm1HLXrSAcYBQVVfeXFMTVkySWxkOG5WWHB6YjZoWENhWWc2aGNYZ2R5VmhOSnRmeW5QSGo2NXdFenFWVzlzSWxRcGhhNS1uODhYRFAyN2xBa3Y0V2JrU3l1UjBlQU9fZTc2NG50Sk9uMmt6MXZZS2ppSHFPUklBSk92QXNYekdiaEU0SzR1Q2JrckhXX2xSM2JZYlNYbkJoSzd4TThGXzFmOU1vd2RJTDVFU2NkaEhObW9jY0IwZDlNZjhFZmd2RzE0WHAta01ZUnRUbTlB?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -201,15 +497,7 @@
       "title": "South Korea, Central Asia Target Deeper Industrial Ties at First Summit in Seoul",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3VPYzZUM0VqNDc2M1dmVHBMb3JIQ2ctQjVYLTYxcXBwSXZBQXNwQlJlOS1XNFVoVTItaV9ycWpESHpRVFFlTV9kSF85LTNxREVLSkN0eG5ZamxIekVhclBfZFFuZ29MZ3dWR25ZWUY2dzZ6VGRWSndwWkIySTdhek9ncGtlUnY0WlFwRzgyYWo0bGFaWjhzWlQxSk5rOTVfSU1obTVqYkt6cnpzQU9CSWh3?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Central Asia Metals shareholders approve Cygnus acquisition scheme By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWmE4VnJqWWIxaVEyd0hRX2FWWC1mYlFhSkFnN2d2cGxvd0d4bUFkZk5UbFBRSWkxSDZ2WWNmdzZJUFhseEVta3gxMXR1NGNibmZkZnlZeDRMckZJQTJFVUFqeW5aSm5mSnI5NGpiQUd6LWxLVWZ3SzNYUElyWjFWMWIzLTZ2OUpvejlmMFV1Q2w2eTVvQkxQSllycWV6ZFR2TXk4THBxeWVnWmxiZkh3T3pHbnB5b1dtd2RNekJBMVJMV1lXSkE?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -217,15 +505,15 @@
       "title": "Towards greener agrifood systems: FAO dialogue bridges Europe, Central Asia, the Near East and North Africa",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ0RCQ0NDU1J4Q2VqN0gycmJPUXo0YUhxRkp0MWt2LWdzbkFlZ3FKU3ZHT3UtMi05WUYxVEZoZHlRWVhCa1B5bW1ldTNRSkJiU3lUYjFlQkxjTkh3dG50TjA2UjQwOVFUT0hyWV9yVTJ5ajA3eFVLTmFIRGtlbDRra1lHN2dIaUR0UWMwOHFVVUhYZzFDVllPSm5SSnc3UUJXY2NIOFBzTUlDRUlCa2ZQWTZLR3o3N25yWW9WTGE0Yk1adVFJWFA5UW1VSVFMUERkSVdvUFR5M2M0TE9KZDZkTE5Cbnp2djA?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Kazakhstan’s nuclear security role highlighted in Washington, DC",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWEZhRV8tQ1g5N1ViM3FsQjRidVQwN2w5aV8yWWpyMlZVajhpTTlVc0M0LVRJeUx6aElwd3FROGgzdjFhSEIwVlRndzR4R2VzVEJqU1A0Qk5ZRkNGT1czM2VLUTFMR3hCZTRZcjFGQk1rWHpqbFgzcFB6TzVwNHRTaUo0bk1uNWcyUWNKdEs0WDZGWl81RERUbjhBdkzSAZwBQVVfeXFMTlU4Q0NINnVlejJ1SmFKdG9QSHlNZERlYmotbzZZbHRIYVMzbEdQTlJEMUhhdnN0RUVsTlVDb0ZGWGRzNjdOWmpuWmFMdUhwS3U3T2p5ZDh4M2p6Rlpzd25sNGFBRFEycWhzSTd0R1QwQnF3NkpOV28zZjBhenVZRGVjSWRMS00zeDhEb1VKVVAtT2lUTlNvX3JaN01a?oc=5",
+      "title": "Russians begin voting in parliamentary election in shadow of war",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWmxlcmQ4THluTGpWZDVmbVNWLVFYSjIyX2VLclRkT0hYYUY5cjRSRWxITVhZWFh5a3pSNmdJT3Z0OVJiWnVlTEktejlvMlZUQ0N1ZHlsd1hsdkR6a0kzcXo0UlQ2eUtWQm50OUgwQWVfVG9uVjJwZE9HbFpvcEtCbzd1SHZRcnVJcGVlM2h1QkdwSkgyVHY3RDFodDZ5MjdGZm81LUtmVWxsUXJvbk5MMllHdnJyUTBCQ1M0Tk1XRG4?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -233,23 +521,23 @@
       "title": "Inclusion, learning and resilience",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vRVBteXUxQ053dWM2cW9oc2Q0bUIwQ3BpSC1KYTk5eGgwRHRQVlhmamM5ZUFXdWxzOGlUMDZ0X3cwdWtBTC1tR2FmYWQxaHdid3JWSEVYMGdQZjd0MUl3dWJFanRUc0d1enA4ZklaYVAtMjExRXIw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Kazakhstan, South Korea Advance Investment Cooperation Ahead of Central Asia–Korea Summit",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2czc25XMjRJUTZWQUpBYVdIWjAwVkdQUnlDbl8wUHI4VnRNbl9iSUlaSGJNbEZRejFXWDJ1SkhzMkF2V3djY0lTNEdsUkNuLURwLVhCRngwak9sNEwtektLb09DeUFseDBHZTN5WnI2U2xsMm9vUlM5Y3NGVnF3Z3hhdEZzcnB6c1p4NnJwQXhNTkl5NHRvTDRKZnE0TUtINnRVcmgwU01SR3ZacV83UEhKMndTNEpjMUJabldR?oc=5",
+      "title": "Kazakhstan Fintech Market 2026: Banks Capture Consumers as Startups Shift to Infrastructure",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMDBub3p3YW1qYUFZRHpVSmgzSGxRLW5wdmZpRzZ3WktiZ3NlV1YtZmpzYWZWeTZOVWE1OFZtWGU1enFIcFgxSzFMT3BwQmx1eXZxc0JOZHhEUTQ2R0NFcEN5RmVmZmc1bHlpUnlHYWY0dXI3OWhyTFFuazVEcWNxdE11bmwyd1pDazFxNGIxRjRtWmZWOVZiMkN5dDR5aUp2Y1k2TU9vUFNnNGtKOElmTzBtNC1LQUlYc1R2OG1XUndhVmk1NDBmYkpVRFVSNUl6NnFGd0VtSFVpN3lFQ3lKQ2Z3?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Uzbekistan, Japan deepen ties through \"Central Asia + Japan\" framework",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pTG9zNGwtOV9CRGZYU0dacVFMalZTb2xXaG11QU9CaVhCZExaTDRaay1SeHhQbGhtS094ZmtFYmxiS1NkRUZ2V000Wk5NMUxFM0ZpcDNpRnprVV9mam9F?oc=5",
+      "title": "[Central Asia Rising] Beyond oil & gas: how Kazakhstan wants to become a gateway for Chinese capital & technology",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVjJxQzVGZkFUQjctUXN3emREWmZ2T0dMbWFoSWtPcUFjaXphZ2d1ZzJZd2xndHpPR1d5RGFOVTNVX1diYVFZbWI4Z3dydS1NdmtaOVVTY3BCQjg0QWxhbXBleE13dUh3eTFKY1ZkakJMdnp6U3dPNnJ2RW80RmZyY3JTdG1udXRiQ3NzMlRWQTRrcXpZbXN0VGtJbU1BTVdTUWhTMTljV0g3MVl1SWJxN0FDRXhLeWg5d1pCUVpCU0tMQjdXNDBYWjhLZTFiczJuRzdJSG1yY2Fxdw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -257,7 +545,7 @@
       "title": "EDB Analysts: Central Asia’s Transport Boom Puts China at Center of New Eurasian Network",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMHgwMTNQYmZ2STJfVW9pLU0xak1taTJwSDQyWnRJWnpHZzNrOGRMdFZ2OHYxbDdTeVAxNUpqbTBOdFhEWUN1NnBCaFphRUdaTHRaVE5fZlBMMHJnWU9zX2JCWks2QUIyNEZLT2hCd25ZbjVrSEk0UVZIc0RUTXFsTXRoVEFQMTZIS1hNS212Ry1aVWpvQ2ZSMHFvZWlUOFNBSHhQU0YwVjlYTkVWMDc3V0NjSHVmTjAxZ2FR?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -265,15 +553,47 @@
       "title": "Tamchy SFIT: Kyrgyzstan launches financial zone to tap into Central Asia's economic shift - Article",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOUJsOEFveXJZcDctR293cmVuR3JlM2cwaFdsWjhham56Y1dEeE1Lb0ZhX25ZVGlLQTNTODRJQ2tYTzNtNE1qU0Z0NmJZVkdWX2dlUVBISXpDWnlUV1NMRlZJY01WOXJPTkRpbXNyay1ubVBjcEl5aURYb2Q0MTdQaGh2S1Rxd1NOMDhVZ1U5MFR1MXB5Y1BVdi1wWlhDWTNXejVydXRPaVJXMHdfaDl4WWpLZlpqSk1ZSDViZjZIbzBxUUFyRHc?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Learning to Live With the Aral Sea’s Changed Landscape",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vSGx2Z01UYmRpMU5xWEQxMmhWQ0c3bzJqNlY5WGtLQXE1RTExOVZ5ZmhIam5VWUpzNHlsdWpURGl3eE9lcGlTcmZvNUc3ZGhuR3A3aGJxaWJ2RkswN0N3VHpLX2RMdTItM0ltejJrclNOMTZfMzhUazV0ZUNpUXc?oc=5",
+      "title": "Kazakhstan, South Korea Advance Investment Cooperation Ahead of Central Asia–Korea Summit",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2czc25XMjRJUTZWQUpBYVdIWjAwVkdQUnlDbl8wUHI4VnRNbl9iSUlaSGJNbEZRejFXWDJ1SkhzMkF2V3djY0lTNEdsUkNuLURwLVhCRngwak9sNEwtektLb09DeUFseDBHZTN5WnI2U2xsMm9vUlM5Y3NGVnF3Z3hhdEZzcnB6c1p4NnJwQXhNTkl5NHRvTDRKZnE0TUtINnRVcmgwU01SR3ZacV83UEhKMndTNEpjMUJabldR?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Enhancing Red Cross Red Crescent Preparedness For Extreme Rain Events - Scoping Study, 27 June 2025",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOGNZc2ZMdEw3cC1DZDBjend5QmFWYjN6OGtkMWkzVDY1SzhCN3VmYVhURURhTzJGamhIcHlDcnZHRFIyalY0NE1rUjZKdi0yRFIyd3VmdzZ1aEphQ2Z2b1VWWVQzMFpWZXVzNWxiT1NLREVrR3hFajNwc2dXakthSHpJdVZvZ05LX2V0bmRjNmJqcHV2Tk5XTU5PWFIyaTBYUDRwSzZDV1FwaG1MRld3M3JwT01CM0RpaWJNcm0yNFZRUHBxYmc?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Kazakhstan’s nuclear security role highlighted in Washington, DC",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWEZhRV8tQ1g5N1ViM3FsQjRidVQwN2w5aV8yWWpyMlZVajhpTTlVc0M0LVRJeUx6aElwd3FROGgzdjFhSEIwVlRndzR4R2VzVEJqU1A0Qk5ZRkNGT1czM2VLUTFMR3hCZTRZcjFGQk1rWHpqbFgzcFB6TzVwNHRTaUo0bk1uNWcyUWNKdEs0WDZGWl81RERUbjhBdkzSAZwBQVVfeXFMTlU4Q0NINnVlejJ1SmFKdG9QSHlNZERlYmotbzZZbHRIYVMzbEdQTlJEMUhhdnN0RUVsTlVDb0ZGWGRzNjdOWmpuWmFMdUhwS3U3T2p5ZDh4M2p6Rlpzd25sNGFBRFEycWhzSTd0R1QwQnF3NkpOV28zZjBhenVZRGVjSWRMS00zeDhEb1VKVVAtT2lUTlNvX3JaN01a?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Korea-Central Asia Summit exposes limits of bloc diplomacy",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVUNyZndaVzhzSUhycDZQMHlxM2NvTzNOcjduR3hoeVFiTkMtZTRWSE5zOXlaUWpvckVHTFNuNG1JTXh6QnhJNHd0RnJUMTY1NklVNE5YWUpIc3hEcGx4eFQ5VlE3WTVVUTcyQnF0QVQtUjQzNkp3V05PeW1lZmVVcmMzQmtkOGVaLVNnLTVKQ2NBQU5IZ2ExNEVNZGJmZi1TOTI0ckhseVM2dXJGaU92QkI1b3ZENTBRODNtMm1HLXrSAcYBQVVfeXFMTVkySWxkOG5WWHB6YjZoWENhWWc2aGNYZ2R5VmhOSnRmeW5QSGo2NXdFenFWVzlzSWxRcGhhNS1uODhYRFAyN2xBa3Y0V2JrU3l1UjBlQU9fZTc2NG50Sk9uMmt6MXZZS2ppSHFPUklBSk92QXNYekdiaEU0SzR1Q2JrckhXX2xSM2JZYlNYbkJoSzd4TThGXzFmOU1vd2RJTDVFU2NkaEhObW9jY0IwZDlNZjhFZmd2RzE0WHAta01ZUnRUbTlB?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Central Asia Metals shareholders approve Cygnus acquisition scheme By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWmE4VnJqWWIxaVEyd0hRX2FWWC1mYlFhSkFnN2d2cGxvd0d4bUFkZk5UbFBRSWkxSDZ2WWNmdzZJUFhseEVta3gxMXR1NGNibmZkZnlZeDRMckZJQTJFVUFqeW5aSm5mSnI5NGpiQUd6LWxLVWZ3SzNYUElyWjFWMWIzLTZ2OUpvejlmMFV1Q2w2eTVvQkxQSllycWV6ZFR2TXk4THBxeWVnWmxiZkh3T3pHbnB5b1dtd2RNekJBMVJMV1lXSkE?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -281,7 +601,15 @@
       "title": "South Korea puts critical minerals, energy at forefront of inaugural Central Asia summit",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZWtOYnlQTWJnb1FpNmxCOWVwSzVzaC1qZnhhc2dEUEZPN3kwUFB0REctMUMyajlhUl9jUjV3cjhCVjhIZTFpRzM3RkJHaVNFb3oxQ2dMV3d0TXByS3JtbnMwRDZYNm5xbUhtXzJ5akc2WkR2ZVBjR2Y2YWZKYkFweTg5QTAyeEwzUHB0bGpzMTNLc18yZE9iaXpDMVBwNVhwckFyeDJpWEFWaWtZekFtSU0tNU8wTTNQSzFlSg?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Uzbekistan, Japan deepen ties through \"Central Asia + Japan\" framework",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pTG9zNGwtOV9CRGZYU0dacVFMalZTb2xXaG11QU9CaVhCZExaTDRaay1SeHhQbGhtS094ZmtFYmxiS1NkRUZ2V000Wk5NMUxFM0ZpcDNpRnprVV9mam9F?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -289,15 +617,15 @@
       "title": "South Korea Steps Up Central Asia Critical Minerals Push",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92UEpZWXE2bWJvYnlReG9hcVJ0WGVrUzZ2TTZuRTRDdnp0LXYtVEZES0JRVU55dHozLVQtdXEtNEM3MGY0WHdzbVJQTnZyQl9peWNfYmo2N3R3ODJSZFkxUm1OY050Z1dOdEhtaFk3S2VqQkhKeWc?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Kyrgyzstan China Move Toward Mutual Recognition of Organic Certificates",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOXdrYU9UbUN3RWNUaWYzbjdEam9WZU05SHlrYm41NzhCcEhoNlBFOUdJcDU0WU5sWF9lVkJHQ1lBU1I0TF9CMlhmNHQwVjBqSjMyM3BZajVYd2l0TWl6cjV0TWpTWnhxVW1mdDd0Y0R5dmFQNVRUMkZ1MkRFVDk0LWQ3NA?oc=5",
+      "title": "OCI chief attends arrest warrant hearing",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KVXZqMEpyUE43R1lsUzdnUG52TWo3M0lKSEV3MmRvei0zOVRrck9KWXdCcVRVSV9BbUlkWkJLeXRSa0h5Ulk5M09yUjZVN2FPLUFrOHoyMk9mYmZrWmtnX2VENFBwTWdnZlhGdkJMSURWdXNGTnpr?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -305,15 +633,7 @@
       "title": "Central Asia’s First Korea Summit Produces Different Deals for Each Country",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFVlRWJBQlJhUjQ4bmlCZ3hmV2xfWDBpZzZSdFV3V19HQVVsRnBnVm1DYkxVZTkwdUVSakJTTFo5MjdsNXlIUFN5dVlTTC1EdzB1WFQ0YWEtRUR0Y2pheUFQb2c1X0NtV1dVNU4tdzB3bFdXSDFuTlRpZHh1S3hSM0JVX3Rici1wMllsaVJHR1gwU0NIVHVnQ1FURQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "South Korea, Central Asia Launch AI Partnership",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIM2JaQWoxeG9Dd2lNRkpucm1jQ3RTbUZyVnJweWtob1lfOXZRU2xqd3F6Sk9GZ0twYVcwX1hyemkyZ00zLTNad3BKemtSNTNRclA2VFlQS3VLajJvSG84YnhwaUlFSlpsMWVjaXgtNmhJajY4?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -321,7 +641,7 @@
       "title": "India’s UPI expands into Central Asia with Uzbekistan deal",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWZkWGZONTFEUll4cnZJWkU4Qm1YVDF2NWpvZW9XVllHMjlVcEowTVctNldPYTVoczMzNllfUmptaFBnVV9rOVMzNUpDN2VXVE9Pb21NaURhYTZBS05JRWxQXzdkdVRsUkZlaTk5WnR5bUdWVUpPbm9TRXVZeVNXYnI4RTBQSDZWaXRXNTQzRWpZR3NiMkdWUUIyTTk?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-09-18T16:50:01.899Z"
+      "pulled_at": "2026-09-18T19:19:58.048Z"
     }
   ]
 }
