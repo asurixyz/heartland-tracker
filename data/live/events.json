@@ -1,23 +1,31 @@
 {
-  "fetched_at": "2026-10-19T10:35:39.958Z",
+  "fetched_at": "2026-10-19T17:16:18.133Z",
   "source": "GDELT + Google News RSS",
   "count": 40,
   "events": [
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Rubio Is in Uzbekistan to Promote US Ties and Trade With Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdjhVY2dvakJnT0lJS2ktaHU4cFBjWU83YTVVTzBaYVlRT1BBMEN6b0NrREJ3Umw4a1gyd1J6OWMzWk5mTkJQNHVYVk9MRTNTSDM3SnF4clFmX2EyOEdySkNBYmc4MUQ1emxKQm8taENQaVlyb0RPejFGemR3Ykh1T2NmTGhPRG4taTI1N1BkMjlpR1FnM08tUWpiZWFJT0tBVkhtcFdFeGdwemRGUTZnQ2RGMEsycmtVYWVpaU9NOFI?oc=5",
+      "title": "Rubio seeks to expand Central Asia ties with pomp-filled Uzbekistan visit",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRjBMUkU1SEVNclFaMVR1SnljVENrS3N5RUdNcnV5UFZkdlB3RHdiWTFoSFRxcVRBVkRSOEowM0h4bHZyYmd4dDhKYlJQSzUzTUJ2QmxzaGtha2lxUldoLXRPSmczQndXbTNHRWxwRHBhZF9vdDdZRVl4WXJ0M3B0dEJrOWh1SkVzTXhIUTVydk11cEFPaXc3dGZBX0JnMk9hYlpOdkpXc3R3cllKTllGRG5MVC01QkZHNl9Td3J1VHhSckE?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
+      "pulled_at": "2026-10-19T17:16:18.133Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "US is coming to Central Asia with deals to stay, Rubio tells Euronews",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmJvVmFZdDMtZC1mNHpGUVhqTGdERjVNRkxMTEdaYlVKaFdRS3o5Smp3Skp4SUZud2RGLTBYbzVYbGx0TnlXOE5DZDRNWmNCY1luLWdFZGRZWjE5RmFwaFJsTVJtb0ZSY3RGN1E5cFo3WDVkRzY2YUpEc3N1WldTY3FLcW42aDZOR2E2c3VMVmZJMEFIMHFMeTdPQ2VLNy1DNHRleXhvUQ?oc=5",
+      "title": "Rubio is in Uzbekistan to promote US ties and trade with Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM0lvT0tMd1JoRjZQWnpvQ3J3blJBNDFFc3I0QnlYT1BvdzVkd08zcWhwSjRhSlhrdWVGWGhGQllveGhPNlV4R2FEVXgtRUdlSjJkTnIzbGYxYTBiUlpHOVZ4N2E3dk9ZejdvdXlqSzc2VHFnSVk4R2lVcGNzdFdrT0tSWHRaaWFCUXcxcG5kc2F5eHF2aVM0?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Secretary of State Marco Rubio and Uzbekistan President Shavkat Mirziyoyev Before Their Meeting",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUWZ2eUQyeDdyLUhmS3BKRzFGSWNZRzZSZmZUSHVTNzlES1F1VXpMX1BTV1d6VGo1VWxkVmdLVmo1NFR6ejk0LTliUm1pdmtPcWRiN3lTb3BsLWxDdjRSNnRpVXh6RHkyX3VEVVMyZTFyN192NkE3dnRNRTdDMUlaWm5icDZoSHpCV3hkZXc1RnIyYl9CZFB6VFZZRExrWmQ3OXZmaElic2dOeDlJWXc2dlhlSnVWSGdPaXhJajdPU1pRSmFOQ1BRamhNOGE0UHBDNXdJY0FfRUtLR21ZbTVaaHMyMDhULVRxVmE5dXlnNWU?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -25,7 +33,95 @@
       "title": "Rubio Visits Uzbekistan Seeking Strong Central Asia Partnership",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZkdGR0paSDhJOGNpTXlRcElUMk1ITEJVMWF1eXdvV2NWYnhSMkU5djBsVGdCbDZFazJ3bGJ4YVNwNkNUTTcxSDI0bGhHWV9obWticGllaHp3R1JoT0pKT1VfTHBYNFdaLTh0ckk3RE5vZEtadWd0NENmb2NJWnotVERBQlduajlha2o1R3hzQ1RYbElYOXE0eVAweGdKNS0xeEJVNkV6ZXNSQVFMMXNJLURWSDI?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "A Warm Welcome for US Secretary of State in Central Asia - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYjBTM3hldFpjVlMyc0tXb0NZdHZBU2JsTXhoUl9FM2tHbWtzZXFUUmdMdWt4MzdjblpPenB1eUtyaGNOVGd4eXV5SktJRVhqUHdXT3JDRXc1b0hfeHYyOVFVc0lFWGJGcXJCRGJqTjVzeF9hNDU4YkZFZktOWkd2aVJESmZUMm92X3gycGpqVU5uODg?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Rubio Vows To Keep Pushing For Ukraine Peace, Seeks Deeper US Ties In Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb2xpNXBhTGtHbUtKZkhKc1NuNnRLMmxmY201d2tfVmt2VUNmUVNUak5zbkU4aHo3aC1VSHVLZFA0LTBrV09lZXp1MzFSYUZaYmx4WmE5WDR1bWFSQTI0Q2dsWW1WaExKX091VlRRVm9sWUF4aEhVT3JYSG1OeGo0c05tN0LSAYcBQVVfeXFMTzFHcGV0bW9UMGJuWUdZeUFfVUE2TnR3SnYtVTJfdWlXTEJvaG5oVnUxeklCeXY2TUdUOC1IZ1k0OW5RXzB6ZWY5NHJzLVl0eHVnREVoUGd2bS1BbTFiLVRMOFJteElRUl9RUmJ0cjUzN2JoNk5OYVpOM2VpZG5pQzlWTkxqbGtr?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Rubio outlines US plans to expand trade, energy cooperation with Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcWFKdklUZ19PbC1qQmkzNlpmR3lsQkk2N1V5emotdFZmcHhkWlBzSzFwNTBxbmkteU5xRUlQaF9NS2p5VFZ1d2xZeF9DR3BJSjVfaW13QWVMazhCRkRoLWMyRFlaR2laTjhydnB4YUVlNmZZaVZQQm9raXNKQ3ZwdG9fNmlFN1lndUNFZjZnVmltdTdLdEczVE5mWEd0SVQ0V0owZmg0Y2NCOVIyekw5a0FJTURNX1JEOUE?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "US and China compete for influence in Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUkVKaUkyb1ZCazFXWkYwZFpyaENYOGd5WlNvY1NBRWRFYkFlczl1SkVsQTk3NVcwTFFMYmJpU1Y0MzE5SU9uXzB0TF9QOHNFQ2gtYmMxQ05zYUduY3psU3o0ZnZCU0pYUjM0ekZmdklRRlplOElsYWJMd3M5eGI4bDNKSDg1QTZnR01vZVJNUGRSTGJuLWh4Rg?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "US is coming to Central Asia with deals to stay, Rubio tells Euronews",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmJvVmFZdDMtZC1mNHpGUVhqTGdERjVNRkxMTEdaYlVKaFdRS3o5Smp3Skp4SUZud2RGLTBYbzVYbGx0TnlXOE5DZDRNWmNCY1luLWdFZGRZWjE5RmFwaFJsTVJtb0ZSY3RGN1E5cFo3WDVkRzY2YUpEc3N1WldTY3FLcW42aDZOR2E2c3VMVmZJMEFIMHFMeTdPQ2VLNy1DNHRleXhvUQ?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Rubio Visits Uzbekistan to Deepen US Ties With Central Asia Amid Geopolitical Rivalry",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYnd0d2xJMEZRbGJvRnFmeEcwX0loOXRVeEJZR3lYMnlhV2xsRG1yZ2JEbDlCcVJWTnAwM3FLZktpS2VnbklyOENHZGdHMzB2NEJrbGJILTBHM2lYOFZDY1JqTkd1MFdNeU0tMTMyMjFWVENQRE9sYmNIUFlHRGRnakNEX3FiN2Q1UnNMXzFPa1Y1eWtJcmlEUGtkSHR3b3VOQ2RDM0V6M1ZJT0NZdmh1WmxkZmFqV0E5WXNDNUpLREljZw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "US wants to be 'strong partner' for central Asia: Rubio",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOEc4aEh3YzVWOFMzR05URklMV2JiNGVGaG5qQUVCR1hGX214RW9oWEU4aXJVTmRGTlVnQWMzaW4wQmFvbnF1MDBxeGpUVE92cGZKeGdXVmpkZXRSQ0x0cVpFYk1tdkxCVVdLeGN6bWp6djJ4OHRrN015ckhKZ0luN2FwVmdkZDhsNHpUR2NWamRaRXRIbjFMU25BS3FnU3JGUzR6bk82cGJiT1phVGhhRzNxeUluUnB4dlk3Y3BjRjFIMmgxMmZPUmFiTUY0NUVvOV9qelI0VEdmVG1aMWc?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "U.S. and Chinese Leaders Make Simultaneous Pitches to Central Asia - The China-Global South Project",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54Y1JKQzMwN3FyTmF5NEQ3OTg2WFF3RGpJX1NIU0dkM2xUS1YyZUFUMzV5ZWpmWGQ1dGRvbG1sTXMtRmoyM3RTT1pVOXRQMEpyZ0VNNjRSQTBGeUtPdG1XTnluM2VzQ0hyQV93RGZwR0hCd0MwZWFCbDJkMmowUDg?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Rubio Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWWcxOWdWUnpUQUxMaVg5VUZ1SFdpRzFPUTliM1ZQanU2eWp2LVF2U3hXeFlXM2NjRUNfQng1NGtjSTlsdnBVVW5CSnN6UHRPM052TnN2Ui1mUGZieEtJR0N2ck1ObklwWS01eDlRWXFVMWVlZUhrQndjbEw4dFpsWGFGenFoWlVWWnFVYVpLNUpzVmdwTXl6am9oTkFVUmhCWWdnN2VLbTZ4R0x0bTFrZUFR?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Rubio seeks to expand Central Asia ties with pomp-filled Uzbekistan visit",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRzNCUVNiRE10aXFjbFhsTkh6TXdSNkFib1lhYVFBcW5ieDdyMmVCa01zTm1NbjB1WFV6M2ZXR3JlWU5ZcXY4SW9tcTc2M2hiRlNUUnlvQmNCX2pVUzJfLTM0TFVjbUtuQWFxaFcwc3c2UFpFUnRCZ0NENzh3QmFfcHVyM0hiTzdFdjdDSTdSNzFkMFY2SXlNNm82QXZFeWlXeUVzc0VpZEpWSkxQTnlCcjlGMExqVEJIR1hrc2l0ZWlsbjJzbnU3S1JPdkF4SHplQUR2NTYyVUMyalZCcG9vYzc1S09udWpkRktUQ3NyRExBLVJ4ZlhvenlnLXVSTmZITEJN?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "'We're Never Going To Be The Major Player': Former Diplomat's Reality Check On US Ambitions In Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSHVRdUVGNVNwc0NpTWxFSXd6LXZvbFVsSUdfZHY3dTBhdmtIY3ZDT1plLVNkR1lQbnA2Y3lvZFJRbmk1aTFHc2JtOTNjXzFkS2Vhd3lqb3otMXZpYmRQa1BPYmdxLURlenVnanRkNWp6RWRpWFp0RGtweDNIeXpGZ204dzI4TWFfWTdLb0xSZmxYbGZTR2FlYUJEUU9jRlhTOTZnVGw5TFNWU1ItdmNhM3VtVjgyNUtaMmVpU1M1Y25BX3FQV3o2ZFJad2tTdl9qNjRWNjdhNl9OQdIB3AFBVV95cUxOTl9pRENRUElJck5ueUZPNTVZWVl3ZnpMR2tvWjlIeElSbjQxWnpQWTdPTVBSZkh6ZmFIeUJJMmhnb2JzOU9ua3VzWktCczVTN3FxUENVdVo2NjBJbzIwY2J4aDduNGt0Wm5ZdU5vcGxIRHpzalptWkpKVTZOMFZOb0hramw3WXI1aUtMamItaVFPMERZR0Jxa21qNi1QOThvenc4c0hnVTVIaThZSmVld3VGU1JoaV8tNVJhUkw4em5nOGZ6c0JZNHJyNFM0SUxZTnNwcFJFZmFtc0Q1?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -33,39 +129,7 @@
       "title": "Rubio arrives in Central Asia while other US officials hit foreign policy hot spots",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMmFpc0NDcHNWM0tpSVFxYURNSGY4OTFCRlhISGVnLUZqUGtaWEpJUXhsTVpyNzZaRmV3R1JhRnRIdjJjS21DaVFjTDRHaEtIUXEySXNwd0U3el93cmNJeEtHblpNc2VhZERoMXliOUFxXzFMVHhnTUNpY1dRVHJEMGxVR1Uxb0ctRThOeGNxN0ZxaW8wQjhJVTJpSG5sSWVNWndGWWRTOW40TjFEa0d3MDVYcU1Id2tRekxlbURxS2gxcDQ5dlZYUnJ4UWlRUQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Rubio is in Uzbekistan to promote US ties and trade with Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWWxhb3hPMVR1VzNzYWlzOC04UlhPTk5WZG8tV19pVG5ETHNtTHdfQXUyZmVRTVNDbDJvaWZxVGFwR0ZMTlo5cTM4Nzl1a0lja296T2lXSU43MmZCVTJMWGZnVDYtaERrZVZ0NTdwODdhdjl4SlVmV3A2c1R6UDUzVV9CbjNtd3ZkMTVTVzVGbm45RlhyTzdldzJGVmhDNlNjLURkclVXMGVJaVlXNFpHNUd0M0MtTDgzNDFDZUx6M0dKOFplMEhWSDVuUnZ2UHgwM1FFYzhTZDgxcXN5RDFJM3ZvdzVUU2FMSWRSZ3BEb3ZTYVZoY2Vv?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Rubio seeks to strengthen US foothold in Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNUg4RkhzUndLZlVlem1IQzNzRUEtVnVRZExaM0pZaEl5ekVUZngxMUprWlkteDhCcE8tNGw2OGVtZk9tUFotWEpDaTI2eEFBYUtndThsbTFtbFc3RDlmTkpvMXNCa1FCbFdXcWNWUmU3SWlzamVMd2pwSzZ4dXlTV1MtMnQ2ZF9WbW4wZmJvbXhBcVZFNmJXOGRrSmVVSWoyRXc?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "U.S. Goes on the Offensive in Central Asia - The China-Global South Project",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMlQzWlhyVGNjTkpfRUhHR0tQT0RxV3Y2UkVMcF9zS1cwQWEya3lBbjRYcS1ZQ1hMbXVnUDdXaVNnUUlEam93THhqLVB1b25fajNtUkJLaHZHVy1tNU9uWWJBVVlVekpDeFdBUmdjZTJGUHNmZkpBRFV4THEtWTRKMlJyWXc?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Rubio is in Uzbekistan to promote US ties and trade with Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUkJlQm1GOEl1V3BFNXA1dUZFZTMzS1paUEZBdjJteDFoblM0bnVOU1hGUHl3Y1lEOGZwNlUzbVV4T09sSG5Bclg1ZVVZMlV1eW5VNko1MjFHV3FqcHJxSTU5Mzh1N0VlZ18wXzAyMzBZU25YM01ZQlBxd04yQlFOREgzdlpaUGpoVktzcF9TMjBOX29WdlJpdVVzM1hGVFpnU1d2SGtTODFhNy1YR3p2bFdzOG1jd291T3lyWThqcnZKX3gzUW5lazRLU2EtVEd6dkhFSWJfZmlsWF9nXzJiYU5TcnhQZmpqS0hvNHVCSGNnRTZpYXJLcm5QS0dOZw?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
+      "pulled_at": "2026-10-19T17:16:18.133Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -73,39 +137,7 @@
       "title": "Rubio heads to Central Asia as some wonder if he's keeping the most pressing matters at a distance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2Voc3pyWGZMSUI3aGk1dDdlRDc2eUxyR1lIUVdVNDBSZFV0WTJ0VUV3T2czM3dMTzd0RERDREM0REE1UjBIU3dGUlBuTFpfMFU2eGdJYlItR1cwd0xLRlZlVEh4YkFBNHZhOGk1YTVjdzU4SHdsS0l5cl9BOXdadGh6R2s0UHFXck9HUGROWGRJZw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "With Hormuz Closed, Central Asia Plays Every Side—And Gains Leverage",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN1hlemRLZHA0OWlxYjNpaUVoN0UzMElLOE1HS003VlR6QzFzbkF6UXhpNFViWnZPZkNHdVFQUGo1NE16aF9JYmxzak15WHFUZDZyaVI2c3NqYWR5b3VXWHJ0VHVGMVUtWk1rUDRubThMVUxteVNLS1gycmRGTnFmZG8wenhnbFlRR0VXeW9CUmN6bkl0bVpPd3lrd0VkdTUzQk1RWlZCZWxoUkZtQ3h2WUtEUzlHRDgtZFRoT0lVWDY?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Uzbekistan US Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNam8xQjI5ZTJ3eU9sQTFNSjlFNEs4eTN0OEpFY2JEYzk1SEowU0lDR1UyWTdVdnBZdmZEYXpYTmE4WnozSmxTZFZhVmJLYU12XzNfb3lSTGN2UHA1SEhHZmdTU1NFZzFTbTlseDZZQk9fc1g1SGtwdjNueHpCbjBVVWRfbFIzQXBNVU9STElneGY2TmE0T3A4N3RTT1UtZmR4LTBVWDIwdjIzZVF0WUtZZ3JxNUtleUUyeGc?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Uzbekistan US Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWVd2bUcxSjAxelVXSFBneWFKU1lLaG9tb0NNVk1RUjNjNm5SYmtuVXRJUllMRnBYcGE2R1hsU0FPRl9WeEE2d3JDTVVhb2YyT2JwbVV0T216RHo1WU9WV1pxQVN5azJ3LUlDZTBXQ3BMaHd1a2VFVzhlMEFOckVDSUF4dTh5dXdmYUExeVJ2SWIxdDZrNnpOODZ2a1NqTEUxOEE0SXpfTVNrX0F2S1JrZjNhc2NESVB6OWU3bkRYQ285UlE?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Marco Rubio Lands in Samarkand To Lead C5+1 Talks With Uzbekistan and Central Asia: how 11 outlets framed it",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMWh2Y3BzaDZMWFgyN2xoMFRLWHpIb0NkZGpQM0xpRlJDWXNRalNzMjNfWmM2T3NfVzl6aDBZV0RJcXBYc25uVWQzcGpCSVFBYXEtTGdkYWJKQmtzM2pDdEtqSEtHLS1oY3pCRW53aDFsUG43RGNyclN6ZmNZSUdDR0xzVjNjaGV2V2dncmtQMXNVUEQwMWNnZWRtTTgtdW9MRks0RWlvR0hEY0lhLU04bVNacnVEbEpSX1hVMHJ1Y1I0a3hibS0xelBVd0x5X3c?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
+      "pulled_at": "2026-10-19T17:16:18.133Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -113,23 +145,7 @@
       "title": "Central Asia’s $5bn ‘Gas Ring’ plan aims to boost energy security",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUdaWlplTlBseklVOEJBYU9pQUlDMXBvQmFaRlJ4ZWZyNm5WUnFFSHpsclBnak5qUTdYT0cwMGJwdmlvanlJaElFd1BWRlJxSFFfaC1PSGNNbVM2X0N1d1psRVNTUXAzYVVKclZUZHZaUXZVeEIyamVBTWs4WVNlY293ZkJwVkVydE1nbWZob3Vpd2pwd29XUnlZZzJOZ1E0bHphME14Q29uU1BsX0hIejJB?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Uzbekistan US Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2M3bmF3N1h2d3hqZnJ2NldzampYa3lXWFh3X3JQOElfeHhxaS0zRFpYcnVQdEhDWWJHWTJfeVJhUHI5M01pVXZPUWlCLVd4WTJicWp3ck5xNlgwaFFlSnFoYVpPa2hNUF9fMmxaX1N6LVByTGsxNWlybWQtdEo0MzB5WGZ0VlNheGhNVVB6Q3Z1US1JN2ZIVjk1RUFBbGFoTkFOV0dDNnRPRHdMRGJEMjFSNVJlTnQ3dFE?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Wary of instability, China calls for deeper security cooperation with Tajikistan",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQREFVVFRUUFU3LUFldjQ4SXpIM2dKdDBHSkRhX2FZOUd1Y0FFdHZTWU5sMkZEM2k3X0pBWTFHWEJ0Q2lVVnVvNWE2d1VLRW5JeGhqYlZ3aWRzbWJpY0M0Yzh4SXI0a1hGcnRaWmdyb01yeEJDc2JvbTVrcjg2cDZ1Y0hINUtlLXhicU9CQngyNjBkdDV6Vlo5bVpmOWhOQ1g3ejhVWXJfLWtQN05wTzJBV0p1Ty1yTlRpRUh4OQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
+      "pulled_at": "2026-10-19T17:16:18.133Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -137,47 +153,71 @@
       "title": "Marco Rubio arrives in Uzbekistan for C5+1 talks",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWVJlSzM5dXpQOFlWWldYY0JCQWdkSEdVRmlBSEo3N1k2M2dmVC1IMHlva2NYaUpkY1dLeHpZR19jX1ZXNlhwRXJFb01JOEk4UHFqN0w3eVlUWk8tNWpCXy1IeDJ6U3lxU091ZUZVYUJLZ2NhMXNSaUZQUkYwNkhiUjk2aXFfX2V4MVZtNG1DTlhlb05TX29FRnhCQWZFQlBhLWdiNklyYXhPX0pEZTFiU25n?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
+      "pulled_at": "2026-10-19T17:16:18.133Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Uzbekistan US Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPblhYM1lxVmVBTHFXQ0hiN1ZHZWJyWHBnY3BOUlVxYVpoUU9FVkh1M3JOM3JqbUVJZWVFZEhhMXFCVDBWb1VUSWlady02Z1g1aDRrdWphYm9Ec1lLMnNvUlBwN21jeWxuZGtBYzJ5ZW5obDZJWG1LaFhISVI1dUUySmVJUlFSaVl1RWtLdDlPTTNVZTNGZFVubmpwWUV6eXZVQXd5UlRXRmEta3JpV3V0T0JuX0tVWndGUmR5TmZzWk1VRjdU?oc=5",
+      "title": "Rubio leads nearly 300 firms to Uzbekistan, seeks 'fair' trade competition amid China dominance",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHZkaVVYbHpfQ2NhRVZGMnlmbDRDdnFzNEZXZm83b01Vd1Z5a3pUVWgxQl9DXzhDdGMyTEdscWlxZTd4dFhfeU83S0N6aGxaOE1uaUlWT29HYjdzeGJXSGt5dk12Wm15X19xaVN1RDZvMDBKNlpLM09NeV9nUFBZTFBvSzhRWmQ3Zkg3QWlOdGdzcXBJS1RjbmpKUGNQSzhvYXhfSUctSFk3UWNRMkdqNlhkVDBhUVVLY0EwcEpTaDFadVVMVHNnMXJ3WUhyMW5WdUtwcXVxZXNsblNsY1Bub0lOeG5DeVh0TFdv?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
+      "pulled_at": "2026-10-19T17:16:18.133Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "How a $5 billion ‘Gas Ring’ could strengthen Central Asia’s energy security",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12MzdCSmdLbXFYLU1QVml5WkIwM1N4N2t2UHFUajJTRGNEZERVWmlNWllXQk13eGpwdDU4bTVpSTUtSllUMThXVGVxdUNoZ2UzdkN3Tng1bHNOYUhzWGg1TUo5a0pWZHA0N3lFclhnRXRKa3ZuRUZoUXZtdw?oc=5",
+      "title": "With Hormuz Closed, Central Asia Plays Every Side—And Gains Leverage",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN1hlemRLZHA0OWlxYjNpaUVoN0UzMElLOE1HS003VlR6QzFzbkF6UXhpNFViWnZPZkNHdVFQUGo1NE16aF9JYmxzak15WHFUZDZyaVI2c3NqYWR5b3VXWHJ0VHVGMVUtWk1rUDRubThMVUxteVNLS1gycmRGTnFmZG8wenhnbFlRR0VXeW9CUmN6bkl0bVpPd3lrd0VkdTUzQk1RWlZCZWxoUkZtQ3h2WUtEUzlHRDgtZFRoT0lVWDY?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3hONUJJcl9QLU1lWHlLTXVXVmN2UnFicnFLeTV3a3RQRGlib0dPUm1kVTV6WU5KSUc1Mmk2M09RUFFuSWJHcUc3M1FaeExJY1p5XzRHMTFRYXpvR01qNV9uTmdiVk1PLW9HYzBSUXc5ZGNHYkxCcllHcmFjX3hnRHhZVGlCYnl6LW00TVhRak9MQVNKZENRamRybDlVSC1yR1NFQjc4YjhXWHNYMllaa01R?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "From Transit to Trade: Economic Opportunity After Avaza",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZTE1cTZWbjlWLWVmdHJOLUhWc0Z4TW9qTDA1YUJLc3F1SHVhRnRmbjBPbUtoM3B2LWROSDFEUlVERkQtY1loS014NElyYm5iNWdqczc2MXRUdzBLZVV1OE5JdmNLYm8wZkdBZmhPc0VwaEp1eEZiM0ZsU2VLbDRRVXNfaUFrcGhuUkJRWEo4UkQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
+      "pulled_at": "2026-10-19T17:16:18.133Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
       "title": "Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzFfRnFaTDhRbGNiS1FVeDhneHVRV0YtSS1aSlJPcjZiLXR3djNaODJTUmtxdXpzTjJub2FGTGdjRFZzZkRlaGNVRmhPOXFYdlhianBaanFvZlVSSktoNGRjdFc4eGx3ZUxDMUliR0V4SGtoNk1lbXpzNEtwWDlhc1IzRVZiT2Z0cGNoYjBhU2hhZGluYkVjX0J0aFZTbFVsT1E2TlBpd193VHN6cXB2c3V3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0dHUERybFBSaVBwcjI2ME1QN1dwY1RSWGd0YW9xLTgtN241Z1kzWk1pRS1iZEpkdm1mN1ZRUUNuVHlXMGZ3akNQV1BDdzFkOVRMVVdNbGt3aXllaUROcnRndEtaQkNtcGpwYXViLU5IY0RlbS05TDJDQURmRmFWUHR3MU1nMW0wN3F0MTZMeDQ4ZExHSVdYbGpmRlVLa2I0LUJWWFlMRVRuS1IyWnRFU05n?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Rubio Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzlGMHFiUE9DcEhSaG9mVlh4bnByZHRtQktRY0dRNHFqT0xwSXkzSExWNUN2TG5zdzJWMEVacDZ2cjF3UzhHeUVsNTdkeTFLS1daekhnRjB2bDM5VnRadUc0QVhHd1FDYlhKRnhtRHYzdjFxeGdtV0NmTGQzTnZpNE9OVUl6VzhZeF9EeUYxZmhPX0Z2M0l2UjJpVElUZWgzY0gtYl96VndkbFlCSVJiUTN3?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Rubio Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeEFWWmxqTTh1dEwzbFVsc2lRaTNxQzhfUVlhd0wxUXhtMm9qYnBJU2JybHBEc2QwSVZobzNGbmdpZERPRlp5YmtiT1VDeldKWkdqYzFLTWJDV3czcTJZVUQtUVZQMFNBdXhCZXg2MktZbkJSTFRJOHItdlhoSzB2YmR2SEV2TGNfVkV4dzFaVGUtdnVrbWg0ZXA1eFNqVnI0a24yZjJGaFFRMURCOFRBZ01B?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Rubio Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUG5KeGE1Mi1Fb20tMmdTUGRoZFFJWWVHOXlKTHpfR1JJckRRdUlMaUkwVFVVdkpZOFlxOGVBYlhBb2x4UWpNa0p2dGZjNFZ3ZEJSeWVrbVh6SGE1VmZQbEhscUx3UFFJS1JXREw1ZjI2aWd6bThXYjYtTmdudklSTW1aeFR4QXhqaDF5Wm9lRTQwMXhMM0wzNjNuVDBUc2VtQTVMbjFrajFJbzZFcUctNDRB?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Rubio Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONHRndW0zTGxHY08ybWY3ekF4dDgtTklzX1F5ZnhXbmJ2RVB2YThQYnlobW5kRnBVNEdyWWRWSmlTMjVnUkNUNkhWSFg3SjduaEM4dG43LVZncDV4Q2JZb3lnXzE5T0xVeUlxNXJNX0ZBcUIyS1ZvVzlrVE5zdXhXSGFBeUhTclhaWEoyUHU2NzVPMUotSThpSFRiWnk0TzJVUkxrcGlLX2U5TDdEZWpXSDRn?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Rubio Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVjN4ZTFHRkF5ZzluWU1wZlZFT1V0eDVfMkVOc25HaEJZX0JIcjJLdnVScVVNRU5QcmdZek1iaDFiN3FuM2RJdFhwVFFWUzFKcHREbjF1Tk5ORVoxcmROa0xWUmFlWlZORVNwWXZoeWprdERLT0R3MFkwQ2hJb0JkcDc4VzRpc3p5REk4UGt6ZzJmZXhPSUEwV2VJeTl3SmZpcDMzcHpqVXIxTncxMG1FWVNB?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -185,15 +225,79 @@
       "title": "How a $5 billion ‘Gas Ring’ could strengthen Central Asia’s energy security",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJM1JzNm5ZZW9kVVhiWGNKUmZBMkhlZUxmYndmU09Cb1FJam9lWFVfV0dxbGtkQ000bjlyNlh5TU5KMzY5emd3S1FyZktseXBROTA2WnJsa0xsYTdHRm9kNzA4UFBXMUdSY2czcTRYMzhybi0zQVkyMTB1d0JyVzA?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
+      "pulled_at": "2026-10-19T17:16:18.133Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Rubio is in Uzbekistan to promote US ties and trade with Central Asia - The Tribune-Democrat",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYnhwN1pqRnF4NmI1OHowbkotWkpZZFVLUExMcjE0VzcyeUJzZjhLenFmYTVJdURrbFBoUmZTRERSNHl5STl0RVlHckJucXF3cHdseHpVZzRuekoxejd0OUdqZmhaOG9tQ3hKVG4tX3dobTN2VkJHSXhtVTVvTDZvM2FQU0wwSWk0VlhSSW11UF9vdkxWSUwzNW0zb3Z1N21jWnRGUk1jNGRFQVBfNjlFemZsdVBwdlZBdmF1TXR1N2w3cWt2WTk5WThkRlFrZlJueE1ic0Z5U2x4aFVib211UVdn?oc=5",
+      "title": "Samarkand Talks Focus On US-Central Asia Cooperation Against Terrorism",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MQUhrSzN5SEdrM1lFQ3A4R3BndV9DQmUxb1BMWVg4ZGUwYnNxMThnLXFFcndaNTNlQzduZy1HTlphYU5SbVFTRl9LcU1BcjA?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Rubio Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSzJqcm5pTlRLcjdqQkJmQnkwWWdESUVuVDQ2UW1QdnNQS3pPSWg0MG16SEo2T21zbVhIS2NDdFFHQ2ZoR1pnN3BnRGVuSjlsbmF3b2J3QmhqQ05NUElya0JCWXhURnYydm5LT3BSbURaXzNvVGpVS2ZINy1LQWtwbGFrMkVFdE92dDlOUnJ5aVJlSk9xRnNHdXZVTVNoMjZrdl9GNkRJWUhnNkQ3LVJTWDNn?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Central Asia - U.S. trade and economic cooperation expansion prospects discussed in Samarkand",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaHUxTFZFMmlWMVVlenRlWkJpSXRjb3ZNcnFqUHFmb05QV1Z4UVg5aXgxUHI5ZTJNZWppaHphcWFPX2g0MlVHRFlZUTJWb2JHRXk4TGJSblJFbllDTGFuYlZWWFY3QzlndDJFdnNxNFE4aGRUWDJfT3plblZDMUdJTlpVMi00SjdfWmhkNWRNNl9PV241bktzU25wa3h4cXVNeWpxVzFvTW5KSmptQVhiMHdwSE9DU2U0bWxuYUZlaVHSAcABQVVfeXFMUG84U0lUWUZyVVJ5N1lUWUthUTdtMk42WXRmZUdSdWpfdzFxZWt5NWlvTlZDTHZrTVBHeF83LWx2TmxwZHdjbWJRTFdvT1VHTnRQQ3luZGRBTUk2SUFKbUpOOS1zaGdyVnRFbWNxdXh3cEY1aGZ3eEVBTTNPdWtNWlZLUEpaeDJjeGJzVVJpLVhCeDRwYVYzOGMxMWg4NzBBTy1meFN3QVZ1M3BRelhYSG1McXlkN0l4TjR3aUJfeXRo?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Rubio outlines US plans to boost trade and energy ties with Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTzhFZTIwbU9UM28zX2E4WWpwSVJZMGlXeXlRMTU3UHB0ZGg2dXVmWVhqUko2WmRtYkZsVG9DZDdRS1Uwa3REck0zMk02SXZ5MmVIMlVlbVZCbDNvT295TTBzT2hYQnctYTRyWC04ZWgxa256QUhZbE1XUHBueXNhRTZvZ2Uzcmw3OTd4dFNJblZDMEw0Q3RFZQ?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Uzbekistan US Rubio Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOXzdmNFQtUDF1Z1FHOW5WU0pYZHNHOFJtNUgyOVlMbTJuMGp6X18xVkdhYlJFdFZFWlAwRk0xdDhKaUplMFZ4MGtaSjhUSzlSS09SZVY4UXB3eXphUnBUeHFLcFVvWFIxWWRFMXBYZGg1NzRfaDhDdkowZmJDeGJNYVQ4a0FNWmxQaWFTUjRGTi1taU1QTHpTYWRNcGkwenhQaTBPaEgyUTVyU2NBVndYVGt1N3hJTm5GNDJqTzVpTVhPOFk?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Uzbekistan US Rubio Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPblhYM1lxVmVBTHFXQ0hiN1ZHZWJyWHBnY3BOUlVxYVpoUU9FVkh1M3JOM3JqbUVJZWVFZEhhMXFCVDBWb1VUSWlady02Z1g1aDRrdWphYm9Ec1lLMnNvUlBwN21jeWxuZGtBYzJ5ZW5obDZJWG1LaFhISVI1dUUySmVJUlFSaVl1RWtLdDlPTTNVZTNGZFVubmpwWUV6eXZVQXd5UlRXRmEta3JpV3V0T0JuX0tVWndGUmR5TmZzWk1VRjdU?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Air Pollution in Central Asia: Why Winter Smog Persists in Almaty, Bishkek, and Tashkent",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWQwa3RYOFRRYjRlUnRmb3lzTDB4VGdRN2JTdndGTGU1VExjLXZDTXYtS1pQOFNYUWNtRVVUaldmZFJiVER6MlZVcnJZR3IzQlc0aWd1WFdocFpqZWl2MndMam5EM0hJZzZUNEpNSFNKaWRYcTBzLU1ab1RoV1JLckxNeFRJTlQtZ0hldXhIVQ?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Bank Central Asia Implements Company's Share Repurchase Program On October 19-21",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWlQ0OVlzY0dhSWd4VThqOWRaZzhEWlhESloxRVVKdS1uNDRuMXh2NEhaRUhQNDRrMmVZNEFXNmVrdlVWbjd5U1JacWtnTjZKaEtZbzlXaEJNMm8yaTRVaDlQRnpuSl9rU2x1bU5OeXh1T1oxNW9FQ3N4U01jbWRsOUp5dFdUNVFkUzhHOWJYd21PWk93RGpXSFJ5bDJ1SmR6XzFuY0FIaDhoUF9ENGxjRW9IMHpZUm9TTzRRQTNlZFg5YWJUM3Y4Si05ZHdveUcwVmxKSklvQXVHMklmalBnNDJQbmc?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Rubio says US plans to expand trade with Central Asia — Anadolu Agency",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRTBkVnotbVhOWEJxYXVxVXZ6Y01QVElLbXFzUlc4aEgwQ2QydzBFcXVXQS1aVFpLZHFUWU9vWER0aE5ld1llVkhYUi1URm5SMmFpM2IyMGJjSnR5Qi01S3lmOVpUS2t3Wml4QzVWbE9wUVBIZGVIbm5uc3VMVDBSLXd1YWtTUHFqVXhiZnIxMmItWkhyMjc0MUo3b1JCa1Mxd04wbzg2emJ6RDc5ajl1a3FB?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-19T17:16:18.133Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -201,127 +305,23 @@
       "title": "Press Briefing Transcript: Middle East and Central Asia Region, Annual Meetings 2026",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNTRLazY5U0FZdEswLUUyMEtDeHFCUklkOVJIM3lhTkdfRVM3bW0zWWV6WEJsOXI3eXI4R2lxOV9veGdnZEdpaFBYWEdUM0FYSUhOclcwY2puYzU0RU5uS2hPY0xOdjU5cDhkeDBUeVVSa3RpZEEyckR1eDR1YWFmSkkxLW9GU0FWQWxxYUliUnNMeWcyVkNGaFNyWkRXanFiTXVlaWtZNkViUi03UXN0ZkV3?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Marco Rubio pushes US trade ties with Central Asia in Uzbekistan",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT3N3OEZoSTdBS1dudElrWG1sLVgwWlBwTWtSQmFHNzJ4aldDUzQwb2g0dnB2c09fRkU2bko0VzVyNDc0VG50XzIzTlhvS3BEbDJWRDJ0MkFyT1hZeUF4ci1vRWFlSTk5b1lVeWN6ZFJFZGpSSGcwNUcxdENlYTJwTHBja0tCUGVPQTJyd1hsMlhiU2NfdEFXcUdPUWN5bEVLSVNUUXNsRk92STM1eFI0am1XQ3NEYkE3a1M0S3hfRXNCRUtNMHRUUHNncUlhZ9IB0wFBVV95cUxPbGVuWXViOW9UTFlPMEF3dU9yRnBVTzFCakZIRnJwcUktb0MyYTlpaHA4TExxTnBsc25aNTNYV2t2S2VrbXdOZGh4bTN0N2FDMWJHMnhxT2kzcVJqNWY2N1ZhdzRIY0Zhc2V0MXBXaHpGeE03Y2NfSmZKMW5JQTJhQndOTTFsbS1KSkdUSTUxbDhQMFF1bllpQWpaRG9yNFZLTEZubVZkTlpoSjdnUUNDbHVIX3Z2a1BKNFVIZ0lTUzFfWHg2TnNSSUNHT2FzNS1ELS1v?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Slovenian Port Seeks Stronger Transport Links with Kazakhstan",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWF3UkpfelFFV0hDYlRFOG9VVHRyUmZBZ3VYd0hqdXI1LWM5aVVYM0FETnpxZi1xeldjSkZkb1BOTnE1ckphZ3RDem05N21ocWJjWUktSmVDZzJoR29uUXZCcmdiOUZQN1Vlc19KMl96Rmtta3pXNUtGS3dZNGhqamVRWG1CMnNidXNpUklHZE5MM0ZTUW91cU1n?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Uzbekistan US Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcjZRRHZBdXNXZFBCNk02aEtJNE9PNERJWTFvYkpteTNBSVFzVnE5bS1JYXBUSkU4WnYwdVF4Vlh3NVRTazN5OUVISmd1dUlnOHhZX2ZmV1EwSEk0ZnZpc3dfNV9oTW1mclNHVDNYUEt0NDdEMk1vcWRjWkUxUU5fMVkzTjZPWktpYXRhYV9val8tckNCQnVtaG9jaE96SWJPMlBKNWt6M3Exb002T1pNa25KUnZQTmh4Wkpv?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Uzbekistan US Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTHNhdGtYYWVILWZKX0FGclo3dUtRRFhmVlBULXh6QXk4OTczalFRdFNNMnhMZEhxWkx3Z2RtYktWSTcwcTE4c1Y3OEJ1X3ZubHNRcWE0VFRKcGhUMldoV2NUU2ZfQ2pFMEVnTVJia2YzOTZHbzZzejAxdUs0dXVsejBaZ0QydlBZdGZYeGNWdEdfZ1JQZU5CUnhwN19KMnF0X25ZcVhJTHVYRnNac2tUU08yQzU4VTQybmtZ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Uzbekistan US Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0k3MXFuSmxzWDhsQzhZcG80TjFhby10M0tidGJTS1dwbnBjLUxFNWVEVmNDWEhWMGlyNjJkbjhBYUFSVFZmdXZCZmJNd0lSN3hjOXZxcnJnZ1JseVFsOU1kWXBURG1ZV1plLW4zWmpCZ2dyT1gxb1E5dURpS2NIUEpQU2x6UE9Ld0NiT29tT2ZnSFh1VzZPeUVqcHQwZXFQYzdibEIzLUpaZ0tlOXV5d2VmWF9IZ3EyNFNF?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Today's top news: Middle East, Afghanistan, Central Asia, Geneva Peace Forum",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZm14TG1QNVNkS0RaYmNteGEweWthZTI1NERrS0hDNV9ndHptbzh2NURCY2c5b1lxVTQyWHVzZnJEQndlcDctQ2NJV0JDVG0zSC1GM0pBSFloOFV0U2tnSlVOOTRwU2dtQ2hudlBmeWhnYW9EZHZTS1RGa3FCb0VQeHpCWGVWY1NxSTJJWXA1SGhSZ3FSZUhLMmozTkNiaWJP?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Uzbekistan US Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLTJmZ0dXSUFWWlk3aWdzeFJyQnhWaHBHVV9vLTlzbWdKOXlMelUxSTZ4QzNFeGhUQm9IdUgtajgtUjZZd0RneW1PVEhtYWdNWkt0MTNBb09CckE2MERadEVKTTRWYmx0R0VFclR1Ymo1eExYdXNzVGJ1Nmd4MEhKSXdNZVVKaVQtS0RJbS1fa214WnV6OFdMU0NaQ2VKbHp2NlRrR2RqZlN3M2wwaE1JT3RNNW1ZRmkyd3A0?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOVlhV2Y1N05kS1oyZWI4bHAtSHY5OHMzMktFWVdqU0h1TTV6Ukl0dHY4Y2hrMHJNa2JkZi13ZmJaNTR1OHE0UEZGWXJYamZGdERGN3lHNklnN2wxMlc5MUlZZXBtWi1hcFctUGRVcTFCQjJDenZrdkdkQ25kbzRtMGY1LTBmUlJveGoyNmQ4WjZrS2dtTnhUVGRSX0szODZvSHVIWDh6VEc?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
+      "pulled_at": "2026-10-19T17:16:18.133Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
       "title": "Rubio is in Uzbekistan to promote US ties and trade with Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMlVSTG9zTG5MQVRweXVyMkJ5ZkQ4d3luRXpVTl9Bd3JQTElLVlRGV2RRMjVUYVc0MDd2d0VyUE5tNmNhMTBKZGVncU5zNDF4ME9yNk5PNnJuMGJLd3ZQQWk5QU5BaDZwdEpQa0tOVFVfVnJoSkgtZWE2ZTZJUWhXdXVTUmhJNnVMaS1lRUlxUFNmUXBCUVdRbDFsd29sZ0gwZXI3MVVLMkVYWGRyVk9jVFFKalQxY0JNWTd2cVZjaUUzRENBOW9tc0t3cy1JQm1WbkR5RmdMUTk2UFZGbldmU0c3SmhRZ2M?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPazNEMnNPUTlCTGZRLVBocGRMYlRCbTJFS0FCY3U2SEdPYk9kNVNHdF9iaUsxNGRXLW5zd0MzbGZxcDRrNVFxSzJDbVRYTzlFZnlxM2hXT3FpaGR5bV9sd3FMeEdKV01TVU9CZ054T3c5bEg3YkNzWkxlS1JpSFZZdTI0Ml9ZdGxaZU1TcGNvZFQyY25ueG4xMWJaQnQwYjdfVXVQWjZZajdwS2hIZjdhRWFuRGhOQVZEbnRXbUlvcVBJS21ncEZKdEs1R1g3UDRDZEpBSkFvUy1IdjYzV3BfLTQ3XzU4WWFFVXc?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
+      "pulled_at": "2026-10-19T17:16:18.133Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Uzbekistan US Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObTh3b2RVY1VjR3JfQXgyUFAxMjdkVlVPbUdNV0JFdkVwZGh1R3hNSEt5ZER5Z29uZmpjdEk3WlV5a3BDRUo1QUZQb2dOSmhCdVprXzI2T2lIeldfLU13YUJhUnQ0eUg1WFg1T29CaWlGTTA4amJTV3RLYnpIaFpMcG1uWHZhU1ZwaDB1am5fRzU3TlNMLTVYM1lna3dxLTJ6dC1Qa0JtWTgxZm5WU05QeGh2WjhtS1FEaE1n?oc=5",
+      "title": "Rubio Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR2F3UWpYenhvYlNGN2pNTUZyb0hOb0pkMWlTZHAzUGZUbGM4YnpPSi1OakNTcG5nQTJzOTJneTFIYlMyVzduajZ5RGFZRXhSdUhoTVBTbjhKYmptRW1IYU9ibUNibm4xQ09fREswTlVfVGU5SWxCcmVjTlVvYURpdF94Y0Q1RWpXRVFNLXpvYU45dWhmQmpwcnY5T3VnVVc3dkFneXMyY1U?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "China moves to cement ties with Uzbekistan amid tussle with US in Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdEtGLUphT2ZESE5ZNk1PVWM3a2N0SEw4MUMzUXZWaUJ5OWYtMGFhN0Q4RnNKV0UxYlc2cmlwWW16YXJqMUp6VWxTS0FxY1gzMmFVRE5tYS01VU9lTlhFWmZhUmh6SDhaNkY3YndxZEJiTUJQUjlEVm04al9FYVVKTzlEWFJhRGx0aEhFdnhBSjhFazRDTEJFZDJKcFhVdldVbXNqNEpGT1RrTi0zZWdZdnpnM1EtRlE1SVpOaVRDeXljOTQyb015a0lmZ9IBywFBVV95cUxQeW15X3l2Zk9aUlFKSTZLMHdqYmoyTlFoZ0J6YnJMVTU1NGJPa0JwY1NzV0oyYmNENVJYbjZrenRPWUFKbVUzdHJKV1VyN0ptQkJJbXM1dUgyTzV3dmpyZmNPX0w0T05LN09IcVRoYk9HS2hTdUxUZ0dLN1pqcUQ2T2tXWWR2eURvaHdHSGFsOUg2em9mcjVrWWhfZWtjTDd3SkhTZXZTOFp2azNqUlJpOXcxbFBkRDZpV016dDdxZG12RlRySjRZNmNNNA?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Uzbekistan US Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSjdwSS1oQ2p6b1BGVVlpSS1QbTJVNFdPQlhTRFhSV0swOXhqSWZhOFNQOUJFN1RNTzNqemNqLTZ1RzRVQmliVFdBREJHQXh0ejlxZHNRdGlnVmREa2VzNE5MNGRDRlk5NEt1UVMxLVNDYThLNGhsSnJ0Y1BIaEVKSTdJU0dBVDNpd0xHc2J4Vzc1WkxCWGZyWTNhNzlWNG1hRHMxaE03dm45U2FKeVhNeTlST0hzeUtIemdV?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Uzbekistan US Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQME83T3ZCOVZyOUQ0ZG9KNHNTOF85Q3VmbVllQUQ5RUZWenp0YzllWXlYZjg1MmRhTjlzclVTY0h0QlFKTVJlYzhWN05pUy1SOFcyYzJVTmd4S2xkZWFTX2w1b2trZmtVMzBleXBYUktWQUV1U3ktN2hzV0JjLXo2b2IxemtDRC12UDdwOTlfMmxiRDUycFdQRkF4VmxwY2pvY1h5S05xUGJrT2ZKM2xuSENHQ2RWSXFWNjZV?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Great powers compete for influence in Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUDJpb2hGR2ExUXZlcGhtbzdPdmVRUE41bE0tamNxQXVOZzdQam4tOEV6aEJ4SkdXWElYWG1CdmlfV1RGUXU4QzBYV1hKWExLRlRGTXFXUTJhbU1Dd1BkUE1vX0ZQeEJYVEx6M0ppOU80ZGVzd3pmZjQ3cWpKMkpRVDRIZ0lzRkMxSHlpOElmN0dxR2FpZUcwOEE4YjNqXzlYNTJWdEgxX3l6TkNzMVpVb2wwSTk?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "PT Bank Central Asia Tbk : BCA Continues Stock Buyback",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdWkxb1dMRkx6M0wwa2RXSnlMZ3NOZm5rZmY5bXZEVmVTZkJMbkJaWkhfdkdJd0NiV3BQU3l2ZVpySnprcFJMNHBsNEVrYldNSy1FS2sydno1QmVzXzU0YkVkZ0hOLTJSWjFndHVNQ3BBM3RCX3ROYzdQbkp4YTNIUVZmOGp4Rl9UMktleml3bzI4U0pnQU85YnM4R0lncFZZaG94ZXc1Ums?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-19T10:35:39.958Z"
+      "pulled_at": "2026-10-19T17:16:18.133Z"
     }
   ]
 }
