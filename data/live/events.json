@@ -1,15 +1,327 @@
 {
-  "fetched_at": "2026-10-20T15:29:14.848Z",
+  "fetched_at": "2026-10-20T19:29:51.475Z",
   "source": "GDELT + Google News RSS",
-  "count": 40,
+  "count": 80,
   "events": [
     {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "id": "gdelt-aHR0cDovL3d3dy5z",
       "layer": "reported",
-      "title": "Rubio is in Uzbekistan to promote US ties and trade with Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM0lvT0tMd1JoRjZQWnpvQ3J3blJBNDFFc3I0QnlYT1BvdzVkd08zcWhwSjRhSlhrdWVGWGhGQllveGhPNlV4R2FEVXgtRUdlSjJkTnIzbGYxYTBiUlpHOVZ4N2E3dk9ZejdvdXlqSzc2VHFnSVk4R2lVcGNzdFdrT0tSWHRaaWFCUXcxcG5kc2F5eHF2aVM0?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "title": "Deeper China - Central Asia cooperation offers new opportunities for SCO development , says Tajik expert",
+      "url": "http://www.shanghainews.net/news/279387725/deeper-china-central-asia-cooperation-offers-new-opportunities-for-sco-development-says-tajik-expert",
+      "domain": "shanghainews.net",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Morocco to Host 2027 Women World Cup Playoff Preliminary Round",
+      "url": "https://www.moroccoworldnews.com/2026/10/343042/morocco-to-host-2027-womens-world-cup-playoff-preliminary-round/",
+      "domain": "moroccoworldnews.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Sahibə Qafarova Bişkekdə parlamentlərarası əməkdaşlığın önəmindən danışdı",
+      "url": "https://www.adalet.az/az/posts/detail/mm-sedri-biskekde-suni-intellekt-dovrunde-parlamentlerarasi-emekdasligin-onemine-diqqet-cekib-1792518207",
+      "domain": "adalet.az",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Convención sobre Comercio Internacional de Especies Amenazadas evaluará situación de la vaquita marina ; destacan esfuerzos de México",
+      "url": "https://www.eluniversal.com.mx/cartera/convencion-sobre-comercio-internacional-de-especies-amenazadas-evaluara-situacion-de-la-vaquita-marina-destacan-esfuerzos-de-mexico/",
+      "domain": "eluniversal.com.mx",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3d3dy5i",
+      "layer": "reported",
+      "title": "India economy growing at 7 . 2 % despite West Asia conflict , says Defence Minister Rajnath Singh in Tajikistan",
+      "url": "http://www.bruneinews.net/news/279387883/india-economy-growing-at-72-despite-west-asia-conflict-says-defence-minister-rajnath-singh-in-tajikistan",
+      "domain": "bruneinews.net",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Rubio and India foreign minister hold talks in Mumbai as both sides aim to finalize a trade deal",
+      "url": "https://www.wdio.com/ap-top-news/rubio-and-indias-foreign-minister-hold-talks-in-mumbai-as-both-sides-aim-to-finalize-a-trade-deal/",
+      "domain": "wdio.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Morocco Hosts Training of Up to 500 Moroccan Personnel for Gaza Stabilization Force",
+      "url": "https://www.moroccoworldnews.com/2026/10/343059/morocco-hosts-training-of-up-to-500-moroccan-personnel-for-gaza-stabilization-force/",
+      "domain": "moroccoworldnews.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3d3dy5z",
+      "layer": "reported",
+      "title": "More institutions dont mean greater achievements : Rajnath Singh at SCO",
+      "url": "http://www.shanghainews.net/news/279387710/more-institutions-dont-mean-greater-achievements-rajnath-singh-at-sco",
+      "domain": "shanghainews.net",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Suomi kiinnostunut järjestämn futsalin EM - kisat",
+      "url": "https://www.ess.fi/urheilu/9888040",
+      "domain": "ess.fi",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Obituary : Gary Robert Greytak",
+      "url": "https://www.krtv.com/news/obituaries/obituary-gary-robert-greytak",
+      "domain": "krtv.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Куди поїхати у соло - подорож - найкращі країни",
+      "url": "https://www.obozrevatel.com/ukr/section-puteshestviya/news-kudy-poyikhaty-u-pershu-solo-podorozh-mandrivnytsya-nazvala-5-krayin-20-10-2026.html",
+      "domain": "obozrevatel.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9jdXJp",
+      "layer": "reported",
+      "title": "Li Qiang a participat la reuniunea șefilor de guvern ai statelor membre ale OCS",
+      "url": "https://curierulnational.ro/li-qiang-a-participat-la-reuniunea-sefilor-de-guvern-ai-statelor-membre-ale-ocs/",
+      "domain": "curierulnational.ro",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9vcGVy",
+      "layer": "reported",
+      "title": "Após receber apoio de Trump , Netanyahu promete  eliminao total da ameaça iraniana  ",
+      "url": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/apos-receber-apoio-de-trump-netanyahu-promete-eliminacao-total-da-ameaca-iraniana/",
+      "domain": "operamundi.uol.com.br",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93YXIu",
+      "layer": "reported",
+      "title": "Найманці з Центральної Азії в армії РФ – Казахстан , Узбекистан , Киргизстан , Туркменістан та Таджикистан – Хочу жить",
+      "url": "https://war.obozrevatel.com/ukr/section-war/news-mayzhe-polovyna-inozemnykh-naymantsiv-v-armiyi-rf-ye-hromadyanamy-tsentralnoyi-aziyi-z-yakykh-krayin-naybilshe-20-10-2026.html",
+      "domain": "war.obozrevatel.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9ibG9n",
+      "layer": "reported",
+      "title": "新  雅尔塔  呼之欲出 ？ - 博客",
+      "url": "https://blog.wenxuecity.com/myblog/70246/202610/13871.html",
+      "domain": "blog.wenxuecity.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Immigration . Migrants expulsés dEurope : le Rwanda en passe daccueillir le premier  hub de retour ",
+      "url": "https://www.republicain-lorrain.fr/societe/2026/10/20/migrants-expulses-d-europe-le-rwanda-en-passe-d-accueillir-le-premier-hub-de-retour",
+      "domain": "republicain-lorrain.fr",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Rubio and India foreign minister hold talks in India on Tuesday",
+      "url": "https://www.kmbc.com/article/rubio-indias-foreign-minister-talks-india-trade-deal/74192255",
+      "domain": "kmbc.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9saWZl",
+      "layer": "reported",
+      "title": "AFP : В Руанде планируют открыть первый центр депортации мигрантов из ЕС",
+      "url": "https://life.ru/p/iz-evropy-pryamikom-v-ruandu-pyat-stran-es-gotovyat-novuyu-shemu-deportatsii",
+      "domain": "life.ru",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "indian economy growing at 78 percent rajnath singh dushanbe sco visit",
+      "url": "https://www.prabhasakshi.com/international/indian-economy-growing-at-78-percent-rajnath-singh-dushanbe-sco-visit",
+      "domain": "prabhasakshi.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Сборная России по футзалу во второй раз обыграла команду Таджикистана",
+      "url": "https://www.mskagency.ru/materials/3571166",
+      "domain": "mskagency.ru",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "САЩ свалят санкции от  сенчести  танкери , но едва ли ще заинтересуват купувачите",
+      "url": "https://www.investor.bg/a/518-energetika/438271-sasht-svalyat-sanktsii-ot-senchesti-tankeri-no-edva-li-shte-zainteresuvat-kupuvachite",
+      "domain": "investor.bg",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Из Европы прямиком в Руанду : Пять стран ЕС готовят новую схему депортации мигрантов",
+      "url": "https://news.mail.ru/politics/72792917/",
+      "domain": "news.mail.ru",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Pakistan , Tajikistan call for expanding economic cooperation",
+      "url": "https://www.radio.gov.pk/20-10-2026/pakistan-tajikistan-call-for-expanding-economic-cooperation",
+      "domain": "radio.gov.pk",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9mb3Jl",
+      "layer": "reported",
+      "title": "Democratic Sen . Jeanne Shaheen Reflects on Congress and U . S . Foreign Policy Under Trump",
+      "url": "https://foreignpolicy.com/2026/10/20/sen-shaheen-democrats-us-midterms-trump-foreign-policy-russia-sanctions/",
+      "domain": "foreignpolicy.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3d3dy5u",
+      "layer": "reported",
+      "title": "India economy growing at 7 . 2 % despite West Asia conflict , says Defence Minister Rajnath Singh in Tajikistan",
+      "url": "http://www.nepalnational.com/news/279387883/india-economy-growing-at-72-despite-west-asia-conflict-says-defence-minister-rajnath-singh-in-tajikistan",
+      "domain": "nepalnational.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Washington , Jerusalén , Teherán : Hegseth en Ovda , Lavrov en Teherán",
+      "url": "https://www.negocios.com/articulo/geopolitica/washington-jerusalen-teheran-hegseth-ovda-lavrov-teheran/20261020191839496224.html",
+      "domain": "negocios.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Rússia ataca Ucrânia sem alerta dos EUA de novo , diz Zelenski",
+      "url": "https://www.rondoniadinamica.com/noticias/2026/10/russia-ataca-ucrania-sem-alerta-dos-eua-de-novo-diz-zelenski,256856.shtml",
+      "domain": "rondoniadinamica.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Immigration . Migrants expulsés dEurope : le Rwanda en passe daccueillir le premier  hub de retour ",
+      "url": "https://www.dna.fr/societe/2026/10/20/migrants-expulses-d-europe-le-rwanda-en-passe-d-accueillir-le-premier-hub-de-retour",
+      "domain": "dna.fr",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3d3dy5z",
+      "layer": "reported",
+      "title": "在良渚读懂中国 ， 在杭州看见未来",
+      "url": "http://www.shangbao.com.ph/zgxw/2026/10-20/206993.shtml",
+      "domain": "shangbao.com.ph",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9pbnRl",
+      "layer": "reported",
+      "title": "Wieser Replaces Elor on Senior Women World Team",
+      "url": "https://intermatwrestle.com/articles.html/women/wieser-replaces-elor-on-senior-womens-world-team-r101279/",
+      "domain": "intermatwrestle.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly9hbmlu",
+      "layer": "reported",
+      "title": "PM Modi - led Govt striving to make India a nation that combines prosperity , knowledge and strength : Rajnath Singh",
+      "url": "https://aninews.in/news/world/asia/pm-modi-led-govt-striving-to-make-india-a-nation-that-combines-prosperity-knowledge-and-strength-rajnath-singh16020261020215845/",
+      "domain": "aninews.in",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Immigration . Migrants expulsés dEurope : le Rwanda en passe daccueillir le premier  hub de retour ",
+      "url": "https://www.bienpublic.com/societe/2026/10/20/migrants-expulses-d-europe-le-rwanda-en-passe-d-accueillir-le-premier-hub-de-retour",
+      "domain": "bienpublic.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly8yNHR2",
+      "layer": "reported",
+      "title": "Си Цзиньпин может определить исход переговоров Трампа и Путина - что изменят выборы в США",
+      "url": "https://24tv.ua/ru/si-czinpin-mozhet-opredelit-ishod-peregovorov-trampa-putina-chto_n3164356",
+      "domain": "24tv.ua",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "DPM arrives in Islamabad after concluding productive visit to Tajikistan",
+      "url": "https://www.radio.gov.pk/20-10-2026/dpm-arrives-in-islamabad-after-concluding-productive-visit-to-tajikistan",
+      "domain": "radio.gov.pk",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cDovL3d3dy5l",
+      "layer": "reported",
+      "title": "Rubio Trip Highlights US Push For Deeper Ties With Central Asia",
+      "url": "http://www.europesun.com/news/279387210/rubio-trip-highlights-us-push-for-deeper-ties-with-central-asia",
+      "domain": "europesun.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Pakistan expects Afghan Taliban to prevent use of territory",
+      "url": "https://www.pakistantoday.com.pk/2026/10/20/pakistan-expects-afghan-taliban-to-prevent-use-of-territory-for-terrorism-says-dar",
+      "domain": "pakistantoday.com.pk",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "DEAÞ Terör Örgütüne Finansman Operasyonu : 14 Gözaltý",
+      "url": "https://www.memurlar.net/haber/1181603/deas-teror-orgutune-finansman-operasyonu-14-gozalti.html",
+      "domain": "memurlar.net",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "DEAŞ terör örgütüne finansman operasyonu : 14 gözaltı",
+      "url": "https://www.bursahakimiyet.com.tr/gundem/deas-teror-orgutune-finansman-operasyonu-14-gozalti-1733705",
+      "domain": "bursahakimiyet.com.tr",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "Как изменятся цены на автомобили из - за падения доллара ниже 83 руб .: ответ дилеров и экспертов , прогнозы , иномарки , параллельный импорт :: Autonews",
+      "url": "https://www.autonews.ru/news/6ad77c7a9a794733c627df6e",
+      "domain": "autonews.ru",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "gdelt-aHR0cHM6Ly93d3cu",
+      "layer": "reported",
+      "title": "US Secretary of State Marco Rubio poses with Maha CM Devendra Fadnavis at Mumbai Gateway of India",
+      "url": "https://www.ibtimes.co.in/us-secretary-state-marco-rubio-poses-maha-cm-devendra-fadnavis-mumbais-gateway-india-907704",
+      "domain": "ibtimes.co.in",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -17,7 +329,7 @@
       "title": "Rubio Trip Highlights US Push For Deeper Ties With Central Asia",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjVlalgtWVZkN0JDVTVsY2s5REctMXBxOXUtZzF0OHVFdHFQY2lLeVU5RU9FTF96RkY3aEZBRFpLWEtQYl9DSjU3ZnVHLTF6VFVJRVpqZlJnTy13TjZ6V2dsWFotblk2bFk4UWt1LXFkTHVGZEJ6eE9GNmd0UkhXTGxaZk50X2s30gGLAUFVX3lxTE51NHBfVFZIQ0tqZTBKX2gyOGFERTVXZTFvM2lKYXJUUWNDdm9UTENhbWlma2s3anlKR1VRYzU0M0dCWDg2T1gzdkNxSUdwZTFRWHV4Vm8tQzNrc1EydHpkS0hNTHJMS2ZDaFo4aEI4UTZva2xKempCLUNKeUVQbnlZdU41R2JndUFHVGc?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -25,7 +337,15 @@
       "title": "Rubio seeks to expand Central Asia ties with pomp-filled Uzbekistan visit",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRjBMUkU1SEVNclFaMVR1SnljVENrS3N5RUdNcnV5UFZkdlB3RHdiWTFoSFRxcVRBVkRSOEowM0h4bHZyYmd4dDhKYlJQSzUzTUJ2QmxzaGtha2lxUldoLXRPSmczQndXbTNHRWxwRHBhZF9vdDdZRVl4WXJ0M3B0dEJrOWh1SkVzTXhIUTVydk11cEFPaXc3dGZBX0JnMk9hYlpOdkpXc3R3cllKTllGRG5MVC01QkZHNl9Td3J1VHhSckE?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Rubio is in Uzbekistan to promote US ties and trade with Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM0lvT0tMd1JoRjZQWnpvQ3J3blJBNDFFc3I0QnlYT1BvdzVkd08zcWhwSjRhSlhrdWVGWGhGQllveGhPNlV4R2FEVXgtRUdlSjJkTnIzbGYxYTBiUlpHOVZ4N2E3dk9ZejdvdXlqSzc2VHFnSVk4R2lVcGNzdFdrT0tSWHRaaWFCUXcxcG5kc2F5eHF2aVM0?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -33,7 +353,23 @@
       "title": "A Warm Welcome for US Secretary of State in Central Asia - The Diplomat – Asia-Pacific Current Affairs Magazine",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYjBTM3hldFpjVlMyc0tXb0NZdHZBU2JsTXhoUl9FM2tHbWtzZXFUUmdMdWt4MzdjblpPenB1eUtyaGNOVGd4eXV5SktJRVhqUHdXT3JDRXc1b0hfeHYyOVFVc0lFWGJGcXJCRGJqTjVzeF9hNDU4YkZFZktOWkd2aVJESmZUMm92X3gycGpqVU5uODg?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Rubio’s trip generates hopeful reaction in Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNVZINElBUlR2ZXdWdTJSZUpwa1Q2Q2dEck1HdUlKVTZCQmg2MzVlZ0h4Mnd0V2lhd19XajctSUhfNFB3NnVCQWxvMkowZHVnaXFSbll0ZGkwX2IycmFYUXJkQUxObHZ3Q0ZIR1ZhX3UxbktLNkhFMFl1VDNSbk9hRW5LOA?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "US and China Battle for Influence in Central Asia as Rubio Seals $12 Billion in",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZFA1VVpyOEF3VDlWWXJSQkwzRWlnaDFVM1JBa1FWbVgzdEEtc3Z6RlFsY1l3dmVxYjJoaFFaVDNISDY0OXdpZ28wVHRGdEFiZjZIU0xlaE9sRnZoNVJGMmNxbC1TdEFfODc3VFBEajVCbUczWjYwSjVoc01scXVLVXRwd3o5MDg2STRGSjEyTUExUDBMVlhrdzdMSWZQMGJzMFA3Zk41UzRFd1dOMFJvTVd3NDBwSUw3anVZbjVB0gHDAUFVX3lxTE0teU1CdERmaVpqLXdHemtCZXRtQlc5aGlaQUtRZDVFVEZzcmd6bFhqT0FsZUVyS2Voa0lDRl9ZMDRHaFZuLUxvbnNIc3lzbGJyMVg0dkhJZnY5QUpFOHV2cWdNQTFLaDVjMm16Mjlha01qNlBLVGxRMktJc182RHBOU2hTTnd4MFhMOFBMVzRGVnRBNk9LZ2p4UFNrRFdWTm1Qem50UFV2QVhkbTNERTZ5b3h6SzctS3hfaEM5aVJ4M2wwYw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -41,95 +377,7 @@
       "title": "C5+1: Historic Partnership, Prosperous Future",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLYXNvT2hUZ1dodEpLYk03YzBEUXNsQXVHTWhNbFFMNkZaTXNPU1BjTE1YZ3ExbTFvVlc3LTJfRUVXaVlCTWVRWmtOZElMLW13Q3htS2o0TWVwTjhXQlFQS2w3a2dEOE5UTXhuQU85VkhzZGwtSW1j?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "North Korea’s Unfinished Diaspora Diplomacy in Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakJqQ1MzUGRmaEthcndrOXlKQ2pNQTlQZEN2ZlVEcGpLc2RsS0lOTWlUbjNzRzVvTnFIMDIzY3pWOVhPTnJzODlHekwyTVNXSlI3SEJNelhsbFVnYzdDTTktQ3FUNXF0V0hITGlqV19kSnNzT1BGS2FObnFuVnlxMmdHS205MDREaFVWMUNYSC1td1dlT1E?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "US is coming to Central Asia with deals to stay, Rubio tells Euronews",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmJvVmFZdDMtZC1mNHpGUVhqTGdERjVNRkxMTEdaYlVKaFdRS3o5Smp3Skp4SUZud2RGLTBYbzVYbGx0TnlXOE5DZDRNWmNCY1luLWdFZGRZWjE5RmFwaFJsTVJtb0ZSY3RGN1E5cFo3WDVkRzY2YUpEc3N1WldTY3FLcW42aDZOR2E2c3VMVmZJMEFIMHFMeTdPQ2VLNy1DNHRleXhvUQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "I spent 4 days in Uzbekistan – and can’t wait to go back",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZGtjVXdKblB0U0RwODNHUWh4WWFjdDZJU0twd0doVk1KUi1BeEdrbEZCQ0Y0b29mV3VYNmNKQWtyYVBQZ0tpNzVIYmlRejVzcDdBa0Z4ZHdkaGpPblF6clJlZlhldVNRWkZFV3ZMelFUbE9aV3c3Zm1qaDQzVW5aWDVYZjNzMlVuMVMwb3BTckRiX0lUSkJvaGxobjdodVZKVDhHVkR5OXBVZUVoU1dndDFXQnFUTzVWVlJrbnRpbTh1akpWQnhQaGNWTVhJMHRiaTd2UFBB0gHWAUFVX3lxTE93eVlza0VQbHN3OUxxOG1OeDNQWnZXTkN2VGgxV21fSi1BMVRTb1VHT3NvNERlY3hEY3dfQmxkQWlJVDNVNUdmOTd2bnc5Y2JoZDJzM0FhQXBad0pLQi1DcTlyRHE5TlN6ZUk2S0JHVUJESmxWamI4cm9HaWFiNGdLeHVCN0oyY08zWkNFYzBTLVN4S1pCV1lyUnNjLS1SRUdEa3h5RGRqQmFzWGFLQmdNUGd1Y05EdW9xdW9nQmpXcVIzTmppUjdKUjkwTFFkT0JLWnl4VlE?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Japan Eyes Middle Corridor to Expand Trade With Central Asia and Caucasus",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdzlhRW10R3hUV2l2dW5oUEt0OXJvMHBkdmI0NkN6WnNXeTM5ZEp5MGpxMk50dGdJU3Vpd2hpM1M5NE42V2dLZm1tY1ZNWWhBTllsSVNISW1TNnBaMGFNY2ttajhwWC1feWNsTHpjM2MwbVdBSEU5QklXS1RtNEFtQjZRUmNzYjN0NElLQmwzT3o0bjk2Z2ZHVlQ1WU9LZ0FMT0hpY0IxZU8xZw?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "South Korea Broadens Multifaceted Ties with Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ0NmZlJRUmQ4NEZwQjVFRFhLYnpRT2paaU9KZVRKM3Y2azlSWGxFb09WdWZQOVhnOG4xaEcwZFRhbTBaRkdPZTJma2o2VFB5TVdrZVh2cEgzRHhHSjJ1ck9POFd3QVlzaDJJdDBLUjhfam16WVM3eFJ2dFRNQV8wdkxRTHVzQQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTndwdm9NeG50RFpfNlAzVW9LNGYxT3FSekZ2UVlMUGVReDQtMzZLTWxWZVN4elh5SzN2d0ZjYXE3eF9LY3dSYW5HbDB5bnhnUWZCTUpndTRKTDZBcFRmRllGYkwyZEV4cGhkN2tYdU5pamJYUkl3VWdTLVhzaV9LajVHZ2hyOC1RQmh2V2xOektfSEh0a050b1BHQmtxMy1OdXpGMTlyQXZJUQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQW5RNE5jZUtMVWRTZDRtMEp5TGxPYk9VRFJKSlROQlQ3djh3a3plYlhuUWM1aEhOMnhYQzI3eWF4MmZtVW5waUtubjU4U0VFNmszWnMxWWpNY1ZoV1IyS0xOT3N0TmFteFYzbENUTldlRGtZLXFaOTl6eXpIdWRvYVdUZFBWV1dNZnZ6T1RNT1RKWHAySW5VcW0zdVZsYWpNU3NMam92RQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Iran Pushes Central Asia Trade Routes in Kazakhstan Talks",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CbzF3U25EM2dNSG1rcXBiQXk5N1c2bDFScklhYTNrc1hPS3A4TTJlU0pGWWg4SGJjZHJBOFRVV2NCcFhjTW12c3hKd2FkNDktRmc?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Rubio heads to Central Asia as some wonder if he's keeping the most pressing matters at a distance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2Voc3pyWGZMSUI3aGk1dDdlRDc2eUxyR1lIUVdVNDBSZFV0WTJ0VUV3T2czM3dMTzd0RERDREM0REE1UjBIU3dGUlBuTFpfMFU2eGdJYlItR1cwd0xLRlZlVEh4YkFBNHZhOGk1YTVjdzU4SHdsS0l5cl9BOXdadGh6R2s0UHFXck9HUGROWGRJZw?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Rubio pitches US business in Central Asia, says China ties need not suffer",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWNWQXpxNFNBWlVXMGpGSjI5aFhtMXk5WW5fSUppTXFJMld2U3BQaVZrSU1zejNISF9VeWw1Rzd2eS1lS3N2QU1pcDFWUE9yQjZrQTkzXzctZUdWNUYwa2xtaFE1ZHZBaVo2SXpHRXlQMjVhSXl5OUtTY05Ic0ZUNy1ObDZxeXhROWhlUkp2a2Q1WmFEY2UxTDhPT2pRbFNuSmVNSWRZUjlma2QyOXc0UmJVaHlFZ9IBtgFBVV95cUxOczhUR2RhYVVxV1o1bjR2NjZOcGtCR3Z0S3htYk9GWmJVaTdXN3dlTTZRQ1ZkZ3JYRU1wV18tUDMxeUZiak9CWTRaQ0Q1LXR2ZHZNQ3JaSFVtd1d5cUN4dUhsZkpscnlURWdJbVJNelIxSDV1SmxKWGpVeTl2amJleFp5TU5XaUxXQzVyS25vYnAzS1VOTVRHNHZjUUh4Sl9pdGVzcjJfTl9DZWtybUdtTDRVV1JkUQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Rubio focuses on trade routes and critical minerals in Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYUMyZF9WN0p1OFc5T20xZHlsRmNQcFhKR1FVN2RubzJkODNlRklXeWszdDZVdXRqVGtqTV91U2NjT24wNlFybHdFakdITWVNRXo0QVdwU1RSMVlibURzU2RXYTJaNFh1NDl5eGpXem5odFJObjVnTC1pa1Axa296Tmd5SEVmNUlGX0NXX3dxcFVubHVmU05ZODBLT1UydUlKQkpMbDQ5U0RyNTExVGdJdFYxT09WY29XbzBGZQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -137,15 +385,47 @@
       "title": "Washington’s Central Asia Strategy Runs Through Azerbaijan",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZXRnVU41akZrNklBR2g2VndoZzZ3akVsYnpWN3VKZjZyZmE0NFVpMjFxVEQ2Y1J6TUdSWk15T2htaFNVd2lPalpybmNzWGJtWDZheENrUUxWR3pMU1pFYk1iM2dZWnQxM0pUM2Y2RG54R3NrV21tbldoVzZHdFZpdTFzQVU5LVFXX2hxU040bnUxZ2JT?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Paidax raises $1M to widen retail investing across Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdkIwVTdNUEY3cVExeHFsdTRFNmhVT1Z5cS1XQlpYNzA4aExKU3M1TDctUTl2OF9aRVNBTzVPdk9OelY0dUdyNzhvd2ROUE42c242dU10ZnRTZGN4ZVFCWC00ZDZwR0JzakJWZHBVY0FiSFo1WUcxQURsODZQQldNS3pYdWg1M1drVzg2T25TUFZHbE5FdjVtemk0YWU?oc=5",
+      "title": "US is coming to Central Asia with deals to stay, Rubio tells Euronews",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmJvVmFZdDMtZC1mNHpGUVhqTGdERjVNRkxMTEdaYlVKaFdRS3o5Smp3Skp4SUZud2RGLTBYbzVYbGx0TnlXOE5DZDRNWmNCY1luLWdFZGRZWjE5RmFwaFJsTVJtb0ZSY3RGN1E5cFo3WDVkRzY2YUpEc3N1WldTY3FLcW42aDZOR2E2c3VMVmZJMEFIMHFMeTdPQ2VLNy1DNHRleXhvUQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Japan Eyes Middle Corridor to Expand Trade With Central Asia and Caucasus",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdzlhRW10R3hUV2l2dW5oUEt0OXJvMHBkdmI0NkN6WnNXeTM5ZEp5MGpxMk50dGdJU3Vpd2hpM1M5NE42V2dLZm1tY1ZNWWhBTllsSVNISW1TNnBaMGFNY2ttajhwWC1feWNsTHpjM2MwbVdBSEU5QklXS1RtNEFtQjZRUmNzYjN0NElLQmwzT3o0bjk2Z2ZHVlQ1WU9LZ0FMT0hpY0IxZU8xZw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "North Korea’s Unfinished Diaspora Diplomacy in Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakJqQ1MzUGRmaEthcndrOXlKQ2pNQTlQZEN2ZlVEcGpLc2RsS0lOTWlUbjNzRzVvTnFIMDIzY3pWOVhPTnJzODlHekwyTVNXSlI3SEJNelhsbFVnYzdDTTktQ3FUNXF0V0hITGlqV19kSnNzT1BGS2FObnFuVnlxMmdHS205MDREaFVWMUNYSC1td1dlT1E?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "I spent 4 days in Uzbekistan – and can’t wait to go back",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZGtjVXdKblB0U0RwODNHUWh4WWFjdDZJU0twd0doVk1KUi1BeEdrbEZCQ0Y0b29mV3VYNmNKQWtyYVBQZ0tpNzVIYmlRejVzcDdBa0Z4ZHdkaGpPblF6clJlZlhldVNRWkZFV3ZMelFUbE9aV3c3Zm1qaDQzVW5aWDVYZjNzMlVuMVMwb3BTckRiX0lUSkJvaGxobjdodVZKVDhHVkR5OXBVZUVoU1dndDFXQnFUTzVWVlJrbnRpbTh1akpWQnhQaGNWTVhJMHRiaTd2UFBB0gHWAUFVX3lxTE93eVlza0VQbHN3OUxxOG1OeDNQWnZXTkN2VGgxV21fSi1BMVRTb1VHT3NvNERlY3hEY3dfQmxkQWlJVDNVNUdmOTd2bnc5Y2JoZDJzM0FhQXBad0pLQi1DcTlyRHE5TlN6ZUk2S0JHVUJESmxWamI4cm9HaWFiNGdLeHVCN0oyY08zWkNFYzBTLVN4S1pCV1lyUnNjLS1SRUdEa3h5RGRqQmFzWGFLQmdNUGd1Y05EdW9xdW9nQmpXcVIzTmppUjdKUjkwTFFkT0JLWnl4VlE?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Iran Pushes Central Asia Trade Routes in Kazakhstan Talks",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CbzF3U25EM2dNSG1rcXBiQXk5N1c2bDFScklhYTNrc1hPS3A4TTJlU0pGWWg4SGJjZHJBOFRVV2NCcFhjTW12c3hKd2FkNDktRmc?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -153,23 +433,23 @@
       "title": "FINNEXT Asia Forum in Tashkent to Discuss Central Asia’s Financial Markets",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSWJRZkdJRHVESlVtYmdwSDZoY0EzSGxKbWMwaWRRSnRLcXhrR09UVmwwYlJSbTRhVnRzOGpiTUU0RDhNX1pKa1pTUUdmYS1uM1ZiMFQwQlVTaldZR0xnZzNtNDhZNkdFV2FtYk9PZ3d3SFNoalNOaGZBdWhJc3Zrb3N6bXdFMkk4QV9FSmpLT0l4LWJRWVJNUXdn?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmNmaE5qRVVIU1h2THdiaEx5V2FQT3NQRFg3QjU0UV91cF9PeDE2RGx5TlBYQk44TUxwQjJyaVBRaHp0Z0lBNWxRSm5PNmEtd2QxcHFMdVFXcGZyUmxLUzk5T1hyR3hxcUsxeGpBN0dWOVBIN1FILUlLRFBLTTFOVFhzUDNLX3lXd19FUDN4TFFpVVZWemN4YzV0UFNZQXBodkJ5RHVSTVZMakVVWWRmaUhR?oc=5",
+      "title": "South Korea Broadens Multifaceted Ties with Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ0NmZlJRUmQ4NEZwQjVFRFhLYnpRT2paaU9KZVRKM3Y2azlSWGxFb09WdWZQOVhnOG4xaEcwZFRhbTBaRkdPZTJma2o2VFB5TVdrZVh2cEgzRHhHSjJ1ck9POFd3QVlzaDJJdDBLUjhfam16WVM3eFJ2dFRNQV8wdkxRTHVzQQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Rubio and India's foreign minister hold talks in Mumbai as both sides aim to finalize a trade deal",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZVFPbUhGOWM3WFNWM1dDNEgtQXNjdjB4OTJ4UjQtTDhVZ3AzNkFuUGFPZFpPOWFqbWJVUElwVk1LTjNRZ0l3S25oM3VUdEQ0Q29BNk1kLUVhZzNoMmR2Yk5naWNkY213Y1hWOE5WZ3ZSNXNMR3BQMmliRWQ3NVJxZGhJdElURm5QLWZIbTBSRTk1Z2ZxVGY3dnQwZVNiQjRJc3BEenlENjEyQTRDc2JQN01MZzFyQzA0WWFEYWx4UjVOMEV4Q2YwZUJvTnFmald2VUItWDRjVm5UY0dkd1Fxa2Zad0o3SXhqM1VfYjN4aEdIdGREVXNzMGwtOUs?oc=5",
+      "title": "Paidax raises $1M to widen retail investing across Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdkIwVTdNUEY3cVExeHFsdTRFNmhVT1Z5cS1XQlpYNzA4aExKU3M1TDctUTl2OF9aRVNBTzVPdk9OelY0dUdyNzhvd2ROUE42c242dU10ZnRTZGN4ZVFCWC00ZDZwR0JzakJWZHBVY0FiSFo1WUcxQURsODZQQldNS3pYdWg1M1drVzg2T25TUFZHbE5FdjVtemk0YWU?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -177,31 +457,47 @@
       "title": "With Hormuz Closed, Central Asia Plays Every Side—And Gains Leverage",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN1hlemRLZHA0OWlxYjNpaUVoN0UzMElLOE1HS003VlR6QzFzbkF6UXhpNFViWnZPZkNHdVFQUGo1NE16aF9JYmxzak15WHFUZDZyaVI2c3NqYWR5b3VXWHJ0VHVGMVUtWk1rUDRubThMVUxteVNLS1gycmRGTnFmZG8wenhnbFlRR0VXeW9CUmN6bkl0bVpPd3lrd0VkdTUzQk1RWlZCZWxoUkZtQ3h2WUtEUzlHRDgtZFRoT0lVWDY?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1ZVRTB3NFhfQnV1RGdBODJGd3F3X3ZOclQzTlVrT05MVlNnU3FNN1g3Uy1oeGh0V19vS2JfTndDNjBnN29RWDdUUXRqWEJIYkJ2LWZWTGlna3RDbTgzOGJuMGtDaW5aQVB3RWVRUFl4UXBnNlgtTVBFMTF2eUV5QThoTjBvZHVwT2VaUkpwN0RXckFMT0IzWVFQVm5lSUdsWDlBWmhVdU9ZaXNadXBWc25B?oc=5",
+      "title": "Kazakhstan attracts two-thirds of Central Asia's foreign investment",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc3RZb2V6UExORVVuN2x3LTVkUV82YXMwRTZrMmU1TjVnOHJoV1dWZmZaM1FQYTBOYnRXUDFXaEF2OTV4VzR3VWU0emhZUmF3VG9WTXR6alM5RDhseDlmdjd0bklhcTl3OVJfMHhmc2M3OU5hcDdMMXhTbGRJQkRmcm9jZWhvU1NIRU1OS200SHdYenU2a0poYm05UzRQUGM0U2fSAaIBQVVfeXFMTlhONmx2WmtKRjFON1d4QnNWZTdqa25Tc015bXI3ckZYZ0pSOUJKYWNOR28wN1BwRWc3Sy1tOVh4UTk3Y1R2ZFBDLTMzcEs0TG4temtPSF9jNkxWTVJsOXotNWlkWkxjQ0dzRmhCc2pWTmxrWG0yQ0FSM0VlLVMxWXZfQkhPTG5rNm5MLVFudjFFYndNTC1OcDUtRmtxd0h4QjhB?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Rubio’s visit to Central Asia boosts trade ties",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yY0k4eS15SVV1LVRhUGlCWEQtMndzZHM1S0V6ZkZHMTNGWjc1WllzVzBWVlRCSGdlcjM1LUJPTE9BX05udjRQTjQ1WG9QZ0N3V2hiU3hsNUo1OGNxczdXem9CZWJMQW9oQ21xWmlrOThXTndBZEtyOA?oc=5",
+      "title": "Rubio heads to Central Asia as some wonder if he's keeping the most pressing matters at a distance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2Voc3pyWGZMSUI3aGk1dDdlRDc2eUxyR1lIUVdVNDBSZFV0WTJ0VUV3T2czM3dMTzd0RERDREM0REE1UjBIU3dGUlBuTFpfMFU2eGdJYlItR1cwd0xLRlZlVEh4YkFBNHZhOGk1YTVjdzU4SHdsS0l5cl9BOXdadGh6R2s0UHFXck9HUGROWGRJZw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Five more Central Asian cities join regional coalition to strengthen disaster resilience",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWUFqc1kwWWthMjl3RTZSQkJEUE94eXlRUnUwMHZQZHhlUTRuU0NobVpWZnNRRTI3dEpUVFlVdTFBSEhERHI4OU53UktrX0gzX21ldUlKNXFJTEEtUlFjSE1ETTBOOFQ1M3NOWlNmalItWUFkSzZ5eFNMT2E5RE5JUEU1WlVIUXBvRmdhNHZrZVdVSFBGdmsxUkFhdU9DNjdGRjUxcEgyNXhQVTNNMzVJbDZHd0x3cGJKZWRBa2lJSWVwS3VNemRZNXF4UWM?oc=5",
+      "title": "Rubio pitches US business in Central Asia, says China ties need not suffer",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWNWQXpxNFNBWlVXMGpGSjI5aFhtMXk5WW5fSUppTXFJMld2U3BQaVZrSU1zejNISF9VeWw1Rzd2eS1lS3N2QU1pcDFWUE9yQjZrQTkzXzctZUdWNUYwa2xtaFE1ZHZBaVo2SXpHRXlQMjVhSXl5OUtTY05Ic0ZUNy1ObDZxeXhROWhlUkp2a2Q1WmFEY2UxTDhPT2pRbFNuSmVNSWRZUjlma2QyOXc0UmJVaHlFZ9IBtgFBVV95cUxOczhUR2RhYVVxV1o1bjR2NjZOcGtCR3Z0S3htYk9GWmJVaTdXN3dlTTZRQ1ZkZ3JYRU1wV18tUDMxeUZiak9CWTRaQ0Q1LXR2ZHZNQ3JaSFVtd1d5cUN4dUhsZkpscnlURWdJbVJNelIxSDV1SmxKWGpVeTl2amJleFp5TU5XaUxXQzVyS25vYnAzS1VOTVRHNHZjUUh4Sl9pdGVzcjJfTl9DZWtybUdtTDRVV1JkUQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Rubio and India's foreign minister hold talks in Mumbai as both sides aim to finalize a trade deal",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYmpsa3lVQmJ1SDd1enJaQV9hazREX09BTjdKOElSVXV2WUNxUVJ0dkwzd3pHWkFSQXdnLUFfbWFmNzMySmhkUW1SYUxQV1BxWjUwaTQyUGdOQWRIMnhDYk9NcllZcmU5NmtsMnVuVFZnMGxpTDBDYjd6N3FPSlN2SUN5VmY5MVlQb3ZkWGxsMHBzMGlBSXpHc2NrejNoZnhsbVBVaUdxUm5MU0ZfeHp2aHl3WHFnVWZ5bGRrcGM1VGpzeXpvYzVqVHQzaVIzVFZIcnRWbnFkSWVMRkM0aG1FNzVnSXFPQ1hET1YzeDRKSjNzaXUtamF4UzRYc0F0U1k?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Rubio focuses on trade routes and critical minerals in Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYUMyZF9WN0p1OFc5T20xZHlsRmNQcFhKR1FVN2RubzJkODNlRklXeWszdDZVdXRqVGtqTV91U2NjT24wNlFybHdFakdITWVNRXo0QVdwU1RSMVlibURzU2RXYTJaNFh1NDl5eGpXem5odFJObjVnTC1pa1Axa296Tmd5SEVmNUlGX0NXX3dxcFVubHVmU05ZODBLT1UydUlKQkpMbDQ5U0RyNTExVGdJdFYxT09WY29XbzBGZQ?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -209,23 +505,23 @@
       "title": "Armenian Flowers Reach 30 Countries, From Europe to Central Asia",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSy1Vdk9LSGpVdG03WllrejR2RjdhRVhsUWMxYkgzVkhEaUZ3UllkaGJPZE9manczdnE3cF8wWDlyQ29ua19CbFoxbVRONFREODBDZkNJNkJXdEJGUmJaZTJSNkhMVk9hWEJhdEdhb2ZRdE9DNlNOejlER0c0dnl4UENOdjZWR2lqNmlLY1E5Xzh6empTMmdUVVNlYw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Japanese Firms Test Middle Corridor Freight Route as Tokyo Funds Aktau Port Upgrade",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SRGlJb3N5WFdZd1NHcENCMXBoMTVtTzYxSlFxYlFYZlBOUEhKVkJoODdoRHVfRVVMWG5kb2pucHRhR3V1dFZ1WElZeGRac0hFcDlsODZxVlJrV0gzcFJSUGY5VU53d1pjN2dVcnVn?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
       "title": "Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZE92Rk1PNlc0UFRLRUVjSmZ3ZzIteTNTZDdqQVRIYkVleF80MXUzMEpFcEZqdllhU3NNTVZieHJCWkt0Qm52QUdoNER2eVFKYmx0ZlZ1X3dWM1RQbGZUYmo4NlNvRGV2NzhtMDI0MXE5X2IwWE52aWQ3ODBEdGFvRjlaR3VqOHpFNU5xWFpENGhhQjFJdHFvYUEzYTdZVjNUU1ZHVEpIekxlbUR3WnRJVTB3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1ZVRTB3NFhfQnV1RGdBODJGd3F3X3ZOclQzTlVrT05MVlNnU3FNN1g3Uy1oeGh0V19vS2JfTndDNjBnN29RWDdUUXRqWEJIYkJ2LWZWTGlna3RDbTgzOGJuMGtDaW5aQVB3RWVRUFl4UXBnNlgtTVBFMTF2eUV5QThoTjBvZHVwT2VaUkpwN0RXckFMT0IzWVFQVm5lSUdsWDlBWmhVdU9ZaXNadXBWc25B?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Central Asian States Set Out Priorities After Rubio Talks in Samarkand",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOUFtR3M4bmxtejNhRlA4bHR4dnF5cEJIZ0lWQ3RVS2JXS3Y2dG93a3ExYlNhbDF6MkhKVFpDN0ZaMjI3a3NoajE2QzExWEMwd0dhb3Nqc1hHZHZPenFPQmFjblpja3hZajhSaG5BcGJXazFnRG5OMUdpMXR1ODZJeW5rVEYwNFNQSm1mOHVtNldra3lISGc?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -233,23 +529,15 @@
       "title": "Rubio seeks to strengthen US foothold in Central Asia",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83QWtDY0ZqcURKUWgxby1ZcXM4VE1xNDExSGlFV1lYeFJVUVJtLXpDaW5qeGs1eTgySHk5Z1NERXR2dzIySHI2YmU2VHpod1I1bEYzSDFqNlBRTmUtMXRnUWVVN3RPTW02WUpQZ3hJSkY0UTJjQVdMaWln?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Kazakhstan Drops Drug Charges Against Russian Rapper Navai",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONjh4ZXNQQkF3Y3o4bVNzVHhkV3MtWndVb2RWOFdRT2RJMldONXVNS2I2ZS1VM09VSVM4NTJTSkE4RDEwUlU4S1lyNWk2MjJTS0g2dDh5ejgybUw1N0xXMGpobGotdngxU1hVUmFybllxcExFQ1FFQkp0X3Bfbk1qS0RZOVFIT1NZTXViWkNTSHhTRXZfLXBjTU50b0l2TTZ5RThFUTZFeUJta1E?oc=5",
+      "title": "Rubio Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORDdnWnlieTMwQ28yVlVRZ0V2Z2lHRHF6LXlhSVlJNWVJQ1h4LUs0dDVSTy12VTljT29FZUZPMC1hS0tGRlFzN3pTNG9EeWFzLXFySGFJTXlJZkNXZklDaUZwMWJqbDBGbVExNzRJRGluZXhPVDJwZndEN0pyRjBtQXo2Zk5lbGd6ZlNyT0JxdV9pMEVfMXNxVnFIVFlDVkQ5TDlnZWFTSVhKXzNNNExJZ0h3?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Ukraine, US hold Norway talks as Zelensky, Trump tension grows",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLVZLYmJ4emRKbmlLVVo2QmU4cE1nX0taQ2NMUWp5NjJ6WnZ4MkV6T1pzeTQxc0ZyYkJpd1N0M2tGTHNoMEFTVWlCQmpSeV9vT1Jrc21vcFd5N3Q2aXdsamNfNF9YcUNSZ19tbHIwSjJJaGx4ekMzMy1ReW5xV1k3Nk1RaTdwV1R4Rk9rMGYwSUZjQVozMW1wSnhFYVFZd2hVeVR3LUhiNEQxZzAxU0Nud3AtQlY1U1VEaTMxRWVTWHczV2NlVnhjeGduaWJjMVBld2Rv0gHTAUFVX3lxTE1XVUlLb1hzcVFQbThTNWE4VnZEdWtUcGRQYTR5MDZlUmRYUXh6dE1UZ2ZOaFhETUZMeHlPdk1ycG9NOEZaUXZrS1JraU9mRmJLTzRtQllKVkhQQXRFaWZsRUNXcl9zMGN5d3BTc1NPaXdBLVZWNnFFQ2Y1NDBXcU04QlVLeTVpNGVmUjgxTlpWRDZvOU5OcWNuMWExNEFXM0VMbVdQOHBuVko2Mzd0SE5xVVotYXM4aVR2Wmp1VVBsalJUcHA3MkdMVms1TWZvdGV4SkE?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -257,55 +545,31 @@
       "title": "'We're Never Going To Be The Major Player': Former Diplomat's Reality Check On US Ambitions In Central Asia",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSHVRdUVGNVNwc0NpTWxFSXd6LXZvbFVsSUdfZHY3dTBhdmtIY3ZDT1plLVNkR1lQbnA2Y3lvZFJRbmk1aTFHc2JtOTNjXzFkS2Vhd3lqb3otMXZpYmRQa1BPYmdxLURlenVnanRkNWp6RWRpWFp0RGtweDNIeXpGZ204dzI4TWFfWTdLb0xSZmxYbGZTR2FlYUJEUU9jRlhTOTZnVGw5TFNWU1ItdmNhM3VtVjgyNUtaMmVpU1M1Y25BX3FQV3o2ZFJad2tTdl9qNjRWNjdhNl9OQdIB3AFBVV95cUxOTl9pRENRUElJck5ueUZPNTVZWVl3ZnpMR2tvWjlIeElSbjQxWnpQWTdPTVBSZkh6ZmFIeUJJMmhnb2JzOU9ua3VzWktCczVTN3FxUENVdVo2NjBJbzIwY2J4aDduNGt0Wm5ZdU5vcGxIRHpzalptWkpKVTZOMFZOb0hramw3WXI1aUtMamItaVFPMERZR0Jxa21qNi1QOThvenc4c0hnVTVIaThZSmVld3VGU1JoaV8tNVJhUkw4em5nOGZ6c0JZNHJyNFM0SUxZTnNwcFJFZmFtc0Q1?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzBERVlkLVBrSXJoa21VVkRybHFfQzJxZV9ubU1FN0xjWlNoOXQ4QzV5czFlS2dEM0gxWTQ1bjFMbnY0Zl9yTzFXa2p1eEN3MjlNcmVZa1dfU1JRQ2gweXpXcnhCYUd3N3hNSG1zNzZkUU0tTGsxTm84RVhfUHVqZW5qdnV2UG8yYTJzN2hXWTJJeldNbVlPUXZ2UDRlcnJWTG01OFBPTUpsR2FQT3ZsLUxn?oc=5",
+      "title": "Uzbekistan Announces $12 Billion in Agreements During Marco Rubio’s Visit",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORlNPUGZ6YkhLVlR0TUQxb2xaenpDalFqNVZNbkxhX2QwcVNxcVdKV2dwd0ZPNHdkM1VCdnlUeEdFWHRqdjRjTzRWRXItTFplNEpnYTVya0tIUWsxRHVsekQ0RzdYakNHQVVuV3JqamhfVUJ4OVBIODRsbnhkb0l0bVZDZGM0UnV0SGUwTnNxSEpaSy1XaTJB?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Deeper China-Central Asia cooperation offers new opportunities for SCO development, says Tajik expert",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HNUdCREhZOU1oOHEycUk3MS1JYTRGV2w4UkF0a1A4LUtyWk5xaGg3SWRMZUdDZ0w1MllXLVBWQkxLOE1ZbHlqSE5rclVBUWxCYjVKMVZkYlExdmpDdUoyYnJaLTdtQXdwOXJKS002TVBWUFZ0RlFja2twV1E?oc=5",
+      "title": "Central Asia’s $5bn ‘Gas Ring’ plan aims to boost energy security",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUdaWlplTlBseklVOEJBYU9pQUlDMXBvQmFaRlJ4ZWZyNm5WUnFFSHpsclBnak5qUTdYT0cwMGJwdmlvanlJaElFd1BWRlJxSFFfaC1PSGNNbVM2X0N1d1psRVNTUXAzYVVKclZUZHZaUXZVeEIyamVBTWs4WVNlY293ZkJwVkVydE1nbWZob3Vpd2pwd29XUnlZZzJOZ1E0bHphME14Q29uU1BsX0hIejJB?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcTlCWll3eHNkcC0wdktpMmxvZWFHd0o2bHk5V19TZDNUZ3hLc19vRUJlajVRRzNWM1owa2dGUFR2TGxjLUdnT21PT1pVemxuNEQ1RHlRU0R0WnBfajEzXzRhZW9sVHZLeVg4dVhyaFlTaTltTG5EenctZlNkUE16NnR3SnFGc3B0R2h0ZHZ1dHFPcE95b0R0eDM0dGR0T3YxbXJlYmFfNXJoUXlXTmxlOElR?oc=5",
+      "title": "Five more Central Asian cities join regional coalition to strengthen disaster resilience",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWUFqc1kwWWthMjl3RTZSQkJEUE94eXlRUnUwMHZQZHhlUTRuU0NobVpWZnNRRTI3dEpUVFlVdTFBSEhERHI4OU53UktrX0gzX21ldUlKNXFJTEEtUlFjSE1ETTBOOFQ1M3NOWlNmalItWUFkSzZ5eFNMT2E5RE5JUEU1WlVIUXBvRmdhNHZrZVdVSFBGdmsxUkFhdU9DNjdGRjUxcEgyNXhQVTNNMzVJbDZHd0x3cGJKZWRBa2lJSWVwS3VNemRZNXF4UWM?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.847Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS3JXOVVjZ2pra2I2QUh0QmNkcnl0OXF2WVB6UjY0aDVONW9vMm12ZERtNmtndnlkSzFtTzF3eDktSGphcGMzZnFQYnEyc3dUWnBMRlY5TnoxSGNTSEtMNEhGa29PZklCY1Q4MmJMLWRZQ3dQOGhaZDFTeHpfZzR3NDFpYjdCR0hWYnVRcFVRZW5zd1ZRN2dZalJsTDh4dG5naUJzVEJNLTcxLTZKejZPUEF3?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.848Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkxLYm9zV0V5WHBtUkxrNG9mUWh6dm5Pcjl6NEVtX3BpVVl0S2Vid3dFSTBSMldlMVR3MUtkckhTUzhQSHJuYU5YSU1YVk9LTldtQnM2d0pVbHY5VjRpODM5eENiSTFvd2ZuelVPMXFFN2U1RGEyaHRvQXc2T3RnTHN3UlItdk1kcU1felNMcTZyN0JLRW9xLUgzOEQ5Yi1XOFRHc3doQWU?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.848Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Rubio Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0EzMm5QQXYySjlMcDBhNzU5b2c4alBrQUVPWFRpYkthX1J1VnhGeS0wSFlwWTZ6UXppNk1YaE1SekxGZk9LX3p0VklFakZBbk1TNkFENGc3RjM4d3h0aVRUNmd6WEoycG4wLWlja1dGM2xYWHBib2VWS2FCR0Fvb2FSWTc0NV9ITDliS3haNjY2RG10WEYxR0RoUXJyb2lla0RjaktsR04?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.848Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -313,7 +577,31 @@
       "title": "US and China compete for influence in Central Asia",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUkVKaUkyb1ZCazFXWkYwZFpyaENYOGd5WlNvY1NBRWRFYkFlczl1SkVsQTk3NVcwTFFMYmJpU1Y0MzE5SU9uXzB0TF9QOHNFQ2gtYmMxQ05zYUduY3psU3o0ZnZCU0pYUjM0ekZmdklRRlplOElsYWJMd3M5eGI4bDNKSDg1QTZnR01vZVJNUGRSTGJuLWh4Rg?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.848Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Deeper China-Central Asia cooperation offers new opportunities for SCO development, says Tajik expert",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HNUdCREhZOU1oOHEycUk3MS1JYTRGV2w4UkF0a1A4LUtyWk5xaGg3SWRMZUdDZ0w1MllXLVBWQkxLOE1ZbHlqSE5rclVBUWxCYjVKMVZkYlExdmpDdUoyYnJaLTdtQXdwOXJKS002TVBWUFZ0RlFja2twV1E?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Rubio Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZE92Rk1PNlc0UFRLRUVjSmZ3ZzIteTNTZDdqQVRIYkVleF80MXUzMEpFcEZqdllhU3NNTVZieHJCWkt0Qm52QUdoNER2eVFKYmx0ZlZ1X3dWM1RQbGZUYmo4NlNvRGV2NzhtMDI0MXE5X2IwWE52aWQ3ODBEdGFvRjlaR3VqOHpFNU5xWFpENGhhQjFJdHFvYUEzYTdZVjNUU1ZHVEpIekxlbUR3WnRJVTB3?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "India shakes up Shanghai Cooperation Organization meeting",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2h0aXF2enZfNExORzd0eEVTbk11OWJxNVhTSWRZcVI0b045dnJKVFlIWWpfd3BGTzBjanZqUTEzdklDU0J4cnRjWXQzdWNwUWVvbzYxLUJjaHhRUTViTnMzd2VuZGNPaE1wbk9TZVRJQTJiTE1FTFdsLW1kX2J0SlI0YUtaTFU?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -321,7 +609,39 @@
       "title": "Rubio Visits Uzbekistan Seeking Strong Central Asia Partnership",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZkdGR0paSDhJOGNpTXlRcElUMk1ITEJVMWF1eXdvV2NWYnhSMkU5djBsVGdCbDZFazJ3bGJ4YVNwNkNUTTcxSDI0bGhHWV9obWticGllaHp3R1JoT0pKT1VfTHBYNFdaLTh0ckk3RE5vZEtadWd0NENmb2NJWnotVERBQlduajlha2o1R3hzQ1RYbElYOXE0eVAweGdKNS0xeEJVNkV6ZXNSQVFMMXNJLURWSDI?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-10-20T15:29:14.848Z"
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Ukraine, US hold Norway talks as Zelensky, Trump tension grows",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLVZLYmJ4emRKbmlLVVo2QmU4cE1nX0taQ2NMUWp5NjJ6WnZ4MkV6T1pzeTQxc0ZyYkJpd1N0M2tGTHNoMEFTVWlCQmpSeV9vT1Jrc21vcFd5N3Q2aXdsamNfNF9YcUNSZ19tbHIwSjJJaGx4ekMzMy1ReW5xV1k3Nk1RaTdwV1R4Rk9rMGYwSUZjQVozMW1wSnhFYVFZd2hVeVR3LUhiNEQxZzAxU0Nud3AtQlY1U1VEaTMxRWVTWHczV2NlVnhjeGduaWJjMVBld2Rv0gHTAUFVX3lxTE1XVUlLb1hzcVFQbThTNWE4VnZEdWtUcGRQYTR5MDZlUmRYUXh6dE1UZ2ZOaFhETUZMeHlPdk1ycG9NOEZaUXZrS1JraU9mRmJLTzRtQllKVkhQQXRFaWZsRUNXcl9zMGN5d3BTc1NPaXdBLVZWNnFFQ2Y1NDBXcU04QlVLeTVpNGVmUjgxTlpWRDZvOU5OcWNuMWExNEFXM0VMbVdQOHBuVko2Mzd0SE5xVVotYXM4aVR2Wmp1VVBsalJUcHA3MkdMVms1TWZvdGV4SkE?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Press Briefing Transcript: Middle East and Central Asia Region, Annual Meetings 2026",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNTRLazY5U0FZdEswLUUyMEtDeHFCUklkOVJIM3lhTkdfRVM3bW0zWWV6WEJsOXI3eXI4R2lxOV9veGdnZEdpaFBYWEdUM0FYSUhOclcwY2puYzU0RU5uS2hPY0xOdjU5cDhkeDBUeVVSa3RpZEEyckR1eDR1YWFmSkkxLW9GU0FWQWxxYUliUnNMeWcyVkNGaFNyWkRXanFiTXVlaWtZNkViUi03UXN0ZkV3?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Central Asian States Set Out Priorities After Rubio Talks in Samarkand",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOUFtR3M4bmxtejNhRlA4bHR4dnF5cEJIZ0lWQ3RVS2JXS3Y2dG93a3ExYlNhbDF6MkhKVFpDN0ZaMjI3a3NoajE2QzExWEMwd0dhb3Nqc1hHZHZPenFPQmFjblpja3hZajhSaG5BcGJXazFnRG5OMUdpMXR1ODZJeW5rVEYwNFNQSm1mOHVtNldra3lISGc?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Rubio Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVFMtQzZfMXpuS1BuTmk2X0s3NlhDTXctWGMwZlNOWDJWQ3JKLWdXTmxvSzJkR3lZTF9lVzZnS2psQ2l1WWZHR1VuRHB0UkUyZVJ2ZThpQ0dDX25RekltTWg2cnNkMjQ4UExUczVXcjRqNGxJal8xUUFXSmJsSjdjV3lOTlBERGpJVHEyemFsYnZaWXNRQkVQOGt2dE05NWpQRTRrQ0J3WUhaZmFPQlJRaXZ3?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-10-20T19:29:51.475Z"
     }
   ]
 }
