@@ -1,31 +1,55 @@
 {
-  "fetched_at": "2026-11-16T01:30:20.701Z",
+  "fetched_at": "2026-11-16T08:47:25.836Z",
   "source": "GDELT + Google News RSS",
   "count": 40,
   "events": [
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
+      "title": "Central Asia's AI Race: Big Ambitions, Even Bigger Risks",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tcVZlX2hxZ1VuOTFQM01Uc2lRY0RjenMzSVFvN09VR2pXU3dRM1M0MzNZVzdadW5fVUpta3VwcU5yeHRUeV9TYkE0Q2hodG12N0tDTVhqV2tnMWZoOFJzTUNjNnNnUU5lVFBua2RkbUtJTlF5WGo0cG4yTW_SAX9BVV95cUxQaC1QcldHMUdoX0ZfWDRVQlcwUlMyRVVoT25pQnJTYjZTT3hlTGs1SzVzU05NZmhLRnEzZjJvZVBXMlRXRzJKTmRRNmMwTHZHU3hUS0lMWnluVjhZVkNyWVJycV9qa3NGMHFDUDM5S0hOZktTbGNHUll4aFNVck1V?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-11-16T08:47:25.835Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Turkic Investment Fund Eyes Transport Projects Linking Central Asia and Caspian Region",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRG5vaDdwN2xhRHE3cHd1Ukh0d21SWEo4NkFZb2p4YngzdDhpWnBTVldFVjdtZjdVbFJ6dkZrdnpaMFpqS0VWNHNNMkhTLUVpS3N3TUEtNXdrbXR6VklMOU9uQXBwUWd1RTFQcVM2SUVEOHVlcDJWMXJPS2xnSEd1bkt6MzZEYlNzeXNJaGg0QnRXb0F4dTJKMnpMMFJkOWNqem9UV3VUV2twaXBlMWZKRnptTjk5aC1xRzV3?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-11-16T08:47:25.835Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
       "title": "Explorers Club Launches Kazakhstan-Based Central Asia Chapter",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOGN5akJZNVVMYUhZSktrVl8yQlFfVW9zSzFKbzlVdlZjVDh1UVhrYVNhdkhwemJJRTlRSEVfTDE5eU9oekpZTl9zZWJxalhpZXowbzFIZ0hUek1VdzNOOG90b2l5aTBoVjMtanE4TURnVUFERlVIZ1loTU9vUzhETnd1SE4xb0lmb0E?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.700Z"
+      "pulled_at": "2026-11-16T08:47:25.835Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Estonia to close Russia border after ‘sabotage’ bid, foreign minister says",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV2JFMFVjMzlPV1JjWUczU0VTUjJmZ0MxMm1ER1M1OXZ5NTlRNUZBWlIwQkpwNkJqVUEtMzVTSlVtaFhrNmREb1IzWVNScXpZSGRYVnFlUmtpUWJNNGZKTkhPZTlUbWtEaDNiUUFxdXJjdVBBZTV1a3FGV2ZlbzhwNW1iZnZyZlpZd3hxX0JIYjhGWGVoR1IyR0R2ZEc0dFlTRUljUVc3NW9sWXpUVTZWU25VMVp3MGNJeGNaRHZvYnRMNTZGSU5pVGxwaHlFY01TMFHSAdIBQVVfeXFMTVpyRjJLMUNQWTJhRUQ1SkV4dC1Lck9lZF8zQkIyaFZDNGlkdW1mYkRxaVFyUDBvZnJ0cFNqQVJ6WFVVQmgtaWpQdVFFY2FCTXFUZmZFVGFhVi1Ua281TjNVUDVtb1dmRTliNVo4eGxvYlFsVGJmejFPMno2a2NRRGlNN1V6aldHakFZcUpiUzZseUc1RnNOdVUwMjljRFd5SnczRWNPWk5LT1dmdnNSMEVDVjdsSWdjSDhKUnBoa3FLSnB6cHdfWVNocWtXU2lJZnhR?oc=5",
+      "title": "Mom’s Touch opens first Uzbekistan store in Central Asia push",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51Nm5nYThRSHlmN2pIVzhfeXhuYlBnd0Zkd0hqVUhnTXYzOW02SzdKbDN6V1o0N09RMnhNQ2pmd0VSUmZSaWphM0tKaXB1U3FjSkxaSTJXdw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.835Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Inside Central Asia’s Big Art Boom",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uRmxjRlZDM3ZaaTZzaWRkUUFZMnBoQms1Tzh6WWJsOFlKcWxtalVBNDg1eGVLN0JLYnM2eW9mUDFLaWNUVkFpUHJWQW1ldGpVaWpCaklyUE5VU05aVWRZWHFJM1VyZm9rYTNWcGg4Vkd2UdIBekFVX3lxTE4zbnQxSnJNeGlsUDBqMFlKTHZ3WUdaN1lZSGF5SUxFRko4S2ctMVFRX0FMd3JaNFpUSUJpTi02bzVXczBSWHZGSGRhTXRURnNLWlRqVjRFSVJEREMwN19LaDVpTmVkWGs2aGoxaFV3N0hUMXExR3Vld3NR?oc=5",
+      "title": "Southeast Asia’s banks face scrutiny over financing of haze-linked companies",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ1pyZ2FYbDNjU3U4VnpaYzl5dUNOd3lrdGZyWXdncXJjRGtyd3B4VXhtd0sxeDE3UkVBUXBGOEJQaUpBSDZZc1daWG5Xb210OGdPUXVreFFBdFpLbjJMWVJvM3dYeGdXRThzY0dEVW1IMWVpWElKZDNOTUhRN1FEUExXVko5UWczc0FySm1panM0bXhMa1l2Vm1JRElVaGoyX25zeHNkUDhVTzh6NGtHeXM0cnZfR01PRFZn?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.835Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Poland opens a new trade gateway to Asia in partnership with Uzbekistan",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbUlWMV9odDN6NWNtTVQ5UlBRb2lGeUZoYnlycTlZcFcxSVRxUGRHeFJXZmtIREFwQjdBSzl0dXV1MjB1WWxpUEtCSWxZVlA2ZG8xMkFKNFBKS1B2cElZWEZJSUhOYzlSTWNhd0lYbkk3NWZKVG4ySVpPdlV4R05WR3RQX0lBcU9NVzNnbHNjTUhJQlpxOTlBRWg5UUh3dkV5a05hVA?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-11-16T08:47:25.835Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -33,15 +57,71 @@
       "title": "Beijing Turns to Soft Power as Washington Expands Central Asia Ties",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaFdXR2w4QlFlb05pZlZ0c1pIOEV5RVd4eExJdDJXVWw2MUtnTUM1M3d6dDBYRkJfYk4tOTBDYXNzcWE3QlRQOE1od1FlNTVKMHpmRVd1b2t4eThibjhRVFczbzJPeUFNel9JbXFmYUt3d0J6U2RzZFJLWkJTT3o0dkNIMkl0SlA3RTdobmV6dUV4dERmWFJSTmh0U25hRGJuX3B5aHZBVlQyS1RsVWFF0gG0AUFVX3lxTE5uMTFtYXcyS04tdl9iWGh5RjczanEwWlVPR0JNdXFYcW9ibmUwTzhIQl9JNkRrSnFBbl9keFdSNWdacklfQUNrQjREcFJuMUtaajUtLVpCZ0x1SEhxTDVTcmNRa2J6ZU5GbUp2Zm56T1cyRFJKdzU4SGYtREtaVkF0dEwyOWZpNnp3SUoxcUpSLTlwQ3pIZVRNeFJVSlNzYVNvUHhHNzdfUDgwMXlPV05IT1VWag?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.835Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Central Asia’s AI ambitions face questions over power, funding and transparency",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSmRxYXhHQkJ4QUZnMEEzVDZ6TVpWQTBBNjB6eEZDVWVLaGtiNkp3X1dBMjZubjhKczAyRVVaanJIcHdoY1JVeGpla0VWZktDUGl3cmNManBJal9lYzR4T3JRSTBrNFVUSk9ORXU3TVVSem5uU3BiLXYzdUdpZVYwMUtn?oc=5",
+      "title": "Brussels Looks East as Europe Seeks to Build a Strategic Corridor Beyond Russia",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EQVp1SE43TDBqZVk4T08wWUtLX3gyanBRYVFJclZkU19ydDJUZXN0WU5ieFRuU3YwTmcxUHQ5WGJ0bGR0dExHeWhPS2w5MmVyRS1sbVJUMTh6bVpBMFVjbmpaSXNXbWNrRmNBMkVmSS1aMkp2YVE?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.835Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Asia Outlook 2027: Growth broadens, capital gets selective",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jeEZpVDNyM3JPQy1MM081YUlQVWhEZzlsaHhFX3Q1WEF4MVFmSWllcnlJTFg4dlJYR2dVaG5xZTQzNDN3TkxlUUJXYTNwWmJvT29IQ3dBT2JtdUhrazNWbHV5elVmUQ?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-11-16T08:47:25.835Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Kazakhstan and Azerbaijan advance the “Caspian Bridge” as core upgrade to the Middle Corridor",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEIwSFFudFpZcWRHNHVLcnNDQVRGR2lOaVd4eE1UU0RIWUFxU1FxTm5kWE9TMXRMZV85bmEzSzVwM0JCcEpTWW9nZHdMdWlSUnNHLUVWMk81cUpoeG12UzRmb3Q5SldNM3ZLdmZpU2pEOEluY0RPN2g5T3RnS2JfRS1iQjV6QWxNdUZDTFRDLUZZeHU1RnFlb0FZcVYwa1AyMXhGYURDSzZ1dFlJaTJKZE5n?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-11-16T08:47:25.835Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Estonia to close Russia border after ‘sabotage’ bid, foreign minister says",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV2JFMFVjMzlPV1JjWUczU0VTUjJmZ0MxMm1ER1M1OXZ5NTlRNUZBWlIwQkpwNkJqVUEtMzVTSlVtaFhrNmREb1IzWVNScXpZSGRYVnFlUmtpUWJNNGZKTkhPZTlUbWtEaDNiUUFxdXJjdVBBZTV1a3FGV2ZlbzhwNW1iZnZyZlpZd3hxX0JIYjhGWGVoR1IyR0R2ZEc0dFlTRUljUVc3NW9sWXpUVTZWU25VMVp3MGNJeGNaRHZvYnRMNTZGSU5pVGxwaHlFY01TMFHSAdIBQVVfeXFMTVpyRjJLMUNQWTJhRUQ1SkV4dC1Lck9lZF8zQkIyaFZDNGlkdW1mYkRxaVFyUDBvZnJ0cFNqQVJ6WFVVQmgtaWpQdVFFY2FCTXFUZmZFVGFhVi1Ua281TjNVUDVtb1dmRTliNVo4eGxvYlFsVGJmejFPMno2a2NRRGlNN1V6aldHakFZcUpiUzZseUc1RnNOdVUwMjljRFd5SnczRWNPWk5LT1dmdnNSMEVDVjdsSWdjSDhKUnBoa3FLSnB6cHdfWVNocWtXU2lJZnhR?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-11-16T08:47:25.835Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Central Asia Metals plc (CAML) Opens the Market",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQXdMQnJHdE45cC1LcjNnOWpXTXZhX05fWENCOExVUzlPWmZPN1FpUVhxbXlKYVBoVExjTXZWOU9fM09tVlJKQUFxcFlfcE53V2s1c0pOZldzRkVRVWIzV2N6Q0Y0S2JYZlI0NktCR015MzBpMVhWX3M0alNacEdEQTJKY3UycWM1NDdXLXlMa1Y1VFBOd0p3cw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-11-16T08:47:25.835Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "AIIB shifts focus toward integrated, resilient infrastructure in Central Asia (Exclusive)",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42TW1fMXFoRTFGb1FEMVdnTktNREZzczctMU5INkhRU0F3Q2E5ZGgyS3hUb0toUTJYR1BfejNKN1hzN085YWhLa0JpZTh3MDlK?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-11-16T08:47:25.835Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Central Asian Governments Presented Transport PPP Pipelines to Investors at Paris InfraWeek under TCTC Capacity Development Programme",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSVBGT0hTbDRzYnFkYlN2b0RXMjMxNVBaNDlHcHY3c0hwMVkybmlEQWgyMm5WeW9UWmNCSU9rWk01d1FiQWN2NENqRThLU3cwZ1VRQnltTlQ2UVdGa2dPQmt1dGJhaUVSY1hMQmVXYWJzTkFsWjFrcjJkM0dLQXJ3WEp5THlhZkhmbXJwY0lYalpWWTctRzc5djNVdWVIM1VqZUt1aXVGSGoyOWVucE9VYXdtc01GWFVPSXg5amtvS2tDYVJfVlRSZ1V3bDY0ZHp6VGQxcGxQVDlNZmdTMXFYbUJFcw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-11-16T08:47:25.835Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Kazakhstan Wheat Exports and Current Wheat Price Trends",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTklIaGpSRC00VFJVU3B0T0oyUzZnVjVSU3NCTDJYeXJMcXA1MFFZaVlkQkw3eWVzTVV2QnEwaEh2UFhjdDRMUE9KOE5NMmRCTTZsTTlhalYwamg4bHlVR0FDQlRhT1VoNzFRaks0dXJMazV0dHpJUjN1UFRkaFExZTVzY0g1Wi13MzNfZHQ5cHRZZw?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-11-16T08:47:25.835Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -49,23 +129,7 @@
       "title": "Kazakhstan Again Worried About Separatism, Russian And Otherwise – Analysis",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHpGX0pqeFpGc0l4Szl4V3EtUlBoM2M3OGlJUndPUGlhcmg4Nlo0WE5kWGVoRkZDbm56b2R1dzV5OF82OWpaWkJzZTE5VjJsQkpMUGU4cFJydzVkZVg5ZE9HXzV0em9Eblg4QWdSel82NWZNa0t3VkM0cWtFSzRsUVFScGc2ZVBDS1Z1cXkySzhQSHdwdmZoaDhuVlB2dzlXV3NkMk9VQkIzMF9OUlotUzhB?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "PKP and Uzbekistan Railways rail cooperation",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX3pTYVh1SGx4YlZ2eTVjNTlkeERpczBaY0lMb2xmTTBKX0F0emRTU3R3OFVoUmpFczFOVF9ITTBROWdfOS10aHIzTVNUM2hoNndLcU8xckRwcUVvcXItUk5wMElFUS0wQnl4aFlmZ1VvZEVmb0UwVzdpTkJOdnJ0TlhhMXc3WkR3ZmtLbkkyZ1VQM3F5d0ZkRlhNeXBtQnlsTElaZ3BUNjZ1RVpGeGo2OU5ETER2aTlBNnMzeUdLREE3a3VZN1BETw?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Uzbekistan proposes Central Asia climate plan at COP31",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZHV2amFiVHUwWk12d1JtM1FodGNZNEFLZTREQWd4cjZ3Tjk4LWx4eG9rV2xnYjBOcXpNMy12dUtVS3ZLYnJLcTRnNS1ZWDlPOG5jSVlxZXBxSkZqc3otLS15OXBpTUcwWFVDNmZFYk9IcGl3S1lseTF1a0htSkxsbmRNeUV3MHZ1TExsTEpUX1VHVHpEMHBtTWZCTGEyOFNmalpuUWRxc0JqcEtBVVNlZERNRldYdHlKYnQzY1U4THFENDhJ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -73,7 +137,47 @@
       "title": "Governments across Europe and Central Asia unanimously adopt new vision for AI in health care",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWVhFNGpJT200ZUhIWFllNDI2WXp6dnZYMWxBSzdhUU54T2ZXeENLa1RLOWtGTjBUNlZoWS1fWER5S3M2NC1YVlAwczYwLVNnSGNWdC1MVGFDYTVZYnNqSElqN0Z5aU94R3BYSS05eVJZV1NWcmhvVG5KVmcwN2JiWklZV1BORnNjN3UtbE5MYWFlRHNRMVhMN1BCUUY5SWlrWUdVczFSMmp1Q29BRHA3MVhQdGJVcXhIX3Q1ODFWWDl5c1lMclFIeU4tVHFreWFsZ1JtV0Jjdkk?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Uzbekistan proposes Central Asia climate plan at COP31",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZHV2amFiVHUwWk12d1JtM1FodGNZNEFLZTREQWd4cjZ3Tjk4LWx4eG9rV2xnYjBOcXpNMy12dUtVS3ZLYnJLcTRnNS1ZWDlPOG5jSVlxZXBxSkZqc3otLS15OXBpTUcwWFVDNmZFYk9IcGl3S1lseTF1a0htSkxsbmRNeUV3MHZ1TExsTEpUX1VHVHpEMHBtTWZCTGEyOFNmalpuUWRxc0JqcEtBVVNlZERNRldYdHlKYnQzY1U4THFENDhJ?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-11-16T08:47:25.836Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Expert: Beyond Rosatom, New Eurasian Nuclear Ecosystem",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT0VkTVNyak80cU96ejBaOGZXZU5TTVc1NkgzN0N3c1pUelU2UXFVVXhfS1h2aE03UWRVcU04QWRtc2tyYVhVemVrOVlnZjVSSFlZUlFydGNvV1BNN0xaUHpSbGdIVF9Pb0NIZXdVYXUyWEMzVFk4SC1vc1czZ3JzcHZ2NDhWTkNEcDZUOHV3?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-11-16T08:47:25.836Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Kazakhstan wheat inventories, exports and price impact",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2VxaU50ZmpZc0liU1VTZ1RxXzEtRkd0dWtzWVNuX3RzcGxkRXVza1NWR1haaENMdlFxWGktWVU2QklqRmVJeWo2QUdnX0dSVmlFVWFneE50SVFjSGVxVGNKMWlBM0FqUU9CY2RnQ1lldW4td1B2b2tCS0dFNmc0NURsNy1sTWZYc0NOYUVHM3habHNIMTJlTg?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-11-16T08:47:25.836Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "Uzbekistan, Kyrgyzstan, Tajikistan submit $20M climate funding plan",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1UW9kZ2FsQ2lRZlFQNDdlVGdSSFc0bUtDNzBRVmRWaGh0REJiU0V4alRwVWFDRG85QktlV19jWll0NlZTWld3MzZCa3dXdExYZWF6OWs0c2FwQ3ZPNzBr?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-11-16T08:47:25.836Z"
+    },
+    {
+      "id": "rss-aHR0cHM6Ly9uZXdz",
+      "layer": "reported",
+      "title": "IMF: Uzbekistan’s Next Growth Challenge is Productivity and Regional Integration",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSC1IMFNNcWZRUEl5WTdMSEdMdmNMSWw3Rm5jcVdLdlZSR2t6Q3NYVHpCb0lEc3dsM1FRbGxLdnl3TUhwX1RiclBlM3E5TjRzZDFRaGllQmJZeG5aQnVtaGh4SXJFV0xvSTd4b2MybS1XVUZ5MGctSUhwM0k1Q3FSZFNmcnVMTlpzYmNZQWlsMV9hU2JNR0NvdHFfZl9lZi0zQkpKTnZudVVWdjlmMzY3RA?oc=5",
+      "domain": "news.google.com",
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -81,63 +185,7 @@
       "title": "Handbook on land degradation neutrality assessment in Central Asia: Regional experience and practical approaches",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSm9vMG9vTkN1Ym4yQzFTVzJiU0RGV19SdTE2QUxFTWs0amtYZHF5STRKYzVhdzQ0OXMyUjJCbGJmNXUxZ2VaT1J6TzQ5ZnhhdVYyUVBxb0VDWjFOYkMzSnd4WlJsRnFJdjhlcHk0ZEM1UFc2ZWh0X0RtUG9zMlBWRlRIUmR4aG1jNE1zQ0dLSjZnSjJTdjNiR0hHd1BkbVlwM1YtMVEzckhTbHN2OXdGZi1Ddlo?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Central Asia Metals secures rigs for new drilling in Quebec",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaWxsRFEzVmJrekctMVFNQmhUXzZPTVB4eG5ockRHTUZtUk8zMDFza3ZXc2ZJY3VGRElEclBnc2V5Q2NhdzhIZWszMDRzR0Q4aGV6Yl9oZ0lteUl1aWdENHpuU0kxTzgyM1pvS1p6cDJHT3l6YTNFZDJOUkVlZUQxNW44ZG5MSklWbFZtQ3ZheWFXZmZWSi1PVVVFWHJ1aFM0TXFoVXFRZGx4bFpXa0M3WUEtOGNIbmpZcHRrLUtrTWgybEZHeDNhakZn?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Stocks in play: Central Asia Metals PLC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaGd6STdJckVOYWRUQm14X3lWaVNPUWZmS2o4RjgzbENGcVFLV1JUVlF1c0w0bVlxZFN6bk9BR1dLZ21jYTc3YV9xdGFSNkdMOWkwcnRSTHNzVDZwaXNrN19xS1ctMGxWM0NkS3F0YmM1dXJDcWhINjBXTlBHcFJGUG52bjZfRWc?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Russia demands NATO halt military activity in Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQanJzdnJvUFN1QTZRQzRuS3hVZFI1eUdEUDVQQjJmcVd2TGNrX2xMQWtHQkRQMVJjRXFGV1U3TkpIYUtURXozR0NzSXFEZGlmWFc5dUlMUndrTE5tZGpad0M1TnRQTnZrd2EtckhvS1JaU1FEVmJRNUE2b2xiRkxYY3VFWFpOZklFMEpQOFRITDl5R00wSXpsTkw2b3VtOGJI?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Central Asia Metals mobilises for major drilling on newly acquired Québec project",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWVwYmZzX1p0SjRkUEVlRUJnUTlHd2xEeF9XeTNndVh3OHlOUjZKMlNiMWo1RE5xLUxsbXNtYk1xdmNySWNwZzV3SnRKTklUamQzblktR2hpVjlIWHJiWDF0QzZTcUpLWHctNFdqMWlYeEtmcnY4ZGtHS19vNWVoenotU3lwQWhlMmZEUU4yZVhtNzFXWjZxTTR2bHEtajg5bEpkYWtfa0JDaUJYbE8yWko2WjBWb2xOcWRJaFZscjAxZnhWeTNj?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Under Two Years, One Record-Breaking Olympiad: The Rise of Yamoratti Advertising - The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTBmTF9TTDNmZU4zZHNEQ256ZG55V1ExdHNQXzRaTTd2VTdkN2N3VWlLNTZFVmk0UFBFdUZpSmJSNXpOcGk5S3BHNDVOMjdqdGJMNU0wVUhTQTFqZkZWdkFmZ0dVUEduYlZ6UTJWTGVpN3JpOVN2eHZVUUdLbWNiUGVqLUJnMlh6SVctZjdYenRwM1pTV2FXZ0tkRlFEdHlqVndkUmRQR0tVYUVKZlRybQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Central Asia's B20 Message to Washington Let's Make Deals",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQkVkMW81aGRCNnR6YjdLODdhTTNfSzh3WjU5SlRSNEI3YUt2S0hMN05CeThwanlLV2hxcjJGdU1aLXFxYTdGTmZubzVqTzR3Q2hFRlRaU3ZuSW1obmlOSkpadnFQc0JjNTRPVzNyUlh1UjdIbVE3WjRlQlFXNGxJZENUSTlCXzZNZGV0cHFaNXpDT0l3YnlRdlN2NVZKZ09kNEVLTkt2MFd6bEnSAbABQVVfeXFMTkhxMVY3Ym15S2NzenBEYVF2bWNzRGpJWURtWjY0TG9mSkxaN0Y0VlNsZXA2bDgzXzdTanBjRkVWdUJqbEZBbEhmdl8xeVpDd1RFaWFrbVpObHYxOThfcUY1SFNpNTFVcXRFSXppSjVzWEdtSk9oaVR1MDhhbkV6TFNFYkNWNGQyX3lDYkx1a3VEaTQ4YVM2dmhERXY3ekxTY0xHUmhOVzh2S08wTHRQQlY?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Zelensky warns Starshield restrictions threaten Ukraine’s winter energy defences",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNjN1cTZJLVRnSHJJU0FxLXJBdVMzT1Y5VmdkVVF0MG5WcHcteUd4amtCMldCMURPUFg0ZmNVNjhTQ0VRdWM2M3FQU1J1T2RNeUlra2FMdERHMGtjVmdicVkyQjlRNGhFSnBVbkdfRHZtN3BwVnBXX0tHMWR0Y1NNY2szNnptZnZCSFU3QklTMUtYbnVxSjBRV2pwWmZPYUJ3VHNpc1ZUS0diMDlJa2VQUkpNRXlHbW5icTBCb1hLUWx4VzhEdW5PRFNHaVZOb0JnSkhqS0NNV085RXpaTFB2RnpldHd0bEnSAecBQVVfeXFMT0JlV3VJS1FBbXdMblhXQWJfdzNEN2NOQzFiSE5lQzZDN2Y4dVJ5U3dZWFRJZXkxeDZZTkl6ZkhpXzFvT0cycGZoSm5WdnRQMU50RWJKRVF0ZktSSDh6U01aUlhYUldhdjZIZGh5US1oNzcwSVpnT2h4eGkwazRZeml2VEM5UmVKWGRhNHY3bkNVVFlJdGdHM2Q0b3FweXVYQ0tNWUtoQ1RLZGlva2F5OUxtZkJCODNFOWg2Y21OdFhJQTNGckxRbEdmWlc3LUQwUVF3NDFoeUljZkphcEJ5YmJHYzJtN3Bz?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
@@ -145,183 +193,135 @@
       "title": "Sovereignty For Some, Security For Others – OpEd",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeTN4N3M0R0xaZXk3cVU0dERhSkFVSE1uYy00NUdIanlNengzeXUzWU9HWlBGOE9EQXJqZzdHU0h0OXQ2SHlVbmhLWTAwRlpjRHBaUTNKVUJHQnNLMWhzLVZZVWFrV2wwNWZWbjdKaXpGQzdyNm9ha1JLcGVwYU5xLXB5M0tIdlZaWm5YOTRR?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "CSTO Without Armenia: What Keeps Yerevan From Leaving and What the Summit Means for Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVRrc0xHb0ZaMWtsY29KQTJfSUxXcGNHMDZraDlkc1ZtOF9fSTVRbUhUSFh2d09iRXdGYkNHMVdMUXlXSXN2Qy10eVBsRmYyWVpVaHJQUmVaWHZVbEdVb0d5UXM4UGlHR01CcU14X0VDVUN6WE95cDVzX1huT0lob1ZuYmRQZkQzWURUQmFCNVhNaHV1cTJab1NrN0w0a0xjMExLRndUR0cxbFVIMnRlUERUeV92YzQ?oc=5",
+      "title": "Stocks in play: Central Asia Metals PLC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaGd6STdJckVOYWRUQm14X3lWaVNPUWZmS2o4RjgzbENGcVFLV1JUVlF1c0w0bVlxZFN6bk9BR1dLZ21jYTc3YV9xdGFSNkdMOWkwcnRSTHNzVDZwaXNrN19xS1ctMGxWM0NkS3F0YmM1dXJDcWhINjBXTlBHcFJGUG52bjZfRWc?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Video. Uzbekistan proposes Central Asia climate plan at COP31",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaTNKb1hIMkZBaktsNnlyLUNNQ21ZbmJjZFRKNHVZUGpOSVBqMTB2Tnp1dWFIN2RoM3dIS2RTVXJ5clNzQlFKa2pvZ0RjbW8tRGFEMzRfMGdBVDRrRUNLdXJFc0MxSnBkUGJQcDZtN2NEWnppaEtjWnN5RnVpczZKM01NTXhTUDg0UHRoUW5uVTZqRllHd1JYUmljcmEta0hjS2Z0c0wtUUp4RTZ2SXJPMUUyZEY1NkNKa19fX1J0NnVuQV82bVRFQTRINy0?oc=5",
+      "title": "Uzbekistan, Tajikistan sign declarations to strengthen ecosystem protection",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uUjR3Y21CekFsLUF6NmNJY1RIanUyclhiR056SE9GNm1zQUZIa3RFbjlybUlIbHlzZUNYTjRGQ0R2NGltaUpZZDljR2llQjExQkwtb0ZKSjhQMkdxdzZv?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Asia week ahead: Japan GDP and key data from China and Taiwan",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzeVFSWUxDTUVXN1E4UExsaDU2QjQ3ZVl0SVZWT1Q4SDRUWHBBVV9kejFKSTNtcnFiRC1BTmRNMENkSDAySGtuME1lTXdvRF92X0d1T00yazRCUjQ3cFN0ZzliUkM?oc=5",
+      "title": "PKP and Uzbekistan Railways sign agreement on freight cooperation and container trains",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX3pTYVh1SGx4YlZ2eTVjNTlkeERpczBaY0lMb2xmTTBKX0F0emRTU3R3OFVoUmpFczFOVF9ITTBROWdfOS10aHIzTVNUM2hoNndLcU8xckRwcUVvcXItUk5wMElFUS0wQnl4aFlmZ1VvZEVmb0UwVzdpTkJOdnJ0TlhhMXc3WkR3ZmtLbkkyZ1VQM3F5d0ZkRlhNeXBtQnlsTElaZ3BUNjZ1RVpGeGo2OU5ETER2aTlBNnMzeUdLREE3a3VZN1BETw?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Central Asia Metals lists shares on Toronto Stock Exchange | 2026-11-13 | Investing News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeG5QaU52cjNHUHZPTWFGYWRHYXh3RmNQVVF3SVk0WnN0YmhPcmtUMnU0Mkc0NXR1MzFfRzNSVk1DQThIV1pwR1dHaDBGQzNKQjJfMXh1dGo1anVMVjN4VVhLbHd6NkNFS3hwNk1uakZoSVdhU1hJWHRtYVpScXZKWDNTejhaQk53ZUdNLUxRZlF0TkMycjlDY0J4ZHN0V24zUmVYMlVsN3gxdw?oc=5",
+      "title": "China–Kyrgyzstan–Uzbekistan railway: How this new route will transform Central Asia’s economy",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRklxRk9nVGRVUzIzTnhBOWtTaVRlRHFHUFo4VV9hYTdKSDA3WEhvX0RxOXhZd3lYYTF0YlVoZWcxdkNhWUFJelQ3dXEzQm01MTZlV3U4OFZ5a3EzVzJuc3BCUVJwMjlzNjJ2RGF2bWFmVm9SbTFnTjFGLWF6U0Z6SnZSQUNuSjQwTEY0SVNMNHk5YmQyMjUwWDVJWXJKLW5aUTMwLWVxZ1VIQ0E2ZUlDbVRMOWpkUHAwaE5mRVNISldYQUNLMjNF?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Why Iran should support this opportunity?",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxNmVBbG8zd3ZGc2RGQ1N2d2hLQThSdDlvQUwwVkk0azVjVUpTSlNYaURmem5fc01iQ3NzOVo5T2pmQ0I0VzlmYkxiRFZ6ZXFXalpkY2pB?oc=5",
+      "title": "Kallas: EU, countries of South Caucasus, Central Asia, Black Sea region to discuss security, connectivity",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWGVPbjd6THlrUE5TZ1ZuM1NjZFBuVnlxbEhQTk8zRnJLRDdzY1FVRm5sRHd0bi1CQzF0UGFSVWdRdWJKSXkycGpOem5oNkd4RHJ1NmtmRTk1OThTX3dqck8yQ0x5RzY1b2pkUHU1YkFEcTBoR2NseGx1WEtrOERVYV8tTDRpRXFCdnhKOWcyWHpNWjRFV1V5bjBsU2NIMV9qN3MxSkI4NnBOX0NtYVUwbUFma2JpTkNPZThKak5jaGpJWnFqd1hoMkFkZkJQRktGTktsNA?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Central Asia and the South Caucasus: emerging strategic prospects for interregional cooperation",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaFRtbkdJYktvMXpHYXczYWJWRDBfbFVta2RJUUpqUFIzTVRDZHRVS014UVFRb2JsVU5DbnF6ZUtSVnpQOGliNjRQUjIwRHpGUWxPbUVfU2xEYWExcWJ6VGRwSzF4b2pDVFhfa09BUzVCVDZfR1NiNTZjaHp3Tm04Zk5WTHAzTHZlLWFPTTRxU2tkajQ5SmdGcW54dFVXNlJIMFNKaldJTUVQaUo5ZHE3dGdVMWFTc1BTcmZQaVBPZjFzaEk?oc=5",
+      "title": "Kyrgyzstan to impose nationwide ban on plastic bags",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWkZYbnRDdWxPeGxldFoyTWpwb2FBWVJYODNHY2d6TmtiRUtMeERHYlM0dHFOYTNxd09iMW1neTF5Y1V0dG8zV0FDQXFSZlBWX3p2MkN1WHRlRHQ1THJmblh2SFp2UTFrc3FvR3NuMEt5RWxMYjVvRFF3am5XbkZHNzh1eXdzUVFBaFdWazdPZnRrcjFQMFFTTHlENFJZRldoU3c?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Central Asian states seek US$20m to address climate damage",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNE9CaW0wMVNWdjg5NHBvS2hOMHVzMGdtZUJsXzlhWXQwNk1IeUVRRG5BXzF3TGhsTmdFM3lEMFlvNXh1enJIdEtPcG9tZ3l1NmQ3SWhaZHhTZTdHUzN5T1BHOTVsQ19tVXRLODRxbktXbTd0X3p6cnFzQVNsVEpxY3BxMFItTFJjNGxwYQ?oc=5",
+      "title": "Russia demands NATO halt military activity in Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQanJzdnJvUFN1QTZRQzRuS3hVZFI1eUdEUDVQQjJmcVd2TGNrX2xMQWtHQkRQMVJjRXFGV1U3TkpIYUtURXozR0NzSXFEZGlmWFc5dUlMUndrTE5tZGpad0M1TnRQTnZrd2EtckhvS1JaU1FEVmJRNUE2b2xiRkxYY3VFWFpOZklFMEpQOFRITDl5R00wSXpsTkw2b3VtOGJI?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Central Asia Metals plc (CAML) Opens the Market",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU1AyVnJiaXZUWnFvSHlsX3Q0LUhvMGRHUEdJMmNONXJ4RXBnZU5SOVNJWkZwdFlRNDlkYzRRVFVFMmgyVkRMcVNmcEp1eEhlSTh6RmsydWJfVnZ4X3B3RFo0ekt0dHVYbDBDc2xKek82bUcyMXRHbFphbnY4c2FxZ1dmWTlWWGEzY01kV0w3UzUyam8?oc=5",
+      "title": "Uzbekistan, South Korea consider integrated green energy systems for airports",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16UDFfTWVyOU9CcWg0aE5IdTZxbENDZzZEU3hrV09FOFdYSHdzR3VzZjJZb05hdWdHMk1rUFV4VHI0cjBnemlrdWM5NWljUkNBeml6TXgwbHBXMnY2UHFR?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Archaeologists uncover 2,200-year-old gold bear figurine in Kazakhstan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3aWl5dnFsMjRwdGVuWWdBaFdxV1JvS0hSUWJkWDFjeWNOS3lJdUtqYTRfZGhGYkdGR1phd2FHTGpGMU5PX3JOMnk3dkRHWU5kZWtV?oc=5",
+      "title": "Mom's Touch Opens First Uzbekistan Store in Central Asia Push",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUxxUG0yckhxVjRGaXJMUUZBdVlraEVTQm51dmVtTGxwTENvbzB1d2dmT0c0WHU4MnVZR2hOTlZNUzJVVGVnOUIyNTdxV0htejN4ZG9HdjVrbUs4bWZPU0ZoeVlzbTE2MVgyZldraU9xLU5HNWtJOTFXUEhBMW9hYkFGSk14bmdXNnVOWFFHTzVtS0duZWM2RXZOZHlrVU9pcXNCZ1RB?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Namyang Dairy Products to expand Southeast Asia exports via Vietnam, Indonesia fairs",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNERjRzZDdHVESTF0bFNYaUVocXREMXdmaWVrQkZJeWduRTNNOF9UZ180Zy1qb3FrcVV0V20zcWJNd09LbzlZNUc4RFZzYjhzTEdDTm1iOVF1YjYtRjlucUpNOXZBNlBBODZwdGRCdG1DMlRtSHZvZjZCX3Q3bVHSAZMBQVVfeXFMTzVQRVhBQ241R2lKeW5Tcng0U3ZZcXBQS2c3QmdnSko4NE0yNzFibFFnNjlqbHBNWkw2a0ZtbnZvV080c1diZWZ6c0d4VG5yM0lsR2ROU1NrZWNwb2tFUDhPNndOLUt2UnBZcndYaTdSS2ZSaVYyWElpUmxIamdJZUFRTWlzRVV1YkVwelBQX0FNSnc4?oc=5",
+      "title": "From water diplomacy to artificial intelligence: How Emomali Rahmon promotes Tajikistan on the global stage - Азия-Плюс",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWpWdWdhblAtdXgtUUdNWTR0YTAxSm9PWWFFSG9RSkl5VlBIeXRiSUc4UFdVdkJKWV9LQWpmcEQyY1NvdFd1am90bGlsWFNrUXRpQzdvQ0pEYVduQXpFVU9XNlBxMDFMT1dwbUR6TVg3MFo4NUp4NEFQVHhzM3l2NHFvY3lIdU41ZzFKS1dTSzMtLS04LXhNNEYyelIzX0J3bDFhZlVqOU1JVGEyUUM5REZuZDJZbml6eFZOZnBRVHBXOUxGWUpNYnFjWTk?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "TAPI pipeline construction may fulfill 2026 plan",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fZUI3ck1zbjNBODhaWkJCR1llLVVtVldCLS03Z0VTdzN4SGNyZWtsbWkwWHBSNTJqS2dGS0lnYkxDQUhOZm5adm5wbVJiTHRQcUtGcVlLVWZxbnp4eUhnQkd3MVJHOEcyX0xITE56ZTR3bVdJcFA1MG9lRQ?oc=5",
+      "title": "Kazakhstan extends ban on chicken egg imports for two months",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KVnJtcmtIazRiZHA2dWFsdXJYM0NpQ25xUWI2OGs1RWZPMWVRc0swT21RSW5OekhOd0MwdnRpbGhOQUE0MVRvV2RwX3ZieUxYbGlhWXdVY3dsMFg1dkc4?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Mom's Touch Opens First Store in Tashkent, Uzbekistan: \"First for a Korean QSR Brand\"",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRSEhpY1lKRFdsWGRQNFFQRU1pNzVpeGpkMWY4cS1EM29ZTHd6SnlEVlh5X3kzbWk1VVRPbkQycFdYYnphXzhCem45RXRPWGl2c0cwTEdjTzE4YVhXTnM2djNYYl8?oc=5",
+      "title": "AIIB eyes expanded support for Azerbaijan, Central Asia's climate investments (Exclusive)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12SkNncE00SlFaeVN5c2NOUV9nUXU1Q3VQSjhjdXlieGtueHdMenEtQmcyMUxPTkhwUm0zVUdYVS1LQXNXMDdpeklEWk5LTmhNejdhZUJkRQ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Uzbekistan and CCAC to expand cooperation on methane cuts",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdzQycGk0UDdNTmlVV0FWbTF1RDhma3E4NHR3RGRMN3VIUzREQi1XV2JfaWdDVnZjWENJX3JvOVNyXzlqaTR3UlFLY1NhenlvcGJnRFhXamotMVd0ZkpxQjBxeV94dDFnM3lkajN2MWFiWEZacllhZXg1U29FSFp4VTMwbEJiMGhIVnI2bg?oc=5",
+      "title": "Uzbekistan, Acwa explore carbon credits for renewable energy projects",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uUDZDTHlwNFl6SjBKbHdNNzRkRFhEcG1LSUoyWVZHak9WM2RBTldGcTRmNTM4UW5HUzdGWnZKOXFpdEZya1BxUWNHdGQzOV9Ia3YwRW5UcVdESkttSGVZ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Uzbekistan seeks UNESCO status for Stone Age rock art",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZnVRQXRTcWFzM3U0ZDY5a0tRbEFsejV6N2VOaHM0a0czTjNuV0I4ak5uS0d5cFU2c3o4S0JJOWl1TkhQRDE2blpCTWxGMnRYSElwam1qc3IxaUF3dzZITkNSaVotYW8xUnpOSTZjeXJTV2hyRkhZdjIyTVNtX2JqVnFsQURKbFZJRnBFdVZ5cXFuN3NKcFlJdGJCV0VCRk9odzN2d2tOYzM2QkQ3NHc?oc=5",
+      "title": "Mastercard opens Asia-Pacific's largest innovation centre in Singapore, plans 250 roles",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ09zd3p3MHZSMU41SjFJREROa1BGdy1xcTZBUEl6QTJDM1BxQW5aYnVJY1o2STNua2FIdkEzRWtLTU5lN1dHWlp0elJfaG9yWXlHUmdqa0lQNTBoTFUyT08tRU5CUVRMYzNqS3Fyc09QeWRmUHU5MW5hNVZVUkVkYXZabURTNGhkWERpcTV2QUFNTVhfNHBpLXlKOGNXQkdESTZiNjU2Zy1kdTNPQ0liUEZ5SXVwWnN2SlZWYVJB?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "U-M alumni return from Central Asia to seek treatment for their child at Mott",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWms0X1dfcnloZm5mR1lFUk5leDhOd1UtNkdFdTJXSHl6VndIRHZ4ZXlKNWxDSkJGNW9qSXVNdGdRckdRd1N2dzJHYTBzSlJCNUhIZU91UjJzdV9vanBOeFFmX2xpbjVXeVphNy1hX2FDdTFuMl9jS0xJbHlvNElodUVQSFhJZkhtZVUtbzRaUEswd0xrX3dMSHNjcmtSZTBpVTBhV1VEenpidw?oc=5",
+      "title": "Customs reforms, digitalization key to unlocking Middle Corridor potential - IMF (Interview)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sdkhVZDBLOEJrOUx3Y3g4aVpZczU2bHZ5bkkzczFMZHVDU2JoTjNkNWhHSV9odHBDSEZ0SW9YWEpTR3pHeHVHbFVmN1BjYmFtaFp6czk1ZVlEa281UXVJ?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     },
     {
       "id": "rss-aHR0cHM6Ly9uZXdz",
       "layer": "reported",
-      "title": "Turkmenistan Railways announces international tender for freight wagon spare parts",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtX3NNaVZZSm1aazBoaGs4eWgyVUlKekx0cEluVnc5NXdVREJVX0VQNDl5b2xiQm5ZQW51Q3ZHU1M2MzBZcTM5NkVtT0I5SGYxU0RVU2VQRk95b2NvRjUtYWxR?oc=5",
+      "title": "Bishkek hosts regional meeting on trade and transport facilitation in Central Asia",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qckRLaHZkekZob21pa0d1blkwVzhEUW1HWTJtYVJQMU5pQ192dlQ0RG91SXFBYlctblFPQVU0dmZ3OHJKRHFLdzhRazBRUUt4?oc=5",
       "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Uzbekistan and Tajikistan agree to protect forests and landscapes",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcXlDUU9QSGltYmx3MGFzbkYtTFFkTkhmRUFZWVU4aFJnS1VadTk0ai1iclZOOHZFb19aWnh5WXNremR1VHhHeUlYYUZkUThkODhsZG9CMXdBNGQzSjFOZUJuaUtPa3BaRVdGTl9uVHQ5c2ptYVdJOGdSOHBPWE51MjUtMVg4RHBkUU5yS2lCMFUxWXJGeDlv?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Oman and Uzbekistan seek to bolster economic, trade, investment cooperation",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRHpBSDFSSDN6ZDd1VHFNQ3JMZXBsektaMlM0d1ZTSkdUZkJwTmcwMEwxOV9EdzV4UkJzUGNQdm5GMHBkalJKMlF0dHktZ3BfX1JSalJzSWxLYmdyVzRCdDFobmZGTDV1dkpzSTZPbldFMDZPTVM1TUpsOUpOWG04d1J2Z1FXSmlHeTgybENCcC1NZVZ5Sy1qbjQ0YzhQeHlEaHdhMlNMQTBUeHRpQlhTTFFR?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Uzbekistan and GGGI target first forest carbon deal by 2027",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ3JUbkdFXzBudDV1emxrQTZabmxOaEZETThMZEFQazZzWkdRZkZEN3dTUWhZcldhSGZBRDl5LWU2WFFJNTMzVDVrVlVZTGw3THVndzZ3N3FEYzF6UElCRTNjUlhPeTdOZGI2ZkRWRGF5SjExSTJhMjVPQWdhN2w1V1RFUUZZenpLMHpUYkRxbw?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Turkmenistan proposes climate center for Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTlJzaXFHSmRhUEdpMHdRb0ZGRTVhc1U2RGFkeUQ1a2IwU18tNjdBajFwUW82REdMZmRId1Bld05VM01CU3VXV3pLalQyOTJZaVlmNXFIbkJMZUlZcTBOYUE3YU16UXA4X1hMcGY3MDZQZVBuWGVCVG93WVMwQTFNcQ?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Mirziyoyev Proposes Climate Integration Model for Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWnRYRldiYUhNS1VZaTBsekd5TWM1UkFtWVljUWlXd3p3clducl9FbGJoRkdfVDhCSjdYSjN5X0hTTExQc2gxSnk3cGl5TXNhai1MWlBZY1Bwc3JzS3NPMm9tbjd4MHVqLW1wR3JmMFd4QzZvY2p0anI1Q0RiT3ppRGdLamNRenR6Ri10RHI3Qm44eU0?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
-    },
-    {
-      "id": "rss-aHR0cHM6Ly9uZXdz",
-      "layer": "reported",
-      "title": "Turkmenistan outlines climate center plans for Central Asia at COP31",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCT2gwdzJCRXdkX2U5a1pLbWVVM2cwNFFvcVJvQnd0UEs2N0EyXzEzNXowdlVuUzF1Qks1RnJib2lSTVNBUzV0Z2RHZ081YzZmYTZqSzcxbkZkaEJyWHdscFN3?oc=5",
-      "domain": "news.google.com",
-      "pulled_at": "2026-11-16T01:30:20.701Z"
+      "pulled_at": "2026-11-16T08:47:25.836Z"
     }
   ]
 }
